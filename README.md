@@ -1,1 +1,1 @@
-Basta rodar o main.ipynb no jupyter notebook
+Precisa entrar na pasta notebooks. Depois rodar o EDA.ipynb.
