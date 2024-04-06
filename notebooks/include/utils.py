@@ -7,7 +7,7 @@ def incrementar_dados_aleatorios_csv(dados):
     try:
         # Gerar 200 linhas de dados
         num_linhas = 200
-
+        
         # Criar listas para cada coluna
         idades = np.random.randint(18, 80, size=num_linhas).astype(float)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
@@ -24,7 +24,7 @@ def incrementar_dados_aleatorios_csv(dados):
         indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
 
         idades[indices_nans] = np.nan
-        generos[indices_nans] = np.nan
+        #generos[indices_nans] = np.nan
         imcs[indices_nans] = np.nan
         filhos[indices_nans] = np.nan
         fumante[indices_nans] = np.nan
@@ -42,6 +42,27 @@ def incrementar_dados_aleatorios_csv(dados):
             'Encargos': encargos
         })
 
+        # Definir coeficientes para cada variável independente
+        coeficientes = {
+            'Idade': 1000,
+            'Gênero': {'masculino': 5000, 'feminino': 3000},
+            'IMC': 2000,
+            'Filhos': 1000,
+            'Fumante': {'sim': 5000, 'não': 2000},
+            'Região': {'sudoeste': 3000, 'sudeste': 2000, 'nordeste': 1500, 'noroeste': 1000}
+        }
+        
+        # Gerar encargos com base nas variáveis independentes
+        dados_adicionais['Encargos'] = (
+            coeficientes['Idade'] * dados_adicionais['Idade'] +
+            dados_adicionais['Gênero'].map(coeficientes['Gênero']) +
+            coeficientes['IMC'] * dados_adicionais['IMC'] +
+            coeficientes['Filhos'] * dados_adicionais['Filhos'] +
+            dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
+            dados_adicionais['Região'].map(coeficientes['Região']) +
+            np.random.uniform(-5000, 5000, size=num_linhas)  # Adicionar ruído aleatório
+        )
+        
         # Concatenar os DataFrames 'dados' e 'dados_adicionais'
         dados = pd.concat([dados, dados_adicionais], ignore_index=True)
 
@@ -56,11 +77,13 @@ def incrementar_dados_aleatorios_csv(dados):
 
 
 def categorizar_imc(imc):
+    if imc is None or np.isnan(imc):
+        return 'Valor Inválido'  # Ou qualquer outra categoria que você queira definir para valores inválidos
     if imc < 18.5:
-        return 'Abaixo do Peso'
-    elif imc < 25:
-        return 'Peso Normal'
-    elif imc < 30:
+        return 'Abaixo do peso'
+    elif 18.5 <= imc < 24.9:
+        return 'Peso normal'
+    elif 24.9 <= imc < 29.9:
         return 'Sobrepeso'
     else:
         return 'Obeso'
@@ -199,4 +222,3 @@ def montar_grafico_histograma_idade(dados, axs, titulo, eixo_x, eixo_y):
     axs.set_title(titulo, fontweight='bold')
     axs.set_xlabel(eixo_x, fontweight='bold')
     axs.set_ylabel(eixo_y, fontweight='bold')
-
