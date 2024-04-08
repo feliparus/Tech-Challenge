@@ -15,7 +15,7 @@ def incrementar_dados_aleatorios_csv(dados):
         filhos = np.random.randint(0, 5, size=num_linhas).astype(float)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
-        encargos = np.random.uniform(10000, 50000, size=num_linhas).astype(float)
+        encargos = np.random.uniform(5000, 40000, size=num_linhas).astype(float)
 
         # Introduzir valores nulos manualmente em algumas colunas
         # Vamos forçar 20 ausências em cada coluna
@@ -102,17 +102,6 @@ def dados_especificos_coluna(dados, nome_coluna):
     if nome_coluna == "Filhos" or nome_coluna == "Idade":
         dados_aux[nome_coluna] = dados_aux[nome_coluna].astype(int)
 
-    """
-    if nome_coluna == "Fumante":
-        dados_aux[nome_coluna] = dados_aux[nome_coluna].map({'sim': 1, 'não': 0})
-
-    # Filtrar os dados para excluir valores iguais a zero (desconsidero ele nestas contagens - fiz a contagem dos valores ausentes no sumário)
-    if tipo_dados_coluna == "float64" :
-        dados_filtrados = dados_aux[dados_aux[nome_coluna] > 0]
-    else:
-        dados_filtrados = dados_aux.copy()
-    """   
-
     dados_filtrados = dados_aux[dados_aux[nome_coluna] > 0]
         
     menor_valor = dados_filtrados[nome_coluna].min()
@@ -122,103 +111,78 @@ def dados_especificos_coluna(dados, nome_coluna):
     
     print(f"\nNa coluna {nome_coluna} ({tipo_dados_coluna}) a faixa dos dados está entre: {menor_valor} até {maior_valor}.")
     print(f"O valor mais frequente na coluna {nome_coluna} é: {valor_mais_frequente}, que aparece {int(contador)} vezes.")
+
+
+def prever_encargos_futuros(best_model, dados_futuros):
+    # Utilize o modelo treinado para fazer previsões dos encargos futuros
+    previsoes = best_model.predict(dados_futuros)
+    custos_previstos = list(map(lambda x: round(x,2), previsoes))
     
+    return custos_previstos
 
-def montar_graficos(dados):
-    # Contar o número de ocorrências de algumas colunas
-    distribuicao_genero = dados['Gênero'].value_counts().sort_index()
-    distribuicao_imc = dados['Categoria IMC'].value_counts().sort_index()
-    distribuicao_filhos = dados['Filhos'].value_counts().sort_index()
+
+def segmentacao_de_risco(best_model, dados):
+    # Identifique grupos de indivíduos com diferentes níveis de risco
+    previsoes = best_model.predict(dados)
+    # Aqui, vamos assumir que os valores acima da média são alto risco, 
+    # os valores abaixo da média são baixo risco e o resto é médio risco
+    media = np.mean(previsoes)
     
-    # Criar uma figura e uma grade de subplots
-    fig, axs = plt.subplots(2, 2, figsize=(20, 10))
+    # Classifique os clientes em grupos de risco
+    grupos_risco = []
+    for custo in previsoes:
+        if custo > media:
+            grupos_risco.append("Alto Risco")
+        elif custo < media:
+            grupos_risco.append("Baixo Risco")
+        else:
+            grupos_risco.append("Médio Risco")
     
-    # Ajustar o espaçamento entre os subplots
-    plt.subplots_adjust(left=0.1, right=0.9, bottom=0.1, top=0.9, wspace=0.4, hspace=0.8)
+    return grupos_risco
+
+
+def analise_de_sensibilidade(best_model, dados, variavel_alterada, novo_valor):
+    # Copiar os dados dos clientes para fazer as alterações
+    dados_alterados = dados.copy()
     
-    montar_grafico_barra_vertical(distribuicao_genero, axs[0, 0], 'Distribuição de Gênero', 'Número de Pessoas', 'Gênero')
+    # Alterar o valor da variável específica nos dados alterados
+    dados_alterados[variavel_alterada] = novo_valor
     
-    montar_grafico_barra_horizontal(distribuicao_imc, axs[0, 1], 'Distribuição de IMC', 'Número de Pessoas', 'Categoria')
+    # Fazer previsões com o modelo usando os dados alterados
+    custos_previstos_alterados = best_model.predict(dados_alterados)
+    custos_previstos_alterados = list(map(lambda x: round(x,2), custos_previstos_alterados))
     
-    montar_grafico_histograma_idade(dados, axs[1, 0], 'Distribuição de Idade com Linha de Tendência', 'Idade', 'Densidade')
+    return custos_previstos_alterados
+
+
+def otimizacao_de_recursos(custos_previstos):
+    # Suponha que a otimização de recursos envolva alocar mais recursos para grupos de alto risco
+    recursos_otimizados = []
+    for custo in custos_previstos:
+        if custo > 25000:  # Exemplo de um limite arbitrário para custo alto
+            recursos_otimizados.append("Alocar mais recursos")
+        else:
+            recursos_otimizados.append("Manter recursos")
     
-    montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 1], 'Distribuição do Número de Filhos', 'Número de Pessoas', 'Qtd. de Filhos')
+    return recursos_otimizados
+
+
+def planejamento_estrategico(best_model, dados):
+    # Utilize as informações obtidas com o modelo para desenvolver planos estratégicos
+    # Supondo que isso envolva análise dos grupos de risco e previsões de custos
+    grupos_risco = segmentacao_de_risco(best_model, dados)
+    custos_previstos = prever_encargos_futuros(best_model, dados)
     
-    # Mostra os gráficos
-    plt.show()
+    # Definir os planos estratégicos com base nas análises realizadas
+    planos_estrategicos = []
 
-
-def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y):
-    dados.plot(kind='bar', title=titulo, ax=axs)
-
-    # Rotacionar os rótulos do eixo x em 45 graus
-    axs.set_xticklabels(dados.index, rotation=90, ha='left')
+    # Exemplo de planos estratégicos com base nos insights obtidos
+    for grupo, custo in zip(grupos_risco, custos_previstos):
+        if grupo == "Alto Risco" and custo > 25000:  # Exemplo de condição arbitrária
+            planos_estrategicos.append("Implementar programas de saúde preventiva para este grupo")
+        elif grupo == "Médio Risco":
+            planos_estrategicos.append("Realizar campanhas de conscientização sobre saúde")
+        else:
+            planos_estrategicos.append("Rever políticas de cobertura de seguro")
     
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
-
-    # Adicionar rótulos (indicadores) às barras
-    for i, valor in enumerate(dados):
-        axs.text(i, valor, str(valor), ha='center', va='bottom')
-
-
-def montar_grafico_barra_horizontal(dados, axs, titulo, eixo_x, eixo_y):
-    dados.plot(kind='barh', title=titulo, ax=axs)
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
-
-    # Adicionar rótulos (indicadores) às barras
-    for i, valor in enumerate(dados):
-        axs.text(valor, i, str(valor), ha='left', va='center')
-
-
-def montar_grafico_pizza(dados, axs, titulo):
-    dados.plot(kind='pie', autopct='%1.1f%%', startangle=140, ax=axs)
-
-    # Removendo os rótulos na pizza (labels=None)
-    # Adicionando uma legenda embaixo do gráfico
-    axs.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), shadow=True, ncol=2)
-    
-    # Removendo o rótulo do eixo y
-    axs.set_ylabel('')
-    
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_ylabel('')  # Remover o rótulo do eixo y
-
-
-def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
-    axs.scatter(dados1, dados2, alpha=0.5, color='green')
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
-
-    # Adiciona a linha de tendência linear
-    coeficiente_correlacao = np.corrcoef(dados1, dados2)[0, 1]
-    linha_tendencia_x = np.array([dados1.min(), dados1.max()])
-    linha_tendencia_y = coeficiente_correlacao * linha_tendencia_x + dados2.mean()
-    axs.plot(linha_tendencia_x, linha_tendencia_y, color='red', linestyle='--', label='Linha de Tendência')
-
-    # Exibe a legenda
-    axs.legend()
-
-
-# Este gráfico foi feito fixo para idade
-def montar_grafico_histograma_idade(dados, axs, titulo, eixo_x, eixo_y):
-    axs.hist(dados['Idade'], bins=10, color='skyblue', edgecolor='black', density=True, rwidth=0.1) # - tive que espaçar as barras para melhor visualização
-    idade_mean = dados['Idade'].mean()
-    idade_std = dados['Idade'].std()
-    xmin, xmax = axs.get_xlim()
-    x = np.linspace(xmin, xmax, 100)
-    normal_fit = (1 / (np.sqrt(2 * np.pi) * idade_std)) * np.exp(-(x - idade_mean) ** 2 / (2 * idade_std ** 2))
-
-    # Adicionando rótulos aos valores nas barras
-    for rect in axs.patches:
-        height = rect.get_height()
-        axs.text(rect.get_x() + rect.get_width() / 2, height, f'{height:.2f}', ha='center', va='bottom')
-    
-    axs.plot(x, normal_fit, 'r--', label='Linha de Tendência')
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
+    return planos_estrategicos
