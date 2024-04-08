@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Novos ajustes">
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Tentando otimizar modelo">
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
@@ -124,14 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712412355028</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tentando otimizar modelo">
+      <option name="closed" value="true" />
+      <created>1712417904837</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417904838</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tentando otimizar modelo">
+      <option name="closed" value="true" />
+      <created>1712417969176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417969176</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
     <MESSAGE value="Adaptando para boas práticas" />
     <MESSAGE value="Novos ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Novos ajustes" />
+    <MESSAGE value="Tentando otimizar modelo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tentando otimizar modelo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

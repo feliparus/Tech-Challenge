@@ -60,7 +60,7 @@ def incrementar_dados_aleatorios_csv(dados):
             coeficientes['Filhos'] * dados_adicionais['Filhos'] +
             dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
             dados_adicionais['Região'].map(coeficientes['Região']) +
-            np.random.uniform(-5000, 5000, size=num_linhas)  # Adicionar ruído aleatório
+            np.random.uniform(10000, 50000, size=num_linhas)  # Adicionar ruído aleatório
         )
         
         # Concatenar os DataFrames 'dados' e 'dados_adicionais'
