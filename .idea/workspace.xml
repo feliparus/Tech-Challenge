@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Tentando otimizar modelo">
-      <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Treinando mais modelos, e obtendo qual deles é o mais efetivo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712417969176</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Treinando mais modelos, e obtendo qual deles é o mais efetivo">
+      <option name="closed" value="true" />
+      <created>1712593906686</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712593906686</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,7 +149,8 @@
     <MESSAGE value="Adaptando para boas práticas" />
     <MESSAGE value="Novos ajustes" />
     <MESSAGE value="Tentando otimizar modelo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tentando otimizar modelo" />
+    <MESSAGE value="Treinando mais modelos, e obtendo qual deles é o mais efetivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treinando mais modelos, e obtendo qual deles é o mais efetivo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
