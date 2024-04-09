@@ -12,7 +12,7 @@ def incrementar_dados_aleatorios_csv(dados):
         idades = np.random.randint(18, 80, size=num_linhas).astype(float)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
         imcs = np.random.uniform(18, 35, size=num_linhas).astype(float)
-        filhos = np.random.randint(0, 5, size=num_linhas).astype(float)
+        filhos = np.random.randint(0, 4, size=num_linhas).astype(float)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
         encargos = np.random.uniform(5000, 40000, size=num_linhas).astype(float)
@@ -44,12 +44,12 @@ def incrementar_dados_aleatorios_csv(dados):
 
         # Definir coeficientes para cada variável independente
         coeficientes = {
-            'Idade': 1000,
-            'Gênero': {'masculino': 5000, 'feminino': 3000},
-            'IMC': 2000,
-            'Filhos': 1000,
-            'Fumante': {'sim': 5000, 'não': 2000},
-            'Região': {'sudoeste': 3000, 'sudeste': 2000, 'nordeste': 1500, 'noroeste': 1000}
+            'Idade': 50,
+            'Gênero': {'masculino': 250, 'feminino': 150},
+            'IMC': 100,
+            'Filhos': 50,
+            'Fumante': {'sim': 250, 'não': 100},
+            'Região': {'sudoeste': 150, 'sudeste': 100, 'nordeste': 75, 'noroeste': 50}
         }
         
         # Gerar encargos com base nas variáveis independentes
@@ -69,6 +69,9 @@ def incrementar_dados_aleatorios_csv(dados):
         # Arredondando os valores das colunas para duas casas decimais
         dados['IMC'] = dados['IMC'].apply(lambda x: round(x, 2))
         dados['Encargos'] = dados['Encargos'].apply(lambda x: round(x, 2))
+
+        # Salvar os dados aleatorios junto dos dados originais
+        dados.to_csv("../planilhas/dados_aleatorios_sobre_original.csv", index=False, encoding='latin1')
 
         # Retornar os dados concatenados
         return dados
