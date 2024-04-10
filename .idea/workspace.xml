@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Desenvolvimento previsões futuras">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/graficos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/modelo_otimizado.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/4_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_futuros.csv" afterDir="false" />
-    </list>
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Desenvolvimento previsões futuras" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712718591411</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Desenvolvimento previsões futuras">
+      <option name="closed" value="true" />
+      <created>1712762528862</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712762528862</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Desenvolvimento previsões futuras">
+      <option name="closed" value="true" />
+      <created>1712762543703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712762543703</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
