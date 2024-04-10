@@ -1,0 +1,43 @@
+# Lidando com valores NaN
+dados.dropna(inplace=True)
+
+# Mapeamento para inverter a codificação
+generos_map = {0: 'masculino', 1: 'feminino'}
+regioes_map = {0: 'sudoeste', 1: 'sudeste', 2: 'nordeste', 3: 'noroeste'}
+fumante_map = {0: 'não', 1: 'sim'}
+
+# Pré-processamento
+le_generos = LabelEncoder()
+dados['Gênero'] = le_generos.fit_transform(dados['Gênero'])
+
+# Dividir em features e target
+X = dados.drop('Encargos', axis=1)
+y = dados['Encargos']
+
+# Dividir em conjunto de treinamento e teste
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Treinamento do Modelo
+model = RandomForestRegressor(random_state=42)
+model.fit(X_train, y_train)
+
+# Salvando o modelo treinado usando joblib
+#joblib.dump(model, 'modelo_treinado.pkl')
+
+# Carregando o modelo treinado
+# model = joblib.load('modelo_treinado.pkl')
+
+# Previsão de dados futuros
+# Vamos supor que queremos prever os encargos futuros para o conjunto de teste
+y_pred = model.predict(X_test)
+
+# Invertendo a codificação para as colunas categóricas
+final_data = X_test.copy()
+final_data['Gênero'] = final_data['Gênero'].map(generos_map)
+final_data['Região'] = final_data['Região'].map(regioes_map)
+final_data['Fumante'] = final_data['Fumante'].map(fumante_map)
+
+# Adicionando a previsão de Encargo Futuro
+final_data['Encargo Futuro'] = y_pred
+
+final_data.to_csv("../planilhas/4_dados_futuros.csv", index=False, encoding='latin1')

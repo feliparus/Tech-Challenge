@@ -1,0 +1,2004 @@
+Idade,Gênero,IMC,Filhos,Fumante,Região,Encargos,Categoria IMC,outlier_mask_Idade,outlier_mask_IMC,outlier_mask_Filhos,outlier_mask_Encargos
+56.0,feminino,29.77,2.0,sim,sudoeste,31109.89,Sobrepeso,0,0,0,0
+46.0,masculino,25.86,1.0,não,nordeste,26650.7,Sobrepeso,0,0,0,0
+32.0,masculino,23.01,0.0,não,sudoeste,21459.04,Peso normal,0,0,0,0
+39.0,feminino,28.54,2.0,não,sudeste,29996.29,Sobrepeso,0,0,0,0
+45.0,masculino,22.26,2.0,sim,noroeste,31594.72,Peso normal,0,0,0,0
+51.0,feminino,28.58,1.0,sim,noroeste,33400.81,Sobrepeso,0,0,0,0
+59.0,masculino,33.63,1.0,sim,noroeste,32468.89,Obeso,0,0,0,0
+32.0,masculino,23.88,3.0,sim,sudoeste,22183.47,Peso normal,0,0,0,0
+47.0,feminino,33.36,2.0,não,sudoeste,29634.59,Obeso,0,0,0,0
+28.0,feminino,24.99,2.0,sim,nordeste,19083.83,Sobrepeso,0,0,0,0
+29.0,feminino,25.61,2.0,não,nordeste,20599.54,Sobrepeso,0,0,0,0
+29.0,feminino,21.36,3.0,sim,nordeste,25049.81,Peso normal,0,0,0,0
+26.0,feminino,33.59,0.0,sim,nordeste,16800.64,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+40.0,feminino,18.64,0.0,não,sudoeste,25591.31,Peso normal,0,0,0,0
+27.0,masculino,29.87,3.0,não,noroeste,19356.48,Sobrepeso,0,0,0,0
+59.0,feminino,28.14,3.0,não,sudeste,34025.35,Sobrepeso,0,0,0,0
+68.0,feminino,30.1,1.0,sim,nordeste,38787.46,Obeso,0,0,0,0
+36.0,masculino,34.29,2.0,sim,noroeste,20903.97,Obeso,0,0,0,0
+30.0,masculino,28.73,1.0,não,sudeste,17608.67,Sobrepeso,0,0,0,0
+78.0,masculino,33.31,2.0,sim,noroeste,41049.59,Obeso,0,0,0,0
+47.0,masculino,24.69,2.0,sim,sudoeste,27323.54,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+74.0,feminino,21.01,2.0,não,nordeste,43240.79,Peso normal,0,0,0,0
+70.0,feminino,19.2,3.0,não,sudeste,45100.94,Peso normal,0,0,0,0
+20.0,feminino,24.15,1.0,não,sudeste,12177.1,Peso normal,0,0,0,0
+54.0,feminino,31.45,2.0,não,noroeste,37369.89,Obeso,0,0,0,0
+73.0,masculino,28.59,1.0,sim,sudoeste,42790.12,Sobrepeso,0,0,0,0
+23.0,feminino,33.67,1.0,sim,nordeste,14746.92,Obeso,0,0,0,0
+36.0,masculino,34.05,3.0,não,sudeste,25237.31,Obeso,0,0,0,0
+19.0,feminino,26.24,3.0,não,sudoeste,17452.6,Sobrepeso,0,0,0,0
+51.0,masculino,23.91,3.0,não,nordeste,31250.47,Peso normal,0,0,0,0
+18.0,feminino,26.64,0.0,não,sudeste,17492.93,Sobrepeso,0,0,0,0
+65.0,masculino,31.47,3.0,não,nordeste,36359.06,Obeso,0,0,0,0
+22.0,feminino,32.21,2.0,sim,sudeste,16974.04,Obeso,0,0,0,0
+26.0,masculino,24.62,3.0,sim,sudoeste,20817.27,Peso normal,0,0,0,0
+38.0,masculino,22.01,0.0,sim,sudoeste,23273.33,Peso normal,0,0,0,0
+48.0,masculino,20.24,3.0,não,noroeste,32710.5,Peso normal,0,0,0,0
+68.0,masculino,21.0,1.0,sim,sudoeste,40199.56,Peso normal,0,0,0,0
+42.0,masculino,19.78,0.0,não,sudoeste,29142.8,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+41.0,feminino,21.15,1.0,não,sudeste,26428.12,Peso normal,0,0,0,0
+20.0,feminino,25.67,2.0,não,sudeste,19796.83,Sobrepeso,0,0,0,0
+44.0,masculino,27.96,2.0,sim,noroeste,27978.17,Sobrepeso,0,0,0,0
+44.0,feminino,32.34,3.0,não,sudeste,30571.0,Obeso,0,0,0,0
+54.0,feminino,23.64,2.0,sim,sudoeste,33128.1,Peso normal,0,0,0,0
+21.0,masculino,32.0,3.0,não,sudoeste,20006.83,Obeso,0,0,0,0
+42.0,masculino,34.51,0.0,sim,nordeste,24481.89,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+23.0,feminino,31.62,2.0,sim,nordeste,21611.7,Obeso,0,0,0,0
+23.0,masculino,18.39,3.0,não,sudeste,21982.35,Abaixo do peso,0,0,0,0
+23.0,masculino,28.84,2.0,sim,noroeste,19951.7,Sobrepeso,0,0,0,0
+40.0,masculino,21.51,1.0,não,noroeste,24787.64,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+64.0,feminino,30.68,0.0,não,nordeste,40937.35,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+26.0,feminino,21.75,3.0,não,sudoeste,21027.35,Peso normal,0,0,0,0
+68.0,feminino,18.49,3.0,não,noroeste,36070.69,Abaixo do peso,0,0,0,0
+77.0,masculino,20.76,2.0,não,noroeste,48567.08,Peso normal,0,0,0,0
+24.0,masculino,32.81,1.0,sim,sudoeste,14600.5,Obeso,0,0,0,0
+58.0,feminino,28.66,2.0,sim,sudoeste,34982.77,Sobrepeso,0,0,0,0
+64.0,feminino,30.51,2.0,não,noroeste,36114.05,Obeso,0,0,0,0
+43.0,masculino,33.45,2.0,não,nordeste,24192.25,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+61.0,feminino,30.76,3.0,não,noroeste,32932.93,Obeso,0,0,0,0
+29.0,feminino,26.93,3.0,não,sudoeste,21685.52,Sobrepeso,0,0,0,0
+74.0,feminino,23.45,2.0,não,sudeste,41564.15,Peso normal,0,0,0,0
+25.0,feminino,25.91,1.0,não,sudoeste,16687.25,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,feminino,21.29,1.0,não,sudeste,26680.08,Peso normal,0,0,0,0
+74.0,masculino,21.75,0.0,sim,nordeste,44716.39,Peso normal,0,0,0,0
+78.0,masculino,23.29,2.0,sim,sudeste,43811.35,Peso normal,0,0,0,0
+48.0,feminino,34.88,3.0,não,noroeste,29257.0,Obeso,0,0,0,0
+44.0,feminino,23.55,2.0,não,sudoeste,32540.59,Peso normal,0,0,0,0
+57.0,feminino,18.06,2.0,sim,noroeste,31470.09,Abaixo do peso,0,0,0,0
+51.0,feminino,20.58,1.0,não,nordeste,33850.31,Peso normal,0,0,0,0
+76.0,feminino,19.07,2.0,sim,nordeste,45198.23,Peso normal,0,0,0,0
+25.0,feminino,32.23,2.0,sim,sudoeste,20948.23,Obeso,0,0,0,0
+61.0,feminino,29.61,0.0,sim,sudoeste,36859.13,Sobrepeso,0,0,0,0
+32.0,masculino,34.95,1.0,sim,nordeste,18429.12,Obeso,0,0,0,0
+44.0,feminino,26.37,3.0,sim,sudeste,25862.86,Sobrepeso,0,0,0,0
+79.0,masculino,25.12,2.0,sim,noroeste,43446.24,Sobrepeso,0,0,0,0
+34.0,masculino,29.14,3.0,sim,nordeste,22451.68,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+74.0,masculino,33.16,3.0,não,nordeste,38951.17,Obeso,0,0,0,0
+54.0,feminino,31.14,3.0,sim,noroeste,30703.21,Obeso,0,0,0,0
+58.0,feminino,27.95,2.0,não,sudeste,39073.56,Sobrepeso,0,0,0,0
+76.0,masculino,23.87,0.0,sim,noroeste,45624.89,Peso normal,0,0,0,0
+43.0,masculino,28.08,2.0,sim,nordeste,27623.6,Sobrepeso,0,0,0,0
+32.0,feminino,29.4,0.0,sim,nordeste,25009.69,Sobrepeso,0,0,0,0
+50.0,feminino,25.3,3.0,sim,noroeste,28880.5,Sobrepeso,0,0,0,0
+30.0,masculino,24.42,2.0,sim,sudeste,21854.59,Peso normal,0,0,0,0
+62.0,masculino,25.26,1.0,sim,noroeste,40329.5,Sobrepeso,0,0,0,0
+33.0,feminino,22.32,3.0,sim,noroeste,22166.07,Peso normal,0,0,0,0
+64.0,feminino,33.24,2.0,sim,noroeste,36878.12,Obeso,0,0,0,0
+60.0,feminino,23.08,0.0,não,nordeste,35982.39,Peso normal,0,0,0,0
+68.0,feminino,22.52,2.0,sim,sudeste,36523.33,Peso normal,0,0,0,0
+45.0,masculino,32.59,1.0,sim,nordeste,30889.16,Obeso,0,0,0,0
+18.0,masculino,21.86,1.0,sim,sudoeste,14437.47,Peso normal,0,0,0,0
+30.0,masculino,24.97,3.0,não,sudeste,22179.98,Sobrepeso,0,0,0,0
+36.0,feminino,25.97,1.0,não,sudeste,25481.39,Sobrepeso,0,0,0,0
+48.0,feminino,28.17,1.0,sim,nordeste,29704.53,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+41.0,masculino,27.92,2.0,sim,sudoeste,26184.79,Sobrepeso,0,0,0,0
+19.0,feminino,26.18,2.0,sim,sudoeste,17859.54,Sobrepeso,0,0,0,0
+58.0,feminino,23.25,0.0,não,nordeste,33531.02,Peso normal,0,0,0,0
+55.0,masculino,18.67,3.0,não,nordeste,32683.77,Peso normal,0,0,0,0
+50.0,masculino,24.2,0.0,sim,sudeste,28469.44,Peso normal,0,0,0,0
+51.0,feminino,34.07,3.0,não,sudoeste,31358.87,Obeso,0,0,0,0
+26.0,masculino,19.11,1.0,sim,noroeste,18785.87,Peso normal,0,0,0,0
+25.0,feminino,18.95,0.0,não,nordeste,14174.59,Peso normal,0,0,0,0
+31.0,masculino,33.32,2.0,sim,nordeste,22228.24,Obeso,0,0,0,0
+73.0,masculino,18.82,1.0,sim,sudeste,42768.38,Peso normal,0,0,0,0
+71.0,feminino,33.58,3.0,não,noroeste,37680.06,Obeso,0,0,0,0
+75.0,masculino,21.29,0.0,sim,noroeste,40554.84,Peso normal,0,0,0,0
+33.0,masculino,30.17,0.0,não,sudeste,21381.46,Obeso,0,0,0,0
+21.0,feminino,26.42,3.0,sim,noroeste,21113.72,Sobrepeso,0,0,0,0
+79.0,masculino,22.1,1.0,sim,noroeste,45607.74,Peso normal,0,0,0,0
+45.0,masculino,21.77,1.0,não,nordeste,32612.66,Peso normal,0,0,0,0
+57.0,masculino,27.01,0.0,sim,nordeste,35671.48,Sobrepeso,0,0,0,0
+35.0,masculino,23.65,2.0,sim,sudoeste,24641.99,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,feminino,20.41,3.0,sim,sudeste,44593.19,Peso normal,0,0,0,0
+34.0,masculino,26.81,1.0,sim,noroeste,24302.85,Sobrepeso,0,0,0,0
+31.0,feminino,23.18,1.0,sim,sudoeste,18558.79,Peso normal,0,0,0,0
+26.0,masculino,27.82,2.0,sim,noroeste,22705.97,Sobrepeso,0,0,0,0
+26.0,feminino,29.94,3.0,não,sudoeste,20871.57,Obeso,0,0,0,0
+62.0,masculino,32.22,3.0,não,nordeste,40018.77,Obeso,0,0,0,0
+32.0,masculino,29.15,2.0,não,noroeste,25433.71,Sobrepeso,0,0,0,0
+29.0,masculino,29.63,2.0,sim,noroeste,24498.12,Sobrepeso,0,0,0,0
+37.0,feminino,23.77,1.0,não,nordeste,19941.48,Peso normal,0,0,0,0
+40.0,feminino,33.08,2.0,sim,sudeste,27226.67,Obeso,0,0,0,0
+44.0,masculino,25.64,2.0,não,sudoeste,26962.24,Sobrepeso,0,0,0,0
+57.0,feminino,30.93,0.0,não,sudoeste,34696.79,Obeso,0,0,0,0
+18.0,feminino,27.9,1.0,sim,noroeste,11890.06,Sobrepeso,0,0,0,0
+44.0,feminino,19.19,3.0,não,sudeste,25372.41,Peso normal,0,0,0,0
+68.0,feminino,19.52,1.0,não,nordeste,35707.47,Peso normal,0,0,0,0
+78.0,feminino,32.82,1.0,sim,nordeste,46458.66,Obeso,0,0,0,0
+27.0,masculino,20.92,1.0,não,sudeste,21865.32,Peso normal,0,0,0,0
+79.0,feminino,24.55,1.0,sim,sudeste,42212.42,Peso normal,0,0,0,0
+40.0,feminino,33.95,3.0,sim,nordeste,24994.47,Obeso,0,0,0,0
+31.0,masculino,22.37,3.0,sim,sudoeste,22269.62,Peso normal,0,0,0,0
+51.0,feminino,20.52,1.0,sim,nordeste,28735.73,Peso normal,0,0,0,0
+20.0,masculino,18.16,1.0,não,sudoeste,20196.26,Abaixo do peso,0,0,0,0
+33.0,feminino,24.55,1.0,não,nordeste,19177.09,Peso normal,0,0,0,0
+45.0,masculino,31.21,0.0,sim,sudeste,30275.96,Obeso,0,0,0,0
+59.0,masculino,18.78,2.0,não,nordeste,35412.6,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+71.0,feminino,34.11,3.0,sim,sudoeste,40482.6,Obeso,0,0,0,0
+23.0,feminino,30.72,1.0,não,sudeste,20120.87,Obeso,0,0,0,0
+34.0,masculino,21.87,0.0,sim,noroeste,26216.6,Peso normal,0,0,0,0
+53.0,masculino,21.72,2.0,não,sudoeste,30622.78,Peso normal,0,0,0,0
+57.0,feminino,24.08,0.0,sim,sudeste,30593.53,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+71.0,feminino,29.33,0.0,não,nordeste,36778.69,Sobrepeso,0,0,0,0
+20.0,masculino,19.14,2.0,sim,sudeste,12898.34,Peso normal,0,0,0,0
+56.0,masculino,24.66,0.0,não,noroeste,32925.2,Peso normal,0,0,0,0
+68.0,masculino,32.65,3.0,não,noroeste,36173.75,Obeso,0,0,0,0
+66.0,masculino,26.22,1.0,não,sudeste,35216.53,Sobrepeso,0,0,0,0
+32.0,feminino,18.63,3.0,sim,sudoeste,25712.53,Peso normal,0,0,0,0
+37.0,masculino,30.12,0.0,sim,nordeste,28578.59,Obeso,0,0,0,0
+42.0,masculino,29.25,2.0,sim,nordeste,31696.15,Sobrepeso,0,0,0,0
+26.0,masculino,19.55,3.0,sim,nordeste,21974.14,Peso normal,0,0,0,0
+45.0,masculino,34.51,0.0,não,sudoeste,27229.66,Obeso,0,0,0,0
+50.0,feminino,24.38,2.0,não,noroeste,26920.6,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+56.0,masculino,24.67,3.0,sim,noroeste,30417.98,Peso normal,0,0,0,0
+51.0,feminino,31.77,3.0,sim,noroeste,29485.14,Obeso,0,0,0,0
+41.0,feminino,31.43,3.0,não,sudoeste,26399.46,Obeso,0,0,0,0
+18.0,feminino,19.71,1.0,sim,sudeste,11326.53,Peso normal,0,0,0,0
+30.0,feminino,27.28,2.0,sim,nordeste,22394.49,Sobrepeso,0,0,0,0
+53.0,masculino,32.91,3.0,sim,sudoeste,32908.04,Obeso,0,0,0,0
+27.0,feminino,27.94,2.0,não,nordeste,15847.91,Sobrepeso,0,0,0,0
+69.0,masculino,21.15,1.0,sim,sudoeste,40075.54,Peso normal,0,0,0,0
+67.0,masculino,18.22,2.0,sim,noroeste,38625.92,Abaixo do peso,0,0,0,0
+63.0,feminino,21.06,2.0,sim,nordeste,37573.47,Peso normal,0,0,0,0
+39.0,feminino,34.95,3.0,não,noroeste,21455.77,Obeso,0,0,0,0
+45.0,masculino,26.76,3.0,não,sudoeste,27571.23,Sobrepeso,0,0,0,0
+49.0,feminino,30.77,0.0,sim,sudoeste,30966.58,Obeso,0,0,0,0
+24.0,feminino,23.78,3.0,não,nordeste,21269.3,Peso normal,0,0,0,0
+49.0,masculino,24.46,3.0,não,sudoeste,35382.47,Peso normal,0,0,0,0
+74.0,feminino,32.0,1.0,sim,sudoeste,41304.13,Obeso,0,0,0,0
+31.0,feminino,19.97,2.0,não,nordeste,24732.14,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+51.0,masculino,25.45,2.0,não,sudeste,31523.64,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+29.0,feminino,28.51,2.0,não,sudeste,17105.4,Sobrepeso,0,0,0,0
+44.0,masculino,27.52,1.0,sim,noroeste,24184.62,Sobrepeso,0,0,0,0
+27.0,feminino,23.81,0.0,não,noroeste,19778.88,Peso normal,0,0,0,0
+22.0,masculino,30.81,1.0,não,sudoeste,17211.36,Obeso,0,0,0,0
+75.0,masculino,34.23,2.0,sim,sudoeste,42991.7,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+77.0,masculino,19.64,3.0,sim,sudoeste,47750.84,Peso normal,0,0,0,0
+46.0,feminino,30.25,1.0,não,nordeste,26933.84,Obeso,0,0,0,0
+79.0,feminino,28.68,1.0,sim,nordeste,41908.46,Sobrepeso,0,0,0,0
+63.0,masculino,26.61,3.0,não,noroeste,34681.53,Sobrepeso,0,0,0,0
+24.0,feminino,26.73,2.0,sim,sudeste,21013.44,Sobrepeso,0,0,0,0
+31.0,masculino,33.04,1.0,não,noroeste,18203.23,Obeso,0,0,0,0
+77.0,feminino,25.95,3.0,sim,nordeste,43111.47,Sobrepeso,0,0,0,0
+53.0,feminino,21.42,3.0,não,noroeste,32782.63,Peso normal,0,0,0,0
+39.0,feminino,33.29,1.0,não,noroeste,25623.49,Obeso,0,0,0,0
+36.0,masculino,33.03,1.0,sim,nordeste,24339.9,Obeso,0,0,0,0
+33.0,masculino,25.23,0.0,não,nordeste,18355.96,Sobrepeso,0,0,0,0
+29.0,feminino,26.22,0.0,não,noroeste,22704.9,Sobrepeso,0,0,0,0
+67.0,masculino,27.62,0.0,não,sudeste,39146.11,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+72.0,feminino,32.71,3.0,não,nordeste,44876.96,Obeso,0,0,0,0
+51.0,feminino,30.1,0.0,não,nordeste,28409.7,Obeso,0,0,0,0
+67.0,masculino,20.02,3.0,não,sudoeste,41709.06,Peso normal,0,0,0,0
+75.0,feminino,27.35,3.0,sim,sudeste,45472.02,Sobrepeso,0,0,0,0
+19.0,masculino,18.55,0.0,não,nordeste,14925.44,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+76.0,masculino,28.49,0.0,não,sudeste,43265.81,Sobrepeso,0,0,0,0
+54.0,feminino,26.63,0.0,não,sudeste,35399.45,Sobrepeso,0,0,0,0
+67.0,feminino,30.01,2.0,não,noroeste,35790.46,Obeso,0,0,0,0
+70.0,feminino,31.54,1.0,sim,sudeste,44314.95,Obeso,0,0,0,0
+53.0,feminino,23.27,0.0,sim,nordeste,32035.52,Peso normal,0,0,0,0
+48.0,masculino,30.81,1.0,não,sudeste,31801.18,Obeso,0,0,0,0
+39.0,feminino,21.26,3.0,não,nordeste,29478.03,Peso normal,0,0,0,0
+72.0,masculino,28.9,1.0,não,sudoeste,41975.81,Sobrepeso,0,0,0,0
+70.0,masculino,30.65,3.0,sim,noroeste,44531.33,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+29.0,masculino,31.69,0.0,sim,sudoeste,21900.1,Obeso,0,0,0,0
+32.0,masculino,21.61,0.0,sim,noroeste,21823.62,Peso normal,0,0,0,0
+35.0,masculino,24.13,0.0,sim,sudoeste,21987.04,Peso normal,0,0,0,0
+40.0,feminino,31.11,0.0,não,sudoeste,28008.15,Obeso,0,0,0,0
+48.0,feminino,19.05,1.0,não,noroeste,30605.56,Peso normal,0,0,0,0
+38.0,masculino,29.0,0.0,não,sudeste,22034.35,Sobrepeso,0,0,0,0
+19.0,masculino,23.68,3.0,não,nordeste,16828.71,Peso normal,0,0,0,0
+22.0,feminino,29.82,1.0,sim,nordeste,15049.75,Sobrepeso,0,0,0,0
+53.0,masculino,32.72,0.0,sim,sudoeste,36535.54,Obeso,0,0,0,0
+33.0,feminino,31.59,1.0,não,noroeste,21610.9,Obeso,0,0,0,0
+23.0,feminino,30.98,0.0,não,noroeste,17610.65,Obeso,0,0,0,0
+46.0,feminino,30.8,0.0,sim,sudeste,27943.42,Obeso,0,0,0,0
+53.0,masculino,23.86,0.0,não,nordeste,28092.02,Peso normal,0,0,0,0
+67.0,masculino,23.51,0.0,não,sudoeste,41347.93,Peso normal,0,0,0,0
+41.0,masculino,31.29,2.0,sim,noroeste,27675.67,Obeso,0,0,0,0
+75.0,masculino,32.88,1.0,sim,sudoeste,39203.99,Obeso,0,0,0,0
+43.0,feminino,21.94,1.0,sim,noroeste,31137.57,Peso normal,0,0,0,0
+22.0,masculino,24.89,3.0,não,sudoeste,16849.4,Peso normal,0,0,0,0
+59.0,feminino,23.35,3.0,sim,sudeste,35503.73,Peso normal,0,0,0,0
+36.0,masculino,28.49,2.0,não,sudoeste,20089.68,Sobrepeso,0,0,0,0
+28.0,masculino,26.12,1.0,sim,sudeste,22624.17,Sobrepeso,0,0,0,0
+56.0,masculino,21.96,3.0,não,noroeste,36479.45,Peso normal,0,0,0,0
+58.0,feminino,20.28,2.0,não,sudoeste,39419.72,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+60.0,masculino,24.99,3.0,sim,sudeste,40922.05,Sobrepeso,0,0,0,0
+39.0,masculino,29.25,0.0,não,sudeste,22978.12,Sobrepeso,0,0,0,0
+52.0,feminino,28.18,3.0,não,sudeste,36494.63,Sobrepeso,0,0,0,0
+33.0,feminino,28.97,0.0,não,noroeste,18517.34,Sobrepeso,0,0,0,0
+59.0,masculino,21.78,3.0,não,sudoeste,38754.07,Peso normal,0,0,0,0
+35.0,masculino,33.85,2.0,sim,noroeste,19657.88,Obeso,0,0,0,0
+25.0,masculino,33.79,1.0,sim,nordeste,18280.41,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+78.0,feminino,29.65,1.0,não,nordeste,41925.67,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+23.0,feminino,23.57,0.0,não,nordeste,12613.8,Peso normal,0,0,0,0
+68.0,masculino,22.2,3.0,não,sudeste,38069.22,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+48.0,masculino,32.7,1.0,sim,noroeste,27867.94,Obeso,0,0,0,0
+36.0,feminino,28.13,2.0,sim,nordeste,24432.52,Sobrepeso,0,0,0,0
+52.0,masculino,18.58,0.0,não,sudeste,33810.22,Peso normal,0,0,0,0
+79.0,feminino,26.51,1.0,não,sudoeste,43882.87,Sobrepeso,0,0,0,0
+75.0,masculino,33.48,2.0,sim,noroeste,44544.49,Obeso,0,0,0,0
+55.0,masculino,18.67,1.0,sim,sudeste,33639.33,Peso normal,0,0,0,0
+29.0,feminino,24.12,1.0,sim,sudeste,18206.58,Peso normal,0,0,0,0
+31.0,feminino,24.46,1.0,não,sudeste,24038.01,Peso normal,0,0,0,0
+52.0,feminino,21.98,3.0,não,sudoeste,36078.39,Peso normal,0,0,0,0
+22.0,masculino,33.46,2.0,não,nordeste,19466.47,Obeso,0,0,0,0
+45.0,feminino,26.64,2.0,sim,noroeste,29033.75,Sobrepeso,0,0,0,0
+52.0,masculino,34.88,1.0,sim,sudeste,34313.54,Obeso,0,0,0,0
+22.0,masculino,29.29,2.0,sim,nordeste,18759.27,Sobrepeso,0,0,0,0
+36.0,feminino,24.24,2.0,não,noroeste,22692.98,Peso normal,0,0,0,0
+28.0,masculino,32.47,2.0,sim,nordeste,20946.89,Obeso,0,0,0,0
+78.0,masculino,28.68,2.0,sim,nordeste,49475.68,Sobrepeso,0,0,0,0
+61.0,feminino,19.35,2.0,não,sudeste,35991.62,Peso normal,0,0,0,0
+34.0,feminino,19.2,2.0,sim,sudoeste,27705.54,Peso normal,0,0,0,0
+40.0,feminino,22.55,1.0,não,sudeste,26751.03,Peso normal,0,0,0,0
+30.0,masculino,23.12,1.0,não,nordeste,21820.25,Peso normal,0,0,0,0
+69.0,masculino,27.14,3.0,não,sudeste,41003.33,Sobrepeso,0,0,0,0
+65.0,feminino,22.58,0.0,não,noroeste,36649.05,Peso normal,0,0,0,0
+69.0,feminino,32.58,2.0,sim,sudoeste,39979.73,Obeso,0,0,0,0
+55.0,masculino,24.86,2.0,sim,sudoeste,33035.52,Peso normal,0,0,0,0
+36.0,feminino,24.12,3.0,não,sudoeste,27125.43,Peso normal,0,0,0,0
+19.0,feminino,23.35,1.0,não,nordeste,11948.57,Peso normal,0,0,0,0
+45.0,masculino,25.21,3.0,não,sudeste,31259.38,Sobrepeso,0,0,0,0
+37.0,feminino,21.22,2.0,sim,nordeste,25763.96,Peso normal,0,0,0,0
+27.0,masculino,20.7,2.0,não,nordeste,15528.15,Peso normal,0,0,0,0
+78.0,feminino,32.13,1.0,não,sudeste,41927.89,Obeso,0,0,0,0
+32.0,feminino,23.5,3.0,sim,sudoeste,22690.2,Peso normal,0,0,0,0
+51.0,masculino,23.6,0.0,não,sudoeste,32852.14,Peso normal,0,0,0,0
+27.0,masculino,34.42,2.0,não,nordeste,16807.7,Obeso,0,0,0,0
+48.0,masculino,24.55,2.0,sim,nordeste,27405.8,Peso normal,0,0,0,0
+20.0,masculino,26.09,1.0,sim,sudoeste,16265.49,Sobrepeso,0,0,0,0
+49.0,feminino,19.99,1.0,sim,sudeste,26412.67,Peso normal,0,0,0,0
+46.0,feminino,33.47,0.0,sim,sudeste,29764.95,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+43.0,feminino,19.92,1.0,não,sudeste,22959.46,Peso normal,0,0,0,0
+22.0,feminino,31.4,2.0,não,noroeste,13374.47,Obeso,0,0,0,0
+54.0,feminino,23.25,3.0,sim,nordeste,35265.17,Peso normal,0,0,0,0
+71.0,feminino,32.46,1.0,não,noroeste,43055.8,Obeso,0,0,0,0
+49.0,masculino,24.93,0.0,sim,sudoeste,30122.41,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+37.0,masculino,26.39,3.0,não,nordeste,22328.25,Sobrepeso,0,0,0,0
+46.0,feminino,28.98,3.0,não,sudeste,31287.39,Sobrepeso,0,0,0,0
+31.0,feminino,32.43,0.0,não,sudoeste,19525.51,Obeso,0,0,0,0
+75.0,masculino,21.5,2.0,sim,sudoeste,39762.52,Peso normal,0,0,0,0
+24.0,feminino,30.02,1.0,não,sudoeste,13761.13,Obeso,0,0,0,0
+79.0,masculino,32.33,0.0,sim,sudoeste,44103.87,Obeso,0,0,0,0
+36.0,feminino,26.73,0.0,sim,noroeste,23588.24,Sobrepeso,0,0,0,0
+36.0,masculino,21.64,2.0,não,nordeste,21791.54,Peso normal,0,0,0,0
+56.0,feminino,21.53,3.0,não,sudeste,37836.83,Peso normal,0,0,0,0
+77.0,feminino,33.43,0.0,sim,sudeste,43852.7,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+25.0,masculino,30.61,2.0,sim,sudeste,17746.98,Obeso,0,0,0,0
+53.0,masculino,31.72,3.0,não,noroeste,33451.94,Obeso,0,0,0,0
+29.0,masculino,25.87,1.0,sim,nordeste,16423.98,Sobrepeso,0,0,0,0
+40.0,masculino,30.02,1.0,sim,noroeste,27031.52,Obeso,0,0,0,0
+36.0,masculino,26.91,3.0,não,sudeste,21812.73,Sobrepeso,0,0,0,0
+37.0,masculino,20.88,2.0,sim,sudoeste,20303.68,Peso normal,0,0,0,0
+71.0,masculino,34.0,1.0,não,nordeste,39186.31,Obeso,0,0,0,0
+49.0,masculino,20.31,0.0,sim,sudoeste,32147.51,Peso normal,0,0,0,0
+66.0,masculino,18.06,3.0,sim,noroeste,36598.09,Abaixo do peso,0,0,0,0
+38.0,feminino,22.95,0.0,não,sudoeste,26235.05,Peso normal,0,0,0,0
+52.0,masculino,33.22,3.0,sim,sudoeste,32733.87,Obeso,0,0,0,0
+69.0,feminino,25.02,1.0,sim,sudoeste,42735.45,Sobrepeso,0,0,0,0
+33.0,masculino,30.3,1.0,não,sudeste,26652.82,Obeso,0,0,0,0
+20.0,masculino,33.28,1.0,sim,nordeste,12753.1,Obeso,0,0,0,0
+38.0,masculino,33.4,0.0,sim,noroeste,28511.32,Obeso,0,0,0,0
+27.0,feminino,34.99,0.0,sim,noroeste,22553.92,Obeso,0,0,0,0
+72.0,feminino,25.55,1.0,sim,noroeste,44734.62,Sobrepeso,0,0,0,0
+72.0,feminino,25.18,2.0,sim,sudoeste,39276.71,Sobrepeso,0,0,0,0
+32.0,feminino,32.7,2.0,sim,sudoeste,20864.18,Obeso,0,0,0,0
+36.0,feminino,23.54,2.0,não,sudeste,26001.52,Peso normal,0,0,0,0
+45.0,masculino,27.97,2.0,sim,sudeste,32598.0,Sobrepeso,0,0,0,0
+20.0,feminino,32.78,1.0,sim,nordeste,14507.39,Obeso,0,0,0,0
+73.0,feminino,30.46,0.0,sim,nordeste,42558.64,Obeso,0,0,0,0
+78.0,feminino,25.86,2.0,sim,nordeste,49187.35,Sobrepeso,0,0,0,0
+59.0,masculino,21.12,1.0,sim,sudoeste,36289.69,Peso normal,0,0,0,0
+32.0,feminino,18.82,2.0,sim,sudoeste,25838.84,Peso normal,0,0,0,0
+73.0,feminino,32.68,1.0,não,sudoeste,39446.56,Obeso,0,0,0,0
+29.0,feminino,26.08,2.0,sim,sudoeste,23234.21,Sobrepeso,0,0,0,0
+69.0,masculino,25.75,1.0,sim,sudeste,42232.46,Sobrepeso,0,0,0,0
+32.0,feminino,32.07,0.0,sim,sudoeste,22975.4,Obeso,0,0,0,0
+38.0,feminino,24.79,3.0,não,nordeste,28202.41,Peso normal,0,0,0,0
+47.0,feminino,18.1,2.0,não,noroeste,26744.68,Abaixo do peso,0,0,0,0
+33.0,feminino,31.39,3.0,sim,sudeste,20134.75,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+61.0,feminino,19.95,1.0,sim,sudoeste,39017.65,Peso normal,0,0,0,0
+25.0,masculino,29.51,2.0,sim,nordeste,23232.98,Sobrepeso,0,0,0,0
+70.0,feminino,29.9,2.0,sim,sudeste,37626.4,Obeso,0,0,0,0
+21.0,feminino,34.16,0.0,sim,noroeste,18712.98,Obeso,0,0,0,0
+78.0,masculino,18.02,0.0,não,noroeste,42107.73,Abaixo do peso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,masculino,27.95,2.0,não,nordeste,42780.66,Sobrepeso,0,0,0,0
+38.0,masculino,21.04,3.0,sim,sudeste,25267.62,Peso normal,0,0,0,0
+18.0,masculino,30.69,1.0,não,nordeste,11027.66,Obeso,0,0,0,0
+62.0,feminino,26.88,0.0,sim,sudeste,38986.71,Sobrepeso,0,0,0,0
+43.0,feminino,25.44,3.0,não,nordeste,28995.23,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+53.0,masculino,30.6,2.0,não,sudeste,28568.84,Obeso,0,0,0,0
+38.0,masculino,29.84,0.0,não,sudoeste,26349.51,Sobrepeso,0,0,0,0
+30.0,masculino,33.27,1.0,não,sudoeste,21901.41,Obeso,0,0,0,0
+29.0,masculino,23.78,3.0,sim,nordeste,18731.41,Peso normal,0,0,0,0
+76.0,masculino,18.66,2.0,não,sudeste,47391.04,Peso normal,0,0,0,0
+38.0,masculino,34.38,3.0,sim,noroeste,28721.95,Obeso,0,0,0,0
+22.0,masculino,31.66,1.0,não,sudoeste,15432.43,Obeso,0,0,0,0
+56.0,feminino,23.47,2.0,não,noroeste,37991.2,Peso normal,0,0,0,0
+62.0,masculino,32.6,3.0,não,sudeste,33327.79,Obeso,0,0,0,0
+57.0,feminino,30.71,1.0,sim,sudeste,35741.0,Obeso,0,0,0,0
+48.0,feminino,30.26,3.0,sim,noroeste,26166.45,Obeso,0,0,0,0
+57.0,feminino,30.39,0.0,não,noroeste,37174.71,Obeso,0,0,0,0
+24.0,feminino,32.65,1.0,sim,sudoeste,19143.85,Obeso,0,0,0,0
+72.0,masculino,25.64,3.0,sim,nordeste,38236.06,Sobrepeso,0,0,0,0
+72.0,feminino,26.89,2.0,sim,sudoeste,44063.99,Sobrepeso,0,0,0,0
+66.0,masculino,20.9,2.0,sim,noroeste,39495.76,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+18.0,feminino,22.78,0.0,não,sudeste,14596.39,Peso normal,0,0,0,0
+45.0,masculino,34.6,1.0,não,nordeste,25566.25,Obeso,0,0,0,0
+37.0,masculino,21.15,3.0,não,nordeste,22901.85,Peso normal,0,0,0,0
+51.0,masculino,20.38,2.0,não,nordeste,31696.31,Peso normal,0,0,0,0
+60.0,feminino,27.88,3.0,não,sudeste,40584.69,Sobrepeso,0,0,0,0
+28.0,masculino,18.69,2.0,não,sudoeste,19338.61,Peso normal,0,0,0,0
+32.0,feminino,20.38,3.0,sim,noroeste,25366.37,Peso normal,0,0,0,0
+49.0,masculino,19.21,1.0,sim,sudeste,28822.63,Peso normal,0,0,0,0
+29.0,feminino,32.11,3.0,não,sudoeste,21002.41,Obeso,0,0,0,0
+20.0,feminino,18.98,3.0,sim,noroeste,18410.1,Peso normal,0,0,0,0
+67.0,feminino,29.76,3.0,sim,sudeste,37391.57,Sobrepeso,0,0,0,0
+67.0,masculino,21.5,3.0,sim,sudeste,42214.22,Peso normal,0,0,0,0
+53.0,masculino,34.13,0.0,sim,noroeste,32679.08,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+43.0,feminino,33.12,0.0,sim,nordeste,23227.47,Obeso,0,0,0,0
+34.0,feminino,22.32,3.0,não,nordeste,23620.68,Peso normal,0,0,0,0
+20.0,masculino,33.35,1.0,sim,sudoeste,15630.31,Obeso,0,0,0,0
+67.0,feminino,18.84,2.0,sim,nordeste,35496.26,Peso normal,0,0,0,0
+76.0,masculino,21.32,0.0,não,noroeste,43295.76,Peso normal,0,0,0,0
+50.0,feminino,27.56,0.0,sim,sudeste,28658.38,Sobrepeso,0,0,0,0
+51.0,feminino,34.02,3.0,não,nordeste,29936.56,Obeso,0,0,0,0
+70.0,masculino,30.8,0.0,não,sudoeste,37965.76,Obeso,0,0,0,0
+30.0,masculino,25.89,0.0,não,noroeste,18426.18,Sobrepeso,0,0,0,0
+43.0,masculino,20.03,3.0,não,noroeste,30547.02,Peso normal,0,0,0,0
+40.0,masculino,22.28,2.0,sim,noroeste,23596.12,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+72.0,feminino,33.82,0.0,sim,sudeste,41198.67,Obeso,0,0,0,0
+53.0,feminino,32.72,2.0,sim,sudoeste,31855.92,Obeso,0,0,0,0
+52.0,masculino,21.88,1.0,sim,sudeste,34593.63,Peso normal,0,0,0,0
+54.0,feminino,25.78,1.0,sim,noroeste,28914.32,Sobrepeso,0,0,0,0
+22.0,masculino,25.31,1.0,não,noroeste,15594.41,Sobrepeso,0,0,0,0
+21.0,masculino,26.98,2.0,não,noroeste,12799.38,Sobrepeso,0,0,0,0
+72.0,feminino,30.63,0.0,sim,sudoeste,42329.57,Obeso,0,0,0,0
+22.0,masculino,26.44,2.0,não,sudeste,13720.84,Sobrepeso,0,0,0,0
+36.0,masculino,22.46,1.0,sim,sudoeste,21839.37,Peso normal,0,0,0,0
+72.0,feminino,22.44,0.0,não,noroeste,39393.91,Peso normal,0,0,0,0
+69.0,masculino,31.38,2.0,sim,nordeste,38514.84,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+21.0,masculino,29.18,1.0,sim,noroeste,12967.06,Sobrepeso,0,0,0,0
+46.0,masculino,32.87,0.0,não,sudeste,28093.82,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,masculino,27.07,3.0,não,sudeste,44788.28,Sobrepeso,0,0,0,0
+76.0,masculino,27.61,0.0,não,sudeste,45740.34,Sobrepeso,0,0,0,0
+26.0,masculino,24.88,0.0,não,sudoeste,14861.36,Peso normal,0,0,0,0
+79.0,feminino,25.6,1.0,não,sudoeste,45587.68,Sobrepeso,0,0,0,0
+47.0,feminino,20.72,1.0,sim,noroeste,29924.16,Peso normal,0,0,0,0
+56.0,feminino,30.6,1.0,sim,sudoeste,35829.42,Obeso,0,0,0,0
+64.0,feminino,18.58,3.0,não,nordeste,35885.9,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+62.0,feminino,25.56,0.0,sim,sudoeste,35586.44,Sobrepeso,0,0,0,0
+31.0,masculino,34.04,2.0,sim,sudoeste,23631.15,Obeso,0,0,0,0
+51.0,feminino,28.22,2.0,sim,sudoeste,34781.1,Sobrepeso,0,0,0,0
+57.0,masculino,19.64,0.0,sim,noroeste,38275.83,Peso normal,0,0,0,0
+28.0,masculino,28.6,3.0,não,nordeste,21971.37,Sobrepeso,0,0,0,0
+20.0,feminino,24.18,0.0,sim,sudeste,15474.49,Peso normal,0,0,0,0
+78.0,masculino,20.22,1.0,não,nordeste,48726.51,Peso normal,0,0,0,0
+30.0,feminino,20.28,0.0,sim,sudeste,18758.35,Peso normal,0,0,0,0
+20.0,feminino,34.49,3.0,sim,noroeste,20580.14,Obeso,0,0,0,0
+53.0,masculino,21.08,1.0,sim,noroeste,33565.9,Peso normal,0,0,0,0
+73.0,masculino,31.6,0.0,não,sudoeste,43138.63,Obeso,0,0,0,0
+53.0,feminino,25.86,3.0,sim,sudeste,34310.36,Sobrepeso,0,0,0,0
+54.0,masculino,32.18,0.0,sim,nordeste,28509.07,Obeso,0,0,0,0
+39.0,feminino,32.21,0.0,não,nordeste,21619.01,Obeso,0,0,0,0
+36.0,masculino,21.06,2.0,não,sudeste,21071.86,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+70.0,masculino,32.04,3.0,sim,nordeste,38950.8,Obeso,0,0,0,0
+72.0,masculino,20.07,3.0,sim,sudoeste,46227.35,Peso normal,0,0,0,0
+67.0,feminino,23.0,2.0,sim,sudeste,40587.0,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+50.0,feminino,24.58,3.0,não,nordeste,28924.84,Peso normal,0,0,0,0
+75.0,masculino,31.65,0.0,não,sudeste,43403.33,Obeso,0,0,0,0
+77.0,feminino,27.85,1.0,não,nordeste,43176.27,Sobrepeso,0,0,0,0
+75.0,feminino,28.35,3.0,não,sudeste,44776.14,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,masculino,18.05,3.0,não,nordeste,42791.55,Abaixo do peso,0,0,0,0
+74.0,feminino,23.68,3.0,não,nordeste,40727.91,Peso normal,0,0,0,0
+42.0,masculino,28.25,0.0,não,nordeste,27188.46,Sobrepeso,0,0,0,0
+41.0,feminino,29.43,0.0,sim,nordeste,27470.06,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,masculino,20.75,1.0,sim,sudeste,41413.66,Peso normal,0,0,0,0
+58.0,feminino,25.41,0.0,não,sudoeste,30670.69,Sobrepeso,0,0,0,0
+40.0,masculino,18.26,2.0,não,sudeste,26641.57,Abaixo do peso,0,0,0,0
+45.0,masculino,33.25,0.0,sim,sudeste,28357.19,Obeso,0,0,0,0
+74.0,masculino,24.42,1.0,não,sudoeste,47202.13,Peso normal,0,0,0,0
+42.0,feminino,27.45,1.0,sim,sudoeste,27893.88,Sobrepeso,0,0,0,0
+62.0,masculino,28.55,2.0,não,nordeste,33803.66,Sobrepeso,0,0,0,0
+28.0,masculino,30.94,2.0,não,sudoeste,19027.83,Obeso,0,0,0,0
+54.0,masculino,27.38,2.0,não,nordeste,33879.48,Sobrepeso,0,0,0,0
+40.0,masculino,27.98,0.0,sim,noroeste,23415.91,Sobrepeso,0,0,0,0
+18.0,masculino,18.63,1.0,sim,noroeste,15823.61,Peso normal,0,0,0,0
+32.0,feminino,19.29,2.0,não,noroeste,21694.93,Peso normal,0,0,0,0
+18.0,feminino,23.67,2.0,não,sudeste,17675.0,Peso normal,0,0,0,0
+66.0,masculino,32.11,0.0,sim,noroeste,43031.89,Obeso,0,0,0,0
+31.0,masculino,34.31,0.0,sim,nordeste,24595.89,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+58.0,feminino,32.75,3.0,não,noroeste,34925.47,Obeso,0,0,0,0
+61.0,masculino,24.58,1.0,sim,noroeste,33091.76,Peso normal,0,0,0,0
+25.0,feminino,22.42,0.0,sim,sudeste,14931.96,Peso normal,0,0,0,0
+24.0,feminino,24.94,3.0,não,nordeste,14098.75,Sobrepeso,0,0,0,0
+25.0,masculino,28.84,2.0,não,sudeste,16159.93,Sobrepeso,0,0,0,0
+25.0,masculino,30.46,3.0,sim,nordeste,16598.6,Obeso,0,0,0,0
+68.0,feminino,32.98,3.0,não,nordeste,41286.85,Obeso,0,0,0,0
+24.0,masculino,21.99,0.0,sim,noroeste,18459.85,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+51.0,feminino,20.66,0.0,sim,nordeste,29216.45,Peso normal,0,0,0,0
+53.0,feminino,27.76,2.0,sim,nordeste,36382.52,Sobrepeso,0,0,0,0
+45.0,feminino,34.31,2.0,não,sudoeste,31870.11,Obeso,0,0,0,0
+44.0,masculino,23.28,1.0,não,sudoeste,24377.2,Peso normal,0,0,0,0
+68.0,masculino,18.16,3.0,sim,noroeste,37008.36,Abaixo do peso,0,0,0,0
+39.0,feminino,19.86,3.0,não,nordeste,30336.76,Peso normal,0,0,0,0
+39.0,masculino,18.37,3.0,sim,noroeste,29699.03,Abaixo do peso,0,0,0,0
+63.0,feminino,28.81,1.0,sim,sudoeste,35715.59,Sobrepeso,0,0,0,0
+37.0,feminino,21.2,2.0,não,sudoeste,21834.51,Peso normal,0,0,0,0
+57.0,masculino,28.7,0.0,sim,noroeste,36163.2,Sobrepeso,0,0,0,0
+29.0,masculino,25.72,3.0,sim,sudoeste,21453.88,Sobrepeso,0,0,0,0
+78.0,feminino,20.57,0.0,não,sudoeste,42349.72,Peso normal,0,0,0,0
+45.0,feminino,20.71,3.0,sim,noroeste,28508.34,Peso normal,0,0,0,0
+50.0,masculino,27.4,2.0,sim,sudoeste,29714.27,Sobrepeso,0,0,0,0
+35.0,feminino,27.39,0.0,sim,sudoeste,19102.46,Sobrepeso,0,0,0,0
+63.0,feminino,20.87,1.0,não,nordeste,41041.92,Peso normal,0,0,0,0
+67.0,feminino,21.39,3.0,sim,noroeste,38163.55,Peso normal,0,0,0,0
+27.0,masculino,21.77,0.0,sim,nordeste,15744.89,Peso normal,0,0,0,0
+71.0,feminino,34.76,0.0,não,sudeste,37711.08,Obeso,0,0,0,0
+68.0,feminino,23.3,3.0,não,sudeste,40008.85,Peso normal,0,0,0,0
+18.0,masculino,23.99,1.0,não,sudoeste,12811.71,Peso normal,0,0,0,0
+65.0,masculino,29.87,0.0,não,sudoeste,42297.45,Sobrepeso,0,0,0,0
+62.0,masculino,18.59,1.0,não,nordeste,35939.06,Peso normal,0,0,0,0
+59.0,feminino,30.21,1.0,sim,sudoeste,38593.13,Obeso,0,0,0,0
+50.0,feminino,31.44,1.0,não,sudoeste,34447.4,Obeso,0,0,0,0
+33.0,masculino,21.4,2.0,sim,noroeste,25830.07,Peso normal,0,0,0,0
+58.0,feminino,26.57,2.0,não,sudoeste,34540.66,Sobrepeso,0,0,0,0
+24.0,masculino,34.23,1.0,sim,sudoeste,21298.52,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+24.0,masculino,31.86,0.0,não,noroeste,20686.47,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+71.0,feminino,26.98,2.0,não,nordeste,44418.78,Sobrepeso,0,0,0,0
+75.0,feminino,30.67,2.0,sim,sudeste,46858.58,Obeso,0,0,0,0
+77.0,masculino,21.68,0.0,não,nordeste,45631.36,Peso normal,0,0,0,0
+63.0,masculino,26.59,2.0,não,nordeste,37342.6,Sobrepeso,0,0,0,0
+68.0,masculino,33.83,3.0,não,sudoeste,44709.48,Obeso,0,0,0,0
+63.0,feminino,19.19,0.0,sim,nordeste,39825.42,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+49.0,feminino,32.66,3.0,não,noroeste,32580.55,Obeso,0,0,0,0
+70.0,feminino,29.63,2.0,não,sudeste,37150.31,Sobrepeso,0,0,0,0
+78.0,feminino,22.08,0.0,não,sudoeste,45569.34,Peso normal,0,0,0,0
+50.0,feminino,27.27,0.0,sim,sudeste,32837.16,Sobrepeso,0,0,0,0
+23.0,feminino,18.97,2.0,sim,sudoeste,19343.33,Peso normal,0,0,0,0
+48.0,feminino,21.45,0.0,sim,sudeste,33854.72,Peso normal,0,0,0,0
+51.0,feminino,31.3,0.0,não,nordeste,34660.49,Obeso,0,0,0,0
+77.0,feminino,32.53,1.0,não,nordeste,40354.24,Obeso,0,0,0,0
+51.0,feminino,31.82,1.0,sim,noroeste,28333.59,Obeso,0,0,0,0
+42.0,feminino,20.03,3.0,sim,nordeste,25953.06,Peso normal,0,0,0,0
+75.0,masculino,23.89,0.0,sim,nordeste,43500.05,Peso normal,0,0,0,0
+51.0,feminino,29.18,1.0,sim,sudoeste,30241.01,Sobrepeso,0,0,0,0
+57.0,masculino,31.75,0.0,não,noroeste,34580.56,Obeso,0,0,0,0
+46.0,masculino,21.91,2.0,não,noroeste,27351.22,Peso normal,0,0,0,0
+78.0,masculino,33.54,2.0,sim,sudoeste,44116.87,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+64.0,masculino,32.31,0.0,não,sudeste,41126.17,Obeso,0,0,0,0
+35.0,masculino,28.15,1.0,não,noroeste,22723.19,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,feminino,31.39,2.0,sim,sudeste,45627.19,Obeso,0,0,0,0
+28.0,feminino,34.18,2.0,sim,sudeste,16772.04,Obeso,0,0,0,0
+39.0,masculino,28.8,2.0,não,noroeste,28571.57,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,masculino,31.74,3.0,sim,nordeste,30544.94,Obeso,0,0,0,0
+78.0,masculino,25.53,0.0,sim,sudeste,48234.53,Sobrepeso,0,0,0,0
+58.0,feminino,18.6,3.0,não,nordeste,36342.61,Peso normal,0,0,0,0
+79.0,feminino,23.5,1.0,não,sudoeste,47711.16,Peso normal,0,0,0,0
+59.0,feminino,25.05,1.0,não,nordeste,35440.33,Sobrepeso,0,0,0,0
+39.0,masculino,31.3,1.0,não,nordeste,26258.0,Obeso,0,0,0,0
+58.0,masculino,31.19,1.0,não,sudeste,32694.93,Obeso,0,0,0,0
+53.0,masculino,33.37,2.0,sim,sudeste,36108.87,Obeso,0,0,0,0
+76.0,masculino,31.48,0.0,não,nordeste,42248.01,Obeso,0,0,0,0
+49.0,feminino,22.3,0.0,sim,sudoeste,25970.86,Peso normal,0,0,0,0
+40.0,feminino,30.5,3.0,sim,nordeste,24853.88,Obeso,0,0,0,0
+48.0,feminino,28.27,2.0,não,sudoeste,27147.76,Sobrepeso,0,0,0,0
+38.0,masculino,33.42,0.0,sim,sudeste,25957.18,Obeso,0,0,0,0
+63.0,masculino,21.74,1.0,não,sudoeste,39310.74,Peso normal,0,0,0,0
+54.0,feminino,18.7,1.0,não,noroeste,30268.3,Peso normal,0,0,0,0
+45.0,masculino,32.29,1.0,sim,nordeste,29090.45,Obeso,0,0,0,0
+74.0,masculino,26.53,1.0,sim,noroeste,45784.96,Sobrepeso,0,0,0,0
+36.0,masculino,30.05,3.0,não,sudoeste,28448.09,Obeso,0,0,0,0
+67.0,masculino,29.92,2.0,sim,nordeste,35884.34,Obeso,0,0,0,0
+22.0,masculino,31.03,3.0,não,sudoeste,16645.3,Obeso,0,0,0,0
+63.0,feminino,19.03,2.0,sim,noroeste,35892.79,Peso normal,0,0,0,0
+59.0,masculino,20.66,2.0,não,nordeste,36519.38,Peso normal,0,0,0,0
+59.0,feminino,21.41,3.0,não,sudeste,40346.32,Peso normal,0,0,0,0
+21.0,masculino,28.95,1.0,sim,sudeste,15887.18,Sobrepeso,0,0,0,0
+18.0,masculino,29.33,3.0,sim,nordeste,15826.23,Sobrepeso,0,0,0,0
+23.0,masculino,29.02,2.0,não,nordeste,18285.42,Sobrepeso,0,0,0,0
+35.0,feminino,32.11,0.0,não,nordeste,21162.03,Obeso,0,0,0,0
+60.0,feminino,20.72,3.0,sim,nordeste,35781.64,Peso normal,0,0,0,0
+28.0,feminino,25.19,0.0,não,nordeste,16609.39,Sobrepeso,0,0,0,0
+64.0,masculino,23.97,3.0,não,nordeste,38398.04,Peso normal,0,0,0,0
+59.0,masculino,28.5,1.0,não,noroeste,33329.12,Sobrepeso,0,0,0,0
+77.0,feminino,27.68,0.0,sim,nordeste,44764.0,Sobrepeso,0,0,0,0
+78.0,masculino,23.82,2.0,sim,nordeste,48146.07,Peso normal,0,0,0,0
+69.0,feminino,33.84,3.0,sim,sudeste,36772.34,Obeso,0,0,0,0
+53.0,feminino,28.74,3.0,sim,sudeste,31963.08,Sobrepeso,0,0,0,0
+18.0,masculino,24.95,1.0,sim,sudeste,13146.7,Sobrepeso,0,0,0,0
+69.0,feminino,32.4,2.0,não,nordeste,42125.77,Obeso,0,0,0,0
+75.0,feminino,28.77,2.0,não,sudoeste,44795.82,Sobrepeso,0,0,0,0
+56.0,masculino,19.49,3.0,sim,sudeste,37512.03,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+22.0,masculino,19.49,0.0,não,sudeste,18008.26,Peso normal,0,0,0,0
+34.0,feminino,26.6,0.0,sim,sudeste,19756.51,Sobrepeso,0,0,0,0
+37.0,masculino,30.95,3.0,não,sudoeste,28253.35,Obeso,0,0,0,0
+71.0,masculino,26.4,1.0,não,nordeste,39158.39,Sobrepeso,0,0,0,0
+30.0,masculino,34.28,3.0,sim,sudoeste,25461.89,Obeso,0,0,0,0
+45.0,feminino,26.57,1.0,sim,sudoeste,30047.25,Sobrepeso,0,0,0,0
+29.0,masculino,21.98,1.0,não,sudoeste,20842.78,Peso normal,0,0,0,0
+57.0,feminino,33.77,3.0,sim,sudoeste,31785.18,Obeso,0,0,0,0
+45.0,masculino,27.22,2.0,sim,noroeste,30856.82,Sobrepeso,0,0,0,0
+35.0,feminino,21.16,0.0,não,noroeste,21199.31,Peso normal,0,0,0,0
+29.0,feminino,23.56,2.0,sim,sudoeste,20748.88,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+70.0,feminino,29.31,0.0,não,sudoeste,43814.64,Sobrepeso,0,0,0,0
+78.0,masculino,22.9,2.0,sim,sudeste,45286.84,Peso normal,0,0,0,0
+75.0,feminino,24.58,2.0,sim,noroeste,44491.91,Peso normal,0,0,0,0
+42.0,masculino,21.82,0.0,não,noroeste,30114.95,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+39.0,masculino,32.49,1.0,não,nordeste,24356.31,Obeso,0,0,0,0
+38.0,feminino,20.66,0.0,não,nordeste,26225.06,Peso normal,0,0,0,0
+23.0,masculino,31.14,3.0,sim,noroeste,22385.76,Obeso,0,0,0,0
+33.0,feminino,29.75,1.0,não,noroeste,18926.62,Sobrepeso,0,0,0,0
+34.0,masculino,19.73,3.0,não,noroeste,20203.16,Peso normal,0,0,0,0
+26.0,masculino,25.12,0.0,sim,sudeste,20975.46,Sobrepeso,0,0,0,0
+44.0,feminino,20.2,3.0,sim,noroeste,27886.35,Peso normal,0,0,0,0
+40.0,feminino,32.79,1.0,sim,noroeste,24067.61,Obeso,0,0,0,0
+34.0,feminino,19.13,3.0,sim,sudoeste,25886.23,Peso normal,0,0,0,0
+66.0,masculino,33.74,2.0,não,noroeste,40693.63,Obeso,0,0,0,0
+52.0,feminino,30.38,1.0,não,sudeste,27537.84,Obeso,0,0,0,0
+31.0,masculino,32.78,0.0,sim,noroeste,23604.06,Obeso,0,0,0,0
+26.0,feminino,33.51,3.0,sim,sudoeste,22808.4,Obeso,0,0,0,0
+28.0,masculino,27.23,0.0,sim,sudeste,19292.28,Sobrepeso,0,0,0,0
+41.0,feminino,19.96,2.0,sim,sudeste,25093.78,Peso normal,0,0,0,0
+22.0,masculino,19.7,1.0,não,nordeste,17985.31,Peso normal,0,0,0,0
+30.0,masculino,19.0,1.0,sim,nordeste,24889.4,Peso normal,0,0,0,0
+59.0,feminino,27.38,1.0,não,nordeste,33625.99,Sobrepeso,0,0,0,0
+23.0,feminino,22.57,2.0,sim,sudeste,15190.09,Peso normal,0,0,0,0
+41.0,feminino,19.22,1.0,não,noroeste,24761.95,Peso normal,0,0,0,0
+34.0,feminino,29.97,2.0,sim,noroeste,19791.74,Obeso,0,0,0,0
+78.0,feminino,32.31,1.0,não,noroeste,43464.57,Obeso,0,0,0,0
+65.0,feminino,21.34,0.0,sim,noroeste,40720.46,Peso normal,0,0,0,0
+40.0,feminino,27.3,2.0,não,sudoeste,27984.53,Sobrepeso,0,0,0,0
+18.0,feminino,34.16,1.0,sim,sudeste,17917.79,Obeso,0,0,0,0
+18.0,masculino,34.01,0.0,não,noroeste,12016.16,Obeso,0,0,0,0
+32.0,feminino,22.55,0.0,não,sudoeste,20211.55,Peso normal,0,0,0,0
+55.0,masculino,23.66,0.0,não,sudoeste,35316.25,Peso normal,0,0,0,0
+57.0,masculino,31.98,1.0,não,sudoeste,33953.72,Obeso,0,0,0,0
+40.0,feminino,25.03,2.0,sim,noroeste,23632.41,Sobrepeso,0,0,0,0
+50.0,masculino,19.5,1.0,não,nordeste,33128.9,Peso normal,0,0,0,0
+26.0,masculino,30.14,0.0,sim,noroeste,14895.63,Obeso,0,0,0,0
+41.0,feminino,26.19,0.0,não,nordeste,26732.53,Sobrepeso,0,0,0,0
+26.0,masculino,33.38,3.0,não,nordeste,15090.22,Obeso,0,0,0,0
+67.0,feminino,34.65,1.0,sim,noroeste,35709.08,Obeso,0,0,0,0
+55.0,feminino,21.28,3.0,não,noroeste,29861.67,Peso normal,0,0,0,0
+37.0,feminino,27.94,2.0,sim,sudeste,26443.97,Sobrepeso,0,0,0,0
+71.0,feminino,32.73,0.0,não,sudeste,38006.84,Obeso,0,0,0,0
+18.0,masculino,28.64,0.0,sim,nordeste,16862.52,Sobrepeso,0,0,0,0
+44.0,feminino,34.62,0.0,não,sudoeste,31586.85,Obeso,0,0,0,0
+75.0,masculino,24.54,3.0,não,noroeste,45341.34,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,masculino,27.07,0.0,não,noroeste,40997.87,Sobrepeso,0,0,0,0
+77.0,masculino,34.43,0.0,não,noroeste,43946.77,Obeso,0,0,0,0
+76.0,masculino,31.46,2.0,não,nordeste,44014.57,Obeso,0,0,0,0
+29.0,feminino,19.73,3.0,sim,sudoeste,23910.49,Peso normal,0,0,0,0
+46.0,feminino,24.2,3.0,sim,sudeste,28494.16,Peso normal,0,0,0,0
+36.0,masculino,26.28,0.0,não,noroeste,19378.34,Sobrepeso,0,0,0,0
+40.0,masculino,21.2,2.0,sim,noroeste,23657.16,Peso normal,0,0,0,0
+33.0,feminino,22.86,3.0,sim,sudoeste,21972.95,Peso normal,0,0,0,0
+42.0,masculino,23.14,0.0,sim,sudoeste,31144.52,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+48.0,masculino,24.06,0.0,sim,noroeste,32159.51,Peso normal,0,0,0,0
+61.0,masculino,33.9,0.0,não,sudeste,35569.81,Obeso,0,0,0,0
+25.0,feminino,25.64,3.0,sim,nordeste,18819.28,Sobrepeso,0,0,0,0
+54.0,feminino,34.91,0.0,não,sudoeste,32825.8,Obeso,0,0,0,0
+39.0,masculino,21.68,0.0,sim,sudeste,22059.57,Peso normal,0,0,0,0
+73.0,masculino,25.24,2.0,sim,sudeste,38616.01,Sobrepeso,0,0,0,0
+50.0,masculino,34.88,2.0,sim,noroeste,31832.04,Obeso,0,0,0,0
+25.0,feminino,34.64,3.0,sim,noroeste,15138.02,Obeso,0,0,0,0
+62.0,feminino,33.42,0.0,não,sudoeste,37548.09,Obeso,0,0,0,0
+40.0,feminino,24.55,2.0,não,noroeste,23406.18,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+34.0,feminino,22.55,3.0,sim,nordeste,27971.03,Peso normal,0,0,0,0
+42.0,masculino,29.35,2.0,não,sudoeste,30671.38,Sobrepeso,0,0,0,0
+76.0,masculino,24.3,2.0,sim,sudoeste,45370.91,Peso normal,0,0,0,0
+61.0,feminino,22.37,1.0,sim,sudoeste,39983.15,Peso normal,0,0,0,0
+65.0,feminino,23.33,3.0,sim,sudoeste,38783.86,Peso normal,0,0,0,0
+20.0,masculino,28.5,3.0,sim,sudeste,12723.56,Sobrepeso,0,0,0,0
+34.0,feminino,20.09,0.0,não,nordeste,25802.05,Peso normal,0,0,0,0
+58.0,masculino,22.66,1.0,sim,noroeste,37875.49,Peso normal,0,0,0,0
+39.0,masculino,23.28,2.0,sim,noroeste,23358.7,Peso normal,0,0,0,0
+50.0,masculino,26.27,1.0,não,sudeste,28745.96,Sobrepeso,0,0,0,0
+35.0,masculino,18.52,3.0,sim,nordeste,26315.43,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+64.0,feminino,23.28,1.0,não,noroeste,38550.51,Peso normal,0,0,0,0
+67.0,masculino,32.75,3.0,sim,nordeste,41569.17,Obeso,0,0,0,0
+42.0,masculino,27.58,3.0,sim,nordeste,31687.19,Sobrepeso,0,0,0,0
+67.0,feminino,33.99,0.0,sim,sudoeste,43469.2,Obeso,0,0,0,0
+52.0,feminino,25.44,1.0,não,sudeste,33192.3,Sobrepeso,0,0,0,0
+56.0,masculino,33.33,2.0,sim,noroeste,35926.2,Obeso,0,0,0,0
+41.0,feminino,21.3,3.0,não,sudeste,23003.05,Peso normal,0,0,0,0
+38.0,feminino,18.35,1.0,sim,nordeste,29427.85,Abaixo do peso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,masculino,18.73,2.0,não,sudeste,27795.36,Peso normal,0,0,0,0
+34.0,masculino,24.37,1.0,não,noroeste,22308.66,Peso normal,0,0,0,0
+78.0,masculino,27.35,1.0,sim,sudeste,43283.68,Sobrepeso,0,0,0,0
+74.0,feminino,20.55,3.0,sim,sudoeste,45195.94,Peso normal,0,0,0,0
+18.0,masculino,28.78,0.0,sim,sudeste,16003.49,Sobrepeso,0,0,0,0
+21.0,feminino,22.81,1.0,não,sudoeste,14604.49,Peso normal,0,0,0,0
+32.0,feminino,20.74,2.0,sim,sudeste,20755.95,Peso normal,0,0,0,0
+40.0,feminino,23.51,2.0,sim,sudoeste,25264.42,Peso normal,0,0,0,0
+32.0,masculino,18.85,1.0,sim,sudoeste,24144.09,Peso normal,0,0,0,0
+70.0,masculino,24.43,3.0,sim,noroeste,41656.76,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+73.0,feminino,24.46,3.0,sim,sudeste,39416.37,Peso normal,0,0,0,0
+50.0,masculino,20.23,1.0,não,sudeste,30238.96,Peso normal,0,0,0,0
+70.0,feminino,34.38,3.0,não,sudeste,38180.93,Obeso,0,0,0,0
+28.0,feminino,34.7,2.0,sim,nordeste,19266.06,Obeso,0,0,0,0
+75.0,masculino,24.11,1.0,não,nordeste,45738.38,Peso normal,0,0,0,0
+39.0,feminino,34.49,2.0,sim,noroeste,22444.98,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+34.0,masculino,22.02,0.0,não,noroeste,24052.5,Peso normal,0,0,0,0
+24.0,feminino,25.22,1.0,não,nordeste,14363.38,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+70.0,masculino,20.31,3.0,não,sudoeste,43800.2,Peso normal,0,0,0,0
+44.0,feminino,32.98,1.0,não,sudeste,31564.92,Obeso,0,0,0,0
+45.0,feminino,19.34,1.0,não,noroeste,32523.92,Peso normal,0,0,0,0
+67.0,feminino,33.44,3.0,sim,sudoeste,37351.68,Obeso,0,0,0,0
+77.0,masculino,29.74,2.0,sim,noroeste,48613.05,Sobrepeso,0,0,0,0
+75.0,masculino,20.94,2.0,não,sudeste,47772.37,Peso normal,0,0,0,0
+28.0,masculino,29.2,0.0,sim,nordeste,23111.23,Sobrepeso,0,0,0,0
+47.0,feminino,32.42,0.0,sim,sudoeste,29235.27,Obeso,0,0,0,0
+47.0,masculino,18.13,1.0,sim,noroeste,27326.78,Abaixo do peso,0,0,0,0
+20.0,masculino,24.27,1.0,não,sudeste,19690.75,Peso normal,0,0,0,0
+46.0,feminino,21.88,3.0,sim,noroeste,26891.9,Peso normal,0,0,0,0
+26.0,feminino,24.44,1.0,não,noroeste,15222.38,Peso normal,0,0,0,0
+63.0,feminino,34.39,1.0,não,sudeste,33522.58,Obeso,0,0,0,0
+47.0,masculino,18.36,2.0,sim,nordeste,33238.95,Abaixo do peso,0,0,0,0
+42.0,feminino,19.36,0.0,não,noroeste,24654.33,Peso normal,0,0,0,0
+50.0,feminino,19.74,0.0,sim,nordeste,28947.3,Peso normal,0,0,0,0
+29.0,masculino,32.74,3.0,não,sudeste,19992.07,Obeso,0,0,0,0
+19.0,feminino,23.1,1.0,sim,nordeste,11252.23,Peso normal,0,0,0,0
+59.0,feminino,21.07,3.0,não,sudoeste,38883.48,Peso normal,0,0,0,0
+25.0,feminino,24.19,2.0,sim,noroeste,16116.71,Peso normal,0,0,0,0
+20.0,feminino,22.92,1.0,não,nordeste,17431.09,Peso normal,0,0,0,0
+59.0,masculino,24.02,0.0,sim,nordeste,38856.35,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,feminino,33.06,1.0,sim,noroeste,36309.78,Obeso,0,0,0,0
+37.0,masculino,30.88,3.0,não,noroeste,27515.04,Obeso,0,0,0,0
+67.0,feminino,29.88,1.0,sim,nordeste,41960.39,Sobrepeso,0,0,0,0
+36.0,masculino,28.39,3.0,não,sudoeste,23981.9,Sobrepeso,0,0,0,0
+78.0,feminino,31.14,0.0,não,nordeste,42952.49,Obeso,0,0,0,0
+18.0,feminino,26.62,0.0,sim,sudeste,17842.84,Sobrepeso,0,0,0,0
+43.0,feminino,30.34,2.0,sim,nordeste,32176.17,Obeso,0,0,0,0
+71.0,feminino,25.29,1.0,sim,nordeste,41894.82,Sobrepeso,0,0,0,0
+55.0,feminino,19.04,2.0,sim,nordeste,33647.04,Peso normal,0,0,0,0
+63.0,feminino,21.31,3.0,sim,nordeste,40986.33,Peso normal,0,0,0,0
+60.0,feminino,22.91,3.0,não,nordeste,39578.22,Peso normal,0,0,0,0
+66.0,feminino,23.67,1.0,sim,nordeste,42366.34,Peso normal,0,0,0,0
+68.0,feminino,26.77,3.0,sim,noroeste,42912.01,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+27.0,masculino,32.04,2.0,sim,sudeste,17149.36,Obeso,0,0,0,0
+28.0,masculino,20.02,1.0,não,sudeste,16357.83,Peso normal,0,0,0,0
+64.0,feminino,25.04,0.0,sim,noroeste,33629.87,Sobrepeso,0,0,0,0
+54.0,feminino,18.67,2.0,não,noroeste,35589.45,Peso normal,0,0,0,0
+75.0,masculino,22.68,1.0,sim,sudeste,44512.39,Peso normal,0,0,0,0
+38.0,masculino,26.25,3.0,não,noroeste,24108.64,Sobrepeso,0,0,0,0
+79.0,masculino,33.76,0.0,sim,sudoeste,48929.67,Obeso,0,0,0,0
+78.0,feminino,32.07,3.0,não,sudeste,46538.01,Obeso,0,0,0,0
+45.0,masculino,26.07,0.0,não,noroeste,26165.98,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,feminino,28.29,2.0,não,noroeste,26730.16,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+20.0,feminino,31.62,2.0,sim,nordeste,18282.49,Obeso,0,0,0,0
+62.0,feminino,23.93,1.0,sim,nordeste,37009.6,Peso normal,0,0,0,0
+25.0,masculino,29.71,3.0,sim,noroeste,21788.88,Sobrepeso,0,0,0,0
+64.0,feminino,24.52,2.0,não,nordeste,40044.51,Peso normal,0,0,0,0
+67.0,feminino,34.46,2.0,sim,sudeste,36936.46,Obeso,0,0,0,0
+61.0,masculino,21.53,1.0,sim,noroeste,33883.35,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+67.0,feminino,23.48,3.0,não,nordeste,36040.18,Peso normal,0,0,0,0
+74.0,masculino,24.71,2.0,sim,sudeste,41689.12,Peso normal,0,0,0,0
+26.0,masculino,27.72,1.0,sim,sudoeste,21617.09,Sobrepeso,0,0,0,0
+76.0,feminino,25.91,1.0,não,nordeste,45412.18,Sobrepeso,0,0,0,0
+31.0,feminino,32.26,3.0,não,noroeste,19021.47,Obeso,0,0,0,0
+55.0,masculino,27.27,2.0,sim,noroeste,30215.84,Sobrepeso,0,0,0,0
+73.0,feminino,27.08,0.0,sim,noroeste,41676.58,Sobrepeso,0,0,0,0
+77.0,feminino,33.62,1.0,sim,nordeste,48453.66,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,masculino,24.18,3.0,não,noroeste,41511.63,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+34.0,masculino,32.47,2.0,sim,nordeste,25419.29,Obeso,0,0,0,0
+29.0,masculino,20.86,0.0,sim,noroeste,18635.21,Peso normal,0,0,0,0
+61.0,feminino,32.63,3.0,não,noroeste,39568.06,Obeso,0,0,0,0
+66.0,feminino,32.64,2.0,sim,nordeste,40870.74,Obeso,0,0,0,0
+63.0,feminino,27.11,2.0,não,sudeste,33608.49,Sobrepeso,0,0,0,0
+39.0,masculino,18.04,3.0,não,noroeste,27396.64,Abaixo do peso,0,0,0,0
+60.0,masculino,25.85,1.0,não,noroeste,33309.19,Sobrepeso,0,0,0,0
+41.0,feminino,28.89,3.0,sim,sudeste,28192.45,Sobrepeso,0,0,0,0
+58.0,masculino,21.95,3.0,sim,sudeste,37629.86,Peso normal,0,0,0,0
+54.0,masculino,24.12,1.0,não,sudeste,29123.5,Peso normal,0,0,0,0
+61.0,masculino,32.74,2.0,não,nordeste,35648.29,Obeso,0,0,0,0
+55.0,masculino,22.77,1.0,não,sudeste,31814.84,Peso normal,0,0,0,0
+52.0,feminino,25.07,2.0,não,sudoeste,29922.46,Sobrepeso,0,0,0,0
+21.0,feminino,26.72,3.0,sim,noroeste,19866.85,Sobrepeso,0,0,0,0
+32.0,feminino,25.75,2.0,sim,nordeste,24760.07,Sobrepeso,0,0,0,0
+70.0,masculino,33.64,2.0,sim,sudoeste,38347.76,Obeso,0,0,0,0
+61.0,feminino,23.94,2.0,sim,sudeste,33998.5,Peso normal,0,0,0,0
+53.0,masculino,34.75,0.0,sim,sudoeste,35873.33,Obeso,0,0,0,0
+61.0,feminino,18.4,3.0,não,noroeste,35736.54,Abaixo do peso,0,0,0,0
+57.0,masculino,19.02,2.0,não,nordeste,34570.82,Peso normal,0,0,0,0
+63.0,masculino,32.75,0.0,não,noroeste,39284.35,Obeso,0,0,0,0
+35.0,masculino,29.79,3.0,não,sudoeste,25888.88,Sobrepeso,0,0,0,0
+60.0,masculino,30.63,2.0,sim,noroeste,37835.67,Obeso,0,0,0,0
+70.0,feminino,20.36,3.0,sim,noroeste,37904.8,Peso normal,0,0,0,0
+37.0,feminino,27.53,2.0,sim,nordeste,20356.48,Sobrepeso,0,0,0,0
+43.0,masculino,34.76,0.0,sim,sudeste,25504.65,Obeso,0,0,0,0
+32.0,masculino,21.34,3.0,não,sudoeste,24418.8,Peso normal,0,0,0,0
+18.0,feminino,19.1,1.0,não,noroeste,14261.22,Peso normal,0,0,0,0
+23.0,masculino,19.11,0.0,sim,sudeste,16995.32,Peso normal,0,0,0,0
+20.0,feminino,34.15,3.0,sim,noroeste,20015.17,Obeso,0,0,0,0
+75.0,masculino,32.31,2.0,sim,nordeste,39827.61,Obeso,0,0,0,0
+55.0,masculino,29.19,1.0,sim,sudeste,37998.79,Sobrepeso,0,0,0,0
+79.0,masculino,18.99,0.0,sim,nordeste,42196.08,Peso normal,0,0,0,0
+21.0,masculino,24.04,3.0,sim,sudoeste,18455.49,Peso normal,0,0,0,0
+23.0,feminino,33.39,3.0,sim,sudoeste,14930.95,Obeso,0,0,0,0
+67.0,masculino,30.11,2.0,sim,nordeste,39521.63,Obeso,0,0,0,0
+26.0,masculino,22.41,3.0,sim,sudoeste,23783.22,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+37.0,masculino,30.49,3.0,não,noroeste,24580.2,Obeso,0,0,0,0
+26.0,feminino,20.75,1.0,não,nordeste,18302.7,Peso normal,0,0,0,0
+32.0,masculino,23.13,1.0,sim,sudeste,21059.38,Peso normal,0,0,0,0
+57.0,masculino,34.72,3.0,sim,noroeste,39058.29,Obeso,0,0,0,0
+44.0,masculino,22.73,0.0,sim,noroeste,31128.56,Peso normal,0,0,0,0
+21.0,masculino,24.19,0.0,sim,noroeste,11860.78,Peso normal,0,0,0,0
+78.0,masculino,27.66,0.0,não,sudoeste,47851.24,Sobrepeso,0,0,0,0
+26.0,masculino,27.81,3.0,não,sudeste,16674.7,Sobrepeso,0,0,0,0
+44.0,feminino,31.8,2.0,sim,nordeste,31353.14,Obeso,0,0,0,0
+35.0,masculino,33.89,2.0,não,sudoeste,28021.8,Obeso,0,0,0,0
+77.0,masculino,30.4,0.0,sim,noroeste,39891.87,Obeso,0,0,0,0
+77.0,masculino,33.46,3.0,não,sudeste,45590.55,Obeso,0,0,0,0
+27.0,feminino,29.81,3.0,não,nordeste,19004.51,Sobrepeso,0,0,0,0
+61.0,feminino,26.48,1.0,não,sudoeste,40254.57,Sobrepeso,0,0,0,0
+47.0,feminino,27.56,3.0,não,sudeste,30279.84,Sobrepeso,0,0,0,0
+79.0,feminino,28.2,0.0,sim,nordeste,44422.14,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+30.0,feminino,33.7,2.0,sim,nordeste,18264.18,Obeso,0,0,0,0
+63.0,masculino,23.62,3.0,sim,noroeste,39875.78,Peso normal,0,0,0,0
+48.0,masculino,29.64,2.0,sim,sudoeste,28622.81,Sobrepeso,0,0,0,0
+19.0,masculino,23.6,0.0,sim,sudeste,12765.14,Peso normal,0,0,0,0
+29.0,feminino,21.69,3.0,não,nordeste,20803.72,Peso normal,0,0,0,0
+19.0,feminino,27.48,0.0,sim,sudeste,14443.04,Sobrepeso,0,0,0,0
+20.0,feminino,25.02,1.0,sim,noroeste,17347.23,Sobrepeso,0,0,0,0
+46.0,masculino,25.34,3.0,não,sudeste,31226.75,Sobrepeso,0,0,0,0
+71.0,feminino,29.29,3.0,não,nordeste,45112.89,Sobrepeso,0,0,0,0
+26.0,masculino,25.51,0.0,não,sudeste,19484.65,Sobrepeso,0,0,0,0
+56.0,masculino,21.58,2.0,não,nordeste,38401.71,Peso normal,0,0,0,0
+57.0,masculino,30.82,1.0,não,noroeste,35122.1,Obeso,0,0,0,0
+34.0,masculino,23.03,1.0,sim,sudeste,23873.28,Peso normal,0,0,0,0
+57.0,masculino,25.58,3.0,não,noroeste,33515.96,Sobrepeso,0,0,0,0
+71.0,feminino,30.69,3.0,sim,nordeste,40209.11,Obeso,0,0,0,0
+20.0,masculino,18.5,2.0,sim,nordeste,13562.48,Peso normal,0,0,0,0
+23.0,masculino,26.36,0.0,não,nordeste,16073.71,Sobrepeso,0,0,0,0
+63.0,masculino,29.09,3.0,sim,nordeste,33936.09,Sobrepeso,0,0,0,0
+68.0,masculino,34.37,2.0,não,sudeste,39265.62,Obeso,0,0,0,0
+40.0,masculino,28.71,2.0,não,nordeste,24971.05,Sobrepeso,0,0,0,0
+24.0,feminino,31.14,1.0,sim,noroeste,20722.78,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+62.0,feminino,26.12,3.0,não,nordeste,39827.38,Sobrepeso,0,0,0,0
+24.0,feminino,23.33,0.0,sim,sudeste,16566.47,Peso normal,0,0,0,0
+34.0,masculino,24.78,1.0,não,sudoeste,24209.99,Peso normal,0,0,0,0
+36.0,feminino,31.95,1.0,sim,nordeste,22353.28,Obeso,0,0,0,0
+59.0,feminino,22.92,1.0,sim,sudeste,39692.29,Peso normal,0,0,0,0
+26.0,feminino,18.72,1.0,não,noroeste,19109.37,Peso normal,0,0,0,0
+22.0,masculino,22.61,3.0,não,nordeste,21503.97,Peso normal,0,0,0,0
+50.0,masculino,30.68,1.0,sim,nordeste,26873.39,Obeso,0,0,0,0
+40.0,feminino,25.48,1.0,não,noroeste,28459.56,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+69.0,feminino,21.53,3.0,sim,sudoeste,40131.69,Peso normal,0,0,0,0
+56.0,feminino,25.27,1.0,não,sudoeste,32467.45,Sobrepeso,0,0,0,0
+25.0,feminino,30.25,1.0,não,sudeste,17039.47,Obeso,0,0,0,0
+64.0,feminino,19.93,1.0,não,noroeste,35154.57,Peso normal,0,0,0,0
+33.0,masculino,32.09,0.0,sim,sudoeste,22093.64,Obeso,0,0,0,0
+47.0,feminino,26.13,3.0,sim,nordeste,29418.8,Sobrepeso,0,0,0,0
+66.0,masculino,22.89,1.0,sim,sudoeste,37909.37,Peso normal,0,0,0,0
+47.0,feminino,18.94,2.0,não,nordeste,26609.81,Peso normal,0,0,0,0
+71.0,masculino,19.76,0.0,não,sudeste,36550.44,Peso normal,0,0,0,0
+54.0,feminino,30.42,2.0,não,noroeste,33857.57,Obeso,0,0,0,0
+64.0,feminino,21.63,2.0,sim,sudoeste,38186.98,Peso normal,0,0,0,0
+25.0,masculino,24.96,1.0,não,sudeste,16597.13,Sobrepeso,0,0,0,0
+79.0,masculino,31.27,2.0,não,nordeste,48868.92,Obeso,0,0,0,0
+69.0,masculino,18.84,0.0,sim,nordeste,43410.13,Peso normal,0,0,0,0
+25.0,feminino,23.55,3.0,sim,noroeste,21264.62,Peso normal,0,0,0,0
+20.0,masculino,27.83,1.0,sim,nordeste,16699.02,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+54.0,feminino,34.98,3.0,sim,sudoeste,31826.55,Obeso,0,0,0,0
+20.0,feminino,31.44,1.0,não,nordeste,13055.22,Obeso,0,0,0,0
+40.0,feminino,18.65,3.0,sim,noroeste,25225.1,Peso normal,0,0,0,0
+22.0,masculino,28.81,1.0,não,sudeste,18259.5,Sobrepeso,0,0,0,0
+37.0,masculino,27.94,3.0,não,sudoeste,27801.21,Sobrepeso,0,0,0,0
+38.0,feminino,24.8,1.0,não,sudeste,27309.81,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+60.0,feminino,33.13,2.0,sim,sudoeste,40399.49,Obeso,0,0,0,0
+38.0,feminino,30.05,3.0,não,nordeste,27496.07,Obeso,0,0,0,0
+75.0,feminino,28.42,3.0,não,noroeste,40519.26,Sobrepeso,0,0,0,0
+30.0,feminino,26.99,2.0,sim,noroeste,18805.37,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+49.0,feminino,27.9,0.0,sim,sudoeste,29082.76,Sobrepeso,0,0,0,0
+59.0,feminino,20.96,0.0,não,sudoeste,32955.22,Peso normal,0,0,0,0
+35.0,feminino,27.35,1.0,não,sudoeste,25115.44,Sobrepeso,0,0,0,0
+33.0,feminino,31.37,3.0,sim,nordeste,21010.32,Obeso,0,0,0,0
+41.0,feminino,21.58,3.0,sim,noroeste,29100.6,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+45.0,feminino,31.91,2.0,sim,nordeste,30490.35,Obeso,0,0,0,0
+22.0,masculino,25.2,0.0,não,sudoeste,13375.32,Sobrepeso,0,0,0,0
+67.0,masculino,24.83,1.0,não,noroeste,43566.08,Peso normal,0,0,0,0
+44.0,feminino,26.76,3.0,não,nordeste,31738.75,Sobrepeso,0,0,0,0
+58.0,feminino,28.19,1.0,sim,sudoeste,31843.91,Sobrepeso,0,0,0,0
+41.0,masculino,34.99,0.0,não,sudoeste,22308.79,Obeso,0,0,0,0
+78.0,feminino,22.1,1.0,sim,nordeste,48869.7,Peso normal,0,0,0,0
+68.0,feminino,33.11,0.0,sim,sudeste,36141.52,Obeso,0,0,0,0
+23.0,masculino,29.1,3.0,sim,noroeste,15325.06,Sobrepeso,0,0,0,0
+63.0,feminino,26.38,0.0,não,sudoeste,37119.92,Sobrepeso,0,0,0,0
+72.0,masculino,27.47,1.0,sim,noroeste,40288.47,Sobrepeso,0,0,0,0
+73.0,masculino,20.56,1.0,sim,sudoeste,42818.48,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+32.0,feminino,30.88,3.0,sim,sudeste,20596.84,Obeso,0,0,0,0
+36.0,feminino,31.42,1.0,sim,noroeste,22044.01,Obeso,0,0,0,0
+22.0,feminino,24.89,3.0,sim,noroeste,19574.27,Peso normal,0,0,0,0
+60.0,feminino,33.45,1.0,não,noroeste,31931.82,Obeso,0,0,0,0
+21.0,feminino,19.53,1.0,sim,sudoeste,12608.17,Peso normal,0,0,0,0
+33.0,masculino,19.33,1.0,não,noroeste,22051.19,Peso normal,0,0,0,0
+22.0,feminino,26.85,1.0,sim,sudeste,17631.61,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+29.0,masculino,30.48,2.0,não,sudoeste,19215.79,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+45.0,masculino,19.29,0.0,sim,noroeste,32629.58,Peso normal,0,0,0,0
+51.0,feminino,20.31,2.0,sim,noroeste,31875.42,Peso normal,0,0,0,0
+59.0,masculino,25.63,3.0,sim,noroeste,36069.36,Sobrepeso,0,0,0,0
+58.0,feminino,34.33,1.0,não,sudoeste,33218.83,Obeso,0,0,0,0
+50.0,feminino,21.14,2.0,não,sudeste,27961.09,Peso normal,0,0,0,0
+58.0,masculino,25.61,0.0,não,sudeste,33138.53,Sobrepeso,0,0,0,0
+37.0,feminino,25.78,2.0,sim,sudoeste,27004.17,Sobrepeso,0,0,0,0
+60.0,masculino,27.69,0.0,sim,sudoeste,39577.61,Sobrepeso,0,0,0,0
+45.0,feminino,30.19,3.0,não,nordeste,31496.09,Obeso,0,0,0,0
+44.0,feminino,21.47,0.0,não,noroeste,27697.09,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,masculino,27.58,1.0,não,sudoeste,41166.19,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+64.0,masculino,33.56,2.0,não,sudeste,39490.99,Obeso,0,0,0,0
+61.0,feminino,26.54,2.0,não,noroeste,33983.92,Sobrepeso,0,0,0,0
+52.0,feminino,21.48,0.0,não,sudoeste,31502.17,Peso normal,0,0,0,0
+47.0,feminino,21.96,3.0,não,nordeste,28421.68,Peso normal,0,0,0,0
+41.0,feminino,21.96,2.0,não,nordeste,24004.87,Peso normal,0,0,0,0
+38.0,feminino,22.06,1.0,sim,noroeste,21575.94,Peso normal,0,0,0,0
+76.0,feminino,27.94,3.0,não,sudoeste,41761.46,Sobrepeso,0,0,0,0
+38.0,masculino,31.18,0.0,sim,nordeste,22207.62,Obeso,0,0,0,0
+23.0,feminino,22.57,1.0,sim,nordeste,18496.03,Peso normal,0,0,0,0
+65.0,masculino,24.19,1.0,sim,sudeste,35332.43,Peso normal,0,0,0,0
+26.0,feminino,33.21,2.0,não,sudeste,23251.12,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+38.0,feminino,27.42,2.0,sim,sudoeste,27116.12,Sobrepeso,0,0,0,0
+77.0,feminino,33.42,0.0,sim,noroeste,40438.6,Obeso,0,0,0,0
+34.0,masculino,24.16,2.0,não,nordeste,23968.4,Peso normal,0,0,0,0
+29.0,masculino,29.38,1.0,não,sudoeste,24426.72,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+24.0,masculino,18.5,1.0,sim,sudoeste,18795.45,Peso normal,0,0,0,0
+59.0,masculino,23.52,2.0,não,sudeste,31600.26,Peso normal,0,0,0,0
+53.0,masculino,21.87,0.0,sim,nordeste,33159.89,Peso normal,0,0,0,0
+33.0,feminino,20.29,1.0,não,sudoeste,20938.04,Peso normal,0,0,0,0
+48.0,feminino,30.93,2.0,não,noroeste,26172.06,Obeso,0,0,0,0
+19.0,feminino,23.45,0.0,não,sudeste,16338.8,Peso normal,0,0,0,0
+18.0,feminino,34.81,0.0,sim,sudeste,18055.95,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+64.0,feminino,19.75,3.0,sim,sudoeste,38922.16,Peso normal,0,0,0,0
+44.0,masculino,22.14,0.0,não,sudoeste,30557.67,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+23.0,feminino,24.48,3.0,sim,sudoeste,21086.18,Peso normal,0,0,0,0
+42.0,masculino,27.6,1.0,sim,sudeste,31101.44,Sobrepeso,0,0,0,0
+45.0,masculino,28.79,0.0,não,noroeste,30139.17,Sobrepeso,0,0,0,0
+52.0,feminino,25.37,1.0,não,noroeste,34240.0,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+22.0,feminino,27.97,3.0,sim,sudeste,21713.7,Sobrepeso,0,0,0,0
+49.0,masculino,26.93,0.0,sim,noroeste,27051.93,Sobrepeso,0,0,0,0
+55.0,masculino,18.55,2.0,sim,sudoeste,37948.66,Peso normal,0,0,0,0
+34.0,feminino,31.23,0.0,sim,nordeste,20955.6,Obeso,0,0,0,0
+58.0,feminino,22.25,3.0,não,noroeste,39663.97,Peso normal,0,0,0,0
+74.0,feminino,23.72,2.0,não,noroeste,41398.51,Peso normal,0,0,0,0
+58.0,masculino,22.69,3.0,não,nordeste,33414.83,Peso normal,0,0,0,0
+33.0,masculino,32.26,1.0,sim,nordeste,19934.89,Obeso,0,0,0,0
+51.0,feminino,18.06,1.0,sim,noroeste,31456.71,Abaixo do peso,0,0,0,0
+23.0,masculino,23.16,2.0,não,sudeste,13574.58,Peso normal,0,0,0,0
+27.0,feminino,18.6,0.0,sim,noroeste,17287.54,Peso normal,0,0,0,0
+65.0,feminino,30.2,1.0,sim,sudeste,35334.64,Obeso,0,0,0,0
+53.0,masculino,19.27,2.0,sim,noroeste,34018.62,Peso normal,0,0,0,0
+54.0,feminino,19.95,1.0,não,noroeste,30171.1,Peso normal,0,0,0,0
+68.0,masculino,29.63,2.0,não,sudoeste,40347.38,Sobrepeso,0,0,0,0
+22.0,masculino,30.49,0.0,não,sudoeste,14065.48,Obeso,0,0,0,0
+61.0,feminino,24.67,1.0,sim,nordeste,33337.59,Peso normal,0,0,0,0
+50.0,feminino,33.94,0.0,sim,sudoeste,27868.49,Obeso,0,0,0,0
+68.0,feminino,26.36,0.0,não,nordeste,41477.68,Sobrepeso,0,0,0,0
+65.0,feminino,20.77,3.0,não,sudeste,42949.66,Peso normal,0,0,0,0
+71.0,masculino,32.06,2.0,não,nordeste,46037.66,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+18.0,feminino,31.18,3.0,não,nordeste,18258.64,Obeso,0,0,0,0
+58.0,masculino,30.01,1.0,sim,sudeste,32736.91,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+39.0,feminino,34.5,3.0,não,sudeste,27778.53,Obeso,0,0,0,0
+56.0,masculino,22.5,0.0,sim,nordeste,36055.63,Peso normal,0,0,0,0
+64.0,feminino,32.23,3.0,sim,sudeste,41391.91,Obeso,0,0,0,0
+71.0,masculino,33.61,2.0,sim,noroeste,37838.58,Obeso,0,0,0,0
+72.0,masculino,26.11,1.0,sim,sudoeste,39240.03,Sobrepeso,0,0,0,0
+61.0,masculino,22.98,1.0,sim,nordeste,40160.66,Peso normal,0,0,0,0
+33.0,feminino,34.84,3.0,sim,nordeste,21583.85,Obeso,0,0,0,0
+32.0,feminino,20.82,0.0,não,noroeste,17925.72,Peso normal,0,0,0,0
+79.0,feminino,21.56,1.0,sim,nordeste,42219.9,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,feminino,33.83,3.0,sim,sudeste,33782.48,Obeso,0,0,0,0
+26.0,masculino,21.26,0.0,sim,noroeste,15322.47,Peso normal,0,0,0,0
+21.0,feminino,33.61,2.0,não,sudoeste,13770.05,Obeso,0,0,0,0
+66.0,feminino,18.12,0.0,sim,sudoeste,36295.11,Abaixo do peso,0,0,0,0
+55.0,feminino,26.36,0.0,não,sudoeste,29182.14,Sobrepeso,0,0,0,0
+25.0,feminino,22.39,2.0,não,sudoeste,20815.6,Peso normal,0,0,0,0
+21.0,masculino,33.63,0.0,sim,sudeste,19547.99,Obeso,0,0,0,0
+61.0,feminino,27.11,0.0,não,nordeste,38487.31,Sobrepeso,0,0,0,0
+46.0,masculino,18.11,1.0,não,nordeste,31450.13,Abaixo do peso,0,0,0,0
+41.0,masculino,19.95,1.0,sim,noroeste,24037.12,Peso normal,0,0,0,0
+76.0,masculino,25.26,1.0,não,noroeste,45291.7,Sobrepeso,0,0,0,0
+63.0,feminino,25.88,3.0,sim,sudoeste,34390.31,Sobrepeso,0,0,0,0
+63.0,masculino,19.23,2.0,sim,sudoeste,34669.26,Peso normal,0,0,0,0
+62.0,masculino,23.12,3.0,não,nordeste,38678.92,Peso normal,0,0,0,0
+60.0,feminino,28.6,2.0,não,sudeste,36512.47,Sobrepeso,0,0,0,0
+45.0,feminino,29.41,2.0,não,sudoeste,26005.19,Sobrepeso,0,0,0,0
+44.0,masculino,18.34,3.0,sim,noroeste,32335.02,Abaixo do peso,0,0,0,0
+31.0,masculino,34.48,2.0,não,sudoeste,21083.05,Obeso,0,0,0,0
+44.0,feminino,31.58,3.0,não,nordeste,29190.52,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,masculino,27.25,0.0,não,noroeste,31553.78,Sobrepeso,0,0,0,0
+39.0,feminino,31.98,3.0,não,noroeste,21567.42,Obeso,0,0,0,0
+38.0,feminino,34.92,2.0,não,nordeste,26430.34,Obeso,0,0,0,0
+48.0,feminino,30.08,1.0,não,sudoeste,30153.41,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+58.0,feminino,30.44,1.0,sim,nordeste,38833.1,Obeso,0,0,0,0
+73.0,feminino,23.16,2.0,não,sudoeste,38633.98,Peso normal,0,0,0,0
+34.0,feminino,19.19,0.0,não,sudeste,20313.94,Peso normal,0,0,0,0
+35.0,feminino,31.01,2.0,sim,sudoeste,22316.43,Obeso,0,0,0,0
+69.0,masculino,22.94,3.0,não,sudeste,38210.28,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+70.0,masculino,26.09,2.0,sim,sudoeste,38856.25,Sobrepeso,0,0,0,0
+27.0,masculino,23.9,3.0,não,noroeste,16600.03,Peso normal,0,0,0,0
+54.0,feminino,25.7,3.0,não,sudoeste,37548.48,Sobrepeso,0,0,0,0
+56.0,masculino,31.04,1.0,sim,nordeste,35589.59,Obeso,0,0,0,0
+49.0,feminino,19.13,1.0,sim,noroeste,34109.14,Peso normal,0,0,0,0
+23.0,masculino,34.39,1.0,não,noroeste,13285.66,Obeso,0,0,0,0
+74.0,masculino,32.98,3.0,não,sudeste,46662.33,Obeso,0,0,0,0
+40.0,masculino,25.28,1.0,sim,sudoeste,26843.72,Sobrepeso,0,0,0,0
+71.0,masculino,29.76,1.0,não,noroeste,37312.07,Sobrepeso,0,0,0,0
+32.0,masculino,18.97,3.0,sim,sudeste,25457.18,Peso normal,0,0,0,0
+33.0,masculino,26.36,0.0,não,noroeste,20054.42,Sobrepeso,0,0,0,0
+50.0,feminino,32.25,0.0,sim,nordeste,31065.02,Obeso,0,0,0,0
+58.0,feminino,19.75,2.0,não,noroeste,32669.37,Peso normal,0,0,0,0
+74.0,feminino,29.74,1.0,não,sudoeste,39810.75,Sobrepeso,0,0,0,0
+59.0,masculino,24.77,3.0,não,sudoeste,40095.39,Peso normal,0,0,0,0
+55.0,feminino,24.54,2.0,sim,nordeste,31277.65,Peso normal,0,0,0,0
+69.0,masculino,32.94,3.0,sim,noroeste,42795.97,Obeso,0,0,0,0
+22.0,feminino,23.16,3.0,sim,nordeste,20156.72,Peso normal,0,0,0,0
+51.0,masculino,18.05,2.0,sim,noroeste,34715.17,Abaixo do peso,0,0,0,0
+75.0,feminino,21.46,1.0,não,sudeste,41432.13,Peso normal,0,0,0,0
+24.0,masculino,20.99,3.0,não,nordeste,20244.93,Peso normal,0,0,0,0
+63.0,masculino,33.92,3.0,não,sudeste,40899.54,Obeso,0,0,0,0
+53.0,feminino,30.62,1.0,não,noroeste,34596.94,Obeso,0,0,0,0
+70.0,feminino,31.5,2.0,não,sudoeste,37522.97,Obeso,0,0,0,0
+48.0,masculino,18.91,3.0,não,sudoeste,27662.39,Peso normal,0,0,0,0
+48.0,feminino,33.36,3.0,não,sudeste,26793.08,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+28.0,masculino,24.65,2.0,sim,sudoeste,23314.36,Peso normal,0,0,0,0
+27.0,masculino,31.72,1.0,não,noroeste,15926.26,Obeso,0,0,0,0
+64.0,masculino,28.81,1.0,sim,nordeste,42082.83,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+59.0,masculino,27.06,3.0,não,sudeste,40268.43,Sobrepeso,0,0,0,0
+29.0,feminino,19.08,2.0,sim,nordeste,20067.26,Peso normal,0,0,0,0
+53.0,masculino,24.93,2.0,sim,nordeste,28589.67,Sobrepeso,0,0,0,0
+64.0,feminino,27.17,2.0,não,sudoeste,40495.09,Sobrepeso,0,0,0,0
+66.0,feminino,26.36,2.0,não,nordeste,35002.45,Sobrepeso,0,0,0,0
+24.0,masculino,29.21,0.0,não,sudeste,18347.93,Sobrepeso,0,0,0,0
+72.0,masculino,31.86,2.0,não,sudoeste,44264.09,Obeso,0,0,0,0
+73.0,masculino,25.95,0.0,não,sudeste,40161.8,Sobrepeso,0,0,0,0
+27.0,masculino,19.23,2.0,sim,nordeste,21663.16,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+33.0,feminino,31.76,2.0,sim,sudoeste,22015.82,Obeso,0,0,0,0
+47.0,masculino,20.89,2.0,sim,noroeste,32434.7,Peso normal,0,0,0,0
+38.0,feminino,21.93,1.0,sim,sudoeste,23357.19,Peso normal,0,0,0,0
+59.0,feminino,18.06,1.0,sim,noroeste,33216.1,Abaixo do peso,0,0,0,0
+67.0,masculino,23.91,1.0,não,noroeste,43680.07,Peso normal,0,0,0,0
+64.0,feminino,32.73,0.0,sim,sudeste,37618.17,Obeso,0,0,0,0
+76.0,masculino,31.14,2.0,sim,sudeste,43662.86,Obeso,0,0,0,0
+46.0,feminino,22.32,0.0,sim,sudeste,29116.19,Peso normal,0,0,0,0
+61.0,masculino,25.65,2.0,sim,sudeste,34866.3,Sobrepeso,0,0,0,0
+42.0,feminino,21.12,0.0,sim,noroeste,25167.66,Peso normal,0,0,0,0
+37.0,masculino,19.52,2.0,não,sudeste,20206.74,Peso normal,0,0,0,0
+75.0,feminino,22.01,1.0,não,nordeste,46121.85,Peso normal,0,0,0,0
+24.0,masculino,27.39,3.0,sim,sudoeste,19822.31,Sobrepeso,0,0,0,0
+49.0,masculino,23.81,0.0,sim,sudoeste,26247.4,Peso normal,0,0,0,0
+32.0,masculino,26.57,1.0,não,sudoeste,18078.16,Sobrepeso,0,0,0,0
+22.0,masculino,18.88,3.0,sim,sudoeste,13544.74,Peso normal,0,0,0,0
+53.0,feminino,33.5,1.0,sim,sudoeste,32007.25,Obeso,0,0,0,0
+66.0,feminino,27.17,2.0,não,sudoeste,35842.5,Sobrepeso,0,0,0,0
+78.0,feminino,31.06,3.0,sim,nordeste,48281.94,Obeso,0,0,0,0
+70.0,feminino,20.67,3.0,não,sudoeste,45436.87,Peso normal,0,0,0,0
+47.0,feminino,22.0,3.0,não,noroeste,26927.56,Peso normal,0,0,0,0
+29.0,feminino,26.34,0.0,não,nordeste,21605.26,Sobrepeso,0,0,0,0
+23.0,feminino,29.9,0.0,sim,sudeste,18846.89,Obeso,0,0,0,0
+74.0,masculino,23.74,3.0,não,sudeste,42878.34,Peso normal,0,0,0,0
+61.0,feminino,34.75,0.0,não,sudoeste,39609.63,Obeso,0,0,0,0
+64.0,feminino,24.81,3.0,não,sudeste,42746.52,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,masculino,29.64,0.0,sim,sudeste,44495.85,Sobrepeso,0,0,0,0
+50.0,feminino,20.77,2.0,não,nordeste,27999.65,Peso normal,0,0,0,0
+45.0,masculino,28.59,0.0,sim,nordeste,30877.45,Sobrepeso,0,0,0,0
+59.0,feminino,28.05,1.0,não,sudoeste,33825.19,Sobrepeso,0,0,0,0
+20.0,masculino,30.07,1.0,não,sudeste,20224.66,Obeso,0,0,0,0
+57.0,masculino,22.17,0.0,não,sudoeste,30372.58,Peso normal,0,0,0,0
+54.0,feminino,19.57,1.0,sim,noroeste,35431.51,Peso normal,0,0,0,0
+79.0,feminino,25.86,3.0,não,sudoeste,50356.99,Sobrepeso,0,0,0,0
+40.0,masculino,28.95,0.0,não,sudoeste,29102.72,Sobrepeso,0,0,0,0
+47.0,masculino,18.82,3.0,sim,sudeste,27445.3,Peso normal,0,0,0,0
+30.0,feminino,27.09,2.0,não,noroeste,22636.57,Sobrepeso,0,0,0,0
+21.0,feminino,30.29,0.0,sim,noroeste,19775.84,Obeso,0,0,0,0
+48.0,feminino,20.15,3.0,sim,sudeste,33388.3,Peso normal,0,0,0,0
+69.0,feminino,19.88,0.0,não,sudeste,41918.61,Peso normal,0,0,0,0
+40.0,feminino,24.63,1.0,sim,nordeste,30166.73,Peso normal,0,0,0,0
+57.0,feminino,24.67,3.0,não,sudeste,32588.9,Peso normal,0,0,0,0
+42.0,masculino,34.03,1.0,não,nordeste,27574.4,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+67.0,feminino,23.67,3.0,sim,sudoeste,37102.31,Peso normal,0,0,0,0
+22.0,feminino,27.42,2.0,não,noroeste,13109.51,Sobrepeso,0,0,0,0
+58.0,masculino,32.09,0.0,sim,noroeste,31898.21,Obeso,0,0,0,0
+48.0,masculino,34.25,1.0,não,sudoeste,29573.63,Obeso,0,0,0,0
+42.0,feminino,26.93,3.0,não,nordeste,25909.11,Sobrepeso,0,0,0,0
+31.0,feminino,34.9,0.0,sim,noroeste,24181.26,Obeso,0,0,0,0
+51.0,masculino,26.08,3.0,sim,sudoeste,33352.5,Sobrepeso,0,0,0,0
+78.0,feminino,25.01,1.0,sim,sudeste,45936.04,Sobrepeso,0,0,0,0
+32.0,masculino,31.84,1.0,não,noroeste,24629.52,Obeso,0,0,0,0
+59.0,masculino,32.16,2.0,não,noroeste,36566.81,Obeso,0,0,0,0
+28.0,feminino,33.17,1.0,sim,sudoeste,18525.92,Obeso,0,0,0,0
+40.0,feminino,22.82,0.0,sim,noroeste,29821.39,Peso normal,0,0,0,0
+55.0,masculino,22.98,0.0,sim,nordeste,33021.01,Peso normal,0,0,0,0
+65.0,masculino,32.93,3.0,não,sudeste,37463.1,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+69.0,masculino,22.59,0.0,sim,sudoeste,39670.22,Peso normal,0,0,0,0
+64.0,masculino,34.16,2.0,não,sudoeste,35608.54,Obeso,0,0,0,0
+74.0,masculino,23.58,3.0,sim,nordeste,43544.35,Peso normal,0,0,0,0
+21.0,masculino,20.85,1.0,sim,nordeste,17571.67,Peso normal,0,0,0,0
+77.0,masculino,24.17,0.0,sim,sudeste,42850.84,Peso normal,0,0,0,0
+63.0,feminino,33.8,1.0,não,noroeste,40634.92,Obeso,0,0,0,0
+46.0,feminino,22.03,2.0,não,sudeste,32834.39,Peso normal,0,0,0,0
+58.0,feminino,28.24,3.0,não,sudeste,33191.9,Sobrepeso,0,0,0,0
+46.0,masculino,32.71,0.0,não,nordeste,24682.15,Obeso,0,0,0,0
+78.0,feminino,28.78,1.0,sim,sudeste,48914.36,Sobrepeso,0,0,0,0
+46.0,masculino,30.7,2.0,sim,sudoeste,29547.86,Obeso,0,0,0,0
+26.0,masculino,19.73,2.0,não,noroeste,17504.78,Peso normal,0,0,0,0
+61.0,masculino,30.01,1.0,sim,sudoeste,32938.27,Obeso,0,0,0,0
+31.0,feminino,19.99,1.0,não,nordeste,19025.17,Peso normal,0,0,0,0
+30.0,feminino,26.29,1.0,não,nordeste,20786.86,Sobrepeso,0,0,0,0
+70.0,feminino,32.83,3.0,não,nordeste,42475.51,Obeso,0,0,0,0
+43.0,feminino,32.83,0.0,sim,noroeste,22892.86,Obeso,0,0,0,0
+47.0,masculino,29.37,3.0,sim,sudeste,31822.16,Sobrepeso,0,0,0,0
+68.0,feminino,18.38,0.0,sim,noroeste,40988.21,Abaixo do peso,0,0,0,0
+50.0,masculino,34.38,1.0,não,noroeste,32458.83,Obeso,0,0,0,0
+66.0,masculino,24.44,0.0,não,nordeste,35164.27,Peso normal,0,0,0,0
+26.0,masculino,21.69,2.0,sim,noroeste,19410.18,Peso normal,0,0,0,0
+28.0,feminino,23.66,2.0,sim,nordeste,18063.88,Peso normal,0,0,0,0
+41.0,feminino,27.34,2.0,sim,noroeste,27773.03,Sobrepeso,0,0,0,0
+30.0,feminino,24.27,3.0,sim,sudeste,25356.07,Peso normal,0,0,0,0
+43.0,feminino,31.28,1.0,sim,sudeste,31750.6,Obeso,0,0,0,0
+58.0,feminino,32.2,2.0,sim,sudoeste,39775.17,Obeso,0,0,0,0
+74.0,masculino,21.22,2.0,sim,nordeste,45269.89,Peso normal,0,0,0,0
+33.0,feminino,22.15,2.0,não,sudeste,21188.4,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+52.0,masculino,21.27,1.0,sim,sudoeste,29000.9,Peso normal,0,0,0,0
+58.0,feminino,32.21,1.0,não,sudeste,37158.63,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+70.0,masculino,18.71,3.0,sim,noroeste,43982.34,Peso normal,0,0,0,0
+79.0,masculino,24.7,2.0,não,sudoeste,48562.57,Peso normal,0,0,0,0
+45.0,masculino,22.66,3.0,não,noroeste,24469.76,Peso normal,0,0,0,0
+45.0,masculino,29.91,2.0,sim,nordeste,24834.45,Obeso,0,0,0,0
+58.0,masculino,25.0,1.0,não,nordeste,33489.43,Sobrepeso,0,0,0,0
+69.0,feminino,21.14,2.0,sim,nordeste,37912.48,Peso normal,0,0,0,0
+61.0,masculino,21.79,3.0,não,sudoeste,36321.85,Peso normal,0,0,0,0
+75.0,masculino,20.68,2.0,não,sudeste,39593.15,Peso normal,0,0,0,0
+52.0,masculino,31.45,3.0,sim,nordeste,35229.53,Obeso,0,0,0,0
+62.0,masculino,34.79,3.0,não,sudeste,35594.06,Obeso,0,0,0,0
+48.0,feminino,34.13,3.0,sim,noroeste,34595.31,Obeso,0,0,0,0
+41.0,feminino,34.04,0.0,sim,sudoeste,26687.57,Obeso,0,0,0,0
+65.0,feminino,33.27,3.0,não,sudoeste,42721.49,Obeso,0,0,0,0
+30.0,masculino,20.79,3.0,não,sudeste,20334.44,Peso normal,0,0,0,0
+33.0,masculino,22.03,1.0,sim,nordeste,26586.75,Peso normal,0,0,0,0
+28.0,masculino,34.52,1.0,sim,sudeste,23417.03,Obeso,0,0,0,0
+18.0,masculino,24.73,2.0,não,noroeste,14853.78,Peso normal,0,0,0,0
+21.0,masculino,33.3,2.0,não,nordeste,16312.33,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,masculino,34.66,2.0,sim,sudoeste,33070.4,Obeso,0,0,0,0
+68.0,feminino,32.54,1.0,sim,sudeste,39771.58,Obeso,0,0,0,0
+68.0,masculino,33.57,1.0,sim,sudoeste,40843.99,Obeso,0,0,0,0
+63.0,masculino,21.04,2.0,sim,sudeste,33480.15,Peso normal,0,0,0,0
+29.0,masculino,34.68,1.0,não,sudoeste,19814.9,Obeso,0,0,0,0
+23.0,masculino,28.45,0.0,não,nordeste,20253.7,Sobrepeso,0,0,0,0
+22.0,feminino,26.27,0.0,sim,sudeste,20656.06,Sobrepeso,0,0,0,0
+26.0,feminino,29.69,2.0,não,sudeste,16787.08,Sobrepeso,0,0,0,0
+65.0,masculino,31.45,1.0,sim,sudeste,36716.43,Obeso,0,0,0,0
+30.0,feminino,18.8,1.0,sim,nordeste,24036.94,Peso normal,0,0,0,0
+51.0,masculino,32.1,2.0,não,sudoeste,33000.01,Obeso,0,0,0,0
+43.0,masculino,21.15,0.0,não,nordeste,29301.66,Peso normal,0,0,0,0
+62.0,masculino,21.86,1.0,sim,noroeste,36277.08,Peso normal,0,0,0,0
+29.0,masculino,21.23,0.0,sim,sudeste,21605.28,Peso normal,0,0,0,0
+47.0,feminino,33.43,0.0,sim,nordeste,27517.9,Obeso,0,0,0,0
+51.0,masculino,28.94,3.0,não,nordeste,31416.29,Sobrepeso,0,0,0,0
+21.0,feminino,26.7,3.0,não,noroeste,17278.73,Sobrepeso,0,0,0,0
+32.0,feminino,22.88,3.0,sim,sudoeste,24771.25,Peso normal,0,0,0,0
+36.0,masculino,21.05,2.0,sim,sudeste,23327.1,Peso normal,0,0,0,0
+23.0,feminino,29.54,2.0,sim,noroeste,19983.25,Sobrepeso,0,0,0,0
+66.0,feminino,23.71,1.0,sim,nordeste,43306.51,Peso normal,0,0,0,0
+33.0,feminino,30.26,2.0,não,sudeste,20904.17,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+50.0,masculino,27.67,1.0,não,sudeste,29753.73,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+54.0,feminino,25.51,0.0,não,noroeste,30805.36,Sobrepeso,0,0,0,0
+46.0,feminino,26.33,2.0,não,sudeste,32859.77,Sobrepeso,0,0,0,0
+29.0,feminino,27.28,1.0,sim,nordeste,24492.09,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+30.0,masculino,24.72,3.0,não,sudeste,17101.08,Peso normal,0,0,0,0
+57.0,masculino,19.66,2.0,sim,sudoeste,33157.08,Peso normal,0,0,0,0
+67.0,masculino,22.03,0.0,sim,sudeste,38317.64,Peso normal,0,0,0,0
+20.0,masculino,33.18,0.0,não,noroeste,14242.72,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+43.0,feminino,23.93,3.0,sim,noroeste,29962.7,Peso normal,0,0,0,0
+67.0,masculino,23.78,3.0,não,nordeste,39788.72,Peso normal,0,0,0,0
+28.0,feminino,34.78,1.0,não,sudoeste,18332.01,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+22.0,feminino,21.62,0.0,não,sudeste,20423.84,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,masculino,34.76,3.0,sim,noroeste,29209.82,Obeso,0,0,0,0
+51.0,feminino,23.4,0.0,não,sudoeste,27297.64,Peso normal,0,0,0,0
+78.0,masculino,33.85,2.0,sim,sudeste,41938.09,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+46.0,feminino,26.89,2.0,não,noroeste,29223.02,Sobrepeso,0,0,0,0
+73.0,masculino,19.2,0.0,não,nordeste,42096.23,Peso normal,0,0,0,0
+35.0,feminino,29.0,0.0,não,sudoeste,26245.55,Sobrepeso,0,0,0,0
+71.0,masculino,30.91,2.0,sim,nordeste,45871.68,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+62.0,masculino,33.37,1.0,sim,nordeste,39270.95,Obeso,0,0,0,0
+18.0,feminino,24.9,2.0,não,nordeste,12588.08,Sobrepeso,0,0,0,0
+77.0,masculino,25.49,3.0,não,sudeste,46561.81,Sobrepeso,0,0,0,0
+41.0,feminino,21.04,1.0,sim,sudeste,24022.26,Peso normal,0,0,0,0
+74.0,feminino,34.77,0.0,sim,sudoeste,39516.28,Obeso,0,0,0,0
+50.0,masculino,27.73,0.0,sim,noroeste,34310.67,Sobrepeso,0,0,0,0
+44.0,masculino,18.27,3.0,não,nordeste,24204.89,Abaixo do peso,0,0,0,0
+41.0,masculino,24.31,3.0,sim,nordeste,25482.93,Peso normal,0,0,0,0
+46.0,masculino,20.76,1.0,sim,sudoeste,27492.54,Peso normal,0,0,0,0
+38.0,feminino,20.17,1.0,sim,noroeste,23905.19,Peso normal,0,0,0,0
+46.0,feminino,23.15,0.0,sim,noroeste,32387.74,Peso normal,0,0,0,0
+53.0,feminino,18.73,1.0,não,sudeste,33035.28,Peso normal,0,0,0,0
+65.0,feminino,26.6,2.0,sim,sudeste,35639.13,Sobrepeso,0,0,0,0
+74.0,masculino,24.04,2.0,sim,sudoeste,44162.59,Peso normal,0,0,0,0
+20.0,feminino,29.78,1.0,não,noroeste,15963.4,Sobrepeso,0,0,0,0
+29.0,feminino,27.59,1.0,sim,sudeste,19773.16,Sobrepeso,0,0,0,0
+54.0,feminino,30.33,3.0,não,sudoeste,34441.57,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+67.0,feminino,25.84,3.0,não,sudoeste,43508.38,Sobrepeso,0,0,0,0
+68.0,feminino,26.09,1.0,sim,noroeste,42508.25,Sobrepeso,0,0,0,0
+63.0,feminino,22.01,2.0,não,nordeste,33153.69,Peso normal,0,0,0,0
+24.0,feminino,18.43,3.0,não,noroeste,18830.48,Abaixo do peso,0,0,0,0
+64.0,feminino,24.01,2.0,sim,sudoeste,34209.75,Peso normal,0,0,0,0
+67.0,feminino,19.61,2.0,sim,sudoeste,37945.08,Peso normal,0,0,0,0
+73.0,masculino,30.76,2.0,sim,sudeste,43149.85,Obeso,0,0,0,0
+41.0,masculino,32.33,1.0,não,sudoeste,27534.16,Obeso,0,0,0,0
+46.0,masculino,30.26,3.0,não,sudoeste,28755.0,Obeso,0,0,0,0
+24.0,masculino,26.49,1.0,não,sudoeste,15186.53,Sobrepeso,0,0,0,0
+38.0,feminino,30.46,0.0,não,nordeste,28346.81,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+50.0,masculino,26.23,2.0,não,sudeste,30434.29,Sobrepeso,0,0,0,0
+79.0,masculino,31.38,1.0,não,nordeste,43571.08,Obeso,0,0,0,0
+66.0,feminino,20.14,1.0,não,nordeste,38532.43,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+21.0,feminino,22.21,0.0,não,sudoeste,20137.05,Peso normal,0,0,0,0
+72.0,feminino,23.17,3.0,sim,sudoeste,40902.28,Peso normal,0,0,0,0
+70.0,masculino,18.47,1.0,não,noroeste,41777.58,Abaixo do peso,0,0,0,0
+33.0,feminino,28.82,1.0,sim,noroeste,23894.19,Sobrepeso,0,0,0,0
+39.0,feminino,31.65,1.0,não,sudeste,25634.03,Obeso,0,0,0,0
+18.0,masculino,21.32,1.0,sim,nordeste,11880.46,Peso normal,0,0,0,0
+75.0,feminino,28.65,1.0,não,sudoeste,45246.16,Sobrepeso,0,0,0,0
+41.0,feminino,31.05,3.0,sim,nordeste,28580.29,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,feminino,18.22,2.0,sim,noroeste,25067.37,Abaixo do peso,0,0,0,0
+68.0,masculino,24.81,1.0,não,sudoeste,43774.52,Peso normal,0,0,0,0
+46.0,masculino,29.61,0.0,sim,nordeste,30465.55,Sobrepeso,0,0,0,0
+51.0,feminino,33.3,1.0,sim,sudoeste,34014.44,Obeso,0,0,0,0
+32.0,masculino,21.99,0.0,não,sudeste,25711.99,Peso normal,0,0,0,0
+36.0,masculino,23.73,3.0,sim,sudoeste,22884.01,Peso normal,0,0,0,0
+49.0,feminino,19.49,2.0,não,sudoeste,26327.83,Peso normal,0,0,0,0
+69.0,feminino,21.2,3.0,sim,sudeste,40984.03,Peso normal,0,0,0,0
+66.0,feminino,32.43,3.0,sim,noroeste,41475.96,Obeso,0,0,0,0
+73.0,masculino,20.46,2.0,sim,sudoeste,40577.12,Peso normal,0,0,0,0
+35.0,masculino,33.81,1.0,sim,sudeste,23882.59,Obeso,0,0,0,0
+53.0,feminino,18.66,2.0,sim,sudoeste,34464.16,Peso normal,0,0,0,0
+22.0,masculino,25.39,2.0,não,nordeste,14089.77,Sobrepeso,0,0,0,0
+74.0,feminino,20.07,3.0,sim,noroeste,45370.83,Peso normal,0,0,0,0
+20.0,feminino,31.06,1.0,não,sudoeste,15901.79,Obeso,0,0,0,0
+64.0,masculino,34.05,0.0,sim,sudoeste,37483.97,Obeso,0,0,0,0
+33.0,feminino,25.77,2.0,sim,sudeste,19359.97,Sobrepeso,0,0,0,0
+48.0,feminino,25.94,1.0,não,nordeste,32460.23,Sobrepeso,0,0,0,0
+32.0,masculino,22.47,3.0,não,sudeste,21731.15,Peso normal,0,0,0,0
+79.0,feminino,33.69,2.0,não,nordeste,46719.83,Obeso,0,0,0,0
+31.0,feminino,22.33,3.0,não,sudoeste,26321.4,Peso normal,0,0,0,0
+79.0,feminino,18.38,3.0,não,noroeste,43779.27,Abaixo do peso,0,0,0,0
+55.0,masculino,18.37,3.0,não,noroeste,35639.21,Abaixo do peso,0,0,0,0
+43.0,feminino,27.46,1.0,não,nordeste,25840.77,Sobrepeso,0,0,0,0
+54.0,feminino,20.55,2.0,sim,sudeste,36463.94,Peso normal,0,0,0,0
+58.0,masculino,21.68,0.0,sim,sudoeste,31747.19,Peso normal,0,0,0,0
+48.0,feminino,24.65,0.0,sim,sudeste,28220.27,Peso normal,0,0,0,0
+61.0,feminino,20.63,3.0,sim,noroeste,36000.12,Peso normal,0,0,0,0
+41.0,feminino,20.17,2.0,não,sudeste,22968.8,Peso normal,0,0,0,0
+18.0,feminino,20.68,3.0,sim,nordeste,17797.83,Peso normal,0,0,0,0
+50.0,masculino,20.36,2.0,não,sudeste,34401.53,Peso normal,0,0,0,0
+31.0,masculino,22.09,0.0,sim,sudoeste,22566.24,Peso normal,0,0,0,0
+40.0,feminino,25.28,0.0,não,noroeste,24338.53,Sobrepeso,0,0,0,0
+23.0,feminino,24.49,2.0,sim,noroeste,19350.62,Peso normal,0,0,0,0
+18.0,feminino,22.44,1.0,sim,sudoeste,15541.05,Peso normal,0,0,0,0
+23.0,feminino,26.01,3.0,não,sudoeste,19570.63,Sobrepeso,0,0,0,0
+42.0,feminino,20.44,1.0,não,sudoeste,26331.44,Peso normal,0,0,0,0
+76.0,masculino,24.07,3.0,sim,sudeste,40444.85,Peso normal,0,0,0,0
+23.0,masculino,28.1,0.0,sim,sudoeste,18393.95,Sobrepeso,0,0,0,0
+75.0,feminino,22.32,1.0,sim,nordeste,39586.17,Peso normal,0,0,0,0
+74.0,masculino,34.53,2.0,não,noroeste,40346.53,Obeso,0,0,0,0
+45.0,masculino,18.65,3.0,não,nordeste,33009.09,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+20.0,feminino,18.34,2.0,não,sudeste,11845.62,Abaixo do peso,0,0,0,0
+31.0,feminino,32.99,3.0,não,sudeste,19612.8,Obeso,0,0,0,0
+50.0,masculino,25.02,0.0,não,nordeste,34009.26,Sobrepeso,0,0,0,0
+38.0,feminino,23.06,3.0,sim,sudoeste,28745.73,Peso normal,0,0,0,0
+19.0,feminino,35.0,0.0,não,nordeste,19104.39,Obeso,0,0,0,0
+54.0,feminino,23.49,0.0,sim,sudoeste,35504.89,Peso normal,0,0,0,0
+68.0,masculino,28.93,0.0,sim,sudeste,41518.14,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+53.0,masculino,28.77,0.0,sim,noroeste,28688.43,Sobrepeso,0,0,0,0
+30.0,masculino,20.03,0.0,não,sudoeste,23997.55,Peso normal,0,0,0,0
+69.0,feminino,24.19,2.0,sim,sudeste,37040.54,Peso normal,0,0,0,0
+43.0,feminino,24.56,1.0,não,sudoeste,28659.03,Peso normal,0,0,0,0
+52.0,feminino,33.96,3.0,sim,noroeste,30996.38,Obeso,0,0,0,0
+54.0,masculino,18.29,3.0,não,noroeste,29856.03,Abaixo do peso,0,0,0,0
+27.0,feminino,25.06,1.0,não,sudeste,19131.12,Sobrepeso,0,0,0,0
+37.0,feminino,19.49,1.0,sim,noroeste,27866.87,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+59.0,feminino,34.91,0.0,sim,nordeste,32848.55,Obeso,0,0,0,0
+68.0,masculino,20.11,3.0,não,sudoeste,37940.49,Peso normal,0,0,0,0
+23.0,masculino,21.47,3.0,não,sudoeste,20782.42,Peso normal,0,0,0,0
+35.0,feminino,25.17,2.0,não,nordeste,24991.74,Sobrepeso,0,0,0,0
+62.0,masculino,23.88,0.0,não,noroeste,36055.87,Peso normal,0,0,0,0
+42.0,feminino,30.48,1.0,não,nordeste,24983.23,Obeso,0,0,0,0
+73.0,masculino,21.07,3.0,não,sudeste,42889.93,Peso normal,0,0,0,0
+28.0,feminino,32.72,1.0,não,sudoeste,16223.84,Obeso,0,0,0,0
+50.0,masculino,18.19,1.0,sim,sudoeste,33725.93,Abaixo do peso,0,0,0,0
+60.0,feminino,21.44,2.0,sim,nordeste,39273.5,Peso normal,0,0,0,0
+23.0,feminino,31.94,1.0,não,sudoeste,20576.5,Obeso,0,0,0,0
+79.0,masculino,21.58,1.0,sim,sudeste,44611.58,Peso normal,0,0,0,0
+37.0,masculino,31.13,3.0,sim,noroeste,25330.65,Obeso,0,0,0,0
+20.0,masculino,29.44,2.0,sim,nordeste,16621.68,Sobrepeso,0,0,0,0
+69.0,masculino,31.39,0.0,não,sudoeste,37409.68,Obeso,0,0,0,0
+20.0,feminino,19.3,1.0,não,noroeste,17095.96,Peso normal,0,0,0,0
+63.0,feminino,21.7,1.0,sim,sudoeste,40392.94,Peso normal,0,0,0,0
+50.0,feminino,20.05,1.0,não,sudeste,30957.34,Peso normal,0,0,0,0
+23.0,feminino,28.86,0.0,não,nordeste,14452.23,Sobrepeso,0,0,0,0
+29.0,masculino,31.4,1.0,não,nordeste,22267.83,Obeso,0,0,0,0
+60.0,masculino,33.24,1.0,sim,nordeste,31755.78,Obeso,0,0,0,0
+45.0,feminino,18.61,3.0,sim,sudeste,29699.07,Peso normal,0,0,0,0
+37.0,feminino,20.0,2.0,sim,sudeste,28918.82,Peso normal,0,0,0,0
+40.0,masculino,23.31,2.0,não,sudeste,29158.14,Peso normal,0,0,0,0
+27.0,masculino,30.43,2.0,não,nordeste,23173.44,Obeso,0,0,0,0
+35.0,masculino,21.05,2.0,sim,sudeste,22851.02,Peso normal,0,0,0,0
+24.0,masculino,23.09,2.0,sim,nordeste,21446.25,Peso normal,0,0,0,0
+36.0,feminino,30.54,1.0,sim,sudeste,21121.31,Obeso,0,0,0,0
+20.0,feminino,30.8,0.0,sim,sudeste,15097.5,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+20.0,feminino,33.11,2.0,sim,noroeste,13303.9,Obeso,0,0,0,0
+62.0,feminino,34.46,1.0,sim,sudoeste,38078.59,Obeso,0,0,0,0
+64.0,masculino,27.6,1.0,não,noroeste,38125.05,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+69.0,feminino,27.43,0.0,não,sudeste,37396.24,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+39.0,masculino,19.67,0.0,sim,sudeste,21481.41,Peso normal,0,0,0,0
+59.0,feminino,28.49,0.0,não,nordeste,35589.76,Sobrepeso,0,0,0,0
+66.0,masculino,20.52,2.0,sim,nordeste,36097.61,Peso normal,0,0,0,0
+40.0,feminino,31.86,3.0,sim,noroeste,24020.29,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+18.0,masculino,26.69,1.0,sim,noroeste,19407.4,Sobrepeso,0,0,0,0
+76.0,feminino,27.58,3.0,sim,nordeste,46996.43,Sobrepeso,0,0,0,0
+59.0,masculino,28.37,1.0,sim,sudeste,39882.42,Sobrepeso,0,0,0,0
+39.0,feminino,22.39,1.0,não,nordeste,22443.17,Peso normal,0,0,0,0
+18.0,feminino,32.18,1.0,não,nordeste,13033.8,Obeso,0,0,0,0
+22.0,feminino,21.87,2.0,não,nordeste,20523.49,Peso normal,0,0,0,0
+51.0,masculino,24.44,2.0,não,noroeste,32991.51,Peso normal,0,0,0,0
+79.0,masculino,26.16,0.0,não,nordeste,40925.81,Sobrepeso,0,0,0,0
+20.0,feminino,18.01,3.0,sim,sudeste,13371.42,Abaixo do peso,0,0,0,0
+65.0,feminino,19.28,3.0,sim,nordeste,38017.8,Peso normal,0,0,0,0
+46.0,feminino,25.68,2.0,sim,sudoeste,33764.59,Sobrepeso,0,0,0,0
+43.0,masculino,26.04,0.0,não,sudeste,25552.6,Sobrepeso,0,0,0,0
+70.0,feminino,30.65,2.0,não,noroeste,39566.62,Obeso,0,0,0,0
+26.0,masculino,30.54,3.0,sim,sudeste,16775.45,Obeso,0,0,0,0
+48.0,masculino,33.05,0.0,não,noroeste,26110.32,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+72.0,masculino,25.31,1.0,sim,sudoeste,39026.17,Sobrepeso,0,0,0,0
+38.0,masculino,22.13,2.0,sim,nordeste,22230.88,Peso normal,0,0,0,0
+76.0,masculino,28.35,1.0,não,sudoeste,47767.74,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+33.0,masculino,26.92,0.0,sim,sudoeste,19693.45,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,feminino,34.78,0.0,não,noroeste,35560.33,Obeso,0,0,0,0
+76.0,feminino,24.87,2.0,sim,nordeste,45279.88,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+21.0,feminino,20.53,3.0,sim,nordeste,15414.5,Peso normal,0,0,0,0
+79.0,masculino,24.36,0.0,não,sudeste,44006.17,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+45.0,masculino,24.42,3.0,sim,sudoeste,33250.87,Peso normal,0,0,0,0
+51.0,feminino,30.45,2.0,sim,noroeste,35677.79,Obeso,0,0,0,0
+60.0,feminino,25.09,2.0,sim,nordeste,36040.0,Sobrepeso,0,0,0,0
+55.0,masculino,26.1,1.0,sim,sudoeste,33954.33,Sobrepeso,0,0,0,0
+50.0,masculino,23.62,2.0,não,sudoeste,33947.26,Peso normal,0,0,0,0
+49.0,masculino,24.47,3.0,sim,sudoeste,27840.05,Peso normal,0,0,0,0
+33.0,feminino,28.37,0.0,não,noroeste,21241.72,Sobrepeso,0,0,0,0
+72.0,feminino,29.8,0.0,sim,noroeste,38467.51,Sobrepeso,0,0,0,0
+61.0,masculino,24.41,0.0,sim,sudeste,36934.98,Peso normal,0,0,0,0
+59.0,masculino,24.29,0.0,não,sudoeste,31431.65,Peso normal,0,0,0,0
+73.0,feminino,33.11,2.0,sim,nordeste,41080.86,Obeso,0,0,0,0
+31.0,feminino,30.63,0.0,sim,noroeste,25522.43,Obeso,0,0,0,0
+68.0,masculino,24.44,0.0,não,noroeste,39092.84,Peso normal,0,0,0,0
+56.0,feminino,19.29,2.0,não,sudoeste,31006.81,Peso normal,0,0,0,0
+19.0,feminino,26.55,1.0,sim,nordeste,15258.07,Sobrepeso,0,0,0,0
+50.0,masculino,32.09,2.0,sim,noroeste,30566.09,Obeso,0,0,0,0
+24.0,masculino,32.31,2.0,sim,sudeste,21064.16,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+79.0,feminino,21.87,0.0,sim,nordeste,46696.23,Peso normal,0,0,0,0
+49.0,masculino,32.21,0.0,não,noroeste,29375.66,Obeso,0,0,0,0
+49.0,feminino,32.85,2.0,não,sudeste,26127.89,Obeso,0,0,0,0
+20.0,masculino,24.07,1.0,não,nordeste,17132.19,Peso normal,0,0,0,0
+34.0,feminino,34.71,0.0,sim,noroeste,22732.44,Obeso,0,0,0,0
+25.0,feminino,20.04,1.0,não,nordeste,18951.66,Peso normal,0,0,0,0
+31.0,feminino,20.37,0.0,não,nordeste,18702.19,Peso normal,0,0,0,0
+35.0,masculino,27.8,0.0,não,nordeste,22545.0,Sobrepeso,0,0,0,0
+31.0,feminino,21.14,0.0,sim,sudeste,19202.57,Peso normal,0,0,0,0
+42.0,masculino,19.93,2.0,não,sudeste,25311.02,Peso normal,0,0,0,0
+52.0,feminino,25.88,0.0,sim,sudoeste,31000.7,Sobrepeso,0,0,0,0
+39.0,feminino,29.01,1.0,não,sudoeste,27817.7,Sobrepeso,0,0,0,0
+22.0,feminino,25.36,3.0,não,nordeste,15850.11,Sobrepeso,0,0,0,0
+19.0,masculino,22.4,1.0,sim,noroeste,13734.38,Peso normal,0,0,0,0
+32.0,masculino,27.32,3.0,não,sudoeste,21193.37,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+54.0,masculino,22.87,3.0,sim,nordeste,36385.7,Peso normal,0,0,0,0
+27.0,masculino,27.51,2.0,não,nordeste,20661.68,Sobrepeso,0,0,0,0
+59.0,feminino,33.32,0.0,não,noroeste,35995.26,Obeso,0,0,0,0
+68.0,feminino,20.6,2.0,sim,sudoeste,44111.72,Peso normal,0,0,0,0
+38.0,masculino,29.92,3.0,não,sudoeste,22957.39,Obeso,0,0,0,0
+79.0,masculino,21.27,0.0,não,nordeste,44040.86,Peso normal,0,0,0,0
+65.0,masculino,24.2,1.0,sim,sudoeste,40736.32,Peso normal,0,0,0,0
+51.0,feminino,27.24,2.0,sim,sudoeste,27888.05,Sobrepeso,0,0,0,0
+25.0,masculino,34.83,2.0,não,nordeste,22640.93,Obeso,0,0,0,0
+31.0,masculino,22.56,0.0,não,sudoeste,17987.23,Peso normal,0,0,0,0
+71.0,masculino,31.94,1.0,não,noroeste,44298.99,Obeso,0,0,0,0
+38.0,masculino,24.66,3.0,sim,sudeste,28762.99,Peso normal,0,0,0,0
+29.0,feminino,25.39,1.0,sim,noroeste,19973.69,Sobrepeso,0,0,0,0
+19.0,feminino,28.87,2.0,não,noroeste,11979.29,Sobrepeso,0,0,0,0
+24.0,feminino,26.1,0.0,não,nordeste,13040.23,Sobrepeso,0,0,0,0
+78.0,feminino,24.32,0.0,não,sudeste,48363.97,Peso normal,0,0,0,0
+78.0,feminino,30.14,2.0,sim,sudoeste,43885.24,Obeso,0,0,0,0
+75.0,feminino,34.68,0.0,não,noroeste,40750.72,Obeso,0,0,0,0
+31.0,feminino,22.21,1.0,sim,sudeste,22175.52,Peso normal,0,0,0,0
+57.0,masculino,26.09,2.0,não,sudoeste,38275.45,Sobrepeso,0,0,0,0
+77.0,feminino,28.42,0.0,sim,nordeste,39795.27,Sobrepeso,0,0,0,0
+33.0,feminino,29.12,0.0,não,nordeste,18856.18,Sobrepeso,0,0,0,0
+68.0,feminino,26.34,3.0,não,nordeste,36321.03,Sobrepeso,0,0,0,0
+54.0,feminino,24.28,2.0,não,nordeste,36297.37,Peso normal,0,0,0,0
+26.0,masculino,19.15,0.0,sim,nordeste,19594.2,Peso normal,0,0,0,0
+24.0,masculino,30.53,0.0,sim,noroeste,17632.63,Obeso,0,0,0,0
+23.0,masculino,29.16,2.0,sim,noroeste,13543.13,Sobrepeso,0,0,0,0
+52.0,feminino,31.67,3.0,não,sudoeste,30688.05,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,masculino,20.08,0.0,não,sudeste,33331.38,Peso normal,0,0,0,0
+25.0,masculino,30.54,2.0,sim,nordeste,18988.99,Obeso,0,0,0,0
+36.0,feminino,31.58,2.0,não,noroeste,23713.07,Obeso,0,0,0,0
+45.0,feminino,33.42,2.0,sim,nordeste,32553.58,Obeso,0,0,0,0
+71.0,masculino,19.49,2.0,sim,nordeste,38401.92,Peso normal,0,0,0,0
+56.0,masculino,24.46,0.0,não,nordeste,30276.38,Peso normal,0,0,0,0
+46.0,feminino,31.04,3.0,sim,sudoeste,31971.72,Obeso,0,0,0,0
+38.0,masculino,24.89,3.0,não,nordeste,22789.97,Peso normal,0,0,0,0
+36.0,feminino,28.73,0.0,não,nordeste,24753.39,Sobrepeso,0,0,0,0
+26.0,masculino,27.55,0.0,sim,noroeste,17731.9,Sobrepeso,0,0,0,0
+45.0,masculino,24.17,0.0,não,nordeste,30379.41,Peso normal,0,0,0,0
+33.0,feminino,28.51,0.0,não,sudoeste,19950.63,Sobrepeso,0,0,0,0
+59.0,masculino,34.73,3.0,não,sudeste,35084.65,Obeso,0,0,0,0
+42.0,feminino,32.08,3.0,não,sudoeste,27548.06,Obeso,0,0,0,0
+27.0,masculino,26.8,1.0,sim,nordeste,17979.77,Sobrepeso,0,0,0,0
+56.0,masculino,29.54,3.0,não,noroeste,32946.52,Sobrepeso,0,0,0,0
+33.0,masculino,18.19,2.0,não,nordeste,24182.36,Abaixo do peso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+45.0,feminino,32.56,0.0,não,noroeste,25366.87,Obeso,0,0,0,0
+54.0,feminino,18.05,0.0,sim,nordeste,36498.35,Abaixo do peso,0,0,0,0
+24.0,feminino,29.8,2.0,não,noroeste,19057.21,Sobrepeso,0,0,0,0
+24.0,feminino,19.12,1.0,não,nordeste,20084.59,Peso normal,0,0,0,0
+64.0,feminino,27.75,0.0,não,nordeste,40748.41,Sobrepeso,0,0,0,0
+35.0,feminino,32.74,1.0,não,nordeste,21852.92,Obeso,0,0,0,0
+66.0,feminino,31.84,1.0,sim,noroeste,40222.64,Obeso,0,0,0,0
+59.0,masculino,20.27,3.0,não,noroeste,37052.88,Peso normal,0,0,0,0
+55.0,feminino,23.36,2.0,sim,sudeste,35144.99,Peso normal,0,0,0,0
+79.0,masculino,28.73,3.0,sim,noroeste,44744.58,Sobrepeso,0,0,0,0
+57.0,feminino,19.73,2.0,sim,sudoeste,32806.25,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+45.0,feminino,24.86,0.0,sim,noroeste,24630.08,Peso normal,0,0,0,0
+50.0,feminino,26.09,1.0,não,nordeste,34330.19,Sobrepeso,0,0,0,0
+23.0,feminino,30.77,2.0,não,noroeste,15277.24,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+29.0,feminino,22.68,1.0,sim,sudoeste,16581.48,Peso normal,0,0,0,0
+52.0,masculino,25.85,2.0,sim,sudeste,32529.51,Sobrepeso,0,0,0,0
+52.0,masculino,25.99,1.0,sim,nordeste,29783.83,Sobrepeso,0,0,0,0
+19.0,masculino,33.37,0.0,não,sudoeste,17967.53,Obeso,0,0,0,0
+32.0,feminino,23.62,3.0,não,noroeste,23990.59,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+24.0,feminino,31.3,1.0,sim,sudoeste,22403.07,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+40.0,masculino,25.64,0.0,sim,sudoeste,21987.33,Sobrepeso,0,0,0,0
+63.0,masculino,24.43,0.0,sim,sudeste,40468.9,Peso normal,0,0,0,0
+54.0,masculino,19.35,2.0,não,sudeste,29111.12,Peso normal,0,0,0,0
+37.0,feminino,28.94,2.0,não,noroeste,24491.65,Sobrepeso,0,0,0,0
+78.0,masculino,20.1,0.0,sim,sudoeste,46208.54,Peso normal,0,0,0,0
+66.0,masculino,34.28,0.0,sim,noroeste,40137.11,Obeso,0,0,0,0
+44.0,masculino,31.99,1.0,sim,sudoeste,30488.7,Obeso,0,0,0,0
+24.0,feminino,18.09,3.0,não,sudeste,20320.17,Abaixo do peso,0,0,0,0
+41.0,masculino,25.77,3.0,sim,sudeste,23904.15,Sobrepeso,0,0,0,0
+66.0,feminino,31.21,1.0,não,nordeste,39809.36,Obeso,0,0,0,0
+63.0,masculino,34.77,0.0,sim,sudoeste,35501.73,Obeso,0,0,0,0
+32.0,feminino,27.18,0.0,sim,nordeste,19285.27,Sobrepeso,0,0,0,0
+52.0,feminino,33.14,1.0,não,nordeste,32256.43,Obeso,0,0,0,0
+59.0,feminino,21.44,3.0,não,noroeste,39081.68,Peso normal,0,0,0,0
+34.0,feminino,28.03,3.0,não,sudeste,24880.23,Sobrepeso,0,0,0,0
+79.0,masculino,32.84,0.0,não,sudoeste,41499.15,Obeso,0,0,0,0
+37.0,feminino,29.62,3.0,não,sudeste,29158.11,Sobrepeso,0,0,0,0
+43.0,masculino,20.64,3.0,sim,sudoeste,25944.76,Peso normal,0,0,0,0
+62.0,feminino,21.21,1.0,não,sudoeste,38327.84,Peso normal,0,0,0,0
+26.0,feminino,23.67,0.0,não,sudoeste,20129.42,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+79.0,feminino,22.19,0.0,sim,sudeste,43500.41,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+49.0,masculino,22.43,2.0,não,sudoeste,31588.57,Peso normal,0,0,0,0
+38.0,masculino,23.12,2.0,não,sudoeste,23770.35,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+55.0,feminino,20.81,0.0,sim,sudoeste,31494.42,Peso normal,0,0,0,0
+79.0,masculino,33.47,0.0,não,sudeste,47293.62,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,masculino,28.5,0.0,sim,sudeste,33136.97,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+40.0,masculino,32.9,0.0,sim,nordeste,27774.82,Obeso,0,0,0,0
+63.0,masculino,20.2,0.0,sim,noroeste,35575.03,Peso normal,0,0,0,0
+20.0,masculino,19.83,0.0,sim,noroeste,12190.11,Peso normal,0,0,0,0
+47.0,masculino,27.75,0.0,não,sudoeste,31855.93,Sobrepeso,0,0,0,0
+77.0,feminino,23.88,3.0,não,sudoeste,43496.55,Peso normal,0,0,0,0
+71.0,feminino,22.47,2.0,não,sudeste,44640.21,Peso normal,0,0,0,0
+55.0,feminino,31.15,2.0,sim,sudoeste,34735.9,Obeso,0,0,0,0
+24.0,masculino,21.82,2.0,sim,nordeste,18488.96,Peso normal,0,0,0,0
+41.0,masculino,24.48,2.0,sim,sudoeste,24267.02,Peso normal,0,0,0,0
+18.0,masculino,24.54,2.0,não,noroeste,16016.68,Peso normal,0,0,0,0
+46.0,masculino,20.39,2.0,sim,noroeste,33584.16,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+23.0,feminino,19.91,3.0,sim,sudoeste,20730.84,Peso normal,0,0,0,0
+70.0,masculino,25.14,0.0,sim,sudoeste,43178.79,Sobrepeso,0,0,0,0
+60.0,feminino,20.41,0.0,não,noroeste,39068.3,Peso normal,0,0,0,0
+50.0,masculino,28.36,2.0,não,sudoeste,31816.07,Sobrepeso,0,0,0,0
+50.0,masculino,22.15,0.0,sim,sudeste,32402.66,Peso normal,0,0,0,0
+34.0,feminino,27.16,1.0,sim,nordeste,18827.53,Sobrepeso,0,0,0,0
+49.0,masculino,28.72,0.0,sim,nordeste,27650.06,Sobrepeso,0,0,0,0
+30.0,feminino,22.74,0.0,sim,noroeste,24080.08,Peso normal,0,0,0,0
+79.0,feminino,21.9,2.0,sim,noroeste,47767.17,Peso normal,0,0,0,0
+61.0,feminino,25.35,1.0,não,sudeste,34139.26,Sobrepeso,0,0,0,0
+39.0,feminino,23.42,2.0,sim,sudoeste,22076.97,Peso normal,0,0,0,0
+62.0,masculino,25.0,2.0,não,sudoeste,38408.54,Sobrepeso,0,0,0,0
+39.0,masculino,29.48,0.0,sim,noroeste,27947.61,Sobrepeso,0,0,0,0
+30.0,feminino,34.35,0.0,sim,sudeste,19912.89,Obeso,0,0,0,0
+38.0,feminino,18.72,1.0,não,nordeste,22592.47,Peso normal,0,0,0,0
+32.0,masculino,33.74,1.0,não,sudoeste,24511.64,Obeso,0,0,0,0
+70.0,masculino,26.72,3.0,não,sudoeste,43753.88,Sobrepeso,0,0,0,0
+47.0,feminino,22.49,2.0,sim,sudoeste,26592.45,Peso normal,0,0,0,0
+41.0,masculino,19.24,0.0,não,nordeste,21930.75,Peso normal,0,0,0,0
+77.0,feminino,29.87,2.0,não,sudoeste,41097.84,Sobrepeso,0,0,0,0
+61.0,feminino,23.61,2.0,sim,nordeste,38587.17,Peso normal,0,0,0,0
+48.0,feminino,20.93,2.0,não,sudeste,28382.96,Peso normal,0,0,0,0
+71.0,feminino,22.28,2.0,não,sudeste,40732.55,Peso normal,0,0,0,0
+37.0,feminino,25.46,2.0,não,sudeste,28156.28,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,feminino,31.97,1.0,sim,sudoeste,31005.96,Obeso,0,0,0,0
+48.0,feminino,18.37,1.0,não,nordeste,26554.06,Abaixo do peso,0,0,0,0
+21.0,masculino,33.62,1.0,não,noroeste,15510.6,Obeso,0,0,0,0
+61.0,masculino,32.97,3.0,não,sudeste,35761.55,Obeso,0,0,0,0
+44.0,masculino,24.9,1.0,não,noroeste,31084.82,Sobrepeso,0,0,0,0
+41.0,masculino,28.17,3.0,não,noroeste,29021.0,Sobrepeso,0,0,0,0
+40.0,feminino,33.98,1.0,não,noroeste,25811.82,Obeso,0,0,0,0
+59.0,feminino,23.01,2.0,não,nordeste,34588.35,Peso normal,0,0,0,0
+23.0,masculino,27.69,3.0,não,nordeste,20082.26,Sobrepeso,0,0,0,0
+42.0,masculino,26.19,3.0,sim,noroeste,25716.83,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,feminino,25.57,2.0,não,nordeste,30210.74,Sobrepeso,0,0,0,0
+31.0,masculino,32.21,3.0,não,nordeste,24570.46,Obeso,0,0,0,0
+28.0,feminino,22.67,1.0,sim,noroeste,24267.07,Peso normal,0,0,0,0
+44.0,masculino,33.67,3.0,não,nordeste,30338.48,Obeso,0,0,0,0
+52.0,masculino,18.67,2.0,sim,sudoeste,34365.53,Peso normal,0,0,0,0
+75.0,masculino,25.35,2.0,não,noroeste,48027.04,Sobrepeso,0,0,0,0
+62.0,masculino,26.57,0.0,sim,sudoeste,39881.64,Sobrepeso,0,0,0,0
+55.0,masculino,27.74,2.0,sim,noroeste,34437.53,Sobrepeso,0,0,0,0
+18.0,masculino,18.02,3.0,não,noroeste,17177.49,Abaixo do peso,0,0,0,0
+42.0,feminino,25.28,3.0,não,sudoeste,25600.09,Sobrepeso,0,0,0,0
+64.0,feminino,34.27,0.0,sim,sudeste,37026.01,Obeso,0,0,0,0
+18.0,feminino,30.91,2.0,sim,sudoeste,16906.2,Obeso,0,0,0,0
+43.0,feminino,26.86,3.0,sim,noroeste,23850.26,Sobrepeso,0,0,0,0
+28.0,masculino,33.01,2.0,sim,sudeste,21967.51,Obeso,0,0,0,0
+21.0,masculino,25.71,1.0,não,nordeste,16285.09,Sobrepeso,0,0,0,0
+20.0,feminino,31.46,1.0,sim,sudeste,12629.49,Obeso,0,0,0,0
+49.0,feminino,30.23,2.0,não,nordeste,30160.19,Obeso,0,0,0,0
+42.0,feminino,21.37,1.0,sim,sudoeste,24938.85,Peso normal,0,0,0,0
+41.0,masculino,30.13,1.0,não,sudeste,27872.88,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,feminino,27.99,2.0,sim,sudoeste,40860.66,Sobrepeso,0,0,0,0
+65.0,masculino,34.6,0.0,sim,sudeste,38538.56,Obeso,0,0,0,0
+68.0,feminino,30.76,2.0,não,noroeste,38109.42,Obeso,0,0,0,0
+73.0,feminino,20.28,3.0,não,nordeste,43075.66,Peso normal,0,0,0,0
+24.0,feminino,34.52,1.0,sim,noroeste,18815.19,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+52.0,masculino,25.06,0.0,sim,sudeste,32200.94,Sobrepeso,0,0,0,0
+40.0,feminino,33.21,1.0,sim,sudoeste,22123.54,Obeso,0,0,0,0
+41.0,feminino,29.15,3.0,sim,noroeste,29218.15,Sobrepeso,0,0,0,0
+25.0,masculino,27.46,2.0,não,sudoeste,14377.84,Sobrepeso,0,0,0,0
+38.0,feminino,34.38,3.0,não,sudoeste,23705.04,Obeso,0,0,0,0
+79.0,masculino,31.0,0.0,não,noroeste,43684.79,Obeso,0,0,0,0
+37.0,masculino,24.89,3.0,sim,sudeste,22227.75,Peso normal,0,0,0,0
+62.0,feminino,31.05,1.0,não,nordeste,36815.51,Obeso,0,0,0,0
+28.0,masculino,18.76,3.0,não,sudeste,20112.79,Peso normal,0,0,0,0
+19.0,feminino,32.3,3.0,sim,nordeste,15712.85,Obeso,0,0,0,0
+23.0,feminino,27.72,1.0,sim,sudeste,19058.83,Sobrepeso,0,0,0,0
+78.0,feminino,32.49,1.0,não,noroeste,47325.42,Obeso,0,0,0,0
+53.0,masculino,23.46,0.0,não,sudeste,34768.05,Peso normal,0,0,0,0
+61.0,masculino,33.27,0.0,sim,nordeste,31859.62,Obeso,0,0,0,0
+28.0,masculino,23.15,3.0,não,sudoeste,18689.06,Peso normal,0,0,0,0
+29.0,feminino,20.58,2.0,sim,noroeste,19503.81,Peso normal,0,0,0,0
+67.0,masculino,22.39,1.0,sim,noroeste,39734.47,Peso normal,0,0,0,0
+38.0,feminino,24.64,2.0,sim,noroeste,22809.93,Peso normal,0,0,0,0
+43.0,masculino,27.45,3.0,não,sudeste,24224.39,Sobrepeso,0,0,0,0
+60.0,masculino,18.81,3.0,sim,sudeste,35791.24,Peso normal,0,0,0,0
+60.0,feminino,28.8,0.0,não,nordeste,32198.36,Sobrepeso,0,0,0,0
+62.0,feminino,29.76,3.0,sim,noroeste,40040.07,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+56.0,masculino,34.37,1.0,sim,noroeste,32071.12,Obeso,0,0,0,0
+45.0,feminino,25.06,1.0,não,sudoeste,27266.43,Sobrepeso,0,0,0,0
+33.0,masculino,28.8,1.0,sim,sudoeste,20827.54,Sobrepeso,0,0,0,0
+44.0,masculino,34.52,0.0,sim,nordeste,29753.48,Obeso,0,0,0,0
+20.0,masculino,26.12,2.0,não,noroeste,15181.78,Sobrepeso,0,0,0,0
+55.0,feminino,34.77,3.0,não,nordeste,37703.28,Obeso,0,0,0,0
+66.0,masculino,33.58,3.0,não,sudeste,35410.96,Obeso,0,0,0,0
+50.0,feminino,34.43,3.0,sim,sudeste,35669.47,Obeso,0,0,0,0
+60.0,feminino,32.74,2.0,não,sudoeste,37651.77,Obeso,0,0,0,0
+68.0,masculino,23.26,1.0,não,sudeste,37771.47,Peso normal,0,0,0,0
+46.0,masculino,33.48,0.0,sim,sudeste,24270.33,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+77.0,feminino,33.28,3.0,não,noroeste,46540.19,Obeso,0,0,0,0
+51.0,feminino,18.57,1.0,não,sudeste,32763.84,Peso normal,0,0,0,0
+68.0,masculino,34.53,0.0,não,sudeste,35331.39,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+19.0,feminino,19.64,1.0,sim,sudeste,16014.02,Peso normal,0,0,0,0
+35.0,feminino,22.3,0.0,não,noroeste,24863.79,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+49.0,feminino,29.74,0.0,sim,noroeste,31750.62,Sobrepeso,0,0,0,0
+70.0,masculino,32.31,0.0,sim,noroeste,36386.0,Obeso,0,0,0,0
+56.0,feminino,20.7,2.0,sim,nordeste,35095.07,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+77.0,masculino,32.35,2.0,não,sudeste,41421.55,Obeso,0,0,0,0
+45.0,feminino,29.09,2.0,sim,sudoeste,32781.63,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+32.0,feminino,28.34,3.0,não,sudoeste,24899.93,Sobrepeso,0,0,0,0
+59.0,masculino,33.88,1.0,não,nordeste,31493.71,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+25.0,masculino,20.37,0.0,não,noroeste,15811.37,Peso normal,0,0,0,0
+29.0,masculino,30.59,2.0,não,noroeste,16270.89,Obeso,0,0,0,0
+61.0,masculino,24.92,0.0,sim,sudoeste,34908.23,Sobrepeso,0,0,0,0
+32.0,masculino,33.49,0.0,não,noroeste,22040.57,Obeso,0,0,0,0
+72.0,feminino,31.47,3.0,não,sudeste,43966.4,Obeso,0,0,0,0
+23.0,feminino,31.3,1.0,não,sudoeste,14940.96,Obeso,0,0,0,0
+60.0,masculino,34.93,0.0,não,noroeste,35496.89,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,feminino,29.0,1.0,não,sudeste,32998.14,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+69.0,masculino,30.57,0.0,não,nordeste,40898.49,Obeso,0,0,0,0
+22.0,feminino,21.42,3.0,não,sudoeste,17464.87,Peso normal,0,0,0,0
+44.0,feminino,28.64,0.0,não,nordeste,27876.95,Sobrepeso,0,0,0,0
+18.0,feminino,31.04,0.0,não,sudoeste,12787.86,Obeso,0,0,0,0
+21.0,masculino,20.93,3.0,não,noroeste,15803.58,Peso normal,0,0,0,0
+52.0,feminino,27.67,2.0,sim,sudeste,28491.53,Sobrepeso,0,0,0,0
+56.0,feminino,18.04,3.0,sim,sudeste,33663.72,Abaixo do peso,0,0,0,0
+61.0,masculino,23.26,2.0,não,sudoeste,37974.89,Peso normal,0,0,0,0
+20.0,masculino,19.13,2.0,não,noroeste,19326.2,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+25.0,masculino,19.56,0.0,não,noroeste,19530.03,Peso normal,0,0,0,0
+24.0,feminino,28.72,3.0,sim,noroeste,22210.37,Sobrepeso,0,0,0,0
+78.0,masculino,33.81,2.0,não,noroeste,47132.04,Obeso,0,0,0,0
+49.0,masculino,24.08,2.0,não,nordeste,27978.82,Peso normal,0,0,0,0
+30.0,feminino,22.84,1.0,não,sudoeste,22381.75,Peso normal,0,0,0,0
+79.0,feminino,20.65,1.0,sim,nordeste,41610.23,Peso normal,0,0,0,0
+26.0,masculino,34.29,3.0,sim,sudoeste,17329.1,Obeso,0,0,0,0
+65.0,masculino,27.9,2.0,não,nordeste,41765.04,Sobrepeso,0,0,0,0
+21.0,feminino,34.98,0.0,não,sudoeste,15754.72,Obeso,0,0,0,0
+45.0,masculino,31.68,2.0,não,sudeste,25912.63,Obeso,0,0,0,0
+24.0,feminino,18.61,1.0,sim,sudeste,20779.96,Peso normal,0,0,0,0
+73.0,feminino,29.08,0.0,sim,sudeste,42292.92,Sobrepeso,0,0,0,0
+56.0,masculino,29.72,3.0,sim,noroeste,31252.19,Sobrepeso,0,0,0,0
+24.0,masculino,28.11,1.0,sim,sudeste,17103.39,Sobrepeso,0,0,0,0
+68.0,masculino,21.54,1.0,não,nordeste,39649.46,Peso normal,0,0,0,0
+33.0,masculino,24.83,2.0,não,nordeste,22497.04,Peso normal,0,0,0,0
+53.0,masculino,31.71,3.0,sim,noroeste,37135.29,Obeso,0,0,0,0
+41.0,masculino,28.76,2.0,sim,sudeste,26893.9,Sobrepeso,0,0,0,0
+76.0,masculino,24.63,1.0,sim,sudeste,47217.12,Peso normal,0,0,0,0
+60.0,feminino,24.83,0.0,não,sudoeste,33581.02,Peso normal,0,0,0,0
+78.0,feminino,29.05,0.0,sim,sudeste,42964.14,Sobrepeso,0,0,0,0
+37.0,masculino,26.77,1.0,não,sudoeste,26893.86,Sobrepeso,0,0,0,0
+30.0,masculino,21.15,0.0,não,sudeste,21543.73,Peso normal,0,0,0,0
+67.0,feminino,30.23,0.0,sim,sudeste,37602.34,Obeso,0,0,0,0
+60.0,feminino,31.61,2.0,sim,nordeste,32861.92,Obeso,0,0,0,0
+51.0,masculino,33.41,3.0,não,sudoeste,28408.7,Obeso,0,0,0,0
+78.0,feminino,24.62,2.0,sim,noroeste,47385.88,Peso normal,0,0,0,0
+79.0,feminino,26.16,0.0,não,sudeste,45984.71,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+52.0,masculino,33.7,2.0,não,nordeste,32486.67,Obeso,0,0,0,0
+53.0,feminino,30.28,1.0,não,sudoeste,34956.53,Obeso,0,0,0,0
+71.0,feminino,30.13,3.0,sim,sudeste,41607.37,Obeso,0,0,0,0
+38.0,feminino,22.88,2.0,sim,sudeste,24271.11,Peso normal,0,0,0,0
+66.0,feminino,23.61,0.0,sim,noroeste,39970.2,Peso normal,0,0,0,0
+43.0,feminino,30.18,1.0,não,sudoeste,29019.42,Obeso,0,0,0,0
+21.0,masculino,31.59,3.0,sim,noroeste,20233.34,Obeso,0,0,0,0
+76.0,feminino,19.35,1.0,sim,sudoeste,42808.06,Peso normal,0,0,0,0
+25.0,feminino,32.56,1.0,não,noroeste,17159.7,Obeso,0,0,0,0
+28.0,feminino,29.34,1.0,não,sudeste,22176.33,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,masculino,25.92,3.0,sim,sudoeste,46707.11,Sobrepeso,0,0,0,0
+65.0,feminino,31.62,1.0,sim,sudeste,39494.72,Obeso,0,0,0,0
+53.0,feminino,25.85,0.0,sim,nordeste,30163.88,Sobrepeso,0,0,0,0
+78.0,feminino,22.69,3.0,não,noroeste,48426.64,Peso normal,0,0,0,0
+53.0,feminino,34.64,2.0,não,sudeste,34605.84,Obeso,0,0,0,0
+72.0,feminino,34.36,0.0,não,noroeste,44434.75,Obeso,0,0,0,0
+75.0,feminino,34.72,0.0,sim,sudoeste,44288.4,Obeso,0,0,0,0
+20.0,masculino,25.25,3.0,não,sudoeste,18963.97,Sobrepeso,0,0,0,0
+53.0,masculino,31.54,2.0,sim,nordeste,36509.41,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+52.0,feminino,33.71,2.0,sim,sudoeste,29482.54,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+36.0,feminino,27.76,1.0,não,nordeste,23944.66,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+69.0,masculino,25.84,3.0,não,nordeste,40184.59,Sobrepeso,0,0,0,0
+40.0,feminino,27.04,2.0,não,sudoeste,22837.73,Sobrepeso,0,0,0,0
+60.0,feminino,32.7,1.0,não,sudeste,34795.52,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+21.0,masculino,18.99,2.0,sim,sudeste,14419.23,Peso normal,0,0,0,0
+22.0,masculino,18.65,0.0,sim,nordeste,19416.81,Peso normal,0,0,0,0
+28.0,feminino,21.61,2.0,sim,noroeste,22400.78,Peso normal,0,0,0,0
+62.0,masculino,27.89,3.0,sim,nordeste,41780.5,Sobrepeso,0,0,0,0
+78.0,masculino,21.91,0.0,não,sudeste,45326.4,Peso normal,0,0,0,0
+37.0,feminino,27.08,0.0,não,nordeste,21180.31,Sobrepeso,0,0,0,0
+33.0,masculino,19.9,0.0,sim,nordeste,23347.75,Peso normal,0,0,0,0
+19.0,masculino,29.59,0.0,não,nordeste,13079.44,Sobrepeso,0,0,0,0
+32.0,masculino,31.65,2.0,sim,noroeste,18093.76,Obeso,0,0,0,0
+35.0,feminino,27.9,3.0,não,sudoeste,23437.55,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+48.0,masculino,28.5,2.0,não,sudeste,25875.06,Sobrepeso,0,0,0,0
+29.0,masculino,22.39,0.0,sim,noroeste,19281.61,Peso normal,0,0,0,0
+53.0,feminino,32.72,2.0,não,nordeste,31741.92,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+75.0,feminino,20.1,1.0,sim,sudeste,40636.22,Peso normal,0,0,0,0
+46.0,masculino,21.98,2.0,não,sudoeste,27092.13,Peso normal,0,0,0,0
+74.0,masculino,21.3,3.0,sim,sudeste,44701.22,Peso normal,0,0,0,0
+61.0,masculino,33.8,3.0,sim,sudeste,35711.32,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+42.0,feminino,33.56,2.0,sim,noroeste,23499.97,Obeso,0,0,0,0
+37.0,feminino,24.24,0.0,não,noroeste,20418.9,Peso normal,0,0,0,0
+76.0,feminino,20.83,1.0,sim,sudeste,41460.09,Peso normal,0,0,0,0
+67.0,masculino,28.39,2.0,não,nordeste,42697.88,Sobrepeso,0,0,0,0
+39.0,masculino,22.88,3.0,não,sudeste,26564.79,Peso normal,0,0,0,0
+64.0,feminino,27.12,1.0,não,noroeste,40443.28,Sobrepeso,0,0,0,0
+54.0,feminino,30.84,2.0,não,sudeste,30646.42,Obeso,0,0,0,0
+56.0,feminino,22.74,3.0,sim,noroeste,36297.47,Peso normal,0,0,0,0
+46.0,feminino,26.66,1.0,não,sudeste,25565.7,Sobrepeso,0,0,0,0
+68.0,masculino,24.36,0.0,não,sudoeste,37663.89,Peso normal,0,0,0,0
+30.0,masculino,22.04,3.0,sim,noroeste,17793.79,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+47.0,feminino,30.04,2.0,não,sudeste,27223.31,Obeso,0,0,0,0
+38.0,feminino,19.14,3.0,não,nordeste,28405.63,Peso normal,0,0,0,0
+73.0,masculino,20.95,2.0,não,nordeste,43654.79,Peso normal,0,0,0,0
+24.0,feminino,31.01,2.0,não,sudoeste,22107.66,Obeso,0,0,0,0
+71.0,feminino,24.78,0.0,não,nordeste,44106.51,Peso normal,0,0,0,0
+58.0,feminino,30.68,0.0,não,noroeste,32985.34,Obeso,0,0,0,0
+35.0,masculino,27.61,3.0,sim,sudoeste,26449.23,Sobrepeso,0,0,0,0
+36.0,masculino,33.68,3.0,sim,noroeste,21486.09,Obeso,0,0,0,0
+60.0,feminino,18.89,1.0,não,nordeste,31705.08,Peso normal,0,0,0,0
+30.0,feminino,29.65,2.0,não,sudeste,18875.89,Sobrepeso,0,0,0,0
+51.0,feminino,25.52,2.0,não,noroeste,30050.12,Sobrepeso,0,0,0,0
+78.0,feminino,22.74,3.0,não,sudoeste,42185.6,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+59.0,feminino,27.65,2.0,sim,noroeste,31564.95,Sobrepeso,0,0,0,0
+36.0,masculino,30.99,1.0,sim,sudeste,27901.06,Obeso,0,0,0,0
+78.0,feminino,30.69,0.0,sim,nordeste,49103.7,Obeso,0,0,0,0
+38.0,feminino,19.32,3.0,sim,sudoeste,26849.52,Peso normal,0,0,0,0
+77.0,masculino,32.54,3.0,sim,nordeste,44929.47,Obeso,0,0,0,0
+58.0,masculino,20.94,1.0,não,sudeste,36263.21,Peso normal,0,0,0,0
+54.0,masculino,32.25,2.0,sim,noroeste,29796.63,Obeso,0,0,0,0
+43.0,feminino,21.94,0.0,sim,sudeste,25450.19,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,masculino,18.35,2.0,não,noroeste,31970.69,Abaixo do peso,0,0,0,0
+66.0,feminino,22.8,3.0,não,nordeste,42060.97,Peso normal,0,0,0,0
+63.0,masculino,26.39,0.0,sim,sudoeste,38170.92,Sobrepeso,0,0,0,0
+63.0,feminino,34.05,3.0,sim,nordeste,35655.29,Obeso,0,0,0,0
+42.0,feminino,22.96,0.0,sim,sudoeste,24693.54,Peso normal,0,0,0,0
+49.0,feminino,18.7,1.0,não,nordeste,34187.09,Peso normal,0,0,0,0
+76.0,feminino,29.07,1.0,não,sudoeste,39646.84,Sobrepeso,0,0,0,0
+41.0,masculino,25.48,1.0,não,nordeste,24580.7,Sobrepeso,0,0,0,0
+42.0,masculino,30.43,0.0,sim,sudoeste,28440.06,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+44.0,feminino,22.83,3.0,não,nordeste,24097.55,Peso normal,0,0,0,0
+29.0,masculino,19.03,3.0,não,nordeste,21064.8,Peso normal,0,0,0,0
+71.0,feminino,24.91,1.0,sim,noroeste,38558.32,Sobrepeso,0,0,0,0
+56.0,feminino,25.2,1.0,sim,nordeste,33663.35,Sobrepeso,0,0,0,0
+30.0,masculino,31.74,2.0,sim,sudoeste,23457.76,Obeso,0,0,0,0
+52.0,masculino,20.09,2.0,sim,sudoeste,27889.4,Peso normal,0,0,0,0
+30.0,feminino,25.58,3.0,sim,nordeste,20657.37,Sobrepeso,0,0,0,0
+33.0,masculino,29.28,1.0,não,sudoeste,17932.76,Sobrepeso,0,0,0,0
+64.0,feminino,31.69,2.0,sim,sudeste,35107.74,Obeso,0,0,0,0
+56.0,masculino,27.32,3.0,sim,nordeste,38605.62,Sobrepeso,0,0,0,0
+79.0,feminino,30.37,3.0,não,nordeste,45566.07,Obeso,0,0,0,0
+36.0,feminino,25.04,1.0,não,sudeste,25174.61,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+54.0,feminino,32.64,1.0,não,noroeste,29342.04,Obeso,0,0,0,0
+78.0,masculino,25.75,1.0,não,nordeste,46662.2,Sobrepeso,0,0,0,0
+46.0,masculino,23.52,1.0,não,sudeste,27201.34,Peso normal,0,0,0,0
+25.0,feminino,21.08,0.0,sim,noroeste,19895.37,Peso normal,0,0,0,0
+55.0,masculino,34.16,2.0,sim,nordeste,32218.08,Obeso,0,0,0,0
+57.0,feminino,34.48,2.0,não,nordeste,35124.06,Obeso,0,0,0,0
+52.0,masculino,18.31,0.0,sim,noroeste,35872.83,Abaixo do peso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+25.0,feminino,25.32,0.0,não,noroeste,16751.8,Sobrepeso,0,0,0,0
+30.0,feminino,31.47,3.0,sim,noroeste,20116.25,Obeso,0,0,0,0
+49.0,masculino,28.27,2.0,não,sudeste,28539.25,Sobrepeso,0,0,0,0
+45.0,feminino,34.31,1.0,sim,sudoeste,31500.76,Obeso,0,0,0,0
+33.0,feminino,33.69,2.0,sim,noroeste,20029.54,Obeso,0,0,0,0
+20.0,feminino,25.26,2.0,sim,sudoeste,16968.36,Sobrepeso,0,0,0,0
+69.0,masculino,28.98,0.0,sim,noroeste,43434.92,Sobrepeso,0,0,0,0
+74.0,masculino,33.64,3.0,não,nordeste,42631.83,Obeso,0,0,0,0
+24.0,masculino,30.96,3.0,sim,nordeste,22747.92,Obeso,0,0,0,0
+37.0,masculino,26.02,2.0,não,sudeste,28099.83,Sobrepeso,0,0,0,0
+45.0,feminino,23.51,3.0,não,sudoeste,29008.12,Peso normal,0,0,0,0
+20.0,feminino,20.7,0.0,sim,nordeste,14628.35,Peso normal,0,0,0,0
+39.0,feminino,34.85,0.0,sim,sudeste,23589.34,Obeso,0,0,0,0
+57.0,masculino,33.7,1.0,não,sudeste,30643.48,Obeso,0,0,0,0
+30.0,feminino,21.73,1.0,não,sudoeste,21235.19,Peso normal,0,0,0,0
+50.0,feminino,23.08,2.0,não,sudeste,35307.54,Peso normal,0,0,0,0
+30.0,masculino,30.41,1.0,não,sudeste,24693.89,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+34.0,masculino,23.47,0.0,não,sudeste,21294.98,Peso normal,0,0,0,0
+67.0,feminino,34.9,0.0,sim,sudeste,37271.71,Obeso,0,0,0,0
+26.0,masculino,28.15,0.0,não,nordeste,22942.91,Sobrepeso,0,0,0,0
+57.0,masculino,33.78,2.0,sim,sudoeste,34381.89,Obeso,0,0,0,0
+79.0,masculino,20.47,1.0,sim,nordeste,49070.19,Peso normal,0,0,0,0
+18.0,masculino,21.82,2.0,sim,nordeste,14490.13,Peso normal,0,0,0,0
+44.0,feminino,26.09,1.0,não,nordeste,26526.37,Sobrepeso,0,0,0,0
+35.0,masculino,30.55,0.0,sim,sudoeste,26719.53,Obeso,0,0,0,0
+76.0,feminino,25.56,1.0,sim,noroeste,48464.98,Sobrepeso,0,0,0,0
+71.0,feminino,29.43,1.0,não,sudeste,41699.81,Sobrepeso,0,0,0,0
+21.0,masculino,25.93,3.0,sim,nordeste,18526.24,Sobrepeso,0,0,0,0
+31.0,masculino,26.47,2.0,sim,nordeste,17599.33,Sobrepeso,0,0,0,0
+71.0,feminino,18.64,1.0,sim,sudeste,45655.51,Peso normal,0,0,0,0
+62.0,masculino,30.88,3.0,não,sudeste,34152.12,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+40.0,masculino,19.83,0.0,não,sudeste,24379.28,Peso normal,0,0,0,0
+39.0,masculino,34.65,1.0,sim,noroeste,22422.7,Obeso,0,0,0,0
+65.0,feminino,19.26,0.0,sim,sudoeste,35446.12,Peso normal,0,0,0,0
+46.0,feminino,31.59,3.0,sim,sudeste,27542.11,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+60.0,feminino,30.93,2.0,sim,noroeste,32953.72,Obeso,0,0,0,0
+68.0,masculino,32.43,3.0,não,nordeste,43123.54,Obeso,0,0,0,0
+52.0,feminino,22.12,0.0,não,sudoeste,31451.51,Peso normal,0,0,0,0
+70.0,masculino,34.34,3.0,não,sudoeste,39055.86,Obeso,0,0,0,0
+27.0,masculino,26.44,2.0,não,sudeste,15124.14,Sobrepeso,0,0,0,0
+23.0,feminino,26.28,1.0,sim,sudeste,16831.45,Sobrepeso,0,0,0,0
+36.0,masculino,26.37,2.0,sim,sudoeste,21456.54,Sobrepeso,0,0,0,0
+37.0,feminino,21.28,3.0,não,nordeste,27164.49,Peso normal,0,0,0,0
+51.0,masculino,24.29,3.0,sim,sudeste,32665.14,Peso normal,0,0,0,0
+47.0,masculino,30.84,0.0,sim,nordeste,31088.58,Obeso,0,0,0,0
+34.0,masculino,31.64,3.0,sim,noroeste,23955.95,Obeso,0,0,0,0
+64.0,feminino,21.04,2.0,sim,noroeste,38531.47,Peso normal,0,0,0,0
+37.0,feminino,25.75,2.0,sim,nordeste,24229.05,Sobrepeso,0,0,0,0
+21.0,feminino,28.25,3.0,não,nordeste,20543.66,Sobrepeso,0,0,0,0
+51.0,masculino,24.84,2.0,sim,noroeste,30126.07,Peso normal,0,0,0,0
+30.0,feminino,30.84,3.0,sim,nordeste,22236.73,Obeso,0,0,0,0
+20.0,masculino,25.17,1.0,sim,sudoeste,20342.29,Sobrepeso,0,0,0,0
+38.0,feminino,27.96,1.0,sim,nordeste,23220.76,Sobrepeso,0,0,0,0
+28.0,feminino,20.51,2.0,não,sudeste,15729.37,Peso normal,0,0,0,0
+73.0,masculino,28.52,1.0,sim,sudoeste,39563.55,Sobrepeso,0,0,0,0
+76.0,feminino,26.46,1.0,não,sudeste,48204.26,Sobrepeso,0,0,0,0
+38.0,masculino,24.01,0.0,sim,noroeste,25395.67,Peso normal,0,0,0,0
+24.0,feminino,27.63,0.0,sim,sudoeste,17030.27,Sobrepeso,0,0,0,0
+54.0,feminino,18.16,1.0,sim,sudoeste,35570.0,Abaixo do peso,0,0,0,0
+67.0,feminino,24.85,2.0,não,nordeste,39883.56,Peso normal,0,0,0,0
+60.0,feminino,20.64,0.0,não,sudoeste,36974.0,Peso normal,0,0,0,0
+67.0,masculino,27.43,2.0,sim,nordeste,42873.52,Sobrepeso,0,0,0,0
+77.0,feminino,23.58,3.0,sim,sudeste,42645.57,Peso normal,0,0,0,0
+50.0,feminino,27.21,0.0,sim,sudoeste,30730.53,Sobrepeso,0,0,0,0
+44.0,masculino,20.71,2.0,sim,sudoeste,31628.46,Peso normal,0,0,0,0
+24.0,masculino,21.17,3.0,sim,sudeste,16205.76,Peso normal,0,0,0,0
+21.0,masculino,19.69,2.0,sim,nordeste,18902.03,Peso normal,0,0,0,0
+69.0,feminino,32.12,1.0,sim,sudoeste,37503.25,Obeso,0,0,0,0
+23.0,masculino,31.32,2.0,sim,sudeste,18772.16,Obeso,0,0,0,0
+70.0,masculino,23.64,1.0,não,sudeste,37744.05,Peso normal,0,0,0,0
+47.0,masculino,27.08,2.0,sim,sudeste,26335.28,Sobrepeso,0,0,0,0
+27.0,masculino,30.34,2.0,não,sudeste,16783.01,Obeso,0,0,0,0
+60.0,masculino,33.68,1.0,sim,noroeste,37214.95,Obeso,0,0,0,0
+39.0,feminino,24.09,2.0,sim,noroeste,29182.79,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+73.0,masculino,33.46,3.0,não,sudoeste,43500.27,Obeso,0,0,0,0
+72.0,masculino,23.53,1.0,não,noroeste,43810.5,Peso normal,0,0,0,0
+52.0,feminino,25.94,3.0,não,noroeste,29780.34,Sobrepeso,0,0,0,0
+67.0,masculino,33.52,3.0,sim,nordeste,37943.02,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+35.0,masculino,28.9,0.0,sim,noroeste,23260.1,Sobrepeso,0,0,0,0
+62.0,masculino,32.85,3.0,não,nordeste,36133.15,Obeso,0,0,0,0
+27.0,masculino,29.67,2.0,sim,sudoeste,16745.81,Sobrepeso,0,0,0,0
+63.0,feminino,21.34,2.0,sim,noroeste,41838.6,Peso normal,0,0,0,0
+38.0,feminino,30.91,3.0,não,sudeste,29535.33,Obeso,0,0,0,0
+30.0,masculino,32.8,3.0,sim,sudeste,21141.65,Obeso,0,0,0,0
+61.0,masculino,28.59,2.0,não,noroeste,32978.16,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+19.0,feminino,21.09,1.0,sim,sudoeste,12212.07,Peso normal,0,0,0,0
+48.0,masculino,32.41,3.0,não,sudoeste,26336.79,Obeso,0,0,0,0
+55.0,masculino,33.6,0.0,sim,sudoeste,35426.7,Obeso,0,0,0,0
+23.0,masculino,22.08,2.0,não,nordeste,15249.22,Peso normal,0,0,0,0
+72.0,masculino,20.66,1.0,sim,noroeste,46422.38,Peso normal,0,0,0,0
+66.0,feminino,21.97,0.0,sim,sudoeste,36058.5,Peso normal,0,0,0,0
+47.0,masculino,31.62,3.0,sim,sudoeste,33861.0,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+63.0,feminino,25.35,1.0,sim,nordeste,37777.93,Sobrepeso,0,0,0,0
+33.0,masculino,20.29,0.0,não,nordeste,19663.68,Peso normal,0,0,0,0
+37.0,masculino,21.83,0.0,não,noroeste,23633.78,Peso normal,0,0,0,0
+36.0,feminino,27.98,2.0,sim,noroeste,23941.48,Sobrepeso,0,0,0,0
+68.0,masculino,26.87,3.0,sim,nordeste,43263.82,Sobrepeso,0,0,0,0
+72.0,masculino,32.76,0.0,não,sudeste,42472.7,Obeso,0,0,0,0
+78.0,masculino,28.18,0.0,sim,sudoeste,40705.89,Sobrepeso,0,0,0,0
+79.0,masculino,34.9,0.0,não,sudoeste,47512.69,Obeso,0,0,0,0
+56.0,masculino,34.61,0.0,não,sudoeste,32203.23,Obeso,0,0,0,0
+38.0,feminino,23.73,3.0,não,noroeste,21483.47,Peso normal,0,0,0,0
+74.0,feminino,32.95,0.0,sim,noroeste,40771.13,Obeso,0,0,0,0
+20.0,feminino,29.4,3.0,sim,nordeste,13698.61,Sobrepeso,0,0,0,0
+65.0,masculino,18.11,2.0,sim,sudoeste,43167.37,Abaixo do peso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+66.0,masculino,22.21,3.0,não,nordeste,42630.26,Peso normal,0,0,0,0
+45.0,masculino,30.7,0.0,não,nordeste,30978.46,Obeso,0,0,0,0
+72.0,feminino,19.81,1.0,sim,noroeste,39958.32,Peso normal,0,0,0,0
+20.0,feminino,25.84,1.0,sim,noroeste,18455.21,Sobrepeso,0,0,0,0
+19.0,masculino,22.26,2.0,sim,sudeste,16768.07,Peso normal,0,0,0,0
+35.0,feminino,23.0,0.0,sim,sudoeste,20835.73,Peso normal,0,0,0,0
+55.0,masculino,31.84,1.0,sim,nordeste,36814.11,Obeso,0,0,0,0
+58.0,feminino,22.67,0.0,sim,noroeste,30794.05,Peso normal,0,0,0,0
+53.0,feminino,18.72,3.0,não,noroeste,34679.89,Peso normal,0,0,0,0
+35.0,masculino,23.67,2.0,sim,sudeste,20143.43,Peso normal,0,0,0,0
+22.0,feminino,28.73,2.0,não,sudoeste,16767.39,Sobrepeso,0,0,0,0
+27.0,masculino,27.88,1.0,não,noroeste,15146.46,Sobrepeso,0,0,0,0
+60.0,masculino,32.12,0.0,não,sudoeste,39443.04,Obeso,0,0,0,0
+79.0,feminino,25.02,3.0,sim,noroeste,50206.12,Sobrepeso,0,0,0,0
+36.0,feminino,24.45,3.0,sim,sudoeste,25921.22,Peso normal,0,0,0,0
+24.0,feminino,20.64,1.0,não,sudeste,14247.66,Peso normal,0,0,0,0
+45.0,masculino,23.9,0.0,sim,sudeste,31348.81,Peso normal,0,0,0,0
+64.0,feminino,20.48,3.0,não,sudeste,37499.41,Peso normal,0,0,0,0
+66.0,feminino,27.06,2.0,não,noroeste,43013.33,Sobrepeso,0,0,0,0
+68.0,masculino,19.97,1.0,não,noroeste,38362.93,Peso normal,0,0,0,0
+58.0,feminino,24.24,2.0,não,noroeste,33634.51,Peso normal,0,0,0,0
+36.0,masculino,19.3,2.0,não,sudeste,24397.08,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+23.0,feminino,18.2,0.0,sim,sudeste,18940.48,Abaixo do peso,0,0,0,0
+63.0,masculino,27.44,2.0,não,nordeste,33241.75,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+46.0,feminino,28.83,3.0,não,nordeste,29771.36,Sobrepeso,0,0,0,0
+53.0,masculino,21.94,2.0,sim,nordeste,32036.3,Peso normal,0,0,0,0
+50.0,feminino,27.36,1.0,não,sudoeste,29145.05,Sobrepeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+73.0,feminino,20.9,1.0,não,nordeste,39195.94,Peso normal,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0
+65.0,masculino,27.8,3.0,sim,nordeste,35612.68,Sobrepeso,0,0,0,0
+47.0,masculino,33.62,0.0,sim,noroeste,27911.49,Obeso,0,0,0,0
+59.0,feminino,21.42,2.0,não,sudoeste,37729.22,Peso normal,0,0,0,0
+37.0,masculino,23.42,3.0,sim,sudeste,22005.35,Peso normal,0,0,0,0
+77.0,feminino,30.83,0.0,sim,sudeste,47063.32,Obeso,0,0,0,0
+39.0,feminino,24.72,2.0,sim,sudeste,28482.43,Peso normal,0,0,0,0
+68.0,feminino,21.66,1.0,sim,sudoeste,38822.71,Peso normal,0,0,0,0
+61.0,feminino,19.49,2.0,sim,nordeste,38162.29,Peso normal,0,0,0,0
+53.0,masculino,34.78,1.0,sim,sudeste,30091.75,Obeso,0,0,0,0
+,nan,,,nan,nan,,Valor Inválido,0,0,0,0

@@ -73,15 +73,6 @@ def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
     axs.set_xlabel(eixo_x, fontweight='bold')
     axs.set_ylabel(eixo_y, fontweight='bold')
 
-    # Adiciona a linha de tendência linear
-    coeficiente_correlacao = np.corrcoef(dados1, dados2)[0, 1]
-    linha_tendencia_x = np.array([dados1.min(), dados1.max()])
-    linha_tendencia_y = coeficiente_correlacao * linha_tendencia_x + dados2.mean()
-    axs.plot(linha_tendencia_x, linha_tendencia_y, color='red', linestyle='--', label='Linha de Tendência')
-
-    # Exibe a legenda
-    axs.legend()
-
 
 # Este gráfico foi feito fixo para idade
 def montar_grafico_histograma_idade(dados, axs, titulo, eixo_x, eixo_y):
