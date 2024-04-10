@@ -6,7 +6,7 @@ import numpy as np
 def montar_graficos(dados):
     # Contar o número de ocorrências de algumas colunas
     distribuicao_genero = dados['Gênero'].value_counts().sort_index()
-    distribuicao_imc = dados['Categoria IMC'].value_counts().sort_index()
+    distribuicao_imc = dados['Categoria_IMC'].value_counts().sort_index()
     distribuicao_filhos = dados['Filhos'].value_counts().sort_index()
     
     # Criar uma figura e uma grade de subplots

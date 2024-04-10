@@ -14,7 +14,6 @@ def incrementar_dados_aleatorios_csv(dados):
         filhos = np.random.randint(0, 4, size=num_linhas).astype(float)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
-        encargos = np.random.uniform(1000, 20000, size=num_linhas).astype(float)
 
         # Introduzir valores nulos manualmente em algumas colunas
         # Vamos forçar 200 ausências em cada coluna
@@ -28,7 +27,6 @@ def incrementar_dados_aleatorios_csv(dados):
         filhos[indices_nans] = np.nan
         fumante[indices_nans] = np.nan
         regioes[indices_nans] = np.nan
-        encargos[indices_nans] = np.nan
 
         # Criar DataFrame com os dados adicionais
         dados_adicionais = pd.DataFrame({
@@ -37,8 +35,7 @@ def incrementar_dados_aleatorios_csv(dados):
             'IMC': imcs,
             'Filhos': filhos,
             'Fumante': fumante,
-            'Região': regioes,
-            'Encargos': encargos
+            'Região': regioes
         })
 
         # Definir coeficientes para cada variável independente

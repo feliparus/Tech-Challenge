@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Organização planilhas e melhorias na documentação">
-      <change afterPath="$PROJECT_DIR$/notebooks/rascunho_modelling" afterDir="false" />
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Desenvolvimento previsões futuras">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/include/graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/graficos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/dados_aleatorios_sobre_original.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/dados_com_outliers.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/dados_futuros.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/dados_originais.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/modelo_otimizado.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/4_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_futuros.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712669331023</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Desenvolvimento previsões futuras">
+      <option name="closed" value="true" />
+      <created>1712718591411</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712718591411</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,7 +206,8 @@
     <MESSAGE value="Treinando mais modelos, e obtendo qual deles é o mais efetivo" />
     <MESSAGE value="Realizando previsões futuras" />
     <MESSAGE value="Organização planilhas e melhorias na documentação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organização planilhas e melhorias na documentação" />
+    <MESSAGE value="Desenvolvimento previsões futuras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento previsões futuras" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
