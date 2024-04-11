@@ -1,13 +1,12 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 
 
 def incrementar_dados_aleatorios_csv(dados):
     try:
-        # Gerar 200 linhas de dados
-        num_linhas = 200
-        
+        # Gerar 2000 linhas de dados
+        num_linhas = 2000
+
         # Criar listas para cada coluna
         idades = np.random.randint(18, 80, size=num_linhas).astype(float)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
@@ -15,21 +14,19 @@ def incrementar_dados_aleatorios_csv(dados):
         filhos = np.random.randint(0, 4, size=num_linhas).astype(float)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
-        encargos = np.random.uniform(5000, 40000, size=num_linhas).astype(float)
 
         # Introduzir valores nulos manualmente em algumas colunas
-        # Vamos forçar 20 ausências em cada coluna
-        ausencias_por_coluna = 20
+        # Vamos forçar 200 ausências em cada coluna
+        ausencias_por_coluna = 200
 
         indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
 
         idades[indices_nans] = np.nan
-        #generos[indices_nans] = np.nan
+        generos[indices_nans] = np.nan
         imcs[indices_nans] = np.nan
         filhos[indices_nans] = np.nan
         fumante[indices_nans] = np.nan
         regioes[indices_nans] = np.nan
-        encargos[indices_nans] = np.nan
 
         # Criar DataFrame com os dados adicionais
         dados_adicionais = pd.DataFrame({
@@ -38,31 +35,27 @@ def incrementar_dados_aleatorios_csv(dados):
             'IMC': imcs,
             'Filhos': filhos,
             'Fumante': fumante,
-            'Região': regioes,
-            'Encargos': encargos
+            'Região': regioes
         })
 
         # Definir coeficientes para cada variável independente
         coeficientes = {
-            'Idade': 50,
-            'Gênero': {'masculino': 250, 'feminino': 150},
+            'Idade': 500, # Maior peso para a idade
+            'Gênero': {'masculino': 0, 'feminino': 0}, # Não tem impacto nos encargos
             'IMC': 100,
-            'Filhos': 50,
-            'Fumante': {'sim': 250, 'não': 100},
-            'Região': {'sudoeste': 150, 'sudeste': 100, 'nordeste': 75, 'noroeste': 50}
+            'Filhos': 300, # Ter filhos aumenta o encargo
+            'Fumante': {'sim': 200, 'não': 0}, # Ser fumante aumenta o encargo
+            'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0} # Não tem impacto nos encargos
         }
-        
+
         # Gerar encargos com base nas variáveis independentes
         dados_adicionais['Encargos'] = (
             coeficientes['Idade'] * dados_adicionais['Idade'] +
-            dados_adicionais['Gênero'].map(coeficientes['Gênero']) +
-            coeficientes['IMC'] * dados_adicionais['IMC'] +
             coeficientes['Filhos'] * dados_adicionais['Filhos'] +
             dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
-            dados_adicionais['Região'].map(coeficientes['Região']) +
-            np.random.uniform(10000, 50000, size=num_linhas)  # Adicionar ruído aleatório
+            np.random.uniform(1000, 10000, size=num_linhas)
         )
-        
+
         # Concatenar os DataFrames 'dados' e 'dados_adicionais'
         dados = pd.concat([dados, dados_adicionais], ignore_index=True)
 
@@ -106,12 +99,12 @@ def dados_especificos_coluna(dados, nome_coluna):
         dados_aux[nome_coluna] = dados_aux[nome_coluna].astype(int)
 
     dados_filtrados = dados_aux[dados_aux[nome_coluna] > 0]
-        
+
     menor_valor = dados_filtrados[nome_coluna].min()
     maior_valor = dados_filtrados[nome_coluna].max()
     valor_mais_frequente = dados_filtrados[nome_coluna].mode()[0]
     contador = dados_filtrados[dados_filtrados[nome_coluna] == valor_mais_frequente].shape[0]
-    
+
     print(f"\nNa coluna {nome_coluna} ({tipo_dados_coluna}) a faixa dos dados está entre: {menor_valor} até {maior_valor}.")
     print(f"O valor mais frequente na coluna {nome_coluna} é: {valor_mais_frequente}, que aparece {int(contador)} vezes.")
 
@@ -120,17 +113,17 @@ def prever_encargos_futuros(best_model, dados):
     # Utilize o modelo treinado para fazer previsões dos encargos futuros
     previsoes = best_model.predict(dados)
     custos_previstos = list(map(lambda x: round(x,2), previsoes))
-    
+
     return custos_previstos
 
 
 def segmentacao_de_risco(best_model, dados):
     # Identifique grupos de indivíduos com diferentes níveis de risco
     previsoes = best_model.predict(dados)
-    # Aqui, vamos assumir que os valores acima da média são alto risco, 
+    # Aqui, vamos assumir que os valores acima da média são alto risco,
     # os valores abaixo da média são baixo risco e o resto é médio risco
     media = np.mean(previsoes)
-    
+
     # Classifique os clientes em grupos de risco
     grupos_risco = []
     for custo in previsoes:
@@ -140,21 +133,21 @@ def segmentacao_de_risco(best_model, dados):
             grupos_risco.append("Baixo Risco")
         else:
             grupos_risco.append("Médio Risco")
-    
+
     return grupos_risco
 
 
 def analise_de_sensibilidade(best_model, dados, variavel_alterada, novo_valor):
     # Copiar os dados dos clientes para fazer as alterações
     dados_alterados = dados.copy()
-    
+
     # Alterar o valor da variável específica nos dados alterados
     dados_alterados[variavel_alterada] = novo_valor
-    
+
     # Fazer previsões com o modelo usando os dados alterados
     custos_previstos_alterados = best_model.predict(dados_alterados)
     custos_previstos_alterados = list(map(lambda x: round(x,2), custos_previstos_alterados))
-    
+
     return custos_previstos_alterados
 
 
@@ -181,7 +174,7 @@ def planejamento_estrategico(best_model, dados):
 
     # Exemplo de planos estratégicos com base nos insights obtidos
     for grupo, custo in zip(grupos_risco, custos_previstos):
-        if grupo == "Alto Risco" and custo > 20000:  # Exemplo de condição arbitrária
+        if grupo == "Alto Risco" and custo > 13000:  # Exemplo de condição arbitrária
             planos_estrategicos.append("Implementar programas de saúde preventiva para este grupo")
         elif grupo == "Médio Risco":
             planos_estrategicos.append("Realizar campanhas de conscientização sobre saúde")
@@ -189,3 +182,29 @@ def planejamento_estrategico(best_model, dados):
             planos_estrategicos.append("Rever políticas de cobertura de seguro")
     
     return planos_estrategicos
+
+def check_modelo_nan_inf(model, X, y):
+    """
+    Verifica se há valores NaN ou Inf em um modelo após o treinamento.
+
+    Args:
+        model: Modelo de regressão do scikit-learn.
+        X: Matriz de features.
+        y: Vetor de targets.
+    """
+
+    model.fit(X, y)
+
+    # Verificação de NaN e Inf nos coeficientes (se aplicável)
+    if hasattr(model, "coef_"):
+        if np.any(np.isnan(model.coef_)):
+            raise ValueError("NaN encontrado nos coeficientes do modelo")
+        if np.any(np.isinf(model.coef_)):
+            raise ValueError("Inf encontrado nos coeficientes do modelo")
+
+    # Verificação de NaN e Inf nas previsões
+    predictions = model.predict(X)
+    if np.any(np.isnan(predictions)):
+        raise ValueError("NaN encontrado nas previsões do modelo")
+    if np.any(np.isinf(predictions)):
+        raise ValueError("Inf encontrado nas previsões do modelo")

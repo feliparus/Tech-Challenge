@@ -8,27 +8,14 @@ def incrementar_dados_aleatorios_csv(dados):
         num_linhas = 2000
 
         # Criar listas para cada coluna
-        idades = np.random.randint(18, 80, size=num_linhas).astype(float)
+        idades = np.random.randint(18, 80, size=num_linhas).astype(int)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
         imcs = np.random.uniform(18, 35, size=num_linhas).astype(float)
-        filhos = np.random.randint(0, 4, size=num_linhas).astype(float)
+        filhos = np.random.randint(0, 4, size=num_linhas).astype(int)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
 
-        # Introduzir valores nulos manualmente em algumas colunas
-        # Vamos forçar 200 ausências em cada coluna
-        ausencias_por_coluna = 200
-
-        indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
-
-        idades[indices_nans] = np.nan
-        generos[indices_nans] = np.nan
-        imcs[indices_nans] = np.nan
-        filhos[indices_nans] = np.nan
-        fumante[indices_nans] = np.nan
-        regioes[indices_nans] = np.nan
-
-        # Criar DataFrame com os dados adicionais
+        # Criar DataFrame com os dados gerados
         dados_adicionais = pd.DataFrame({
             'Idade': idades,
             'Gênero': generos,
@@ -38,22 +25,29 @@ def incrementar_dados_aleatorios_csv(dados):
             'Região': regioes
         })
 
+        # Introduzir valores nulos manualmente em algumas colunas
+        # Vamos forçar 200 ausências em cada coluna
+        ausencias_por_coluna = 200
+        for coluna in dados_adicionais.columns:
+            indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
+            dados_adicionais.loc[indices_nans, coluna] = np.nan
+
         # Definir coeficientes para cada variável independente
         coeficientes = {
-            'Idade': 500, # Maior peso para a idade
-            'Gênero': {'masculino': 0, 'feminino': 0}, # Não tem impacto nos encargos
-            'IMC': 100,
-            'Filhos': 300, # Ter filhos aumenta o encargo
-            'Fumante': {'sim': 200, 'não': 0}, # Ser fumante aumenta o encargo
-            'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0} # Não tem impacto nos encargos
+            'Idade': 50,  # Maior peso para a idade
+            'Gênero': {'masculino': 0, 'feminino': 0},  # Não tem impacto nos encargos
+            'IMC': 10,
+            'Filhos': 30,  # Ter filhos aumenta o encargo
+            'Fumante': {'sim': 20, 'não': 0},  # Ser fumante aumenta o encargo
+            'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0}  # Não tem impacto nos encargos
         }
 
         # Gerar encargos com base nas variáveis independentes
         dados_adicionais['Encargos'] = (
-            coeficientes['Idade'] * dados_adicionais['Idade'] +
-            coeficientes['Filhos'] * dados_adicionais['Filhos'] +
-            dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
-            np.random.uniform(1000, 10000, size=num_linhas)  # Ajuste a amplitude para 50000
+                coeficientes['Idade'] * dados_adicionais['Idade'] +
+                coeficientes['Filhos'] * dados_adicionais['Filhos'] +
+                dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
+                np.random.uniform(100, 1000, size=num_linhas)
         )
 
         # Concatenar os DataFrames 'dados' e 'dados_adicionais'
@@ -68,8 +62,10 @@ def incrementar_dados_aleatorios_csv(dados):
 
         # Retornar os dados concatenados
         return dados
+
     except Exception as e:
         print("Ocorreu uma exceção:", e)
+        return None  # Certifique-se de que a função retorna algo, mesmo em caso de exceção
 
 
 def categorizar_imc(imc):
@@ -155,7 +151,7 @@ def otimizacao_de_recursos(custos_previstos):
     # Suponha que a otimização de recursos envolva alocar mais recursos para grupos de alto risco
     recursos_otimizados = []
     for custo in custos_previstos:
-        if custo > 18000:  # Exemplo de um limite arbitrário para custo alto
+        if custo > 3500:  # Exemplo de um limite arbitrário para custo alto
             recursos_otimizados.append("Alocar mais recursos")
         else:
             recursos_otimizados.append("Manter recursos")
@@ -174,11 +170,37 @@ def planejamento_estrategico(best_model, dados):
 
     # Exemplo de planos estratégicos com base nos insights obtidos
     for grupo, custo in zip(grupos_risco, custos_previstos):
-        if grupo == "Alto Risco" and custo > 13000:  # Exemplo de condição arbitrária
+        if grupo == "Alto Risco" and custo < 3700:  # Exemplo de condição arbitrária
             planos_estrategicos.append("Implementar programas de saúde preventiva para este grupo")
-        elif grupo == "Médio Risco":
+        elif grupo == "Baixo Risco":
             planos_estrategicos.append("Realizar campanhas de conscientização sobre saúde")
         else:
             planos_estrategicos.append("Rever políticas de cobertura de seguro")
     
     return planos_estrategicos
+
+def check_modelo_nan_inf(model, X, y):
+    """
+    Verifica se há valores NaN ou Inf em um modelo após o treinamento.
+
+    Args:
+        model: Modelo de regressão do scikit-learn.
+        X: Matriz de features.
+        y: Vetor de targets.
+    """
+
+    model.fit(X, y)
+
+    # Verificação de NaN e Inf nos coeficientes (se aplicável)
+    if hasattr(model, "coef_"):
+        if np.any(np.isnan(model.coef_)):
+            raise ValueError("NaN encontrado nos coeficientes do modelo")
+        if np.any(np.isinf(model.coef_)):
+            raise ValueError("Inf encontrado nos coeficientes do modelo")
+
+    # Verificação de NaN e Inf nas previsões
+    predictions = model.predict(X)
+    if np.any(np.isnan(predictions)):
+        raise ValueError("NaN encontrado nas previsões do modelo")
+    if np.any(np.isinf(predictions)):
+        raise ValueError("Inf encontrado nas previsões do modelo")
