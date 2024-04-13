@@ -34,19 +34,35 @@ def incrementar_dados_aleatorios_csv(dados):
 
         # Definir coeficientes para cada variável independente
         coeficientes = {
-            'Idade': 50,  # Maior peso para a idade
+            'Idade': 60,  # Idade tem impacto nos encargos
             'Gênero': {'masculino': 0, 'feminino': 0},  # Não tem impacto nos encargos
-            'IMC': 10,
-            'Filhos': 30,  # Ter filhos aumenta o encargo
-            'Fumante': {'sim': 20, 'não': 0},  # Ser fumante aumenta o encargo
+            'IMC': 30, # tem pouco impacto nos encargos
+            'Filhos': 400,  # Ter filhos aumenta o encargo
+            'Fumante': {'sim': 500, 'não': 0},  # Ser fumante aumenta o encargo
             'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0}  # Não tem impacto nos encargos
         }
 
+        # Criando uma cópia de dados adicionais apenas para cálculos dos coeficientes
+        # Trato os valores ausentes da planilha mais a frente
+        # Quero exibir neste momento dados vazios nas colunas randomizadas para esta necessidade
+        dados_adicionais_aux = dados_adicionais.copy()
+
+        # Preencher valores ausentes de 'Idade' e 'Filhos'
+        dados_adicionais_aux[['Idade', 'Filhos']] = dados_adicionais_aux[['Idade', 'Filhos']].fillna(0)
+
+        # Preencher valores ausentes de 'Fumante' como não
+        dados_adicionais_aux['Fumante'] = dados_adicionais_aux['Fumante'].fillna('não')
+
+        # Preencher valores ausentes de 'IMC' com a média
+        media_imc = dados_adicionais_aux['IMC'].mean()
+        dados_adicionais_aux['IMC'] = dados_adicionais_aux['IMC'].fillna(media_imc)
+
         # Gerar encargos com base nas variáveis independentes
         dados_adicionais['Encargos'] = (
-                coeficientes['Idade'] * dados_adicionais['Idade'] +
-                coeficientes['Filhos'] * dados_adicionais['Filhos'] +
-                dados_adicionais['Fumante'].map(coeficientes['Fumante']) +
+                coeficientes['Idade'] * dados_adicionais_aux['Idade'] +
+                coeficientes['IMC'] * dados_adicionais_aux['IMC'] +
+                coeficientes['Filhos'] * dados_adicionais_aux['Filhos'] +
+                dados_adicionais_aux['Fumante'].map(coeficientes['Fumante']) +
                 np.random.uniform(100, 1000, size=num_linhas)
         )
 

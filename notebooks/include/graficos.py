@@ -68,10 +68,13 @@ def montar_grafico_pizza(dados, axs, titulo):
 
 
 def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
-    axs.scatter(dados1, dados2, alpha=0.5, color='green')
+    axs.scatter(dados1, dados2, alpha=1, color='green')
     axs.set_title(titulo, fontweight='bold')
     axs.set_xlabel(eixo_x, fontweight='bold')
     axs.set_ylabel(eixo_y, fontweight='bold')
+
+    # Definindo os limites e intervalos do eixo x
+    plt.xticks(range(0, int(dados1.max()) + 1, 1))
 
 
 # Este gráfico foi feito fixo para idade
