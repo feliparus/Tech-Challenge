@@ -2,11 +2,8 @@ import pandas as pd
 import numpy as np
 
 
-def incrementar_dados_aleatorios_csv(dados):
+def incrementar_dados_aleatorios_csv(dados, num_linhas, ausencias_por_coluna):
     try:
-        # Gerar 2000 linhas de dados
-        num_linhas = 2000
-
         # Criar listas para cada coluna
         idades = np.random.randint(18, 80, size=num_linhas).astype(int)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
@@ -26,8 +23,6 @@ def incrementar_dados_aleatorios_csv(dados):
         })
 
         # Introduzir valores nulos manualmente em algumas colunas
-        # Vamos forçar 200 ausências em cada coluna
-        ausencias_por_coluna = 200
         for coluna in dados_adicionais.columns:
             indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
             dados_adicionais.loc[indices_nans, coluna] = np.nan
@@ -84,9 +79,31 @@ def incrementar_dados_aleatorios_csv(dados):
         return None  # Certifique-se de que a função retorna algo, mesmo em caso de exceção
 
 
+def limpar_dados(dados):
+    dados_aux = dados.copy()
+
+    # Caso exista, removendo linhas com valores NaN
+    #dados_aux = dados_aux.dropna()
+
+    # Substituir valores nulos para o valor esperado
+    dados_aux['Idade'] = dados_aux['Idade'].fillna(0)
+    dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
+    dados_aux['Filhos'] = dados_aux['Filhos'].fillna(0)
+    dados_aux['Fumante'] = dados_aux['Fumante'].fillna(0)
+
+    #dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
+    #dados_aux['Fumante'] = dados_aux['Fumante'].fillna('não')
+
+    # Convertendo colunas para o tipo esperado
+    dados_aux['Filhos'] = dados_aux['Filhos'].astype(int)
+    dados_aux['Idade'] = dados_aux['Idade'].astype(int)
+
+    return dados_aux
+
+
 def categorizar_imc(imc):
     if imc is None or np.isnan(imc):
-        return 'Valor Inválido'  # Ou qualquer outra categoria que você queira definir para valores inválidos
+        return 'IMC Não informado'
     if imc < 18.5:
         return 'Abaixo do peso'
     elif 18.5 <= imc < 24.9:

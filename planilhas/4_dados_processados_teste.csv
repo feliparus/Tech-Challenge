@@ -1,0 +1,2003 @@
+Idade,IMC,Filhos,Fumante,Gênero,Região,Categoria_IMC
+55.0,22.58,3.0,1,masculino,sudeste,Peso normal
+46.0,22.35,1.0,1,masculino,sudoeste,Peso normal
+79.0,18.64,0.0,1,masculino,noroeste,Peso normal
+47.0,30.27,2.0,1,feminino,sudeste,Obeso
+30.0,34.73,2.0,0,masculino,sudeste,Obeso
+21.0,33.82,1.0,0,masculino,sudoeste,Obeso
+50.0,25.53,0.0,0,masculino,sudoeste,Sobrepeso
+31.0,25.2,2.0,0,feminino,sudeste,Sobrepeso
+30.0,28.72,3.0,0,feminino,nordeste,Sobrepeso
+64.0,24.1,3.0,1,feminino,nordeste,Peso normal
+55.0,28.81,2.0,0,feminino,sudoeste,Sobrepeso
+46.0,22.55,0.0,0,masculino,nordeste,Peso normal
+67.0,26.6,2.0,0,masculino,sudeste,Sobrepeso
+45.0,21.58,2.0,0,feminino,sudoeste,Peso normal
+33.0,21.57,1.0,1,feminino,sudeste,Peso normal
+25.0,28.84,3.0,1,feminino,sudeste,Sobrepeso
+74.0,21.02,1.0,0,feminino,sudeste,Peso normal
+23.0,21.97,2.0,1,feminino,nordeste,Peso normal
+,31.97,2.0,1,masculino,nordeste,Obeso
+53.0,27.56,2.0,0,masculino,noroeste,Sobrepeso
+69.0,18.51,3.0,1,feminino,sudeste,Peso normal
+50.0,33.45,3.0,0,feminino,noroeste,Obeso
+78.0,30.7,3.0,1,masculino,noroeste,Obeso
+22.0,23.88,1.0,1,masculino,sudeste,Peso normal
+50.0,29.52,0.0,0,masculino,sudoeste,Sobrepeso
+28.0,29.92,1.0,1,masculino,sudeste,Obeso
+52.0,34.47,0.0,0,masculino,noroeste,Obeso
+72.0,27.67,3.0,1,masculino,nordeste,Sobrepeso
+63.0,27.55,2.0,1,masculino,sudoeste,Sobrepeso
+50.0,22.7,0.0,0,feminino,sudoeste,Peso normal
+33.0,32.85,3.0,0,feminino,noroeste,Obeso
+68.0,18.51,3.0,1,masculino,sudeste,Peso normal
+18.0,21.62,2.0,0,feminino,sudeste,Peso normal
+46.0,,0.0,0,masculino,nordeste,IMC Não informado
+46.0,27.5,2.0,1,feminino,noroeste,Sobrepeso
+20.0,34.51,0.0,0,masculino,sudeste,Obeso
+22.0,26.59,3.0,1,masculino,nordeste,Sobrepeso
+60.0,34.89,3.0,0,masculino,nordeste,Obeso
+47.0,25.83,3.0,0,masculino,sudoeste,Sobrepeso
+68.0,20.94,0.0,0,feminino,nordeste,Peso normal
+55.0,30.46,1.0,0,feminino,noroeste,Obeso
+41.0,24.14,1.0,2,feminino,noroeste,Peso normal
+68.0,22.8,3.0,1,feminino,noroeste,Peso normal
+75.0,27.22,3.0,0,feminino,sudeste,Sobrepeso
+23.0,23.41,0.0,0,masculino,noroeste,Peso normal
+19.0,32.15,3.0,0,masculino,sudeste,Obeso
+44.0,34.66,2.0,0,feminino,noroeste,Obeso
+33.0,34.63,2.0,1,feminino,noroeste,Obeso
+68.0,27.8,0.0,1,masculino,sudoeste,Sobrepeso
+44.0,20.52,1.0,0,masculino,nordeste,Peso normal
+41.0,28.64,2.0,1,feminino,sudoeste,Sobrepeso
+52.0,34.06,1.0,0,masculino,sudoeste,Obeso
+69.0,33.16,1.0,0,feminino,sudoeste,Obeso
+56.0,28.78,1.0,1,masculino,sudoeste,Sobrepeso
+78.0,19.49,1.0,1,masculino,noroeste,Peso normal
+22.0,18.19,1.0,1,feminino,sudoeste,Abaixo do peso
+39.0,31.5,1.0,1,masculino,sudoeste,Obeso
+52.0,21.11,0.0,0,masculino,nordeste,Peso normal
+58.0,25.45,0.0,0,feminino,noroeste,Sobrepeso
+19.0,20.3,0.0,0,masculino,noroeste,Peso normal
+40.0,26.44,3.0,0,masculino,noroeste,Sobrepeso
+64.0,22.88,0.0,0,masculino,sudoeste,Peso normal
+52.0,26.45,2.0,1,feminino,noroeste,Sobrepeso
+57.0,27.56,0.0,0,masculino,sudoeste,Sobrepeso
+61.0,24.6,3.0,0,feminino,sudoeste,Peso normal
+78.0,23.6,0.0,0,feminino,nordeste,Peso normal
+78.0,33.83,1.0,0,masculino,sudeste,Obeso
+40.0,30.77,1.0,0,masculino,noroeste,Obeso
+36.0,32.07,3.0,0,masculino,sudoeste,Obeso
+61.0,22.85,1.0,0,feminino,noroeste,Peso normal
+40.0,18.69,1.0,1,masculino,noroeste,Peso normal
+66.0,25.74,3.0,0,feminino,nordeste,Sobrepeso
+41.0,31.12,1.0,1,masculino,nordeste,Obeso
+28.0,26.45,2.0,1,feminino,sudeste,Sobrepeso
+40.0,24.88,3.0,1,masculino,noroeste,Peso normal
+23.0,18.22,1.0,1,masculino,noroeste,Abaixo do peso
+21.0,29.35,2.0,0,feminino,nordeste,Sobrepeso
+74.0,21.82,3.0,1,masculino,sudoeste,Peso normal
+69.0,26.8,2.0,1,masculino,sudoeste,Sobrepeso
+46.0,25.58,0.0,1,,noroeste,Sobrepeso
+56.0,30.56,2.0,0,feminino,nordeste,Obeso
+42.0,19.82,1.0,0,feminino,noroeste,Peso normal
+32.0,25.65,0.0,0,masculino,sudeste,Sobrepeso
+21.0,27.59,2.0,0,masculino,nordeste,Sobrepeso
+18.0,19.19,0.0,1,masculino,noroeste,Peso normal
+64.0,29.93,0.0,0,feminino,nordeste,Obeso
+48.0,31.4,0.0,1,masculino,sudeste,Obeso
+35.0,18.07,0.0,0,feminino,nordeste,Abaixo do peso
+42.0,29.66,2.0,0,masculino,sudoeste,Sobrepeso
+59.0,20.21,3.0,1,feminino,sudeste,Peso normal
+30.0,32.52,1.0,1,masculino,noroeste,Obeso
+23.0,33.0,3.0,0,feminino,noroeste,Obeso
+60.0,18.87,2.0,0,feminino,sudeste,Peso normal
+71.0,22.0,3.0,0,feminino,nordeste,Peso normal
+37.0,33.93,3.0,0,masculino,noroeste,Obeso
+73.0,30.59,1.0,1,masculino,sudoeste,Obeso
+20.0,25.89,0.0,0,feminino,sudeste,Sobrepeso
+25.0,32.39,1.0,1,masculino,sudeste,Obeso
+43.0,30.7,2.0,0,feminino,nordeste,Obeso
+69.0,18.62,3.0,1,feminino,sudoeste,Peso normal
+65.0,30.4,3.0,0,masculino,noroeste,Obeso
+72.0,32.0,3.0,0,feminino,noroeste,Obeso
+28.0,20.91,3.0,1,masculino,sudeste,Peso normal
+22.0,24.0,1.0,1,feminino,noroeste,Peso normal
+40.0,,,1,feminino,sudeste,IMC Não informado
+54.0,20.33,3.0,0,feminino,sudeste,Peso normal
+66.0,29.73,3.0,1,feminino,sudeste,Sobrepeso
+76.0,26.28,2.0,0,feminino,sudoeste,Sobrepeso
+62.0,18.49,,1,masculino,sudoeste,Abaixo do peso
+61.0,20.34,0.0,1,feminino,sudeste,Peso normal
+39.0,25.37,1.0,1,feminino,noroeste,Sobrepeso
+69.0,27.51,2.0,0,masculino,sudoeste,Sobrepeso
+51.0,22.77,0.0,1,masculino,noroeste,Peso normal
+54.0,18.84,1.0,0,masculino,sudoeste,Peso normal
+72.0,20.39,0.0,1,masculino,,Peso normal
+41.0,27.05,3.0,1,masculino,noroeste,Sobrepeso
+35.0,34.49,3.0,0,feminino,sudeste,Obeso
+63.0,31.12,1.0,0,masculino,sudoeste,Obeso
+,34.05,3.0,1,feminino,nordeste,Obeso
+25.0,22.17,0.0,1,feminino,sudeste,Peso normal
+54.0,19.93,2.0,1,masculino,noroeste,Peso normal
+27.0,32.57,2.0,1,feminino,nordeste,Obeso
+30.0,24.19,1.0,1,feminino,sudeste,Peso normal
+23.0,24.69,2.0,0,masculino,sudoeste,Peso normal
+33.0,31.73,1.0,0,masculino,nordeste,Obeso
+77.0,32.2,3.0,1,masculino,sudoeste,Obeso
+76.0,22.93,3.0,1,feminino,noroeste,Peso normal
+78.0,31.84,3.0,0,feminino,sudoeste,Obeso
+23.0,25.24,0.0,1,masculino,nordeste,Sobrepeso
+72.0,20.92,0.0,0,masculino,nordeste,Peso normal
+50.0,31.05,0.0,0,feminino,noroeste,Obeso
+61.0,22.73,0.0,0,feminino,noroeste,Peso normal
+25.0,30.5,1.0,0,feminino,sudoeste,Obeso
+22.0,23.51,1.0,0,feminino,sudoeste,Peso normal
+58.0,25.86,3.0,0,masculino,nordeste,Sobrepeso
+49.0,29.43,0.0,1,masculino,sudeste,Sobrepeso
+56.0,21.34,0.0,1,feminino,sudeste,Peso normal
+22.0,18.24,1.0,1,masculino,noroeste,Abaixo do peso
+63.0,20.29,2.0,1,masculino,noroeste,Peso normal
+75.0,32.88,0.0,1,feminino,sudoeste,Obeso
+74.0,21.75,1.0,0,feminino,sudoeste,Peso normal
+53.0,25.7,1.0,0,masculino,nordeste,Sobrepeso
+61.0,23.42,0.0,0,masculino,noroeste,Peso normal
+48.0,34.72,0.0,0,masculino,,Obeso
+46.0,21.14,3.0,0,masculino,noroeste,Peso normal
+53.0,30.55,2.0,0,feminino,noroeste,Obeso
+43.0,19.71,0.0,0,feminino,sudeste,Peso normal
+76.0,19.63,0.0,0,feminino,nordeste,Peso normal
+44.0,23.95,2.0,0,,noroeste,Peso normal
+72.0,28.37,2.0,1,feminino,nordeste,Sobrepeso
+28.0,28.22,2.0,0,feminino,sudoeste,Sobrepeso
+62.0,31.13,2.0,0,feminino,sudoeste,Obeso
+32.0,24.12,2.0,0,,sudeste,Peso normal
+35.0,19.38,3.0,0,masculino,sudoeste,Peso normal
+56.0,28.27,2.0,1,masculino,sudoeste,Sobrepeso
+55.0,22.69,0.0,0,masculino,nordeste,Peso normal
+45.0,21.86,2.0,1,feminino,noroeste,Peso normal
+71.0,20.7,1.0,0,feminino,noroeste,Peso normal
+18.0,32.9,1.0,0,masculino,nordeste,Obeso
+26.0,20.02,2.0,0,masculino,nordeste,Peso normal
+37.0,24.84,1.0,0,feminino,nordeste,Peso normal
+34.0,22.36,1.0,0,masculino,noroeste,Peso normal
+79.0,26.07,1.0,1,feminino,sudeste,Sobrepeso
+20.0,20.83,2.0,1,masculino,sudoeste,Peso normal
+47.0,28.63,1.0,0,masculino,nordeste,Sobrepeso
+24.0,26.87,3.0,1,feminino,noroeste,Sobrepeso
+26.0,33.14,3.0,1,masculino,sudeste,Obeso
+44.0,18.71,0.0,0,feminino,noroeste,Peso normal
+66.0,28.89,2.0,1,masculino,sudeste,Sobrepeso
+79.0,28.48,3.0,0,feminino,sudeste,Sobrepeso
+60.0,26.01,0.0,0,masculino,nordeste,Sobrepeso
+53.0,23.88,2.0,0,feminino,noroeste,Peso normal
+54.0,31.15,1.0,1,masculino,noroeste,Obeso
+51.0,22.39,0.0,0,feminino,sudoeste,Peso normal
+30.0,20.06,3.0,0,masculino,noroeste,Peso normal
+61.0,20.22,2.0,1,masculino,noroeste,Peso normal
+39.0,25.28,2.0,0,masculino,noroeste,Sobrepeso
+41.0,34.22,0.0,0,feminino,sudeste,Obeso
+79.0,18.28,0.0,0,feminino,noroeste,Abaixo do peso
+70.0,30.7,3.0,1,feminino,sudeste,Obeso
+41.0,20.66,2.0,1,masculino,sudeste,Peso normal
+39.0,28.11,1.0,0,masculino,nordeste,Sobrepeso
+24.0,34.37,0.0,1,masculino,nordeste,Obeso
+70.0,20.01,3.0,1,feminino,sudeste,Peso normal
+50.0,27.85,1.0,1,masculino,noroeste,Sobrepeso
+27.0,31.49,0.0,1,masculino,sudoeste,Obeso
+62.0,22.5,1.0,1,masculino,sudoeste,Peso normal
+18.0,25.87,3.0,1,masculino,sudoeste,Sobrepeso
+37.0,34.46,0.0,1,feminino,noroeste,Obeso
+18.0,23.34,3.0,0,masculino,sudoeste,Peso normal
+52.0,22.46,2.0,1,feminino,sudoeste,Peso normal
+18.0,24.79,1.0,0,feminino,noroeste,Peso normal
+20.0,26.59,3.0,0,feminino,noroeste,Sobrepeso
+79.0,27.55,1.0,1,masculino,noroeste,Sobrepeso
+41.0,32.82,2.0,0,masculino,sudoeste,Obeso
+46.0,27.53,2.0,0,feminino,noroeste,Sobrepeso
+61.0,21.47,0.0,1,masculino,sudoeste,Peso normal
+68.0,21.69,0.0,1,feminino,sudeste,Peso normal
+44.0,28.7,2.0,1,masculino,sudeste,Sobrepeso
+68.0,28.63,2.0,0,masculino,sudeste,Sobrepeso
+35.0,23.33,3.0,1,feminino,nordeste,Peso normal
+68.0,29.38,3.0,1,masculino,sudeste,Sobrepeso
+59.0,32.49,3.0,1,feminino,sudoeste,Obeso
+21.0,26.98,3.0,1,feminino,sudeste,Sobrepeso
+62.0,30.2,3.0,0,masculino,noroeste,Obeso
+49.0,19.72,1.0,0,masculino,nordeste,Peso normal
+52.0,20.96,0.0,1,feminino,noroeste,Peso normal
+79.0,33.29,0.0,0,masculino,sudoeste,Obeso
+68.0,31.77,2.0,0,feminino,sudoeste,Obeso
+66.0,22.39,3.0,1,masculino,nordeste,Peso normal
+28.0,28.29,1.0,1,masculino,nordeste,Sobrepeso
+78.0,18.58,1.0,0,feminino,sudoeste,Peso normal
+43.0,18.55,0.0,1,feminino,nordeste,Peso normal
+75.0,23.7,1.0,1,feminino,sudeste,Peso normal
+47.0,19.82,2.0,0,feminino,nordeste,Peso normal
+35.0,24.69,2.0,1,masculino,noroeste,Peso normal
+71.0,24.95,0.0,0,feminino,noroeste,Sobrepeso
+46.0,21.78,0.0,1,feminino,noroeste,Peso normal
+21.0,18.7,3.0,0,masculino,sudeste,Peso normal
+30.0,26.03,2.0,0,feminino,sudoeste,Sobrepeso
+75.0,21.35,1.0,1,masculino,sudoeste,Peso normal
+55.0,33.69,0.0,1,masculino,sudoeste,Obeso
+37.0,33.45,1.0,1,feminino,nordeste,Obeso
+69.0,25.16,2.0,1,feminino,sudeste,Sobrepeso
+41.0,29.55,3.0,1,feminino,sudoeste,Sobrepeso
+32.0,34.89,3.0,1,masculino,sudoeste,Obeso
+27.0,24.03,3.0,1,masculino,noroeste,Peso normal
+33.0,24.18,3.0,1,feminino,sudoeste,Peso normal
+39.0,24.16,2.0,1,feminino,noroeste,Peso normal
+60.0,18.26,1.0,0,feminino,sudoeste,Abaixo do peso
+24.0,27.24,2.0,1,masculino,sudoeste,Sobrepeso
+74.0,22.84,2.0,0,masculino,nordeste,Peso normal
+36.0,27.97,0.0,0,feminino,sudoeste,Sobrepeso
+70.0,34.24,2.0,1,feminino,sudeste,Obeso
+53.0,32.83,1.0,0,feminino,nordeste,Obeso
+56.0,24.53,3.0,1,feminino,noroeste,Peso normal
+67.0,18.64,2.0,0,feminino,noroeste,Peso normal
+47.0,26.69,3.0,1,feminino,sudoeste,Sobrepeso
+64.0,18.24,3.0,1,feminino,nordeste,Abaixo do peso
+23.0,18.97,3.0,0,masculino,nordeste,Peso normal
+18.0,23.22,0.0,1,masculino,sudeste,Peso normal
+32.0,20.02,1.0,0,feminino,sudoeste,Peso normal
+42.0,18.36,0.0,1,masculino,nordeste,Abaixo do peso
+32.0,29.99,1.0,1,masculino,sudeste,Obeso
+70.0,22.52,1.0,0,masculino,nordeste,Peso normal
+44.0,23.38,1.0,0,feminino,nordeste,Peso normal
+53.0,19.4,3.0,0,masculino,sudeste,Peso normal
+26.0,25.7,0.0,0,masculino,nordeste,Sobrepeso
+46.0,21.01,3.0,1,feminino,nordeste,Peso normal
+51.0,21.45,0.0,1,masculino,noroeste,Peso normal
+26.0,23.4,1.0,0,masculino,sudoeste,Peso normal
+22.0,23.32,2.0,0,feminino,sudeste,Peso normal
+66.0,19.58,2.0,0,masculino,sudoeste,Peso normal
+36.0,21.65,1.0,0,masculino,nordeste,Peso normal
+27.0,21.04,3.0,1,feminino,sudoeste,Peso normal
+21.0,33.7,1.0,0,feminino,nordeste,Obeso
+24.0,23.84,2.0,1,masculino,sudeste,Peso normal
+41.0,33.97,2.0,1,feminino,noroeste,Obeso
+62.0,20.18,0.0,1,feminino,nordeste,Peso normal
+34.0,28.99,2.0,1,masculino,sudoeste,Sobrepeso
+46.0,20.91,0.0,1,feminino,noroeste,Peso normal
+46.0,21.89,1.0,0,feminino,sudeste,Peso normal
+66.0,23.35,0.0,0,masculino,noroeste,Peso normal
+36.0,24.08,1.0,1,feminino,sudoeste,Peso normal
+25.0,32.87,3.0,0,feminino,noroeste,Obeso
+38.0,29.0,3.0,0,feminino,sudeste,Sobrepeso
+59.0,27.39,0.0,0,masculino,sudeste,Sobrepeso
+33.0,21.65,2.0,0,masculino,sudoeste,Peso normal
+25.0,33.98,2.0,1,masculino,sudeste,Obeso
+70.0,32.8,3.0,0,masculino,sudeste,Obeso
+64.0,20.38,3.0,0,masculino,nordeste,Peso normal
+31.0,34.8,3.0,0,masculino,noroeste,Obeso
+43.0,28.53,2.0,0,feminino,sudeste,Sobrepeso
+63.0,32.37,2.0,1,feminino,sudeste,Obeso
+74.0,22.6,1.0,0,feminino,noroeste,Peso normal
+53.0,18.15,0.0,1,masculino,nordeste,Abaixo do peso
+32.0,22.37,0.0,0,masculino,sudoeste,Peso normal
+35.0,30.78,3.0,1,masculino,noroeste,Obeso
+59.0,18.49,0.0,1,masculino,sudoeste,Abaixo do peso
+70.0,24.3,2.0,1,feminino,sudoeste,Peso normal
+41.0,22.16,,1,feminino,sudeste,Peso normal
+54.0,22.51,2.0,0,feminino,nordeste,Peso normal
+36.0,24.44,2.0,0,masculino,nordeste,Peso normal
+51.0,27.27,0.0,1,feminino,sudoeste,Sobrepeso
+22.0,18.75,0.0,0,feminino,sudeste,Peso normal
+52.0,23.92,2.0,0,feminino,nordeste,Peso normal
+31.0,31.28,2.0,0,masculino,sudeste,Obeso
+31.0,23.56,0.0,1,,sudoeste,Peso normal
+31.0,24.44,1.0,0,masculino,sudoeste,Peso normal
+33.0,25.46,1.0,0,feminino,sudoeste,Sobrepeso
+76.0,18.62,0.0,1,masculino,sudoeste,Peso normal
+37.0,31.74,1.0,1,feminino,noroeste,Obeso
+68.0,31.38,3.0,0,masculino,nordeste,Obeso
+34.0,23.22,1.0,0,masculino,sudoeste,Peso normal
+48.0,34.86,0.0,1,feminino,nordeste,Obeso
+56.0,18.34,0.0,1,masculino,sudoeste,Abaixo do peso
+47.0,30.19,2.0,0,feminino,sudoeste,Obeso
+70.0,20.76,1.0,0,masculino,sudeste,Peso normal
+56.0,26.9,1.0,0,feminino,sudeste,Sobrepeso
+70.0,25.64,1.0,0,masculino,sudeste,Sobrepeso
+20.0,34.44,0.0,0,masculino,noroeste,Obeso
+48.0,21.04,0.0,0,masculino,sudeste,Peso normal
+39.0,20.88,1.0,1,feminino,noroeste,Peso normal
+64.0,20.22,2.0,0,feminino,sudeste,Peso normal
+61.0,30.45,2.0,1,feminino,nordeste,Obeso
+58.0,26.17,0.0,0,masculino,sudeste,Sobrepeso
+49.0,26.07,1.0,0,masculino,nordeste,Sobrepeso
+69.0,28.67,3.0,0,masculino,sudeste,Sobrepeso
+68.0,24.73,2.0,1,masculino,nordeste,Peso normal
+60.0,32.39,2.0,0,feminino,noroeste,Obeso
+39.0,21.82,0.0,1,feminino,sudeste,Peso normal
+75.0,21.35,,0,feminino,sudeste,Peso normal
+73.0,22.46,0.0,0,feminino,noroeste,Peso normal
+27.0,26.44,1.0,0,feminino,noroeste,Sobrepeso
+58.0,30.52,0.0,1,feminino,sudoeste,Obeso
+40.0,27.45,1.0,0,masculino,nordeste,Sobrepeso
+35.0,21.68,1.0,0,masculino,nordeste,Peso normal
+62.0,27.4,0.0,1,masculino,nordeste,Sobrepeso
+22.0,23.79,3.0,1,masculino,nordeste,Peso normal
+44.0,29.77,1.0,1,masculino,sudoeste,Sobrepeso
+23.0,24.87,0.0,0,masculino,sudoeste,Peso normal
+67.0,19.73,1.0,1,feminino,nordeste,Peso normal
+,27.16,1.0,1,feminino,sudeste,Sobrepeso
+29.0,,3.0,0,masculino,sudoeste,IMC Não informado
+21.0,32.47,3.0,0,masculino,sudeste,Obeso
+37.0,33.39,2.0,0,feminino,noroeste,Obeso
+58.0,23.25,1.0,1,masculino,nordeste,Peso normal
+65.0,34.01,3.0,1,feminino,sudeste,Obeso
+28.0,30.43,2.0,0,masculino,,Obeso
+31.0,26.86,2.0,1,masculino,noroeste,Sobrepeso
+66.0,34.3,1.0,0,masculino,noroeste,Obeso
+64.0,26.77,3.0,0,masculino,nordeste,Sobrepeso
+29.0,28.42,3.0,1,masculino,nordeste,Sobrepeso
+24.0,24.61,1.0,1,masculino,noroeste,Peso normal
+78.0,20.81,3.0,1,feminino,sudeste,Peso normal
+32.0,24.73,1.0,1,masculino,nordeste,Peso normal
+24.0,19.95,1.0,1,masculino,nordeste,Peso normal
+68.0,31.22,1.0,1,masculino,noroeste,Obeso
+58.0,26.29,1.0,1,feminino,sudeste,Sobrepeso
+55.0,32.26,0.0,0,feminino,sudoeste,Obeso
+22.0,23.36,3.0,0,masculino,sudoeste,Peso normal
+55.0,31.68,2.0,1,feminino,sudoeste,Obeso
+75.0,27.41,0.0,1,feminino,noroeste,Sobrepeso
+45.0,20.68,0.0,0,masculino,sudeste,Peso normal
+72.0,19.02,2.0,1,feminino,sudeste,Peso normal
+55.0,20.55,2.0,0,feminino,nordeste,Peso normal
+35.0,32.52,3.0,1,masculino,sudeste,Obeso
+65.0,24.83,0.0,0,feminino,noroeste,Peso normal
+65.0,30.63,3.0,0,masculino,sudoeste,Obeso
+26.0,34.87,0.0,1,feminino,nordeste,Obeso
+66.0,18.9,3.0,1,masculino,sudeste,Peso normal
+42.0,32.65,2.0,0,feminino,nordeste,Obeso
+49.0,27.34,2.0,0,feminino,sudeste,Sobrepeso
+33.0,29.34,2.0,1,feminino,nordeste,Sobrepeso
+74.0,19.5,0.0,0,feminino,sudoeste,Peso normal
+56.0,28.55,2.0,1,masculino,nordeste,Sobrepeso
+20.0,34.82,0.0,1,masculino,nordeste,Obeso
+79.0,18.69,1.0,1,masculino,noroeste,Peso normal
+60.0,24.27,1.0,0,feminino,nordeste,Peso normal
+41.0,28.01,2.0,0,masculino,nordeste,Sobrepeso
+23.0,19.62,3.0,1,feminino,noroeste,Peso normal
+74.0,18.3,0.0,0,feminino,nordeste,Abaixo do peso
+34.0,30.35,3.0,1,feminino,sudeste,Obeso
+52.0,26.08,3.0,2,feminino,sudeste,Sobrepeso
+72.0,25.19,3.0,1,feminino,sudeste,Sobrepeso
+37.0,20.83,1.0,1,feminino,sudeste,Peso normal
+63.0,18.15,0.0,1,feminino,nordeste,Abaixo do peso
+22.0,29.51,2.0,0,masculino,sudoeste,Sobrepeso
+78.0,19.84,1.0,0,masculino,sudeste,Peso normal
+57.0,20.05,1.0,1,masculino,sudeste,Peso normal
+53.0,30.25,0.0,1,masculino,sudoeste,Obeso
+79.0,19.08,1.0,0,feminino,noroeste,Peso normal
+39.0,22.71,3.0,1,feminino,sudoeste,Peso normal
+42.0,34.69,0.0,1,feminino,sudoeste,Obeso
+48.0,33.56,3.0,1,feminino,noroeste,Obeso
+45.0,30.18,2.0,0,masculino,noroeste,Obeso
+24.0,22.55,3.0,1,masculino,nordeste,Peso normal
+30.0,32.63,2.0,1,masculino,sudoeste,Obeso
+78.0,24.31,0.0,0,masculino,sudeste,Peso normal
+79.0,21.4,2.0,0,masculino,noroeste,Peso normal
+59.0,20.41,0.0,1,masculino,sudoeste,Peso normal
+51.0,33.4,3.0,1,feminino,sudoeste,Obeso
+23.0,24.24,3.0,1,feminino,nordeste,Peso normal
+66.0,20.67,3.0,0,feminino,noroeste,Peso normal
+35.0,23.13,2.0,0,masculino,sudeste,Peso normal
+19.0,23.59,0.0,1,masculino,nordeste,Peso normal
+48.0,24.65,2.0,1,feminino,sudeste,Peso normal
+78.0,27.74,2.0,0,masculino,sudoeste,Sobrepeso
+19.0,34.52,2.0,1,masculino,sudeste,Obeso
+62.0,27.72,3.0,0,masculino,nordeste,Sobrepeso
+69.0,32.18,2.0,0,masculino,noroeste,Obeso
+67.0,30.73,2.0,0,masculino,sudoeste,Obeso
+21.0,22.56,3.0,1,masculino,sudeste,Peso normal
+55.0,18.85,1.0,0,masculino,sudeste,Peso normal
+43.0,33.27,2.0,0,feminino,sudeste,Obeso
+27.0,28.25,1.0,1,feminino,sudeste,Sobrepeso
+49.0,22.15,3.0,0,masculino,sudeste,Peso normal
+69.0,28.16,1.0,0,feminino,nordeste,Sobrepeso
+19.0,26.34,1.0,0,feminino,sudeste,Sobrepeso
+38.0,22.91,1.0,1,masculino,sudoeste,Peso normal
+51.0,19.51,1.0,1,masculino,nordeste,Peso normal
+60.0,33.02,1.0,0,feminino,nordeste,Obeso
+78.0,27.55,2.0,0,feminino,sudeste,Sobrepeso
+58.0,28.5,3.0,0,feminino,noroeste,Sobrepeso
+,20.51,0.0,0,masculino,nordeste,Peso normal
+79.0,24.42,2.0,1,masculino,sudoeste,Peso normal
+24.0,23.07,0.0,0,masculino,noroeste,Peso normal
+55.0,31.14,0.0,0,feminino,nordeste,Obeso
+29.0,18.02,1.0,0,masculino,sudoeste,Abaixo do peso
+70.0,25.43,3.0,0,feminino,nordeste,Sobrepeso
+39.0,19.63,1.0,0,feminino,sudoeste,Peso normal
+41.0,28.5,2.0,0,feminino,sudoeste,Sobrepeso
+32.0,21.62,0.0,1,feminino,nordeste,Peso normal
+23.0,25.69,3.0,1,masculino,noroeste,Sobrepeso
+48.0,25.44,0.0,0,feminino,noroeste,Sobrepeso
+56.0,24.57,2.0,0,masculino,noroeste,Peso normal
+77.0,34.48,0.0,0,masculino,sudoeste,Obeso
+48.0,28.77,2.0,0,feminino,sudoeste,Sobrepeso
+33.0,33.19,2.0,1,feminino,nordeste,Obeso
+71.0,29.96,1.0,1,masculino,noroeste,Obeso
+23.0,31.27,2.0,0,feminino,sudoeste,Obeso
+72.0,31.08,3.0,1,feminino,sudoeste,Obeso
+69.0,24.73,2.0,0,masculino,noroeste,Peso normal
+52.0,35.0,1.0,1,masculino,nordeste,Obeso
+20.0,25.56,0.0,1,feminino,noroeste,Sobrepeso
+22.0,18.5,0.0,0,feminino,nordeste,Peso normal
+72.0,22.35,1.0,1,masculino,sudeste,Peso normal
+22.0,31.66,1.0,0,feminino,sudeste,Obeso
+71.0,18.44,2.0,0,feminino,sudeste,Abaixo do peso
+79.0,21.09,1.0,1,feminino,noroeste,Peso normal
+62.0,28.05,0.0,0,masculino,sudoeste,Sobrepeso
+76.0,18.48,0.0,1,feminino,sudeste,Abaixo do peso
+57.0,24.51,0.0,0,feminino,noroeste,Peso normal
+63.0,27.46,0.0,0,masculino,nordeste,Sobrepeso
+37.0,21.3,3.0,1,masculino,sudoeste,Peso normal
+64.0,26.89,3.0,0,feminino,noroeste,Sobrepeso
+45.0,33.42,2.0,0,masculino,nordeste,Obeso
+28.0,30.76,0.0,0,feminino,noroeste,Obeso
+55.0,22.25,2.0,0,feminino,noroeste,Peso normal
+23.0,34.8,3.0,1,feminino,sudoeste,Obeso
+19.0,34.66,2.0,0,masculino,sudeste,Obeso
+78.0,28.82,3.0,1,masculino,nordeste,Sobrepeso
+22.0,25.89,2.0,0,masculino,sudeste,Sobrepeso
+79.0,33.35,2.0,1,masculino,nordeste,Obeso
+18.0,26.11,3.0,1,masculino,noroeste,Sobrepeso
+36.0,29.99,1.0,0,masculino,noroeste,Obeso
+71.0,27.32,1.0,1,masculino,noroeste,Sobrepeso
+78.0,20.44,3.0,0,masculino,sudoeste,Peso normal
+62.0,27.54,0.0,1,masculino,nordeste,Sobrepeso
+57.0,33.53,1.0,1,masculino,sudeste,Obeso
+56.0,23.72,2.0,0,masculino,sudoeste,Peso normal
+57.0,26.35,2.0,1,masculino,nordeste,Sobrepeso
+42.0,26.08,0.0,1,masculino,noroeste,Sobrepeso
+31.0,24.78,1.0,1,masculino,sudeste,Peso normal
+25.0,33.63,3.0,0,masculino,noroeste,Obeso
+27.0,20.84,2.0,0,masculino,sudoeste,Peso normal
+32.0,19.92,1.0,1,masculino,nordeste,Peso normal
+36.0,27.1,1.0,1,feminino,sudeste,Sobrepeso
+37.0,32.03,1.0,1,masculino,nordeste,Obeso
+43.0,31.94,3.0,0,masculino,sudoeste,Obeso
+63.0,28.98,,1,feminino,nordeste,Sobrepeso
+71.0,24.08,2.0,0,feminino,noroeste,Peso normal
+32.0,30.03,1.0,0,masculino,sudoeste,Obeso
+22.0,30.85,3.0,0,masculino,nordeste,Obeso
+29.0,20.89,0.0,1,masculino,nordeste,Peso normal
+28.0,25.97,0.0,0,feminino,sudeste,Sobrepeso
+23.0,27.45,1.0,1,feminino,nordeste,Sobrepeso
+64.0,33.85,3.0,1,masculino,nordeste,Obeso
+44.0,19.11,1.0,1,masculino,nordeste,Peso normal
+62.0,19.0,2.0,0,feminino,nordeste,Peso normal
+74.0,25.88,2.0,0,masculino,nordeste,Sobrepeso
+42.0,23.19,3.0,1,masculino,sudoeste,Peso normal
+28.0,22.5,0.0,0,feminino,nordeste,Peso normal
+53.0,31.0,1.0,0,feminino,noroeste,Obeso
+68.0,31.86,0.0,0,masculino,noroeste,Obeso
+20.0,23.44,3.0,1,masculino,sudeste,Peso normal
+56.0,29.55,3.0,1,feminino,nordeste,Sobrepeso
+60.0,22.13,0.0,1,feminino,sudeste,Peso normal
+27.0,29.04,3.0,0,masculino,nordeste,Sobrepeso
+64.0,33.08,2.0,1,masculino,sudoeste,Obeso
+28.0,26.92,0.0,0,feminino,noroeste,Sobrepeso
+54.0,30.19,0.0,0,masculino,noroeste,Obeso
+31.0,29.41,0.0,0,feminino,nordeste,Sobrepeso
+30.0,26.73,2.0,1,masculino,noroeste,Sobrepeso
+57.0,18.15,1.0,0,feminino,sudeste,Abaixo do peso
+50.0,28.81,0.0,1,masculino,noroeste,Sobrepeso
+69.0,29.77,2.0,0,feminino,noroeste,Sobrepeso
+33.0,25.13,2.0,0,feminino,sudeste,Sobrepeso
+42.0,24.09,2.0,1,masculino,noroeste,Peso normal
+18.0,33.48,0.0,1,masculino,nordeste,Obeso
+39.0,31.63,2.0,0,masculino,noroeste,Obeso
+45.0,19.22,1.0,1,masculino,noroeste,Peso normal
+48.0,24.86,0.0,1,feminino,sudeste,Peso normal
+59.0,30.45,3.0,1,masculino,nordeste,Obeso
+42.0,30.31,2.0,1,masculino,sudeste,Obeso
+,27.53,2.0,0,masculino,sudeste,Sobrepeso
+64.0,34.29,3.0,0,masculino,noroeste,Obeso
+33.0,25.05,0.0,0,feminino,nordeste,Sobrepeso
+47.0,27.65,2.0,1,feminino,sudoeste,Sobrepeso
+77.0,26.0,3.0,0,masculino,nordeste,Sobrepeso
+70.0,27.2,2.0,0,feminino,noroeste,Sobrepeso
+68.0,23.07,1.0,0,masculino,nordeste,Peso normal
+63.0,34.42,0.0,1,feminino,nordeste,Obeso
+22.0,24.61,0.0,0,masculino,nordeste,Peso normal
+32.0,24.43,1.0,1,masculino,nordeste,Peso normal
+68.0,34.59,3.0,0,masculino,nordeste,Obeso
+76.0,33.86,2.0,1,feminino,nordeste,Obeso
+50.0,20.36,1.0,1,masculino,sudeste,Peso normal
+20.0,19.53,2.0,1,feminino,noroeste,Peso normal
+21.0,28.39,1.0,0,feminino,noroeste,Sobrepeso
+54.0,19.86,0.0,0,feminino,noroeste,Peso normal
+43.0,34.05,0.0,0,masculino,sudoeste,Obeso
+73.0,25.46,1.0,1,feminino,sudeste,Sobrepeso
+75.0,18.46,2.0,0,masculino,noroeste,Abaixo do peso
+21.0,27.95,1.0,0,masculino,nordeste,Sobrepeso
+76.0,29.34,1.0,1,feminino,noroeste,Sobrepeso
+48.0,29.98,0.0,1,feminino,sudoeste,Obeso
+54.0,18.93,1.0,1,masculino,nordeste,Peso normal
+25.0,22.1,3.0,1,masculino,noroeste,Peso normal
+70.0,19.05,0.0,0,masculino,nordeste,Peso normal
+78.0,33.52,2.0,0,masculino,nordeste,Obeso
+39.0,34.35,2.0,0,masculino,sudeste,Obeso
+25.0,21.86,2.0,0,masculino,noroeste,Peso normal
+30.0,22.58,3.0,0,masculino,nordeste,Peso normal
+43.0,19.45,0.0,1,masculino,noroeste,Peso normal
+33.0,,2.0,0,masculino,sudeste,IMC Não informado
+71.0,20.97,1.0,1,feminino,nordeste,Peso normal
+34.0,22.72,3.0,0,masculino,noroeste,Peso normal
+50.0,26.86,0.0,0,feminino,noroeste,Sobrepeso
+57.0,25.93,0.0,0,masculino,nordeste,Sobrepeso
+78.0,26.44,0.0,1,masculino,sudoeste,Sobrepeso
+61.0,25.46,1.0,0,masculino,sudeste,Sobrepeso
+71.0,27.26,1.0,1,masculino,sudeste,Sobrepeso
+52.0,34.58,3.0,0,feminino,sudeste,Obeso
+66.0,23.48,3.0,0,feminino,sudeste,Peso normal
+40.0,24.61,1.0,0,masculino,noroeste,Peso normal
+70.0,24.63,3.0,0,masculino,nordeste,Peso normal
+62.0,19.31,0.0,1,masculino,sudoeste,Peso normal
+48.0,19.93,0.0,1,feminino,sudeste,Peso normal
+39.0,27.62,2.0,1,masculino,nordeste,Sobrepeso
+77.0,27.96,0.0,1,masculino,nordeste,Sobrepeso
+31.0,19.01,2.0,1,feminino,sudeste,Peso normal
+72.0,28.17,3.0,1,masculino,nordeste,Sobrepeso
+68.0,31.15,3.0,1,feminino,sudoeste,Obeso
+40.0,28.29,1.0,0,feminino,sudeste,Sobrepeso
+59.0,25.37,2.0,1,feminino,noroeste,Sobrepeso
+35.0,33.16,1.0,1,masculino,nordeste,Obeso
+47.0,21.78,0.0,1,masculino,sudeste,Peso normal
+39.0,18.06,2.0,0,masculino,nordeste,Abaixo do peso
+32.0,26.19,1.0,1,masculino,sudoeste,Sobrepeso
+32.0,27.91,3.0,1,masculino,sudoeste,Sobrepeso
+75.0,33.77,1.0,1,feminino,sudeste,Obeso
+45.0,20.65,0.0,0,masculino,sudoeste,Peso normal
+63.0,32.34,0.0,1,masculino,sudoeste,Obeso
+48.0,24.97,2.0,1,feminino,nordeste,Sobrepeso
+49.0,29.29,2.0,0,masculino,nordeste,Sobrepeso
+28.0,33.23,2.0,1,feminino,sudoeste,Obeso
+71.0,30.86,3.0,1,masculino,sudeste,Obeso
+41.0,18.73,3.0,0,masculino,sudoeste,Peso normal
+41.0,22.48,1.0,1,feminino,nordeste,Peso normal
+63.0,21.4,2.0,1,masculino,sudoeste,Peso normal
+36.0,27.76,1.0,0,feminino,sudeste,Sobrepeso
+66.0,26.89,3.0,0,feminino,nordeste,Sobrepeso
+70.0,18.83,2.0,0,masculino,sudoeste,Peso normal
+38.0,28.62,2.0,1,masculino,sudeste,Sobrepeso
+22.0,30.59,2.0,0,feminino,sudoeste,Obeso
+58.0,29.5,3.0,1,masculino,nordeste,Sobrepeso
+53.0,21.45,2.0,1,masculino,sudeste,Peso normal
+54.0,30.59,1.0,1,masculino,noroeste,Obeso
+73.0,32.33,0.0,1,masculino,sudeste,Obeso
+68.0,18.41,0.0,1,masculino,nordeste,Abaixo do peso
+79.0,29.66,1.0,0,masculino,noroeste,Sobrepeso
+34.0,32.71,0.0,0,masculino,noroeste,Obeso
+53.0,33.78,0.0,1,masculino,nordeste,Obeso
+68.0,21.26,3.0,1,feminino,noroeste,Peso normal
+57.0,21.8,3.0,1,feminino,nordeste,Peso normal
+73.0,25.93,0.0,0,feminino,sudoeste,Sobrepeso
+42.0,30.71,1.0,1,feminino,nordeste,Obeso
+66.0,28.85,2.0,1,masculino,noroeste,Sobrepeso
+28.0,31.95,3.0,0,masculino,nordeste,Obeso
+29.0,29.0,2.0,0,masculino,nordeste,Sobrepeso
+30.0,34.03,2.0,0,feminino,noroeste,Obeso
+55.0,30.56,1.0,0,feminino,sudeste,Obeso
+18.0,25.06,3.0,0,masculino,nordeste,Sobrepeso
+58.0,31.38,0.0,0,masculino,noroeste,Obeso
+55.0,24.02,2.0,1,feminino,nordeste,Peso normal
+24.0,20.02,3.0,1,feminino,nordeste,Peso normal
+50.0,22.04,2.0,0,feminino,nordeste,Peso normal
+50.0,23.02,2.0,0,feminino,sudoeste,Peso normal
+25.0,30.62,0.0,0,masculino,sudoeste,Obeso
+74.0,28.7,0.0,1,masculino,noroeste,Sobrepeso
+42.0,34.57,0.0,0,masculino,nordeste,Obeso
+58.0,27.61,0.0,1,,nordeste,Sobrepeso
+27.0,21.66,2.0,1,feminino,sudeste,Peso normal
+52.0,23.37,0.0,0,masculino,noroeste,Peso normal
+18.0,25.6,1.0,1,feminino,nordeste,Sobrepeso
+52.0,21.51,1.0,1,feminino,noroeste,Peso normal
+44.0,33.92,0.0,0,feminino,noroeste,Obeso
+34.0,28.22,2.0,0,masculino,sudoeste,Sobrepeso
+39.0,27.92,2.0,1,masculino,nordeste,Sobrepeso
+59.0,30.11,2.0,0,masculino,sudeste,Obeso
+43.0,34.35,1.0,1,feminino,noroeste,Obeso
+68.0,30.63,3.0,1,masculino,sudeste,Obeso
+36.0,23.75,0.0,0,feminino,nordeste,Peso normal
+51.0,21.36,0.0,1,feminino,noroeste,Peso normal
+62.0,30.17,2.0,0,feminino,sudoeste,Obeso
+45.0,29.17,3.0,1,feminino,nordeste,Sobrepeso
+43.0,30.82,3.0,0,masculino,sudoeste,Obeso
+39.0,31.57,2.0,0,masculino,sudoeste,Obeso
+18.0,21.06,2.0,0,masculino,sudoeste,Peso normal
+30.0,31.13,1.0,0,masculino,sudoeste,Obeso
+47.0,23.99,0.0,1,masculino,sudoeste,Peso normal
+70.0,34.56,2.0,1,masculino,noroeste,Obeso
+39.0,27.93,3.0,1,feminino,noroeste,Sobrepeso
+30.0,18.25,1.0,0,feminino,sudeste,Abaixo do peso
+57.0,22.75,3.0,0,feminino,sudoeste,Peso normal
+70.0,34.76,2.0,1,feminino,sudeste,Obeso
+64.0,27.51,2.0,1,masculino,nordeste,Sobrepeso
+56.0,29.77,2.0,1,feminino,sudoeste,Sobrepeso
+58.0,25.09,1.0,1,feminino,noroeste,Sobrepeso
+60.0,23.32,1.0,0,masculino,sudeste,Peso normal
+25.0,23.28,0.0,0,feminino,sudoeste,Peso normal
+69.0,32.96,1.0,1,masculino,sudoeste,Obeso
+46.0,33.98,1.0,0,feminino,sudoeste,Obeso
+70.0,19.02,1.0,0,masculino,noroeste,Peso normal
+65.0,32.01,2.0,1,masculino,sudeste,Obeso
+60.0,28.69,1.0,0,masculino,nordeste,Sobrepeso
+59.0,23.54,1.0,1,feminino,sudoeste,Peso normal
+77.0,31.86,1.0,0,masculino,sudoeste,Obeso
+47.0,32.8,0.0,0,feminino,sudeste,Obeso
+76.0,32.17,1.0,1,feminino,sudoeste,Obeso
+59.0,30.68,3.0,1,feminino,sudeste,Obeso
+51.0,23.69,0.0,1,masculino,noroeste,Peso normal
+35.0,31.05,1.0,1,feminino,sudoeste,Obeso
+71.0,24.16,2.0,0,masculino,sudeste,Peso normal
+27.0,,3.0,0,masculino,sudeste,IMC Não informado
+22.0,21.28,0.0,0,feminino,sudoeste,Peso normal
+41.0,34.29,0.0,1,masculino,sudoeste,Obeso
+76.0,32.29,0.0,1,masculino,nordeste,Obeso
+60.0,28.87,1.0,0,masculino,sudoeste,Sobrepeso
+79.0,20.57,0.0,1,masculino,sudoeste,Peso normal
+36.0,33.78,0.0,0,feminino,noroeste,Obeso
+45.0,31.34,0.0,1,masculino,noroeste,Obeso
+42.0,34.47,3.0,1,masculino,noroeste,Obeso
+78.0,28.28,3.0,0,masculino,nordeste,Sobrepeso
+48.0,24.95,2.0,1,feminino,sudeste,Sobrepeso
+49.0,30.78,2.0,1,feminino,sudeste,Obeso
+24.0,31.81,2.0,0,feminino,sudoeste,Obeso
+76.0,33.56,2.0,0,feminino,noroeste,Obeso
+41.0,33.11,3.0,1,feminino,noroeste,Obeso
+18.0,27.83,2.0,1,masculino,sudeste,Sobrepeso
+27.0,33.48,1.0,1,masculino,sudoeste,Obeso
+66.0,26.72,2.0,1,masculino,sudoeste,Sobrepeso
+25.0,20.76,0.0,1,feminino,sudoeste,Peso normal
+37.0,26.55,0.0,1,masculino,noroeste,Sobrepeso
+65.0,25.95,2.0,1,feminino,noroeste,Sobrepeso
+38.0,21.99,1.0,0,masculino,sudeste,Peso normal
+46.0,29.57,1.0,0,feminino,noroeste,Sobrepeso
+71.0,20.66,3.0,0,feminino,nordeste,Peso normal
+36.0,22.88,0.0,0,masculino,noroeste,Peso normal
+23.0,32.71,3.0,0,feminino,nordeste,Obeso
+22.0,32.27,3.0,0,feminino,noroeste,Obeso
+54.0,33.77,2.0,1,masculino,nordeste,Obeso
+64.0,30.76,3.0,1,masculino,sudoeste,Obeso
+76.0,23.03,2.0,0,masculino,noroeste,Peso normal
+58.0,34.45,1.0,0,feminino,sudeste,Obeso
+39.0,19.66,0.0,0,feminino,sudoeste,Peso normal
+79.0,32.82,3.0,0,masculino,sudeste,Obeso
+61.0,31.95,0.0,1,feminino,sudoeste,Obeso
+69.0,24.64,0.0,0,masculino,sudoeste,Peso normal
+71.0,30.95,1.0,1,masculino,nordeste,Obeso
+60.0,20.68,1.0,1,feminino,nordeste,Peso normal
+43.0,32.3,0.0,1,masculino,nordeste,Obeso
+56.0,24.95,0.0,1,feminino,sudeste,Sobrepeso
+49.0,23.71,1.0,0,masculino,noroeste,Peso normal
+39.0,22.33,1.0,1,feminino,sudeste,Peso normal
+26.0,19.37,2.0,0,masculino,nordeste,Peso normal
+48.0,24.58,3.0,1,masculino,nordeste,Peso normal
+27.0,31.27,2.0,0,masculino,sudoeste,Obeso
+45.0,32.92,2.0,0,feminino,sudoeste,Obeso
+75.0,23.91,0.0,1,feminino,sudoeste,Peso normal
+42.0,22.47,1.0,0,feminino,noroeste,Peso normal
+20.0,24.56,2.0,1,feminino,sudeste,Peso normal
+66.0,22.03,3.0,1,feminino,sudoeste,Peso normal
+31.0,25.18,3.0,1,feminino,noroeste,Sobrepeso
+46.0,34.49,1.0,1,masculino,nordeste,Obeso
+70.0,22.67,2.0,1,masculino,noroeste,Peso normal
+21.0,26.51,1.0,1,feminino,sudoeste,Sobrepeso
+26.0,24.27,3.0,1,feminino,nordeste,Peso normal
+48.0,21.58,3.0,1,feminino,noroeste,Peso normal
+40.0,21.37,2.0,1,feminino,sudoeste,Peso normal
+47.0,32.0,0.0,1,masculino,nordeste,Obeso
+37.0,29.84,3.0,0,feminino,noroeste,Sobrepeso
+32.0,30.7,2.0,0,masculino,sudeste,Obeso
+26.0,31.82,0.0,0,masculino,noroeste,Obeso
+79.0,34.42,3.0,1,masculino,sudeste,Obeso
+35.0,33.11,2.0,0,feminino,noroeste,Obeso
+64.0,24.28,0.0,1,feminino,noroeste,Peso normal
+63.0,23.85,1.0,1,masculino,sudoeste,Peso normal
+46.0,32.12,0.0,0,masculino,noroeste,Obeso
+70.0,21.45,1.0,0,feminino,sudeste,Peso normal
+39.0,31.87,1.0,0,feminino,sudoeste,Obeso
+18.0,23.02,2.0,0,feminino,sudeste,Peso normal
+74.0,31.62,2.0,0,feminino,nordeste,Obeso
+19.0,32.23,2.0,1,feminino,noroeste,Obeso
+19.0,23.95,2.0,0,feminino,sudoeste,Peso normal
+67.0,18.09,,1,feminino,sudoeste,Abaixo do peso
+46.0,31.78,2.0,1,masculino,noroeste,Obeso
+66.0,24.81,0.0,1,feminino,nordeste,Peso normal
+41.0,21.34,1.0,1,masculino,sudeste,Peso normal
+33.0,28.38,3.0,0,feminino,noroeste,Sobrepeso
+78.0,34.74,1.0,0,masculino,sudeste,Obeso
+29.0,34.09,1.0,0,feminino,sudoeste,Obeso
+66.0,22.58,1.0,1,feminino,sudeste,Peso normal
+74.0,29.98,0.0,1,feminino,sudeste,Obeso
+70.0,18.73,2.0,0,feminino,sudoeste,Peso normal
+18.0,20.0,1.0,0,masculino,nordeste,Peso normal
+47.0,21.33,2.0,0,feminino,sudoeste,Peso normal
+48.0,21.69,0.0,1,masculino,sudeste,Peso normal
+64.0,31.83,1.0,0,feminino,sudeste,Obeso
+43.0,18.6,3.0,1,feminino,sudeste,Peso normal
+21.0,28.6,1.0,1,masculino,nordeste,Sobrepeso
+50.0,29.82,1.0,1,masculino,nordeste,Sobrepeso
+39.0,25.62,1.0,0,masculino,sudeste,Sobrepeso
+40.0,20.2,3.0,1,feminino,sudoeste,Peso normal
+28.0,34.73,3.0,1,masculino,sudoeste,Obeso
+45.0,26.32,0.0,0,masculino,noroeste,Sobrepeso
+34.0,27.55,0.0,0,masculino,nordeste,Sobrepeso
+73.0,31.38,2.0,1,masculino,sudeste,Obeso
+23.0,24.07,2.0,0,feminino,nordeste,Peso normal
+57.0,22.19,1.0,1,feminino,nordeste,Peso normal
+24.0,32.53,1.0,0,masculino,nordeste,Obeso
+47.0,20.91,3.0,1,feminino,sudoeste,Peso normal
+72.0,18.28,1.0,0,masculino,sudeste,Abaixo do peso
+78.0,21.35,3.0,1,feminino,nordeste,Peso normal
+28.0,27.73,2.0,1,feminino,nordeste,Sobrepeso
+60.0,30.77,0.0,0,masculino,noroeste,Obeso
+35.0,27.19,3.0,0,,nordeste,Sobrepeso
+77.0,29.96,2.0,0,feminino,sudoeste,Obeso
+29.0,31.99,0.0,1,masculino,noroeste,Obeso
+53.0,24.45,1.0,1,feminino,nordeste,Peso normal
+43.0,32.66,1.0,1,feminino,nordeste,Obeso
+27.0,25.95,1.0,1,feminino,sudeste,Sobrepeso
+46.0,28.45,1.0,1,feminino,sudeste,Sobrepeso
+28.0,26.68,3.0,0,feminino,noroeste,Sobrepeso
+75.0,19.88,3.0,0,feminino,sudoeste,Peso normal
+19.0,18.93,0.0,0,masculino,nordeste,Peso normal
+65.0,20.81,0.0,1,masculino,noroeste,Peso normal
+22.0,23.2,2.0,0,masculino,sudoeste,Peso normal
+53.0,28.5,1.0,0,feminino,sudeste,Sobrepeso
+65.0,28.99,3.0,0,masculino,noroeste,Sobrepeso
+45.0,20.28,0.0,1,masculino,nordeste,Peso normal
+65.0,19.25,2.0,1,masculino,nordeste,Peso normal
+18.0,33.35,2.0,1,feminino,sudoeste,Obeso
+28.0,25.16,2.0,0,masculino,sudoeste,Sobrepeso
+18.0,31.58,0.0,0,feminino,nordeste,Obeso
+63.0,28.93,3.0,1,masculino,sudoeste,Sobrepeso
+41.0,26.24,3.0,0,feminino,noroeste,Sobrepeso
+44.0,30.17,2.0,1,masculino,nordeste,Obeso
+63.0,20.17,1.0,0,feminino,sudoeste,Peso normal
+32.0,26.15,3.0,1,feminino,noroeste,Sobrepeso
+37.0,31.62,1.0,1,masculino,noroeste,Obeso
+72.0,31.15,2.0,1,masculino,sudeste,Obeso
+62.0,32.72,1.0,0,feminino,nordeste,Obeso
+61.0,31.08,3.0,0,masculino,sudoeste,Obeso
+27.0,32.44,0.0,0,masculino,nordeste,Obeso
+36.0,19.23,0.0,1,feminino,sudeste,Peso normal
+40.0,22.27,3.0,1,masculino,sudeste,Peso normal
+41.0,19.28,2.0,0,feminino,noroeste,Peso normal
+59.0,24.13,1.0,1,feminino,sudoeste,Peso normal
+45.0,23.82,0.0,1,masculino,sudeste,Peso normal
+31.0,29.26,2.0,1,masculino,nordeste,Sobrepeso
+76.0,23.81,2.0,1,masculino,nordeste,Peso normal
+31.0,25.19,0.0,2,feminino,nordeste,Sobrepeso
+39.0,33.56,2.0,1,masculino,nordeste,Obeso
+57.0,28.81,1.0,0,feminino,sudoeste,Sobrepeso
+64.0,24.34,2.0,0,feminino,noroeste,Peso normal
+21.0,29.43,2.0,0,masculino,nordeste,Sobrepeso
+56.0,26.47,0.0,1,masculino,nordeste,Sobrepeso
+70.0,24.46,2.0,0,feminino,nordeste,Peso normal
+28.0,24.16,2.0,1,masculino,nordeste,Peso normal
+74.0,30.84,3.0,0,masculino,noroeste,Obeso
+72.0,33.25,2.0,0,feminino,sudeste,Obeso
+68.0,33.92,0.0,1,feminino,sudeste,Obeso
+74.0,19.32,3.0,1,masculino,noroeste,Peso normal
+76.0,19.5,3.0,1,feminino,sudeste,Peso normal
+37.0,30.79,3.0,0,feminino,nordeste,Obeso
+48.0,20.71,0.0,1,masculino,noroeste,Peso normal
+35.0,26.44,2.0,0,masculino,noroeste,Sobrepeso
+54.0,26.09,1.0,1,masculino,sudoeste,Sobrepeso
+37.0,21.11,2.0,0,masculino,sudeste,Peso normal
+44.0,29.86,0.0,0,masculino,noroeste,Sobrepeso
+53.0,19.67,1.0,0,masculino,sudoeste,Peso normal
+78.0,20.0,2.0,0,masculino,sudeste,Peso normal
+73.0,42.01,3.0,0,masculino,nordeste,Obeso
+23.0,33.93,0.0,1,masculino,noroeste,Obeso
+67.0,34.0,2.0,1,feminino,noroeste,Obeso
+47.0,20.94,0.0,0,feminino,noroeste,Peso normal
+66.0,28.1,3.0,0,masculino,sudoeste,Sobrepeso
+40.0,20.25,1.0,0,masculino,noroeste,Peso normal
+52.0,34.09,3.0,0,masculino,sudoeste,Obeso
+66.0,30.64,0.0,0,masculino,sudoeste,Obeso
+49.0,29.74,2.0,0,feminino,noroeste,Sobrepeso
+49.0,28.64,2.0,0,feminino,nordeste,Sobrepeso
+44.0,28.23,3.0,0,masculino,sudoeste,Sobrepeso
+57.0,31.95,0.0,0,feminino,sudeste,Obeso
+33.0,26.53,1.0,1,masculino,nordeste,Sobrepeso
+18.0,27.18,1.0,0,masculino,noroeste,Sobrepeso
+78.0,18.73,1.0,1,masculino,noroeste,Peso normal
+37.0,32.26,3.0,0,feminino,sudeste,Obeso
+74.0,29.78,1.0,1,feminino,nordeste,Sobrepeso
+26.0,33.71,1.0,1,masculino,nordeste,Obeso
+43.0,26.71,3.0,1,feminino,noroeste,Sobrepeso
+50.0,,0.0,1,masculino,sudoeste,IMC Não informado
+38.0,18.18,1.0,1,masculino,noroeste,Abaixo do peso
+26.0,24.84,2.0,1,feminino,nordeste,Peso normal
+29.0,34.64,2.0,0,feminino,noroeste,Obeso
+57.0,30.99,0.0,0,masculino,nordeste,Obeso
+28.0,30.3,1.0,0,masculino,sudeste,Obeso
+35.0,23.4,3.0,0,masculino,noroeste,Peso normal
+41.0,32.55,2.0,0,feminino,nordeste,Obeso
+57.0,28.55,2.0,1,feminino,sudeste,Sobrepeso
+50.0,19.45,1.0,0,masculino,nordeste,Peso normal
+62.0,19.67,3.0,0,masculino,noroeste,Peso normal
+49.0,24.3,1.0,1,feminino,noroeste,Peso normal
+70.0,31.75,1.0,0,masculino,nordeste,Obeso
+51.0,30.52,1.0,0,feminino,sudeste,Obeso
+23.0,33.34,2.0,0,feminino,nordeste,Obeso
+25.0,27.47,0.0,1,masculino,nordeste,Sobrepeso
+76.0,33.85,1.0,1,feminino,sudoeste,Obeso
+29.0,19.66,2.0,1,masculino,sudeste,Peso normal
+24.0,32.78,1.0,1,masculino,sudoeste,Obeso
+,28.49,1.0,0,feminino,sudeste,Sobrepeso
+45.0,31.62,1.0,0,masculino,sudeste,Obeso
+66.0,22.48,0.0,0,feminino,sudeste,Peso normal
+53.0,23.13,1.0,1,feminino,nordeste,Peso normal
+67.0,30.55,,0,masculino,noroeste,Obeso
+35.0,29.39,3.0,1,masculino,sudoeste,Sobrepeso
+67.0,27.25,1.0,1,masculino,noroeste,Sobrepeso
+54.0,34.84,1.0,1,masculino,sudoeste,Obeso
+21.0,29.71,0.0,0,feminino,noroeste,Sobrepeso
+64.0,30.98,3.0,1,feminino,nordeste,Obeso
+76.0,28.63,2.0,1,masculino,noroeste,Sobrepeso
+43.0,21.96,2.0,0,masculino,noroeste,Peso normal
+29.0,33.18,1.0,1,feminino,noroeste,Obeso
+56.0,21.68,2.0,1,feminino,sudoeste,Peso normal
+74.0,33.87,1.0,1,masculino,noroeste,Obeso
+74.0,18.69,3.0,0,feminino,sudoeste,Peso normal
+25.0,23.1,1.0,0,feminino,noroeste,Peso normal
+26.0,32.91,2.0,0,feminino,sudeste,Obeso
+43.0,18.69,1.0,0,feminino,sudoeste,Peso normal
+79.0,27.41,3.0,1,masculino,sudeste,Sobrepeso
+23.0,20.45,3.0,1,feminino,sudoeste,Peso normal
+25.0,23.99,0.0,0,masculino,sudoeste,Peso normal
+42.0,18.18,3.0,0,feminino,nordeste,Abaixo do peso
+32.0,19.82,2.0,0,masculino,sudoeste,Peso normal
+65.0,28.12,3.0,0,masculino,sudoeste,Sobrepeso
+24.0,27.72,2.0,0,masculino,sudeste,Sobrepeso
+25.0,30.18,3.0,1,masculino,sudeste,Obeso
+26.0,26.39,3.0,0,feminino,sudoeste,Sobrepeso
+67.0,26.53,3.0,1,feminino,sudeste,Sobrepeso
+65.0,18.03,3.0,1,masculino,nordeste,Abaixo do peso
+51.0,18.46,1.0,1,masculino,nordeste,Abaixo do peso
+67.0,32.66,1.0,1,masculino,nordeste,Obeso
+64.0,22.8,1.0,1,feminino,sudeste,Peso normal
+49.0,27.0,3.0,1,feminino,noroeste,Sobrepeso
+73.0,20.94,1.0,1,masculino,sudoeste,Peso normal
+76.0,27.48,2.0,1,feminino,sudoeste,Sobrepeso
+73.0,30.93,0.0,1,masculino,noroeste,Obeso
+62.0,34.65,1.0,1,feminino,sudoeste,Obeso
+26.0,19.15,3.0,1,feminino,nordeste,Peso normal
+29.0,32.68,1.0,0,masculino,nordeste,Obeso
+75.0,21.93,3.0,0,feminino,sudoeste,Peso normal
+34.0,32.87,3.0,0,masculino,sudoeste,Obeso
+40.0,20.02,1.0,1,masculino,sudeste,Peso normal
+56.0,18.25,3.0,1,masculino,sudoeste,Abaixo do peso
+58.0,26.57,1.0,0,masculino,nordeste,Sobrepeso
+20.0,26.69,0.0,0,feminino,sudoeste,Sobrepeso
+18.0,26.38,3.0,1,masculino,nordeste,Sobrepeso
+32.0,22.58,2.0,1,masculino,noroeste,Peso normal
+44.0,30.72,3.0,1,masculino,noroeste,Obeso
+38.0,19.23,0.0,0,masculino,sudoeste,Peso normal
+79.0,32.28,3.0,0,masculino,sudeste,Obeso
+49.0,26.38,2.0,0,masculino,sudeste,Sobrepeso
+45.0,34.62,2.0,0,feminino,noroeste,Obeso
+20.0,18.07,2.0,1,feminino,sudeste,Abaixo do peso
+,31.18,2.0,0,feminino,sudeste,Obeso
+68.0,21.98,1.0,0,feminino,sudoeste,Peso normal
+35.0,30.9,1.0,1,masculino,sudoeste,Obeso
+71.0,19.36,2.0,1,feminino,sudeste,Peso normal
+75.0,29.63,2.0,1,masculino,nordeste,Sobrepeso
+61.0,18.67,0.0,0,masculino,noroeste,Peso normal
+43.0,24.58,2.0,0,masculino,sudeste,Peso normal
+29.0,18.31,2.0,0,masculino,sudoeste,Abaixo do peso
+45.0,23.74,3.0,1,masculino,sudoeste,Peso normal
+77.0,31.52,1.0,1,masculino,sudeste,Obeso
+68.0,31.81,1.0,1,feminino,noroeste,Obeso
+31.0,30.65,1.0,1,masculino,sudoeste,Obeso
+28.0,27.33,2.0,1,feminino,nordeste,Sobrepeso
+51.0,23.54,1.0,0,feminino,noroeste,Peso normal
+71.0,19.34,3.0,1,masculino,noroeste,Peso normal
+72.0,27.35,1.0,1,masculino,sudeste,Sobrepeso
+63.0,29.24,1.0,1,masculino,sudoeste,Sobrepeso
+34.0,26.16,3.0,0,feminino,noroeste,Sobrepeso
+36.0,30.25,3.0,1,feminino,noroeste,Obeso
+31.0,21.4,1.0,1,masculino,noroeste,Peso normal
+68.0,28.16,1.0,0,masculino,sudoeste,Sobrepeso
+74.0,23.26,2.0,0,feminino,noroeste,Peso normal
+74.0,34.21,3.0,0,feminino,nordeste,Obeso
+56.0,22.28,2.0,1,masculino,sudeste,Peso normal
+77.0,29.31,0.0,1,masculino,sudeste,Sobrepeso
+19.0,21.6,0.0,0,masculino,noroeste,Peso normal
+19.0,28.46,0.0,2,masculino,noroeste,Sobrepeso
+56.0,31.33,2.0,0,feminino,sudeste,Obeso
+40.0,21.99,2.0,2,masculino,sudoeste,Peso normal
+35.0,31.87,0.0,0,feminino,noroeste,Obeso
+65.0,24.77,1.0,0,masculino,nordeste,Peso normal
+47.0,30.95,2.0,1,masculino,noroeste,Obeso
+79.0,29.62,3.0,1,feminino,sudeste,Sobrepeso
+45.0,34.35,3.0,1,masculino,sudeste,Obeso
+50.0,20.84,3.0,0,masculino,sudeste,Peso normal
+56.0,20.24,0.0,0,masculino,sudoeste,Peso normal
+40.0,30.38,2.0,0,masculino,noroeste,Obeso
+38.0,30.12,2.0,1,feminino,nordeste,Obeso
+51.0,33.86,1.0,0,masculino,noroeste,Obeso
+77.0,29.59,1.0,0,feminino,sudoeste,Sobrepeso
+34.0,33.77,1.0,1,masculino,noroeste,Obeso
+20.0,23.64,1.0,0,masculino,noroeste,Peso normal
+33.0,20.8,2.0,0,feminino,nordeste,Peso normal
+38.0,34.8,0.0,0,feminino,nordeste,Obeso
+63.0,31.5,3.0,0,masculino,sudeste,Obeso
+18.0,21.49,3.0,1,feminino,sudeste,Peso normal
+70.0,30.41,0.0,1,feminino,sudoeste,Obeso
+24.0,,2.0,1,feminino,sudeste,IMC Não informado
+30.0,26.31,1.0,1,feminino,sudoeste,Sobrepeso
+23.0,34.07,3.0,0,feminino,nordeste,Obeso
+61.0,20.22,2.0,0,feminino,sudeste,Peso normal
+38.0,33.59,2.0,1,feminino,nordeste,Obeso
+36.0,18.18,0.0,1,masculino,sudoeste,Abaixo do peso
+65.0,19.22,1.0,1,masculino,sudoeste,Peso normal
+38.0,32.36,1.0,0,masculino,noroeste,Obeso
+61.0,32.27,3.0,0,feminino,nordeste,Obeso
+29.0,24.15,3.0,0,masculino,sudeste,Peso normal
+50.0,33.01,0.0,1,feminino,nordeste,Obeso
+68.0,22.65,0.0,0,feminino,,Peso normal
+41.0,34.54,2.0,0,feminino,nordeste,Obeso
+79.0,29.48,3.0,0,masculino,sudoeste,Sobrepeso
+28.0,32.46,3.0,0,masculino,sudoeste,Obeso
+56.0,29.05,1.0,1,feminino,sudeste,Sobrepeso
+45.0,18.86,0.0,1,masculino,nordeste,Peso normal
+74.0,26.73,0.0,0,masculino,sudoeste,Sobrepeso
+73.0,30.8,0.0,0,feminino,noroeste,Obeso
+71.0,33.04,1.0,1,feminino,nordeste,Obeso
+57.0,29.03,3.0,0,feminino,nordeste,Sobrepeso
+65.0,33.63,3.0,0,masculino,sudeste,Obeso
+43.0,27.69,0.0,1,masculino,noroeste,Sobrepeso
+74.0,30.34,0.0,0,feminino,noroeste,Obeso
+21.0,33.52,3.0,1,masculino,sudeste,Obeso
+38.0,18.58,3.0,1,feminino,sudoeste,Peso normal
+61.0,31.3,2.0,1,feminino,nordeste,Obeso
+38.0,23.35,2.0,0,feminino,sudeste,Peso normal
+48.0,26.76,1.0,0,feminino,noroeste,Sobrepeso
+42.0,22.93,1.0,0,feminino,sudeste,Peso normal
+33.0,22.85,3.0,0,feminino,nordeste,Peso normal
+53.0,19.47,2.0,1,feminino,nordeste,Peso normal
+77.0,19.87,0.0,0,feminino,noroeste,Peso normal
+69.0,21.26,3.0,0,feminino,sudeste,Peso normal
+65.0,29.07,2.0,0,feminino,sudeste,Sobrepeso
+54.0,34.09,1.0,0,feminino,sudeste,Obeso
+35.0,20.82,0.0,0,feminino,nordeste,Peso normal
+56.0,30.11,0.0,0,masculino,sudoeste,Obeso
+40.0,33.68,0.0,0,masculino,sudoeste,Obeso
+40.0,19.93,0.0,1,feminino,nordeste,Peso normal
+21.0,21.93,1.0,0,masculino,sudeste,Peso normal
+37.0,25.21,0.0,1,feminino,sudoeste,Sobrepeso
+57.0,33.69,3.0,1,feminino,nordeste,Obeso
+22.0,34.74,3.0,0,feminino,sudoeste,Obeso
+63.0,29.39,1.0,1,feminino,sudeste,Sobrepeso
+74.0,22.15,0.0,0,masculino,sudoeste,Peso normal
+29.0,34.79,0.0,0,feminino,sudeste,Obeso
+23.0,24.4,2.0,0,masculino,noroeste,Peso normal
+63.0,19.61,0.0,1,masculino,noroeste,Peso normal
+,34.15,3.0,1,feminino,nordeste,Obeso
+57.0,32.61,2.0,1,feminino,sudoeste,Obeso
+30.0,23.07,2.0,0,feminino,noroeste,Peso normal
+45.0,26.96,0.0,0,masculino,nordeste,Sobrepeso
+69.0,34.99,2.0,0,masculino,sudoeste,Obeso
+70.0,25.19,1.0,1,feminino,sudeste,Sobrepeso
+38.0,26.87,2.0,0,masculino,nordeste,Sobrepeso
+55.0,32.44,1.0,0,masculino,sudeste,Obeso
+50.0,19.84,1.0,1,feminino,noroeste,Peso normal
+60.0,19.13,1.0,0,feminino,noroeste,Peso normal
+45.0,29.86,,1,masculino,sudoeste,Sobrepeso
+39.0,22.69,2.0,1,feminino,sudoeste,Peso normal
+30.0,21.14,2.0,1,masculino,sudeste,Peso normal
+47.0,25.95,1.0,1,feminino,sudoeste,Sobrepeso
+32.0,34.89,0.0,1,masculino,sudoeste,Obeso
+19.0,25.41,1.0,0,feminino,noroeste,Sobrepeso
+69.0,21.35,2.0,1,feminino,sudoeste,Peso normal
+38.0,26.28,1.0,0,feminino,noroeste,Sobrepeso
+42.0,21.44,1.0,1,masculino,sudeste,Peso normal
+34.0,20.09,3.0,1,feminino,sudeste,Peso normal
+72.0,23.02,1.0,1,feminino,nordeste,Peso normal
+76.0,26.92,0.0,0,feminino,noroeste,Sobrepeso
+31.0,24.41,2.0,0,feminino,sudoeste,Peso normal
+73.0,33.06,3.0,0,masculino,noroeste,Obeso
+70.0,28.47,1.0,1,feminino,nordeste,Sobrepeso
+75.0,30.94,3.0,1,feminino,sudoeste,Obeso
+69.0,32.59,0.0,1,feminino,sudeste,Obeso
+47.0,22.26,1.0,0,masculino,sudoeste,Peso normal
+39.0,18.18,3.0,0,masculino,noroeste,Abaixo do peso
+71.0,18.4,0.0,0,feminino,noroeste,Abaixo do peso
+48.0,30.7,1.0,1,feminino,sudeste,Obeso
+35.0,33.97,2.0,0,masculino,nordeste,Obeso
+65.0,18.67,2.0,0,feminino,sudoeste,Peso normal
+69.0,27.68,0.0,1,feminino,sudoeste,Sobrepeso
+38.0,22.99,2.0,1,masculino,nordeste,Peso normal
+39.0,20.01,0.0,0,feminino,nordeste,Peso normal
+20.0,22.49,2.0,1,feminino,nordeste,Peso normal
+39.0,29.45,3.0,1,feminino,noroeste,Sobrepeso
+75.0,33.46,0.0,0,masculino,nordeste,Obeso
+19.0,32.86,3.0,1,feminino,nordeste,Obeso
+38.0,29.0,0.0,1,masculino,sudoeste,Sobrepeso
+56.0,19.73,3.0,1,feminino,noroeste,Peso normal
+39.0,32.47,2.0,0,masculino,sudeste,Obeso
+63.0,30.93,2.0,1,masculino,sudeste,Obeso
+19.0,24.93,2.0,1,feminino,noroeste,Sobrepeso
+27.0,24.17,2.0,1,masculino,sudeste,Peso normal
+49.0,22.75,2.0,0,masculino,noroeste,Peso normal
+44.0,22.91,3.0,1,feminino,sudoeste,Peso normal
+35.0,19.06,0.0,1,feminino,noroeste,Peso normal
+65.0,30.48,0.0,1,feminino,nordeste,Obeso
+18.0,27.69,2.0,0,masculino,noroeste,Sobrepeso
+,27.43,1.0,0,masculino,nordeste,Sobrepeso
+43.0,32.1,2.0,0,masculino,sudeste,Obeso
+78.0,18.52,2.0,1,masculino,sudoeste,Peso normal
+63.0,18.46,1.0,0,masculino,noroeste,Abaixo do peso
+30.0,28.66,0.0,1,masculino,noroeste,Sobrepeso
+26.0,24.39,1.0,1,masculino,sudeste,Peso normal
+45.0,32.08,0.0,0,masculino,noroeste,Obeso
+37.0,20.11,3.0,0,masculino,sudoeste,Peso normal
+42.0,21.39,2.0,0,masculino,sudoeste,Peso normal
+79.0,33.54,1.0,0,masculino,sudeste,Obeso
+68.0,25.61,1.0,0,masculino,nordeste,Sobrepeso
+45.0,24.19,3.0,0,masculino,noroeste,Peso normal
+67.0,21.27,2.0,1,masculino,nordeste,Peso normal
+21.0,30.93,1.0,0,masculino,sudeste,Obeso
+52.0,32.5,2.0,0,masculino,noroeste,Obeso
+31.0,30.38,1.0,1,masculino,noroeste,Obeso
+30.0,20.2,3.0,0,masculino,sudeste,Peso normal
+19.0,19.88,2.0,1,masculino,sudeste,Peso normal
+27.0,20.3,3.0,0,masculino,nordeste,Peso normal
+30.0,27.21,2.0,0,masculino,nordeste,Sobrepeso
+43.0,23.26,1.0,0,masculino,sudeste,Peso normal
+64.0,18.45,2.0,1,feminino,nordeste,Abaixo do peso
+62.0,21.85,1.0,1,masculino,sudeste,Peso normal
+48.0,29.33,1.0,1,feminino,sudoeste,Sobrepeso
+47.0,22.4,2.0,1,masculino,nordeste,Peso normal
+38.0,31.33,0.0,0,feminino,sudeste,Obeso
+22.0,28.9,3.0,1,masculino,nordeste,Sobrepeso
+71.0,33.92,2.0,0,feminino,nordeste,Obeso
+65.0,31.57,2.0,0,feminino,sudeste,Obeso
+55.0,19.56,1.0,0,feminino,sudoeste,Peso normal
+30.0,32.79,3.0,0,masculino,sudeste,Obeso
+65.0,29.11,3.0,0,feminino,,Sobrepeso
+69.0,27.17,0.0,1,feminino,sudoeste,Sobrepeso
+28.0,33.89,2.0,1,feminino,sudeste,Obeso
+43.0,28.74,1.0,1,feminino,sudeste,Sobrepeso
+64.0,21.16,1.0,0,masculino,noroeste,Peso normal
+24.0,27.54,2.0,0,masculino,sudeste,Sobrepeso
+43.0,34.43,0.0,1,masculino,nordeste,Obeso
+32.0,34.91,0.0,0,masculino,sudeste,Obeso
+71.0,30.5,2.0,0,masculino,sudoeste,Obeso
+39.0,21.22,2.0,1,masculino,sudeste,Peso normal
+18.0,34.86,1.0,0,feminino,sudoeste,Obeso
+27.0,28.66,2.0,1,feminino,nordeste,Sobrepeso
+68.0,27.74,0.0,0,feminino,sudeste,Sobrepeso
+62.0,24.88,2.0,0,feminino,sudoeste,Peso normal
+35.0,31.72,1.0,0,feminino,noroeste,Obeso
+70.0,33.64,1.0,0,,sudoeste,Obeso
+54.0,19.86,2.0,1,masculino,sudoeste,Peso normal
+73.0,23.01,1.0,0,feminino,sudeste,Peso normal
+19.0,25.49,0.0,1,feminino,noroeste,Sobrepeso
+49.0,34.57,2.0,0,masculino,nordeste,Obeso
+64.0,19.0,2.0,0,feminino,sudeste,Peso normal
+70.0,34.39,1.0,1,masculino,noroeste,Obeso
+20.0,30.18,2.0,1,feminino,sudoeste,Obeso
+42.0,29.76,1.0,0,masculino,nordeste,Sobrepeso
+22.0,31.82,2.0,1,feminino,sudoeste,Obeso
+24.0,28.18,0.0,1,,sudeste,Sobrepeso
+23.0,25.76,1.0,1,feminino,noroeste,Sobrepeso
+42.0,22.92,2.0,1,feminino,sudeste,Peso normal
+61.0,20.79,0.0,1,feminino,sudoeste,Peso normal
+45.0,26.61,3.0,1,feminino,sudoeste,Sobrepeso
+55.0,32.21,1.0,0,masculino,sudoeste,Obeso
+60.0,26.15,3.0,1,masculino,nordeste,Sobrepeso
+,33.71,2.0,0,feminino,sudeste,Obeso
+28.0,25.76,1.0,0,feminino,sudeste,Sobrepeso
+48.0,24.09,1.0,0,masculino,sudeste,Peso normal
+75.0,29.06,0.0,0,feminino,sudeste,Sobrepeso
+54.0,33.19,3.0,1,masculino,nordeste,Obeso
+79.0,31.43,1.0,1,feminino,nordeste,Obeso
+65.0,31.96,1.0,1,feminino,noroeste,Obeso
+19.0,29.34,2.0,0,masculino,nordeste,Sobrepeso
+66.0,18.61,2.0,0,feminino,sudoeste,Peso normal
+36.0,22.08,1.0,1,masculino,sudeste,Peso normal
+69.0,18.28,0.0,0,masculino,nordeste,Abaixo do peso
+21.0,30.28,2.0,0,masculino,sudeste,Obeso
+75.0,22.08,0.0,1,masculino,sudeste,Peso normal
+43.0,33.38,2.0,0,feminino,nordeste,Obeso
+23.0,18.16,1.0,1,masculino,sudoeste,Abaixo do peso
+50.0,26.64,3.0,1,feminino,sudoeste,Sobrepeso
+22.0,22.2,3.0,0,masculino,sudeste,Peso normal
+45.0,20.21,3.0,1,masculino,noroeste,Peso normal
+20.0,27.51,2.0,1,masculino,nordeste,Sobrepeso
+53.0,18.07,1.0,0,feminino,nordeste,Abaixo do peso
+41.0,32.99,1.0,1,masculino,sudeste,Obeso
+67.0,22.25,3.0,1,masculino,noroeste,Peso normal
+77.0,22.31,2.0,0,masculino,noroeste,Peso normal
+21.0,21.16,0.0,1,masculino,noroeste,Peso normal
+55.0,26.01,1.0,1,masculino,sudeste,Sobrepeso
+22.0,21.24,0.0,1,masculino,sudeste,Peso normal
+38.0,33.8,0.0,1,masculino,nordeste,Obeso
+28.0,32.21,3.0,0,feminino,nordeste,Obeso
+78.0,26.07,1.0,1,masculino,sudoeste,Sobrepeso
+29.0,32.37,0.0,0,masculino,sudeste,Obeso
+29.0,34.85,3.0,1,feminino,sudeste,Obeso
+27.0,21.52,2.0,0,feminino,sudoeste,Peso normal
+68.0,26.53,0.0,1,masculino,sudoeste,Sobrepeso
+29.0,,2.0,0,feminino,nordeste,IMC Não informado
+72.0,20.9,0.0,0,feminino,sudeste,Peso normal
+35.0,27.29,1.0,1,feminino,sudoeste,Sobrepeso
+75.0,31.29,0.0,0,feminino,sudeste,Obeso
+58.0,19.54,3.0,1,feminino,nordeste,Peso normal
+52.0,22.82,3.0,1,feminino,noroeste,Peso normal
+28.0,24.76,1.0,1,masculino,sudeste,Peso normal
+24.0,29.75,3.0,0,feminino,nordeste,Sobrepeso
+64.0,33.66,2.0,0,feminino,sudeste,Obeso
+78.0,20.07,2.0,0,feminino,nordeste,Peso normal
+31.0,22.66,2.0,0,feminino,sudeste,Peso normal
+60.0,32.0,3.0,0,feminino,noroeste,Obeso
+34.0,20.65,1.0,0,masculino,sudeste,Peso normal
+55.0,18.82,3.0,0,masculino,sudeste,Peso normal
+22.0,27.23,1.0,0,feminino,sudeste,Sobrepeso
+48.0,19.61,2.0,0,feminino,nordeste,Peso normal
+25.0,29.97,2.0,1,,sudoeste,Obeso
+37.0,19.58,2.0,0,feminino,sudoeste,Peso normal
+42.0,25.07,3.0,1,feminino,sudoeste,Sobrepeso
+79.0,19.5,2.0,0,feminino,noroeste,Peso normal
+69.0,25.2,3.0,0,masculino,sudoeste,Sobrepeso
+77.0,33.96,1.0,0,masculino,sudeste,Obeso
+68.0,24.61,0.0,0,masculino,sudoeste,Peso normal
+28.0,33.38,1.0,0,masculino,noroeste,Obeso
+79.0,26.8,2.0,0,feminino,sudoeste,Sobrepeso
+36.0,34.0,1.0,0,feminino,sudeste,Obeso
+65.0,22.93,0.0,1,masculino,sudoeste,Peso normal
+72.0,29.33,0.0,0,feminino,sudoeste,Sobrepeso
+34.0,24.39,0.0,0,feminino,nordeste,Peso normal
+65.0,21.27,3.0,0,feminino,nordeste,Peso normal
+52.0,21.71,1.0,0,feminino,sudoeste,Peso normal
+67.0,18.24,0.0,1,masculino,sudoeste,Abaixo do peso
+42.0,31.23,2.0,0,feminino,nordeste,Obeso
+42.0,22.98,2.0,1,feminino,nordeste,Peso normal
+19.0,31.61,1.0,1,feminino,sudeste,Obeso
+18.0,21.66,0.0,2,masculino,noroeste,Peso normal
+47.0,28.75,2.0,1,feminino,nordeste,Sobrepeso
+65.0,29.83,1.0,1,masculino,nordeste,Sobrepeso
+58.0,26.62,0.0,0,masculino,nordeste,Sobrepeso
+65.0,24.52,3.0,1,feminino,sudoeste,Peso normal
+22.0,21.43,2.0,1,masculino,sudeste,Peso normal
+76.0,24.16,2.0,0,masculino,sudeste,Peso normal
+73.0,19.79,0.0,0,masculino,sudeste,Peso normal
+43.0,34.91,0.0,0,feminino,sudeste,Obeso
+40.0,22.46,0.0,1,masculino,,Peso normal
+50.0,30.7,0.0,0,masculino,noroeste,Obeso
+46.0,34.93,0.0,1,feminino,nordeste,Obeso
+67.0,22.82,3.0,0,feminino,nordeste,Peso normal
+27.0,20.33,1.0,1,masculino,nordeste,Peso normal
+30.0,30.08,2.0,0,feminino,sudoeste,Obeso
+69.0,21.87,3.0,0,feminino,sudeste,Peso normal
+36.0,25.78,2.0,0,feminino,sudoeste,Sobrepeso
+36.0,27.58,3.0,1,feminino,sudeste,Sobrepeso
+78.0,18.27,1.0,0,feminino,sudoeste,Abaixo do peso
+35.0,25.39,3.0,1,feminino,sudoeste,Sobrepeso
+57.0,26.88,3.0,1,masculino,sudeste,Sobrepeso
+68.0,26.23,3.0,1,feminino,sudoeste,Sobrepeso
+53.0,34.33,0.0,1,feminino,sudoeste,Obeso
+23.0,22.56,,1,masculino,noroeste,Peso normal
+76.0,27.71,3.0,0,feminino,noroeste,Sobrepeso
+72.0,25.61,3.0,1,feminino,nordeste,Sobrepeso
+47.0,27.24,0.0,0,masculino,nordeste,Sobrepeso
+42.0,20.98,2.0,0,masculino,sudeste,Peso normal
+18.0,34.05,3.0,1,feminino,sudeste,Obeso
+18.0,34.85,0.0,0,feminino,nordeste,Obeso
+59.0,23.41,0.0,1,masculino,sudeste,Peso normal
+26.0,34.05,1.0,1,feminino,noroeste,Obeso
+27.0,27.5,3.0,1,feminino,sudeste,Sobrepeso
+79.0,27.54,0.0,1,feminino,noroeste,Sobrepeso
+38.0,30.49,0.0,1,masculino,noroeste,Obeso
+59.0,34.05,3.0,0,feminino,sudeste,Obeso
+61.0,27.52,3.0,0,feminino,noroeste,Sobrepeso
+46.0,19.63,1.0,0,feminino,sudeste,Peso normal
+58.0,34.47,1.0,0,masculino,sudeste,Obeso
+34.0,29.71,2.0,0,feminino,noroeste,Sobrepeso
+18.0,31.29,2.0,1,feminino,noroeste,Obeso
+74.0,22.65,2.0,1,masculino,sudeste,Peso normal
+33.0,29.74,1.0,1,masculino,nordeste,Sobrepeso
+41.0,32.78,3.0,1,feminino,sudeste,Obeso
+67.0,34.96,1.0,0,masculino,sudoeste,Obeso
+24.0,18.89,1.0,1,masculino,noroeste,Peso normal
+75.0,20.4,0.0,0,feminino,sudeste,Peso normal
+41.0,21.38,1.0,0,feminino,sudeste,Peso normal
+42.0,21.36,1.0,0,masculino,sudeste,Peso normal
+72.0,28.43,3.0,1,masculino,sudeste,Sobrepeso
+76.0,29.35,0.0,0,feminino,sudoeste,Sobrepeso
+50.0,28.73,1.0,0,masculino,nordeste,Sobrepeso
+41.0,34.54,2.0,0,masculino,noroeste,Obeso
+69.0,19.84,2.0,0,masculino,sudoeste,Peso normal
+66.0,34.95,3.0,0,feminino,nordeste,Obeso
+49.0,20.77,3.0,1,feminino,nordeste,Peso normal
+31.0,32.77,2.0,0,feminino,sudeste,Obeso
+46.0,18.0,3.0,0,feminino,noroeste,Abaixo do peso
+60.0,33.23,2.0,0,feminino,sudeste,Obeso
+72.0,19.94,0.0,1,feminino,noroeste,Peso normal
+,28.48,0.0,1,masculino,nordeste,Sobrepeso
+33.0,28.99,3.0,0,masculino,noroeste,Sobrepeso
+20.0,29.33,0.0,1,feminino,nordeste,Sobrepeso
+51.0,32.81,0.0,1,feminino,noroeste,Obeso
+76.0,25.06,0.0,0,feminino,noroeste,Sobrepeso
+76.0,32.05,2.0,1,masculino,noroeste,Obeso
+69.0,34.47,3.0,1,masculino,sudeste,Obeso
+77.0,32.17,3.0,1,feminino,noroeste,Obeso
+61.0,28.46,0.0,1,masculino,nordeste,Sobrepeso
+53.0,21.6,0.0,0,feminino,nordeste,Peso normal
+72.0,23.5,2.0,1,masculino,noroeste,Peso normal
+45.0,21.68,,0,masculino,sudeste,Peso normal
+39.0,32.62,1.0,1,feminino,sudeste,Obeso
+27.0,28.06,1.0,1,feminino,noroeste,Sobrepeso
+18.0,28.84,3.0,0,feminino,noroeste,Sobrepeso
+21.0,18.27,3.0,2,masculino,nordeste,Abaixo do peso
+25.0,24.71,1.0,0,masculino,nordeste,Peso normal
+54.0,34.51,2.0,1,feminino,nordeste,Obeso
+36.0,33.36,3.0,0,feminino,sudoeste,Obeso
+28.0,30.29,0.0,0,feminino,nordeste,Obeso
+58.0,30.02,1.0,1,feminino,sudeste,Obeso
+56.0,30.1,0.0,0,masculino,noroeste,Obeso
+41.0,34.25,2.0,0,masculino,sudoeste,Obeso
+22.0,30.95,1.0,0,feminino,sudoeste,Obeso
+61.0,18.02,3.0,0,feminino,sudoeste,Abaixo do peso
+31.0,33.69,0.0,1,feminino,sudoeste,Obeso
+65.0,34.9,3.0,0,masculino,sudeste,Obeso
+20.0,22.15,0.0,1,masculino,sudeste,Peso normal
+31.0,23.45,1.0,0,masculino,sudoeste,Peso normal
+52.0,29.91,3.0,0,masculino,sudeste,Obeso
+21.0,25.46,2.0,0,feminino,sudeste,Sobrepeso
+42.0,22.19,1.0,0,masculino,sudeste,Peso normal
+44.0,33.28,2.0,1,feminino,nordeste,Obeso
+76.0,21.99,1.0,1,masculino,sudeste,Peso normal
+30.0,22.79,2.0,1,masculino,noroeste,Peso normal
+28.0,30.16,1.0,0,feminino,nordeste,Obeso
+40.0,22.97,0.0,0,feminino,sudoeste,Peso normal
+77.0,28.55,1.0,0,masculino,nordeste,Sobrepeso
+56.0,26.08,1.0,0,masculino,sudoeste,Sobrepeso
+51.0,27.6,1.0,0,feminino,sudeste,Sobrepeso
+27.0,31.04,3.0,0,feminino,sudoeste,Obeso
+78.0,19.09,3.0,0,feminino,nordeste,Peso normal
+38.0,22.43,1.0,1,masculino,sudeste,Peso normal
+61.0,33.33,2.0,0,masculino,nordeste,Obeso
+53.0,32.27,0.0,1,masculino,nordeste,Obeso
+,32.13,1.0,0,feminino,sudeste,Obeso
+30.0,21.56,2.0,0,masculino,,Peso normal
+22.0,33.08,1.0,1,masculino,noroeste,Obeso
+75.0,27.02,1.0,0,masculino,nordeste,Sobrepeso
+48.0,31.5,3.0,0,masculino,sudoeste,Obeso
+22.0,30.93,2.0,1,feminino,sudeste,Obeso
+23.0,29.15,1.0,0,masculino,sudeste,Sobrepeso
+29.0,34.14,1.0,0,feminino,sudeste,Obeso
+20.0,26.29,2.0,1,feminino,sudoeste,Sobrepeso
+45.0,33.42,0.0,0,masculino,noroeste,Obeso
+31.0,29.41,2.0,1,masculino,noroeste,Sobrepeso
+28.0,25.07,0.0,0,feminino,sudeste,Sobrepeso
+55.0,29.65,2.0,1,feminino,noroeste,Sobrepeso
+36.0,33.53,3.0,1,masculino,noroeste,Obeso
+47.0,19.73,0.0,1,masculino,noroeste,Peso normal
+75.0,29.94,0.0,0,masculino,sudeste,Obeso
+46.0,31.28,2.0,0,feminino,sudeste,Obeso
+53.0,34.24,2.0,0,feminino,noroeste,Obeso
+34.0,28.66,1.0,0,feminino,sudoeste,Sobrepeso
+59.0,21.8,1.0,0,masculino,sudeste,Peso normal
+70.0,26.91,2.0,0,masculino,sudoeste,Sobrepeso
+40.0,22.9,3.0,0,masculino,noroeste,Peso normal
+31.0,33.92,2.0,1,masculino,sudoeste,Obeso
+29.0,29.51,2.0,1,masculino,nordeste,Sobrepeso
+19.0,31.24,0.0,0,masculino,noroeste,Obeso
+77.0,21.3,0.0,1,feminino,sudeste,Peso normal
+34.0,23.72,1.0,0,masculino,sudeste,Peso normal
+49.0,20.71,3.0,1,masculino,noroeste,Peso normal
+44.0,19.55,3.0,2,feminino,sudoeste,Peso normal
+32.0,29.8,0.0,1,masculino,noroeste,Sobrepeso
+19.0,25.39,0.0,0,feminino,sudeste,Sobrepeso
+19.0,22.48,1.0,0,feminino,sudoeste,Peso normal
+57.0,29.41,0.0,0,masculino,noroeste,Sobrepeso
+59.0,28.91,1.0,0,masculino,nordeste,Sobrepeso
+25.0,34.66,3.0,1,masculino,sudeste,Obeso
+27.0,25.29,1.0,1,masculino,sudoeste,Sobrepeso
+69.0,19.39,1.0,1,masculino,nordeste,Peso normal
+56.0,30.68,1.0,1,feminino,nordeste,Obeso
+27.0,22.08,3.0,1,masculino,sudoeste,Peso normal
+57.0,18.46,1.0,1,masculino,sudeste,Abaixo do peso
+74.0,26.77,0.0,0,feminino,noroeste,Sobrepeso
+51.0,27.78,3.0,1,feminino,sudoeste,Sobrepeso
+45.0,23.23,1.0,1,masculino,nordeste,Peso normal
+52.0,23.33,3.0,1,masculino,sudeste,Peso normal
+63.0,33.31,2.0,1,feminino,nordeste,Obeso
+73.0,24.12,3.0,0,feminino,sudoeste,Peso normal
+78.0,21.83,3.0,0,feminino,sudeste,Peso normal
+32.0,27.55,2.0,0,masculino,sudeste,Sobrepeso
+77.0,23.66,0.0,1,feminino,noroeste,Peso normal
+67.0,32.68,0.0,0,feminino,noroeste,Obeso
+18.0,22.83,3.0,0,feminino,,Peso normal
+42.0,18.97,0.0,1,feminino,sudeste,Peso normal
+70.0,18.78,1.0,0,feminino,nordeste,Peso normal
+67.0,28.09,2.0,0,feminino,sudeste,Sobrepeso
+34.0,27.94,3.0,0,masculino,sudeste,Sobrepeso
+64.0,30.35,0.0,1,feminino,nordeste,Obeso
+70.0,25.24,1.0,0,masculino,sudoeste,Sobrepeso
+77.0,28.24,2.0,0,feminino,sudoeste,Sobrepeso
+48.0,34.21,2.0,0,masculino,sudoeste,Obeso
+55.0,27.15,3.0,1,masculino,sudoeste,Sobrepeso
+39.0,22.28,3.0,1,masculino,nordeste,Peso normal
+21.0,20.02,2.0,1,feminino,noroeste,Peso normal
+40.0,22.28,1.0,0,masculino,nordeste,Peso normal
+41.0,29.27,1.0,1,feminino,noroeste,Sobrepeso
+26.0,33.31,0.0,1,masculino,nordeste,Obeso
+33.0,23.3,2.0,0,feminino,sudoeste,Peso normal
+70.0,32.32,1.0,0,feminino,sudoeste,Obeso
+27.0,30.31,1.0,1,feminino,sudoeste,Obeso
+66.0,20.16,0.0,0,masculino,nordeste,Peso normal
+22.0,30.67,0.0,0,feminino,noroeste,Obeso
+65.0,21.43,2.0,1,masculino,sudeste,Peso normal
+28.0,33.2,1.0,1,masculino,noroeste,Obeso
+26.0,18.12,0.0,0,feminino,noroeste,Abaixo do peso
+79.0,21.32,3.0,1,masculino,sudeste,Peso normal
+75.0,20.92,0.0,0,masculino,sudoeste,Peso normal
+64.0,32.07,3.0,1,feminino,nordeste,Obeso
+42.0,29.73,1.0,1,masculino,nordeste,Sobrepeso
+40.0,33.07,0.0,0,feminino,sudeste,Obeso
+46.0,23.95,2.0,1,feminino,nordeste,Peso normal
+29.0,33.59,3.0,0,feminino,nordeste,Obeso
+43.0,24.28,0.0,1,masculino,sudoeste,Peso normal
+67.0,27.53,2.0,0,feminino,noroeste,Sobrepeso
+53.0,32.36,3.0,0,masculino,sudeste,Obeso
+65.0,23.83,1.0,0,feminino,nordeste,Peso normal
+27.0,19.36,0.0,1,feminino,nordeste,Peso normal
+69.0,18.77,2.0,1,feminino,sudeste,Peso normal
+38.0,18.13,0.0,0,masculino,sudoeste,Abaixo do peso
+68.0,30.65,1.0,1,masculino,nordeste,Obeso
+24.0,30.52,1.0,1,feminino,noroeste,Obeso
+44.0,34.26,3.0,2,masculino,noroeste,Obeso
+38.0,29.93,2.0,1,feminino,nordeste,Obeso
+25.0,26.28,1.0,1,feminino,noroeste,Sobrepeso
+46.0,31.99,3.0,1,masculino,noroeste,Obeso
+69.0,24.67,0.0,0,feminino,noroeste,Peso normal
+54.0,29.37,2.0,0,masculino,sudoeste,Sobrepeso
+65.0,18.22,3.0,1,masculino,sudeste,Abaixo do peso
+40.0,25.34,1.0,0,feminino,nordeste,Sobrepeso
+57.0,34.96,3.0,1,feminino,noroeste,Obeso
+20.0,25.31,1.0,0,masculino,sudoeste,Sobrepeso
+40.0,25.13,1.0,1,masculino,nordeste,Sobrepeso
+25.0,30.83,3.0,0,feminino,sudeste,Obeso
+71.0,28.82,2.0,0,feminino,noroeste,Sobrepeso
+65.0,22.79,2.0,0,masculino,noroeste,Peso normal
+33.0,27.7,0.0,1,masculino,sudoeste,Sobrepeso
+50.0,30.84,1.0,0,masculino,sudoeste,Obeso
+21.0,20.63,3.0,0,feminino,nordeste,Peso normal
+45.0,22.95,1.0,1,feminino,sudeste,Peso normal
+46.0,21.07,1.0,1,feminino,sudeste,Peso normal
+60.0,22.27,3.0,0,masculino,sudeste,Peso normal
+40.0,25.24,2.0,1,feminino,noroeste,Sobrepeso
+46.0,25.49,0.0,1,masculino,noroeste,Sobrepeso
+48.0,30.59,2.0,1,feminino,sudeste,Obeso
+42.0,33.67,3.0,0,masculino,noroeste,Obeso
+77.0,21.9,0.0,1,masculino,nordeste,Peso normal
+62.0,24.21,2.0,1,feminino,nordeste,Peso normal
+27.0,28.27,0.0,0,masculino,noroeste,Sobrepeso
+30.0,30.25,3.0,1,masculino,nordeste,Obeso
+41.0,21.02,0.0,0,feminino,sudeste,Peso normal
+46.0,30.47,0.0,2,masculino,sudeste,Obeso
+26.0,25.45,3.0,0,feminino,sudeste,Sobrepeso
+57.0,32.4,0.0,1,masculino,sudeste,Obeso
+25.0,22.01,0.0,1,masculino,noroeste,Peso normal
+28.0,32.15,2.0,2,masculino,sudeste,Obeso
+51.0,26.12,3.0,1,masculino,sudoeste,Sobrepeso
+48.0,23.14,2.0,0,feminino,sudoeste,Peso normal
+73.0,26.09,3.0,1,masculino,noroeste,Sobrepeso
+79.0,24.87,2.0,1,feminino,nordeste,Peso normal
+30.0,32.47,0.0,0,feminino,nordeste,Obeso
+78.0,33.22,3.0,0,masculino,sudoeste,Obeso
+68.0,23.61,0.0,0,feminino,sudoeste,Peso normal
+75.0,28.36,2.0,1,feminino,nordeste,Sobrepeso
+62.0,24.78,1.0,1,feminino,noroeste,Peso normal
+76.0,28.48,0.0,1,feminino,sudoeste,Sobrepeso
+52.0,19.17,0.0,1,masculino,sudoeste,Peso normal
+51.0,23.79,0.0,0,feminino,sudeste,Peso normal
+50.0,32.97,2.0,0,masculino,nordeste,Obeso
+39.0,18.08,3.0,0,feminino,nordeste,Abaixo do peso
+28.0,25.3,3.0,1,masculino,sudoeste,Sobrepeso
+34.0,34.73,0.0,1,masculino,nordeste,Obeso
+79.0,18.85,3.0,1,feminino,sudeste,Peso normal
+36.0,21.24,3.0,0,masculino,nordeste,Peso normal
+19.0,18.17,1.0,1,feminino,sudoeste,Abaixo do peso
+56.0,19.1,3.0,1,feminino,sudoeste,Peso normal
+62.0,18.86,0.0,1,masculino,sudoeste,Peso normal
+74.0,33.29,2.0,1,masculino,nordeste,Obeso
+65.0,32.13,1.0,1,feminino,sudoeste,Obeso
+39.0,,1.0,1,feminino,nordeste,IMC Não informado
+55.0,23.45,2.0,0,feminino,noroeste,Peso normal
+31.0,22.44,2.0,0,feminino,noroeste,Peso normal
+50.0,31.93,0.0,0,masculino,noroeste,Obeso
+38.0,20.61,2.0,1,feminino,sudeste,Peso normal
+40.0,21.21,0.0,1,feminino,noroeste,Peso normal
+34.0,31.15,2.0,1,masculino,noroeste,Obeso
+79.0,24.28,2.0,2,masculino,nordeste,Peso normal
+68.0,31.15,2.0,1,feminino,nordeste,Obeso
+76.0,29.69,0.0,0,feminino,nordeste,Sobrepeso
+30.0,28.03,2.0,0,masculino,sudeste,Sobrepeso
+31.0,20.34,0.0,1,feminino,nordeste,Peso normal
+64.0,23.54,1.0,1,masculino,noroeste,Peso normal
+74.0,33.01,3.0,0,feminino,noroeste,Obeso
+70.0,31.34,2.0,1,feminino,sudoeste,Obeso
+55.0,25.73,3.0,0,masculino,sudoeste,Sobrepeso
+59.0,30.02,3.0,1,feminino,noroeste,Obeso
+72.0,25.37,1.0,1,feminino,noroeste,Sobrepeso
+63.0,33.61,1.0,1,masculino,nordeste,Obeso
+44.0,23.93,0.0,1,masculino,noroeste,Peso normal
+66.0,26.49,2.0,0,feminino,nordeste,Sobrepeso
+34.0,33.26,0.0,0,masculino,sudeste,Obeso
+27.0,24.43,2.0,0,feminino,nordeste,Peso normal
+75.0,20.57,2.0,1,feminino,nordeste,Peso normal
+32.0,30.75,0.0,0,feminino,nordeste,Obeso
+64.0,20.85,1.0,0,feminino,noroeste,Peso normal
+66.0,20.97,1.0,0,feminino,sudoeste,Peso normal
+36.0,27.87,2.0,1,masculino,nordeste,Sobrepeso
+20.0,27.11,3.0,0,feminino,sudeste,Sobrepeso
+60.0,26.41,3.0,0,feminino,sudoeste,Sobrepeso
+71.0,28.35,2.0,0,feminino,noroeste,Sobrepeso
+47.0,21.98,2.0,0,masculino,noroeste,Peso normal
+18.0,21.16,0.0,0,feminino,nordeste,Peso normal
+44.0,28.77,2.0,1,feminino,noroeste,Sobrepeso
+64.0,20.18,2.0,1,masculino,nordeste,Peso normal
+70.0,20.22,1.0,0,feminino,noroeste,Peso normal
+34.0,25.98,2.0,0,feminino,sudoeste,Sobrepeso
+18.0,21.53,0.0,1,masculino,nordeste,Peso normal
+60.0,18.31,3.0,1,masculino,noroeste,Abaixo do peso
+66.0,31.41,2.0,0,masculino,sudeste,Obeso
+26.0,30.74,3.0,0,feminino,noroeste,Obeso
+24.0,28.33,2.0,1,feminino,sudoeste,Sobrepeso
+79.0,22.67,2.0,0,feminino,nordeste,Peso normal
+27.0,30.66,2.0,1,feminino,sudoeste,Obeso
+46.0,19.25,0.0,0,feminino,sudeste,Peso normal
+53.0,24.05,0.0,1,masculino,sudeste,Peso normal
+59.0,19.02,0.0,0,feminino,sudoeste,Peso normal
+59.0,27.25,2.0,1,feminino,noroeste,Sobrepeso
+29.0,30.53,2.0,1,masculino,noroeste,Obeso
+58.0,26.99,1.0,0,masculino,noroeste,Sobrepeso
+34.0,29.99,0.0,1,feminino,sudeste,Obeso
+38.0,19.3,3.0,0,masculino,sudeste,Peso normal
+29.0,32.2,0.0,1,masculino,sudeste,Obeso
+42.0,23.47,2.0,0,feminino,nordeste,Peso normal
+36.0,32.04,2.0,0,masculino,sudoeste,Obeso
+35.0,32.8,1.0,1,feminino,noroeste,Obeso
+18.0,20.05,3.0,1,feminino,nordeste,Peso normal
+79.0,19.63,3.0,1,feminino,sudoeste,Peso normal
+72.0,31.83,1.0,1,feminino,nordeste,Obeso
+26.0,33.54,0.0,1,feminino,nordeste,Obeso
+29.0,34.07,3.0,0,feminino,nordeste,Obeso
+73.0,25.95,3.0,0,feminino,nordeste,Sobrepeso
+39.0,31.36,2.0,0,masculino,nordeste,Obeso
+46.0,32.93,2.0,1,feminino,sudoeste,Obeso
+76.0,26.18,2.0,0,masculino,sudeste,Sobrepeso
+40.0,27.07,0.0,1,feminino,nordeste,Sobrepeso
+38.0,34.4,0.0,1,feminino,sudeste,Obeso
+67.0,23.36,3.0,0,masculino,noroeste,Peso normal
+50.0,32.99,2.0,1,feminino,noroeste,Obeso
+23.0,25.06,3.0,1,masculino,sudeste,Sobrepeso
+54.0,30.08,3.0,1,feminino,nordeste,Obeso
+65.0,24.54,3.0,1,feminino,,Peso normal
+27.0,19.51,3.0,1,feminino,sudeste,Peso normal
+27.0,23.42,0.0,0,feminino,sudeste,Peso normal
+33.0,19.17,3.0,1,feminino,sudeste,Peso normal
+69.0,31.16,2.0,0,masculino,sudeste,Obeso
+79.0,34.91,1.0,2,feminino,nordeste,Obeso
+54.0,30.71,1.0,0,masculino,sudeste,Obeso
+38.0,21.38,1.0,1,masculino,noroeste,Peso normal
+47.0,30.49,0.0,0,masculino,sudeste,Obeso
+18.0,31.81,0.0,1,masculino,sudeste,Obeso
+60.0,21.32,2.0,1,feminino,sudeste,Peso normal
+28.0,25.21,2.0,1,feminino,,Sobrepeso
+47.0,29.5,0.0,0,feminino,noroeste,Sobrepeso
+29.0,27.94,3.0,0,feminino,sudoeste,Sobrepeso
+69.0,29.64,3.0,1,masculino,noroeste,Sobrepeso
+47.0,31.9,0.0,1,feminino,sudeste,Obeso
+79.0,27.81,1.0,0,feminino,sudeste,Sobrepeso
+25.0,18.63,3.0,0,masculino,sudoeste,Peso normal
+72.0,33.9,3.0,1,,nordeste,Obeso
+19.0,27.89,3.0,0,feminino,nordeste,Sobrepeso
+60.0,27.96,3.0,1,feminino,sudeste,Sobrepeso
+76.0,25.35,1.0,0,masculino,sudeste,Sobrepeso
+20.0,33.27,0.0,0,feminino,sudoeste,Obeso
+26.0,19.86,2.0,1,feminino,nordeste,Peso normal
+32.0,34.26,2.0,0,feminino,noroeste,Obeso
+48.0,21.99,3.0,1,masculino,sudoeste,Peso normal
+54.0,28.42,2.0,0,feminino,sudoeste,Sobrepeso
+29.0,29.75,2.0,0,masculino,sudeste,Sobrepeso
+69.0,24.3,0.0,0,feminino,sudeste,Peso normal
+19.0,21.71,3.0,0,feminino,nordeste,Peso normal
+39.0,25.21,3.0,1,masculino,noroeste,Sobrepeso
+45.0,20.53,1.0,1,feminino,sudoeste,Peso normal
+63.0,31.32,1.0,1,masculino,sudeste,Obeso
+22.0,31.34,3.0,1,feminino,sudeste,Obeso
+51.0,21.66,2.0,1,,sudoeste,Peso normal
+45.0,18.61,2.0,0,masculino,noroeste,Peso normal
+50.0,34.6,1.0,1,masculino,sudeste,Obeso
+60.0,25.96,2.0,1,feminino,sudeste,Sobrepeso
+20.0,20.06,0.0,1,masculino,nordeste,Peso normal
+77.0,28.2,2.0,0,masculino,nordeste,Sobrepeso
+46.0,21.14,2.0,0,masculino,sudeste,Peso normal
+61.0,24.89,0.0,1,feminino,sudeste,Peso normal
+41.0,22.75,1.0,1,feminino,sudeste,Peso normal
+20.0,34.18,3.0,0,masculino,nordeste,Obeso
+19.0,24.14,1.0,1,feminino,sudeste,Peso normal
+19.0,22.68,0.0,1,masculino,sudeste,Peso normal
+65.0,30.31,0.0,0,feminino,sudeste,Obeso
+30.0,27.09,2.0,1,feminino,sudeste,Sobrepeso
+35.0,32.07,3.0,0,feminino,sudeste,Obeso
+49.0,24.67,2.0,1,feminino,sudeste,Peso normal
+45.0,24.37,3.0,1,feminino,nordeste,Peso normal
+64.0,19.04,1.0,0,feminino,nordeste,Peso normal
+67.0,30.63,2.0,0,masculino,sudoeste,Obeso
+32.0,21.75,3.0,1,masculino,nordeste,Peso normal
+60.0,25.09,2.0,0,masculino,nordeste,Sobrepeso
+52.0,19.5,1.0,1,feminino,nordeste,Peso normal
+78.0,25.06,2.0,0,feminino,sudeste,Sobrepeso
+19.0,24.47,0.0,0,masculino,sudoeste,Peso normal
+65.0,25.9,3.0,1,feminino,sudeste,Sobrepeso
+66.0,25.28,0.0,0,masculino,nordeste,Sobrepeso
+75.0,28.74,2.0,0,feminino,noroeste,Sobrepeso
+28.0,25.27,1.0,1,feminino,sudoeste,Sobrepeso
+57.0,18.79,1.0,1,masculino,nordeste,Peso normal
+78.0,27.67,1.0,1,masculino,sudoeste,Sobrepeso
+56.0,30.99,0.0,1,masculino,sudeste,Obeso
+66.0,28.37,3.0,1,feminino,noroeste,Sobrepeso
+25.0,29.9,3.0,1,feminino,sudeste,Obeso
+53.0,23.86,2.0,0,feminino,noroeste,Peso normal
+76.0,32.69,2.0,0,feminino,sudoeste,Obeso
+23.0,24.71,2.0,0,masculino,nordeste,Peso normal
+21.0,18.54,1.0,1,feminino,sudoeste,Peso normal
+56.0,26.69,3.0,1,feminino,sudoeste,Sobrepeso
+57.0,34.9,3.0,0,feminino,noroeste,Obeso
+54.0,26.62,3.0,1,masculino,noroeste,Sobrepeso
+48.0,33.78,1.0,0,masculino,noroeste,Obeso
+22.0,19.12,3.0,0,feminino,sudeste,Peso normal
+53.0,31.38,2.0,1,feminino,sudoeste,Obeso
+70.0,23.83,0.0,1,masculino,nordeste,Peso normal
+28.0,21.01,0.0,1,feminino,sudoeste,Peso normal
+77.0,32.24,1.0,1,feminino,sudeste,Obeso
+71.0,34.37,0.0,1,feminino,noroeste,Obeso
+,23.93,1.0,0,masculino,sudeste,Peso normal
+56.0,33.54,0.0,1,feminino,sudoeste,Obeso
+20.0,19.61,2.0,0,masculino,noroeste,Peso normal
+19.0,22.79,1.0,1,masculino,noroeste,Peso normal
+52.0,32.78,3.0,0,masculino,sudeste,Obeso
+20.0,24.13,0.0,0,masculino,sudeste,Peso normal
+51.0,27.15,0.0,0,feminino,nordeste,Sobrepeso
+61.0,18.06,2.0,1,masculino,sudoeste,Abaixo do peso
+44.0,33.57,3.0,1,feminino,sudeste,Obeso
+76.0,21.65,0.0,0,feminino,sudeste,Peso normal
+60.0,30.83,1.0,1,masculino,sudoeste,Obeso
+44.0,22.26,1.0,0,masculino,nordeste,Peso normal
+25.0,21.98,0.0,1,masculino,noroeste,Peso normal
+55.0,27.37,1.0,0,feminino,sudoeste,Sobrepeso
+50.0,32.68,1.0,0,feminino,sudeste,Obeso
+74.0,18.67,0.0,0,feminino,sudoeste,Peso normal
+72.0,18.52,2.0,1,masculino,nordeste,Peso normal
+57.0,34.39,1.0,1,feminino,sudoeste,Obeso
+23.0,24.07,2.0,1,feminino,sudeste,Peso normal
+28.0,22.2,0.0,1,feminino,noroeste,Peso normal
+58.0,34.9,1.0,0,masculino,sudoeste,Obeso
+77.0,24.36,2.0,1,masculino,sudoeste,Peso normal
+74.0,21.59,0.0,1,masculino,nordeste,Peso normal
+20.0,34.36,1.0,1,feminino,noroeste,Obeso
+35.0,26.86,2.0,0,masculino,noroeste,Sobrepeso
+62.0,21.21,2.0,0,feminino,sudeste,Peso normal
+18.0,27.58,3.0,1,feminino,noroeste,Sobrepeso
+78.0,18.39,1.0,1,masculino,sudeste,Abaixo do peso
+19.0,29.44,0.0,1,feminino,nordeste,Sobrepeso
+38.0,24.15,2.0,1,feminino,sudeste,Peso normal
+73.0,21.0,2.0,1,feminino,sudeste,Peso normal
+55.0,31.66,2.0,0,feminino,noroeste,Obeso
+67.0,34.24,3.0,0,masculino,sudeste,Obeso
+24.0,20.17,2.0,0,feminino,sudoeste,Peso normal
+33.0,23.21,3.0,0,feminino,noroeste,Peso normal
+,32.94,3.0,1,feminino,nordeste,Obeso
+76.0,33.04,0.0,1,masculino,nordeste,Obeso
+30.0,19.8,0.0,1,feminino,sudeste,Peso normal
+60.0,29.99,2.0,0,feminino,sudeste,Obeso
+52.0,34.33,2.0,1,feminino,sudoeste,Obeso
+68.0,32.05,0.0,0,feminino,nordeste,Obeso
+53.0,29.45,2.0,1,masculino,sudoeste,Sobrepeso
+49.0,31.81,3.0,0,feminino,sudoeste,Obeso
+74.0,26.94,3.0,0,masculino,sudoeste,Sobrepeso
+71.0,31.62,1.0,1,feminino,sudeste,Obeso
+64.0,30.36,0.0,0,masculino,noroeste,Obeso
+67.0,22.1,1.0,0,masculino,sudeste,Peso normal
+39.0,23.06,3.0,0,masculino,sudoeste,Peso normal
+48.0,25.92,1.0,0,feminino,sudeste,Sobrepeso
+67.0,25.68,0.0,1,feminino,sudoeste,Sobrepeso
+49.0,24.81,3.0,1,feminino,nordeste,Peso normal
+57.0,23.82,1.0,0,feminino,sudeste,Peso normal
+23.0,34.63,0.0,1,feminino,sudeste,Obeso
+52.0,31.84,1.0,1,feminino,sudeste,Obeso
+73.0,26.77,2.0,1,masculino,sudeste,Sobrepeso
+43.0,26.49,1.0,1,feminino,sudoeste,Sobrepeso
+47.0,27.35,1.0,1,,sudoeste,Sobrepeso
+49.0,31.65,2.0,1,feminino,sudeste,Obeso
+59.0,21.61,2.0,1,feminino,sudoeste,Peso normal
+42.0,26.63,1.0,0,masculino,nordeste,Sobrepeso
+49.0,27.83,1.0,0,feminino,nordeste,Sobrepeso
+77.0,31.56,1.0,1,masculino,nordeste,Obeso
+46.0,18.73,3.0,0,masculino,sudeste,Peso normal
+42.0,31.03,2.0,0,masculino,noroeste,Obeso
+58.0,35.0,2.0,0,masculino,nordeste,Obeso
+19.0,31.21,3.0,0,masculino,noroeste,Obeso
+26.0,26.88,0.0,0,feminino,sudeste,Sobrepeso
+49.0,22.37,0.0,0,masculino,noroeste,Peso normal
+74.0,25.39,1.0,0,masculino,noroeste,Sobrepeso
+56.0,21.85,1.0,0,masculino,sudoeste,Peso normal
+66.0,25.51,3.0,1,masculino,nordeste,Sobrepeso
+79.0,26.46,0.0,1,masculino,nordeste,Sobrepeso
+59.0,18.73,0.0,1,masculino,nordeste,Peso normal
+27.0,34.92,0.0,0,feminino,noroeste,Obeso
+54.0,26.97,2.0,0,masculino,sudeste,Sobrepeso
+38.0,20.72,2.0,1,feminino,noroeste,Peso normal
+26.0,25.99,1.0,0,masculino,noroeste,Sobrepeso
+64.0,21.5,0.0,1,masculino,sudoeste,Peso normal
+55.0,27.68,0.0,1,feminino,noroeste,Sobrepeso
+52.0,22.81,2.0,0,feminino,noroeste,Peso normal
+37.0,26.82,3.0,0,masculino,noroeste,Sobrepeso
+18.0,34.43,3.0,0,masculino,sudoeste,Obeso
+37.0,29.46,3.0,0,feminino,sudeste,Sobrepeso
+36.0,26.77,1.0,0,masculino,sudoeste,Sobrepeso
+62.0,28.46,0.0,0,feminino,sudoeste,Sobrepeso
+78.0,34.89,3.0,1,masculino,sudoeste,Obeso
+38.0,28.0,1.0,1,masculino,noroeste,Sobrepeso
+49.0,20.94,2.0,1,masculino,nordeste,Peso normal
+50.0,26.85,0.0,0,feminino,sudeste,Sobrepeso
+77.0,20.69,2.0,0,masculino,noroeste,Peso normal
+63.0,34.76,2.0,1,masculino,noroeste,Obeso
+31.0,24.15,1.0,1,feminino,nordeste,Peso normal
+27.0,18.79,1.0,1,masculino,nordeste,Peso normal
+75.0,19.67,0.0,1,masculino,sudoeste,Peso normal
+43.0,22.68,1.0,1,masculino,sudoeste,Peso normal
+58.0,,0.0,0,masculino,nordeste,IMC Não informado
+67.0,32.36,3.0,0,feminino,sudoeste,Obeso
+57.0,27.33,0.0,0,feminino,nordeste,Sobrepeso
+46.0,22.28,3.0,1,feminino,nordeste,Peso normal
+24.0,22.07,3.0,0,feminino,noroeste,Peso normal
+44.0,32.63,1.0,0,feminino,nordeste,Obeso
+65.0,24.63,3.0,0,feminino,nordeste,Peso normal
+56.0,30.15,1.0,0,masculino,nordeste,Obeso
+54.0,18.89,1.0,0,feminino,noroeste,Peso normal
+42.0,31.86,3.0,1,feminino,nordeste,Obeso
+58.0,34.87,0.0,0,masculino,nordeste,Obeso
+69.0,30.48,0.0,1,feminino,sudeste,Obeso
+19.0,22.36,3.0,1,feminino,nordeste,Peso normal
+41.0,29.76,3.0,1,masculino,noroeste,Sobrepeso
+52.0,31.09,0.0,0,feminino,noroeste,Obeso
+45.0,29.24,0.0,1,masculino,sudoeste,Sobrepeso
+34.0,19.86,2.0,1,feminino,noroeste,Peso normal
+37.0,28.37,2.0,1,feminino,noroeste,Sobrepeso
+69.0,31.2,2.0,0,masculino,sudeste,Obeso
+68.0,19.02,1.0,1,feminino,sudoeste,Peso normal
+75.0,23.42,3.0,0,masculino,sudeste,Peso normal
+22.0,25.25,0.0,1,feminino,nordeste,Sobrepeso
+23.0,21.83,1.0,0,masculino,noroeste,Peso normal
+74.0,32.74,0.0,0,feminino,sudoeste,Obeso
+42.0,33.08,0.0,1,masculino,sudeste,Obeso
+53.0,34.49,0.0,0,feminino,sudeste,Obeso
+66.0,25.3,3.0,1,masculino,sudeste,Sobrepeso
+49.0,30.57,1.0,0,masculino,sudeste,Obeso
+77.0,18.33,1.0,0,feminino,noroeste,Abaixo do peso
+58.0,27.38,3.0,1,feminino,nordeste,Sobrepeso
+21.0,31.32,3.0,1,feminino,sudeste,Obeso
+35.0,25.74,2.0,0,feminino,nordeste,Sobrepeso
+65.0,31.13,3.0,0,feminino,nordeste,Obeso
+51.0,32.08,1.0,0,feminino,noroeste,Obeso
+27.0,34.89,0.0,1,feminino,nordeste,Obeso
+61.0,34.27,0.0,1,feminino,noroeste,Obeso
+72.0,34.05,0.0,0,feminino,nordeste,Obeso
+50.0,22.78,3.0,1,feminino,noroeste,Peso normal
+29.0,24.32,3.0,1,masculino,sudeste,Peso normal
+58.0,20.8,3.0,1,feminino,nordeste,Peso normal
+35.0,22.48,0.0,0,feminino,nordeste,Peso normal
+44.0,18.94,3.0,0,masculino,sudoeste,Peso normal
+52.0,30.31,0.0,0,feminino,noroeste,Obeso
+35.0,24.74,1.0,1,masculino,noroeste,Peso normal
+21.0,19.29,2.0,1,masculino,sudeste,Peso normal
+47.0,31.86,1.0,0,masculino,sudoeste,Obeso
+78.0,32.51,3.0,1,feminino,sudoeste,Obeso
+27.0,30.71,3.0,0,feminino,noroeste,Obeso
+67.0,29.94,0.0,1,masculino,noroeste,Obeso
+41.0,28.32,1.0,0,masculino,sudeste,Sobrepeso
+23.0,29.8,2.0,1,masculino,nordeste,Sobrepeso
+61.0,32.92,2.0,1,feminino,noroeste,Obeso
+18.0,31.69,1.0,1,masculino,sudoeste,Obeso
+67.0,26.48,3.0,0,masculino,nordeste,Sobrepeso
+24.0,21.09,3.0,0,feminino,nordeste,Peso normal
+69.0,29.39,1.0,1,masculino,noroeste,Sobrepeso
+25.0,25.48,1.0,0,masculino,sudoeste,Sobrepeso
+49.0,31.6,0.0,1,masculino,nordeste,Obeso
+49.0,23.41,1.0,1,masculino,sudoeste,Peso normal
+37.0,32.5,0.0,0,feminino,sudeste,Obeso
+52.0,24.03,2.0,1,feminino,nordeste,Peso normal
+18.0,31.62,3.0,0,masculino,sudoeste,Obeso
+26.0,28.63,2.0,0,masculino,sudeste,Sobrepeso
+61.0,24.23,1.0,0,masculino,sudoeste,Peso normal
+67.0,30.07,2.0,0,masculino,sudoeste,Obeso
+32.0,28.56,2.0,1,feminino,nordeste,Sobrepeso
+58.0,22.99,2.0,1,feminino,noroeste,Peso normal
+74.0,29.01,2.0,0,feminino,sudoeste,Sobrepeso
+79.0,28.6,1.0,1,feminino,sudeste,Sobrepeso
+69.0,25.76,2.0,0,feminino,nordeste,Sobrepeso
+30.0,19.38,2.0,0,feminino,nordeste,Peso normal
+36.0,20.33,0.0,0,feminino,sudeste,Peso normal
+61.0,30.83,1.0,0,feminino,nordeste,Obeso
+71.0,31.24,3.0,1,masculino,nordeste,Obeso
+55.0,19.06,2.0,0,feminino,nordeste,Peso normal
+42.0,19.62,0.0,0,masculino,noroeste,Peso normal
+32.0,27.76,0.0,1,masculino,noroeste,Sobrepeso
+75.0,31.9,1.0,0,masculino,sudeste,Obeso
+74.0,32.52,2.0,1,feminino,sudoeste,Obeso
+51.0,25.07,2.0,1,feminino,noroeste,Sobrepeso
+59.0,31.08,3.0,0,masculino,sudeste,Obeso
+40.0,29.63,3.0,1,masculino,sudeste,Sobrepeso
+33.0,32.63,1.0,0,feminino,nordeste,Obeso
+24.0,30.62,0.0,0,masculino,nordeste,Obeso
+28.0,33.06,3.0,1,masculino,sudeste,Obeso
+50.0,31.46,3.0,0,masculino,sudeste,Obeso
+52.0,18.27,2.0,1,masculino,sudeste,Abaixo do peso
+63.0,22.4,1.0,0,feminino,sudeste,Peso normal
+35.0,33.86,3.0,0,masculino,sudoeste,Obeso
+74.0,23.32,1.0,0,masculino,nordeste,Peso normal
+20.0,27.21,2.0,1,masculino,nordeste,Sobrepeso
+19.0,34.46,3.0,0,feminino,sudeste,Obeso
+46.0,29.18,2.0,1,feminino,sudoeste,Sobrepeso
+47.0,20.77,0.0,1,feminino,sudoeste,Peso normal
+54.0,22.38,0.0,1,feminino,sudoeste,Peso normal
+48.0,28.34,2.0,2,masculino,noroeste,Sobrepeso
+33.0,28.8,2.0,1,masculino,sudeste,Sobrepeso
+40.0,25.37,2.0,1,masculino,sudeste,Sobrepeso
+39.0,27.42,3.0,0,masculino,nordeste,Sobrepeso
+78.0,24.07,3.0,0,masculino,nordeste,Peso normal
+65.0,22.07,0.0,1,masculino,sudeste,Peso normal
+54.0,26.58,2.0,1,masculino,nordeste,Sobrepeso
+32.0,27.0,0.0,1,feminino,nordeste,Sobrepeso
+26.0,28.47,1.0,0,feminino,sudeste,Sobrepeso
+62.0,22.59,1.0,0,feminino,nordeste,Peso normal
+26.0,33.17,0.0,0,feminino,noroeste,Obeso
+53.0,20.7,0.0,1,masculino,nordeste,Peso normal
+63.0,19.65,1.0,1,masculino,sudoeste,Peso normal
+51.0,26.23,0.0,0,masculino,nordeste,Sobrepeso
+73.0,,1.0,0,feminino,sudoeste,IMC Não informado
+38.0,29.66,3.0,1,feminino,sudeste,Sobrepeso
+76.0,21.18,1.0,0,feminino,sudoeste,Peso normal
+72.0,31.15,1.0,1,feminino,noroeste,Obeso
+29.0,18.33,2.0,1,masculino,nordeste,Abaixo do peso
+34.0,24.01,0.0,0,masculino,nordeste,Peso normal
+76.0,32.39,3.0,1,masculino,noroeste,Obeso
+67.0,30.71,2.0,0,masculino,sudeste,Obeso
+38.0,30.25,1.0,1,feminino,nordeste,Obeso
+39.0,26.22,3.0,1,feminino,noroeste,Sobrepeso
+76.0,34.84,2.0,0,feminino,sudoeste,Obeso
+66.0,25.11,3.0,1,masculino,sudeste,Sobrepeso
+66.0,33.11,3.0,1,masculino,sudoeste,Obeso
+27.0,34.42,2.0,1,masculino,nordeste,Obeso
+50.0,32.14,2.0,0,masculino,noroeste,Obeso
+66.0,32.26,3.0,1,masculino,noroeste,Obeso
+60.0,26.45,2.0,1,feminino,sudoeste,Sobrepeso
+76.0,26.48,0.0,0,feminino,noroeste,Sobrepeso
+59.0,30.64,0.0,0,masculino,nordeste,Obeso
+28.0,24.95,3.0,0,feminino,sudoeste,Sobrepeso
+67.0,33.25,3.0,0,feminino,nordeste,Obeso
+72.0,28.7,2.0,0,feminino,noroeste,Sobrepeso
+31.0,27.03,1.0,0,masculino,nordeste,Sobrepeso
+76.0,25.86,1.0,1,feminino,sudeste,Sobrepeso
+65.0,29.98,0.0,0,feminino,noroeste,Obeso
+58.0,26.81,0.0,0,feminino,nordeste,Sobrepeso
+41.0,30.25,0.0,0,masculino,sudeste,Obeso
+23.0,29.02,2.0,0,feminino,noroeste,Sobrepeso
+43.0,21.17,0.0,0,masculino,sudoeste,Peso normal
+51.0,31.96,1.0,0,masculino,sudeste,Obeso
+53.0,34.43,1.0,1,feminino,sudoeste,Obeso
+55.0,28.64,1.0,0,feminino,sudeste,Sobrepeso
+51.0,29.05,1.0,0,feminino,sudoeste,Sobrepeso
+19.0,20.31,1.0,1,masculino,noroeste,Peso normal
+76.0,25.83,0.0,1,masculino,sudeste,Sobrepeso
+70.0,26.05,1.0,0,masculino,sudoeste,Sobrepeso
+73.0,32.77,3.0,1,feminino,noroeste,Obeso
+41.0,34.28,1.0,0,feminino,noroeste,Obeso
+28.0,31.92,0.0,0,feminino,noroeste,Obeso
+57.0,22.68,2.0,1,feminino,sudeste,Peso normal
+56.0,24.63,0.0,1,feminino,nordeste,Peso normal
+79.0,23.93,2.0,0,feminino,noroeste,Peso normal
+59.0,34.62,3.0,1,feminino,nordeste,Obeso
+46.0,34.61,,1,masculino,nordeste,Obeso
+60.0,26.68,1.0,0,feminino,nordeste,Sobrepeso
+35.0,20.3,3.0,0,masculino,noroeste,Peso normal
+33.0,21.72,1.0,0,masculino,sudoeste,Peso normal
+77.0,31.74,2.0,1,feminino,noroeste,Obeso
+34.0,27.32,3.0,0,feminino,noroeste,Sobrepeso
+56.0,27.19,1.0,0,masculino,noroeste,Sobrepeso
+78.0,25.47,2.0,1,masculino,sudeste,Sobrepeso
+41.0,33.36,2.0,0,feminino,sudeste,Obeso
+51.0,22.64,1.0,2,,nordeste,Peso normal
+52.0,21.48,1.0,1,feminino,noroeste,Peso normal
+53.0,23.83,1.0,0,feminino,nordeste,Peso normal
+61.0,25.95,2.0,1,feminino,sudoeste,Sobrepeso
+74.0,19.99,0.0,1,masculino,nordeste,Peso normal
+68.0,21.92,0.0,1,feminino,sudoeste,Peso normal
+46.0,22.57,2.0,1,feminino,sudeste,Peso normal
+44.0,32.24,0.0,1,masculino,sudeste,Obeso
+43.0,19.4,2.0,0,feminino,noroeste,Peso normal
+27.0,24.55,2.0,1,feminino,nordeste,Peso normal
+24.0,25.95,3.0,1,masculino,sudeste,Sobrepeso
+72.0,21.87,1.0,1,feminino,noroeste,Peso normal
+74.0,31.89,1.0,1,masculino,sudoeste,Obeso
+49.0,22.01,2.0,1,masculino,sudoeste,Peso normal
+55.0,29.95,2.0,0,masculino,sudoeste,Obeso
+69.0,20.27,3.0,0,masculino,noroeste,Peso normal
+53.0,34.32,3.0,1,masculino,sudeste,Obeso
+63.0,33.41,3.0,1,feminino,noroeste,Obeso
+59.0,34.87,3.0,0,masculino,sudeste,Obeso
+26.0,,2.0,0,masculino,sudeste,IMC Não informado
+60.0,18.63,1.0,0,masculino,nordeste,Peso normal
+63.0,19.45,0.0,1,masculino,sudeste,Peso normal
+65.0,18.05,0.0,1,masculino,noroeste,Abaixo do peso
+64.0,32.97,3.0,1,masculino,sudoeste,Obeso
+31.0,23.66,1.0,1,masculino,noroeste,Peso normal
+58.0,32.29,1.0,1,feminino,nordeste,Obeso
+46.0,29.97,0.0,1,feminino,nordeste,Obeso
+36.0,20.46,1.0,1,feminino,sudoeste,Peso normal
+18.0,27.99,0.0,0,feminino,noroeste,Sobrepeso
+68.0,32.32,3.0,1,masculino,nordeste,Obeso
+61.0,26.52,2.0,0,masculino,sudeste,Sobrepeso
+36.0,19.63,3.0,0,masculino,sudeste,Peso normal
+37.0,33.56,3.0,0,masculino,noroeste,Obeso
+52.0,20.11,3.0,1,masculino,sudoeste,Peso normal
+54.0,30.53,3.0,1,masculino,sudoeste,Obeso
+18.0,29.68,3.0,1,masculino,nordeste,Sobrepeso
+61.0,22.01,0.0,0,masculino,noroeste,Peso normal
+29.0,30.72,2.0,0,feminino,sudoeste,Obeso
+68.0,20.57,3.0,1,masculino,noroeste,Peso normal
+77.0,26.2,1.0,1,masculino,sudeste,Sobrepeso
+34.0,24.48,1.0,0,feminino,sudeste,Peso normal
+21.0,18.01,1.0,1,masculino,sudeste,Abaixo do peso
+49.0,34.54,0.0,1,masculino,nordeste,Obeso
+24.0,26.43,0.0,1,feminino,noroeste,Sobrepeso
+38.0,30.85,0.0,0,feminino,nordeste,Obeso
+32.0,21.8,2.0,1,masculino,sudeste,Peso normal
+18.0,28.71,0.0,0,masculino,sudoeste,Sobrepeso
+51.0,19.22,3.0,1,masculino,noroeste,Peso normal
+63.0,29.77,1.0,1,feminino,sudoeste,Sobrepeso
+30.0,24.89,1.0,0,feminino,nordeste,Peso normal
+45.0,26.98,1.0,0,masculino,sudeste,Sobrepeso
+55.0,30.99,3.0,1,masculino,sudoeste,Obeso
+70.0,20.83,0.0,0,feminino,nordeste,Peso normal
+55.0,31.6,1.0,0,feminino,nordeste,Obeso
+46.0,24.31,3.0,0,feminino,sudeste,Peso normal
+65.0,28.48,1.0,1,feminino,sudoeste,Sobrepeso
+28.0,34.74,1.0,0,feminino,noroeste,Obeso
+24.0,31.61,2.0,0,feminino,sudoeste,Obeso
+22.0,34.37,0.0,0,masculino,sudoeste,Obeso
+19.0,28.62,0.0,1,masculino,nordeste,Sobrepeso
+43.0,28.28,2.0,1,feminino,sudeste,Sobrepeso
+30.0,34.01,0.0,1,masculino,noroeste,Obeso
+26.0,28.41,0.0,0,masculino,sudoeste,Sobrepeso
+74.0,18.32,2.0,0,masculino,sudoeste,Abaixo do peso
+78.0,33.87,2.0,0,feminino,sudeste,Obeso
+67.0,24.85,3.0,1,feminino,sudoeste,Peso normal
+48.0,21.91,0.0,1,feminino,sudoeste,Peso normal
+59.0,20.46,,0,feminino,noroeste,Peso normal
+55.0,22.82,3.0,1,feminino,nordeste,Peso normal
+34.0,34.67,1.0,0,masculino,nordeste,Obeso
+26.0,31.01,0.0,0,feminino,noroeste,Obeso
+74.0,28.72,0.0,1,feminino,sudoeste,Sobrepeso
+50.0,32.04,1.0,1,masculino,noroeste,Obeso
+49.0,20.89,2.0,0,masculino,sudoeste,Peso normal
+67.0,21.18,1.0,0,feminino,sudeste,Peso normal
+73.0,20.54,1.0,0,feminino,sudeste,Peso normal
+69.0,19.52,0.0,1,feminino,nordeste,Peso normal
+44.0,24.23,2.0,1,feminino,sudeste,Peso normal
+44.0,24.63,3.0,0,feminino,sudoeste,Peso normal
+44.0,18.16,3.0,0,masculino,noroeste,Abaixo do peso
+28.0,25.22,0.0,1,feminino,sudoeste,Sobrepeso
+55.0,28.68,0.0,0,feminino,sudoeste,Sobrepeso
+33.0,24.0,1.0,0,masculino,sudoeste,Peso normal
+23.0,29.75,3.0,0,feminino,sudoeste,Sobrepeso
+74.0,32.23,2.0,1,feminino,nordeste,Obeso
+36.0,30.71,3.0,1,masculino,sudeste,Obeso
+54.0,23.57,3.0,1,feminino,sudeste,Peso normal
+18.0,29.26,3.0,1,masculino,nordeste,Sobrepeso
+64.0,18.53,2.0,1,feminino,sudeste,Peso normal
+78.0,23.67,1.0,0,feminino,noroeste,Peso normal
+68.0,18.84,1.0,1,masculino,sudoeste,Peso normal
+18.0,34.8,1.0,0,feminino,sudeste,Obeso
+76.0,33.32,0.0,0,feminino,sudeste,Obeso
+69.0,28.74,2.0,0,masculino,sudeste,Sobrepeso
+49.0,23.28,3.0,0,feminino,noroeste,Peso normal
+76.0,19.27,2.0,1,masculino,nordeste,Peso normal
+18.0,21.16,2.0,0,masculino,sudeste,Peso normal
+72.0,22.74,1.0,1,feminino,noroeste,Peso normal
+78.0,26.0,3.0,0,masculino,sudeste,Sobrepeso
+64.0,32.61,3.0,0,feminino,noroeste,Obeso
+20.0,32.3,3.0,1,masculino,sudeste,Obeso
+48.0,32.13,0.0,1,masculino,nordeste,Obeso
+34.0,25.9,1.0,0,feminino,nordeste,Sobrepeso
+56.0,22.72,1.0,0,masculino,nordeste,Peso normal
+45.0,30.12,1.0,0,feminino,sudoeste,Obeso
+21.0,18.6,1.0,1,feminino,sudoeste,Peso normal
+44.0,29.56,3.0,0,masculino,sudoeste,Sobrepeso
+75.0,30.49,2.0,1,masculino,noroeste,Obeso
+31.0,20.66,3.0,0,masculino,sudoeste,Peso normal
+47.0,34.66,3.0,1,feminino,sudoeste,Obeso
+72.0,30.82,2.0,1,masculino,sudeste,Obeso
+62.0,27.13,3.0,1,feminino,nordeste,Sobrepeso
+47.0,29.59,0.0,0,feminino,sudoeste,Sobrepeso
+25.0,22.53,1.0,1,masculino,sudeste,Peso normal
+18.0,28.99,1.0,0,feminino,sudeste,Sobrepeso
+40.0,19.67,0.0,1,feminino,sudoeste,Peso normal
+74.0,24.09,3.0,0,masculino,sudoeste,Peso normal
+18.0,28.28,3.0,0,feminino,sudoeste,Sobrepeso
+68.0,30.73,2.0,1,feminino,sudoeste,Obeso
+74.0,18.42,0.0,1,masculino,noroeste,Abaixo do peso
+35.0,18.99,0.0,0,feminino,sudeste,Peso normal
+56.0,22.74,3.0,0,feminino,noroeste,Peso normal
+20.0,21.67,3.0,0,,noroeste,Peso normal
+24.0,34.41,2.0,0,masculino,nordeste,Obeso
+36.0,21.11,1.0,1,masculino,nordeste,Peso normal
+63.0,34.18,0.0,0,feminino,noroeste,Obeso
+27.0,30.39,3.0,1,feminino,sudoeste,Obeso
+26.0,22.44,0.0,0,masculino,sudeste,Peso normal
+71.0,25.72,2.0,0,feminino,,Sobrepeso
+62.0,21.61,3.0,1,masculino,sudoeste,Peso normal
+32.0,30.53,1.0,0,masculino,nordeste,Obeso
+68.0,31.69,3.0,0,masculino,sudeste,Obeso
+41.0,27.84,3.0,1,feminino,nordeste,Sobrepeso
+35.0,30.14,2.0,1,masculino,sudeste,Obeso
+69.0,29.24,0.0,1,feminino,noroeste,Sobrepeso
+44.0,24.66,2.0,1,feminino,sudeste,Peso normal
+68.0,27.47,3.0,1,feminino,nordeste,Sobrepeso
+56.0,24.03,3.0,0,feminino,nordeste,Peso normal
+46.0,23.84,1.0,2,masculino,sudoeste,Peso normal
+18.0,33.57,1.0,0,feminino,sudeste,Obeso
+48.0,22.19,0.0,1,masculino,sudeste,Peso normal
+75.0,28.33,2.0,0,masculino,nordeste,Sobrepeso
+20.0,21.38,0.0,1,masculino,nordeste,Peso normal
+64.0,22.05,2.0,1,masculino,sudoeste,Peso normal
+32.0,19.22,3.0,0,feminino,noroeste,Peso normal
+72.0,32.21,3.0,0,feminino,sudeste,Obeso
+37.0,19.45,3.0,1,masculino,noroeste,Peso normal
+46.0,19.19,0.0,0,feminino,noroeste,Peso normal
+50.0,19.29,3.0,1,masculino,noroeste,Peso normal
+37.0,24.71,3.0,1,masculino,nordeste,Peso normal
+55.0,27.97,1.0,0,feminino,nordeste,Sobrepeso
+34.0,22.82,2.0,1,masculino,nordeste,Peso normal
+68.0,34.8,0.0,0,feminino,nordeste,Obeso
+68.0,27.83,1.0,0,feminino,noroeste,Sobrepeso
+,19.32,1.0,0,feminino,sudeste,Peso normal
+18.0,34.25,3.0,1,masculino,noroeste,Obeso
+65.0,31.22,,0,feminino,sudeste,Obeso
+64.0,24.71,0.0,0,masculino,sudeste,Peso normal
+70.0,29.02,2.0,0,masculino,sudoeste,Sobrepeso
+41.0,34.29,3.0,1,feminino,sudeste,Obeso
+45.0,21.29,2.0,1,masculino,sudoeste,Peso normal
+36.0,34.88,2.0,1,masculino,sudoeste,Obeso
+47.0,20.2,2.0,0,feminino,noroeste,Peso normal
+27.0,20.28,0.0,0,feminino,sudeste,Peso normal
+32.0,27.53,2.0,1,masculino,sudoeste,Sobrepeso
+72.0,27.57,3.0,1,masculino,nordeste,Sobrepeso
+33.0,20.44,1.0,1,feminino,sudoeste,Peso normal
+59.0,33.21,1.0,1,feminino,sudeste,Obeso
+59.0,29.02,0.0,1,,sudoeste,Sobrepeso
+63.0,21.71,2.0,1,feminino,sudoeste,Peso normal
+54.0,28.25,3.0,0,masculino,sudeste,Sobrepeso
+32.0,32.5,1.0,1,masculino,sudeste,Obeso
+64.0,24.28,3.0,1,masculino,noroeste,Peso normal
+45.0,32.5,0.0,1,masculino,sudoeste,Obeso
+71.0,23.49,3.0,0,feminino,sudeste,Peso normal
+71.0,21.15,2.0,1,feminino,nordeste,Peso normal
+59.0,26.6,2.0,1,feminino,sudoeste,Sobrepeso
+59.0,27.57,2.0,1,feminino,sudeste,Sobrepeso
+73.0,33.96,0.0,0,masculino,sudoeste,Obeso

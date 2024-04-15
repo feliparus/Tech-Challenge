@@ -1,0 +1,201 @@
+Idade,IMC,Filhos,Fumante,Gênero,Região,Categoria_IMC,Encargos Reais,Encargo Futuro,Grupos Risco,Encargo Futuro - Expectativa 40 anos,Otimização Recursos,Planos estratégicos
+0.8666677681268434,0.25191128024524523,0.398780389278939,0.4230597768178347,masculino,nordeste,Peso normal,,6329.2,Alto Risco,49152.74,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.42329858539963583,0.6573089725651856,0.28429208067578793,0.726446209038215,feminino,sudeste,Obeso,,5916.92,Baixo Risco,49225.63,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.12839074980132048,0.602895235532475,0.7595747331504598,0.22129149472631926,masculino,sudoeste,Peso normal,,5692.78,Baixo Risco,49324.22,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.43045339213417855,0.31491551788643657,0.8381995731212989,0.41128105555517136,feminino,nordeste,Peso normal,,6055.03,Alto Risco,49355.91,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.02169874948859707,0.7725960494046564,0.5346595344447376,0.85457662568314,feminino,sudeste,Peso normal,,5633.25,Baixo Risco,49381.43,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.13267480678835797,0.2706027900623107,0.04614596831394424,0.793272092636363,masculino,nordeste,Obeso,,5448.65,Baixo Risco,49075.4,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8898267337974916,0.4723633797093194,0.03608782326694748,0.8504695833058802,feminino,sudeste,Peso normal,,6314.84,Alto Risco,49113.04,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.05961349240633973,0.3979679327500093,0.29525679644712977,0.8045559230189018,feminino,sudeste,Sobrepeso,,5501.34,Baixo Risco,49208.04,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5097059345083484,0.7303617635807511,0.6668900882252319,0.8309910332197824,masculino,nordeste,Sobrepeso,,6215.07,Alto Risco,49429.23,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7965061958652112,0.34834482283615253,0.07426735205509061,0.5235835537740733,masculino,sudoeste,Sobrepeso,,6142.95,Alto Risco,49043.26,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.960315435400976,0.8497401246345652,0.4531087122594487,0.6962090042203866,masculino,sudoeste,Peso normal,,6602.43,Alto Risco,49323.49,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9321453603243798,0.7788578691178863,0.192729422426143,0.49918839122879666,feminino,nordeste,Peso normal,,6403.59,Alto Risco,49155.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6293424532106271,0.7742068393609969,0.22813941560345197,0.6702191111412232,feminino,sudeste,Sobrepeso,,6123.07,Alto Risco,49206.31,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5327078006029179,0.49272733282857495,0.33813246725643953,0.7390452380984516,masculino,sudeste,Peso normal,,6038.69,Baixo Risco,49227.68,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.3110748265822011,0.7239412056731178,0.7127911752776531,0.5443473516061546,feminino,sudoeste,Obeso,,5957.38,Baixo Risco,49388.9,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.06506841350068537,0.2612528531970292,0.23592978390835462,0.1625914654147106,masculino,sudoeste,Abaixo do peso,,5326.3,Baixo Risco,49027.03,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.32093644108984243,0.9557684568833188,0.7717569759931616,0.9614933478775161,feminino,nordeste,Peso normal,,6116.3,Alto Risco,49537.03,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4529677224963268,0.8431339163270839,0.9859696674165992,0.5537366632176411,feminino,sudoeste,Peso normal,,6254.42,Alto Risco,49530.67,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.27432637087359446,0.8634663932893522,0.59620818624721,0.5608406590266863,masculino,noroeste,Obeso,,5889.43,Baixo Risco,49361.17,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.14482596822716232,0.8326447054060135,0.7100216510040505,0.4100583910547334,masculino,sudeste,Obeso,,5762.44,Baixo Risco,49375.88,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5936902529381729,0.6711892187554973,0.5796523751999066,0.7401902338365332,masculino,,Sobrepeso,,6240.2,Alto Risco,49362.46,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7434277448835461,0.6776124140967197,0.23205367928286935,0.7167659808617746,feminino,noroeste,Sobrepeso,,6244.93,Alto Risco,49203.32,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.789956946905302,0.6767147460185147,0.6351891808283235,0.483324220602931,feminino,nordeste,Peso normal,,6426.96,Alto Risco,49334.44,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7957168148585206,0.8261453603711575,0.7372599266457186,0.7319446186267287,masculino,nordeste,Peso normal,,6553.12,Alto Risco,49454.3,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9887997985333503,0.47892900406148464,0.15778644757251803,0.2842380161826277,masculino,nordeste,Obeso,,6360.22,Alto Risco,49050.11,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4947753955621942,0.4904821270511889,0.6389868351759576,0.11509168608198828,feminino,noroeste,Obeso,,6000.88,Baixo Risco,49231.37,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.4078745386520769,0.21614930256609488,0.7865731514096367,0.12531146822933847,masculino,nordeste,Sobrepeso,,5932.77,Baixo Risco,49258.36,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.43320020709382123,0.9684442502393935,0.7243737099350401,0.6958638152728307,masculino,nordeste,Obeso,,6164.42,Alto Risco,49462.3,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.703667284193057,0.3853801402335906,0.8057973273688668,0.453981918556455,feminino,noroeste,Sobrepeso,,6359.0,Alto Risco,49360.9,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6121519165788117,0.02533264087012832,0.4982079992888364,0.5427976693758684,masculino,noroeste,Peso normal,,6086.19,Alto Risco,49188.24,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5505406174503141,0.9859982319649695,0.5813013594584727,0.7162628529466427,masculino,noroeste,Sobrepeso,,6235.83,Alto Risco,49405.3,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8763976853399403,0.1719196309564005,0.5069942326079157,0.1276182439315401,masculino,noroeste,Obeso,,6314.5,Alto Risco,49127.39,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.07350463625667636,0.16412654610988908,0.682960221722965,0.8113570378843149,feminino,nordeste,Obeso,,5656.09,Baixo Risco,49347.59,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8125713918209021,0.5627300562467747,0.4409022395716147,0.909300822153116,feminino,sudoeste,Abaixo do peso,,6436.86,Alto Risco,49319.6,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4338062145079472,0.7668279768893503,0.4113031597880845,0.4720565678859321,masculino,sudoeste,Peso normal,,5948.39,Baixo Risco,49245.6,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.690989837713501,0.7441101851213517,0.678574275847625,0.2178298065045452,feminino,sudoeste,Peso normal,,6292.67,Alto Risco,49308.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5939250978442,0.7037568546448184,0.28963704077339103,0.5902689413121964,feminino,sudoeste,Sobrepeso,,6084.53,Alto Risco,49206.53,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.0875902642949632,0.5950472915949405,0.5580672093105031,0.07677572071577299,masculino,nordeste,Obeso,,5526.81,Baixo Risco,49202.89,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.287081349003799,0.744674809424102,0.29016039424874274,0.793727530094373,feminino,sudeste,Peso normal,,5797.6,Baixo Risco,49255.38,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.18348702298975017,0.4168984004527221,0.11581174681347084,0.7019616150091866,masculino,sudeste,Obeso,,5538.18,Baixo Risco,49109.32,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.34744673274911453,0.6124244593471755,0.6150968722331397,0.4499218843285564,masculino,sudoeste,Peso normal,,5917.16,Baixo Risco,49308.88,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.05303273149084464,0.9618252397715806,0.01691948421730205,0.13674142366622188,masculino,noroeste,Peso normal,,5314.76,Baixo Risco,49028.66,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7085581352368135,0.5140961708329657,0.8797023225944915,0.885767855730215,feminino,sudoeste,Abaixo do peso,,6506.78,Alto Risco,49503.33,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.822898285728106,0.6080844688227015,0.5331643078468187,0.21293351186138565,feminino,sudoeste,Obeso,,6350.72,Alto Risco,49222.15,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4542499218239002,0.8186143395354114,0.34544246035920745,0.262471899053909,masculino,sudoeste,Obeso,,5905.33,Baixo Risco,49180.18,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6548721370340975,0.29673384112409196,0.9479240991360304,0.7018076373744919,feminino,sudeste,Obeso,,6407.55,Alto Risco,49462.86,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.411306618566568,0.6405339400871429,0.6362099843465173,0.6283790182259091,feminino,sudeste,Obeso,,6037.94,Baixo Risco,49359.78,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7849102531880714,0.1891496309347731,0.05648997851073301,0.7763416754433186,masculino,sudeste,Peso normal,,6151.29,Alto Risco,49064.29,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6986494242664354,0.4200347270796394,0.939084205467565,0.09233044094588094,feminino,noroeste,Sobrepeso,,6342.68,Alto Risco,49350.08,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.300729590562014,0.4456653692547585,0.6794308824734615,0.5934455636605434,masculino,sudoeste,Sobrepeso,,5899.78,Baixo Risco,49342.63,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5436821315052324,0.9993890618668392,0.5257740181590109,0.9256453814838196,masculino,sudoeste,Peso normal,,6249.26,Alto Risco,49426.24,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.09656544359915764,0.18636881950728312,0.9261396227230543,0.5212851866369558,feminino,sudoeste,Sobrepeso,,5732.66,Baixo Risco,49398.92,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9773538262310225,0.564702499852803,0.657285010391461,0.40695598787857756,feminino,sudeste,Peso normal,,6609.19,Alto Risco,49311.6,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.402440984559292,0.694079083032118,0.46013382761046084,0.6942816631544397,masculino,sudeste,Obeso,,5971.39,Baixo Risco,49302.93,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7161338223442221,0.12425704832231366,0.588638708369973,0.7253995837643584,feminino,nordeste,Obeso,,6293.29,Alto Risco,49281.56,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.809713669620493,0.2331381227629894,0.10221269994871929,0.2217985949645852,feminino,nordeste,Peso normal,,6089.62,Alto Risco,48975.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.2628257520654822,0.781325687540939,0.32375413937776176,0.18461474540743938,masculino,sudeste,Peso normal,,5664.33,Baixo Risco,49148.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.25194329020076955,0.01991121412756791,0.9855818476297772,0.9322683932457174,feminino,nordeste,Peso normal,,5990.15,Baixo Risco,49486.38,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7796107573583538,0.16640241185223903,0.815929547703307,0.42503968742561493,masculino,sudoeste,Obeso,,6407.82,Alto Risco,49326.62,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7347314114869534,0.24417721951026294,0.06067510382938246,0.8112698510842332,masculino,nordeste,Obeso,,6113.77,Alto Risco,49081.69,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.43491472620899574,0.6086485670710879,0.7841831568362457,0.13828527642121746,feminino,sudeste,Peso normal,,6022.72,Baixo Risco,49318.73,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9035607933119455,0.6446655134913475,0.9019779892103565,0.5347660128739264,feminino,noroeste,Sobrepeso,,6676.35,Alto Risco,49459.51,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.14528227458172693,0.55349173225371,0.03847260244794082,0.284323186141726,masculino,sudeste,Sobrepeso,,5395.06,Baixo Risco,49008.01,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8805415912252916,0.022273961260478203,0.1098368155856444,0.509761628623775,feminino,noroeste,Sobrepeso,,6199.12,Alto Risco,49007.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5892539711003127,0.5999577777736395,0.16479625993124258,0.3411931987002762,masculino,sudoeste,Abaixo do peso,,5956.13,Baixo Risco,49083.24,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.869669974781693,0.28310640582650926,0.48929540085425993,0.15491029094708253,feminino,noroeste,Sobrepeso,,6321.57,Alto Risco,49141.83,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5258097022603514,0.7677699716237274,0.016530906426609593,0.5641802665529525,feminino,noroeste,Obeso,,5892.18,Baixo Risco,49088.72,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.39138603491321877,0.4179136842245771,0.04089777978913911,0.4848951932138277,feminino,sudoeste,Sobrepeso,,5687.06,Baixo Risco,49030.69,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.3031094530135101,0.4421540312031499,0.20023820276486248,0.0013373607803937038,masculino,nordeste,Peso normal,,5564.24,Baixo Risco,49004.48,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.2831542084422076,0.9361663521455512,0.7008601732059061,0.8550026108360297,feminino,sudeste,Sobrepeso,,6018.13,Baixo Risco,49480.2,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8920162966123992,0.03454139028219083,0.4518963062196878,0.3753084592401871,masculino,sudoeste,Obeso,,6338.17,Alto Risco,49133.96,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.2911057379312252,0.9902122979254823,0.9389170244386529,0.974619609380713,masculino,noroeste,Peso normal,,6166.19,Alto Risco,49619.56,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.28263881749188313,0.5177866458704847,0.06753919596122904,0.8798920148918296,masculino,sudeste,Sobrepeso,,5677.38,Baixo Risco,49140.02,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7926780681271584,0.18472855392754184,0.9507043379545704,0.31384263725868167,masculino,sudoeste,Sobrepeso,,6461.82,Alto Risco,49366.32,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8012141555177823,0.029593507468078317,0.24078881684221987,0.5064656462220731,masculino,sudeste,Peso normal,,6171.19,Alto Risco,49066.35,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6338973840692438,0.26224459890106844,0.38681507473548293,0.4282413068121439,masculino,sudoeste,Obeso,,6071.77,Alto Risco,49150.03,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5451106038789393,0.33060060641213007,0.18236296022104903,0.19256340331666189,masculino,nordeste,Sobrepeso,,5844.33,Baixo Risco,49019.75,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.94063516919085,0.5173604845185601,0.00975286250809726,0.24307339193564903,masculino,noroeste,Sobrepeso,,6238.57,Alto Risco,48981.17,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.022032267886085033,0.9028185735573124,0.8233206895187174,0.9218840901844967,feminino,noroeste,Peso normal,,5796.04,Baixo Risco,49543.86,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.34082931218685264,0.9493224567378821,0.5656360268902664,0.28617441135419164,feminino,sudeste,Sobrepeso,,5904.04,Baixo Risco,49303.0,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.30344207865938255,0.25420621492228,0.48991123467347986,0.32999515665315005,feminino,,Peso normal,,5734.47,Baixo Risco,49174.34,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.09948833757553377,0.1195249290601127,0.7496334422946345,0.12775275322862045,feminino,sudeste,Peso normal,,5564.86,Baixo Risco,49227.92,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6621528293046046,0.7416935787912048,0.3274810040031144,0.5530714354188296,feminino,noroeste,Sobrepeso,,6174.0,Alto Risco,49221.34,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7031051444317875,0.789488102692488,0.5715911924989157,0.6199587859330087,feminino,sudeste,Obeso,,6348.93,Alto Risco,49351.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9989584103267809,0.9733808306717399,0.8416588849431171,0.1288337249441548,masculino,sudeste,IMC Não informado,,6718.22,Alto Risco,49396.99,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9727021262525252,0.3172808366331177,0.7878531578479644,0.9792300842431009,feminino,nordeste,Obeso,,6744.89,Alto Risco,49452.39,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.45398356559857733,0.002608502290028958,0.39883159827022985,0.4771589884510118,feminino,sudeste,Obeso,,5851.63,Baixo Risco,49126.76,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.47399801983112355,0.4118565362114943,0.04426615278600965,0.9327545714760535,feminino,noroeste,Peso normal,,5871.59,Baixo Risco,49124.82,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.4096645868598172,0.4126124703991344,0.38085641016812133,0.7496549264742438,masculino,noroeste,Sobrepeso,,5913.35,Baixo Risco,49236.99,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6938982716271068,0.2156882774147384,0.2114765386042502,0.5384711733300235,feminino,nordeste,Peso normal,,6075.19,Alto Risco,49087.79,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6032434061435549,0.7766609855437508,0.8063573152148901,0.2749112924133361,feminino,noroeste,Sobrepeso,,6270.5,Alto Risco,49382.3,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6369062513790257,0.41573501764376986,0.4650003858510585,0.6396601017253184,masculino,sudoeste,Obeso,,6177.09,Alto Risco,49252.05,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.13194729191990817,0.751701647841501,0.8283117222459282,0.7198511095295075,masculino,sudoeste,Peso normal,,5853.75,Baixo Risco,49481.29,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.019216076300453744,0.057965816508741885,0.12424868484522555,0.26279016842098135,feminino,noroeste,Sobrepeso,,5216.77,Baixo Risco,48967.67,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.1351910027242803,0.35985508019659573,0.7892772896818055,0.1233969858376156,masculino,noroeste,Peso normal,,5656.68,Baixo Risco,49280.67,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7454506224066644,0.5103773486160817,0.22975321772157642,0.19705143256397983,masculino,sudeste,Peso normal,,6112.56,Alto Risco,49068.74,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.995814414903605,0.8831712192331248,0.9670357240954509,0.9120198001017988,masculino,sudoeste,Sobrepeso,,6920.82,Alto Risco,49603.03,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.23821319094848747,0.46341424865006753,0.30569687448515626,0.6529851550745482,feminino,sudoeste,Peso normal,,5679.59,Baixo Risco,49190.84,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6277216319573299,0.8507415302130896,0.8853751201672833,0.08517569367747835,feminino,sudeste,Obeso,,6304.03,Alto Risco,49389.04,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.13805842399606139,0.344020259772832,0.042599917051527436,0.9437923601248699,masculino,sudoeste,Peso normal,,5495.38,Baixo Risco,49116.23,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.17694071921380095,0.9535755390407824,0.972370381984336,0.003068722771582544,feminino,sudoeste,Sobrepeso,,5847.82,Baixo Risco,49426.12,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7441600800989271,0.5363141437016189,0.970075667749003,0.2975711540620387,feminino,sudoeste,Obeso,,6466.58,Alto Risco,49424.17,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.15567046349086366,0.634584673318339,0.7750470828314535,0.9991683046781943,feminino,nordeste,Peso normal,,5896.73,Baixo Risco,49498.31,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.653854744749737,0.5824176396232177,0.15880558461225414,0.8775209692956818,masculino,sudoeste,Peso normal,,6133.53,Alto Risco,49189.95,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.11614718343391306,0.04188995515056193,0.9722605081570082,0.1911735952365312,masculino,sudeste,Sobrepeso,,5684.13,Baixo Risco,49328.96,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7246188893160829,0.5570068078245836,0.8063930308704673,0.4410827480319708,feminino,sudoeste,Peso normal,,6405.17,Alto Risco,49384.15,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.052547860632365384,0.5079077390664095,0.002315954491164729,0.9002980910980147,,sudoeste,Sobrepeso,,5399.26,Baixo Risco,49113.68,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.14761685493473198,0.6798778471794421,0.9821232941044664,0.6695132461919897,masculino,sudeste,Peso normal,,5918.31,Baixo Risco,49528.71,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.790870929126596,0.11383083847010056,0.5943781876992794,0.08656273596644293,feminino,nordeste,Sobrepeso,,6242.66,Alto Risco,49149.15,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.3491506177127305,0.602015600420326,0.17164057546629852,0.9533089688400082,feminino,sudeste,Sobrepeso,,5824.58,Baixo Risco,49214.44,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.20963936667764094,0.3778194051775401,0.7146237799881308,0.247504139487995,feminino,noroeste,Peso normal,,5733.42,Baixo Risco,49275.94,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9112515432856474,0.7402243988827613,0.704109745391725,0.5698033024509186,feminino,noroeste,Peso normal,,6618.03,Alto Risco,49392.78,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5611323101073392,0.7346041230239923,0.4348360821863564,0.1721672238350047,feminino,sudoeste,Peso normal,,6030.78,Baixo Risco,49188.66,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.15005982873501922,0.4783587460868044,0.13822426192170933,0.495007808315299,masculino,nordeste,Peso normal,,5477.59,Baixo Risco,49085.31,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8280680834012812,0.6407033330224176,0.2643339883590191,0.08748019490753489,masculino,sudoeste,Peso normal,,6215.02,Alto Risco,49080.8,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7352773773526818,0.3962048642430096,0.34272272790468095,0.3764269741518149,masculino,sudoeste,Sobrepeso,,6172.24,Alto Risco,49139.56,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5065795726376174,0.47884965973484195,0.2943827794927264,0.23624859177428836,feminino,noroeste,Obeso,,5883.49,Baixo Risco,49101.07,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.450535369259623,0.5074775121155541,0.9598495986808491,0.37636620170743096,masculino,sudeste,Peso normal,,6152.84,Alto Risco,49431.75,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7523835320400722,0.45908963387572954,0.9050384401583952,0.9387060434657205,feminino,nordeste,Sobrepeso,,6568.87,Alto Risco,49517.47,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8311324383605875,0.7760447840386255,0.8279221770097708,0.47735747495208025,masculino,sudoeste,Obeso,,6571.69,Alto Risco,49434.11,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.10883562979530681,0.703231447418722,0.4462394390201849,0.6462824665630182,feminino,nordeste,Sobrepeso,,5635.24,Baixo Risco,49288.07,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.24859726383735137,0.7562190602614293,0.6603860258365416,0.8374000357756841,feminino,sudoeste,Sobrepeso,,5931.64,Baixo Risco,49431.53,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.09699827176676656,0.6934705741579469,0.6800171435903325,0.6391086816520598,masculino,sudeste,Sobrepeso,,5723.71,Baixo Risco,49389.5,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.42259682861322867,0.19648279443912287,0.4312824721038,0.6894811538153188,feminino,noroeste,Abaixo do peso,,5905.12,Baixo Risco,49214.6,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.48573828171255307,0.2619838724517648,0.17704737817369398,0.8960277050929876,feminino,sudeste,Peso normal,,5913.63,Baixo Risco,49154.02,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.18211123064508272,0.7711701858381782,0.5159093234807949,0.19297837935024886,masculino,nordeste,Obeso,,5662.03,Baixo Risco,49234.68,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.3030471092797514,0.7607541215656637,0.6343254126010921,0.8478075273960234,feminino,noroeste,Obeso,,5982.44,Baixo Risco,49422.75,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.10091872364834975,0.5491105736674697,0.716388877576165,0.23787087459648193,masculino,sudeste,Obeso,,5638.85,Baixo Risco,49300.35,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7343708018637748,0.4732117380242735,0.16555761052048168,0.7610034226767718,feminino,sudoeste,Obeso,,6183.98,Alto Risco,49152.29,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5945490597482873,0.44481661536333306,0.8011649035197654,0.03865730584528149,masculino,sudoeste,Obeso,,6159.68,Alto Risco,49280.99,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.3957557779684795,0.960297117610377,0.899357867660895,0.3553604468067605,feminino,sudeste,Sobrepeso,,6129.24,Alto Risco,49468.1,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9203248564076426,0.31728508767980834,0.5153280982934719,0.4722569088544223,feminino,sudeste,Peso normal,,6460.02,Alto Risco,49224.84,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.934965616091239,0.7563536945283437,0.6451748495370551,0.9473145790510235,masculino,nordeste,Peso normal,,6698.92,Alto Risco,49447.71,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6706968343062729,0.5652146641127935,0.3438578841072262,0.1334936426370259,feminino,noroeste,Peso normal,,6076.63,Alto Risco,49114.62,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7957404107286347,0.4954134633452023,0.6062683486204988,0.08393716617437486,masculino,nordeste,Obeso,,6309.84,Alto Risco,49211.0,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8807845879907664,0.5415304997589752,0.03461012556904686,0.34658751687409906,feminino,noroeste,Sobrepeso,,6209.41,Alto Risco,49017.5,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7057515841391943,0.1204545766501195,0.09977341560341013,0.11663837318671622,feminino,sudoeste,Obeso,,5935.94,Baixo Risco,48935.57,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9963198758673568,0.37311911273182974,0.7230765734221766,0.1982992682494169,feminino,sudeste,Peso normal,,6587.08,Alto Risco,49268.74,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8572574338184926,0.571840649667799,0.0503329786297273,0.5790073748917122,masculino,nordeste,Obeso,,6243.76,Alto Risco,49077.59,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5334019627990048,0.7161110973959257,0.6388339203387703,0.6055155283860936,feminino,noroeste,Peso normal,,6179.25,Alto Risco,49367.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.2646619430859266,0.709351326369724,0.8617499928304774,0.8818881980911047,feminino,noroeste,Sobrepeso,,6041.41,Baixo Risco,49523.72,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9158840297522035,0.8855221207151573,0.16154162131413463,0.9587517005412727,masculino,sudoeste,Peso normal,,6483.8,Alto Risco,49253.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6489564087691884,0.6987951817382746,0.1606960857677796,0.39144494387321527,masculino,noroeste,Peso normal,,6044.91,Baixo Risco,49106.69,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6491607276544014,0.3079420127595006,0.8188795180120204,0.05832039994579352,feminino,nordeste,Peso normal,,6210.98,Alto Risco,49272.53,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.9459202364334363,0.07767114682361664,0.27123570763591753,0.9494664834602272,feminino,nordeste,Abaixo do peso,,6442.84,Alto Risco,49179.66,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.20419047897121656,0.9237642159547098,0.8149275448425635,0.08553892857772405,feminino,sudeste,Sobrepeso,,5820.1,Baixo Risco,49368.59,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6362417533657315,0.6024250112349093,0.3076549280044294,0.9379803905026903,masculino,nordeste,Sobrepeso,,6196.34,Alto Risco,49272.03,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.3822909747422609,0.7806824920726333,0.9492473446649626,0.9768286528861286,feminino,nordeste,Peso normal,,6239.7,Alto Risco,49593.29,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.21291678647333157,0.8212290603575592,0.972980883520159,0.09782093297018268,masculino,sudeste,Abaixo do peso,,5887.45,Baixo Risco,49426.38,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.4736324949005365,0.23516379494741269,0.1370606011138692,0.38693837583381285,feminino,sudoeste,Sobrepeso,,5772.2,Baixo Risco,49025.83,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.11007506786399368,0.2315579879605496,0.1282207022980013,0.5911702440040779,masculino,noroeste,Peso normal,,5412.52,Baixo Risco,49064.0,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7385384657020536,0.3653842919443311,0.9650887485759151,0.5717450965037207,feminino,noroeste,Peso normal,,6489.88,Alto Risco,49453.63,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.10924236639720286,0.12401816720107361,0.04438100360469743,0.8409324445762085,feminino,sudoeste,Sobrepeso,,5410.24,Baixo Risco,49062.63,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.2556809275931632,0.6776820359370047,0.8098891436120247,0.960853533482967,masculino,sudoeste,Obeso,,6020.18,Baixo Risco,49512.32,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.7968908682391976,0.3125715022917478,0.2697279616185565,0.56791647747242,feminino,sudoeste,Peso normal,,6234.55,Alto Risco,49134.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6488857922650563,0.6696923351670612,0.9998859109199422,0.0789816638152886,masculino,noroeste,Peso normal,,6349.93,Alto Risco,49411.79,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.01624255272327635,0.9930571853439569,0.9246004134369833,0.6664699262826442,masculino,nordeste,Obeso,,5795.09,Baixo Risco,49549.24,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.12303429843883562,0.4316705264651781,0.7812257164897198,0.011942956163491836,feminino,sudoeste,Obeso,,5627.25,Baixo Risco,49264.55,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9328032675766246,0.24781187152138195,0.17806107619491118,0.2729888159474141,feminino,sudeste,Obeso,,6271.07,Alto Risco,49022.24,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.39938873167303524,0.46742815120241277,0.4473095020664616,0.8336687079155028,feminino,sudeste,Abaixo do peso,,5957.52,Baixo Risco,49292.41,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.05533236604697578,0.2084037134119816,0.7540835516716679,0.8443837289881222,masculino,noroeste,Sobrepeso,,5681.49,Baixo Risco,49392.87,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5727826851022129,0.22711009629438483,0.21274766562277336,0.8145367467619782,feminino,sudoeste,Obeso,,6002.59,Baixo Risco,49147.72,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5978634676555525,0.627263236570054,0.2008181393885452,0.33371994877355915,masculino,nordeste,Peso normal,,5984.16,Baixo Risco,49101.85,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.4194654524170377,0.7993972927638096,0.049950992086666535,0.9420930617355303,feminino,sudeste,Peso normal,,5874.38,Baixo Risco,49187.29,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.17554287371204758,0.8775099821667531,0.21135253174574808,0.4758498000087752,masculino,nordeste,Peso normal,,5593.84,Baixo Risco,49173.68,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6918214720394096,0.1236928955678791,0.7510937739769278,0.11841052672444108,masculino,nordeste,Peso normal,,6212.38,Alto Risco,49227.25,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5636879503813186,0.6537423641680127,0.579474926876288,0.764924616500553,feminino,nordeste,Peso normal,,6209.85,Alto Risco,49364.94,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8426017498784434,0.08403882391151929,0.14636038760206027,0.6624210610080388,feminino,sudeste,Peso normal,,6215.03,Alto Risco,49064.91,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7420745167917794,0.9792336974246677,0.8252059216893272,0.6898302712439551,feminino,sudoeste,Sobrepeso,,6547.79,Alto Risco,49507.67,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.910424946535563,0.2826007212860906,0.15635550637429452,0.20567607475656036,feminino,sudeste,Peso normal,,6228.04,Alto Risco,49003.69,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.7776462738941197,0.26997980113362285,0.2943690572265545,0.3147300554922289,feminino,noroeste,Peso normal,,6165.25,Alto Risco,49086.2,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.5122512184545834,0.42746865777131604,0.24815643217266592,0.21743701847365315,feminino,sudoeste,Obeso,,5857.44,Baixo Risco,49068.81,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6240443414339034,0.3763505965158074,0.2622960208195694,0.6888658729662699,feminino,sudoeste,Sobrepeso,,6076.89,Alto Risco,49165.93,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.39670231728479644,0.40116274546258357,0.7489707070945113,0.8201937563070443,masculino,noroeste,Peso normal,,6076.55,Alto Risco,49414.37,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.638223468885963,0.7452303914901263,0.6278059433184231,0.40805863488731564,masculino,noroeste,Peso normal,,6252.15,Alto Risco,49325.68,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.6816257298064377,0.876638530565562,0.7330506706786591,0.4430566703174851,feminino,sudeste,Obeso,,6373.61,Alto Risco,49399.64,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.8716442361816715,0.8526897787223756,0.3692111018032076,0.38117484780199906,masculino,noroeste,Obeso,,6402.59,Alto Risco,49220.68,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.015412450037831205,0.10336481360004923,0.7830642735417999,0.7866413127258282,feminino,sudeste,Obeso,,5622.97,Baixo Risco,49378.03,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8233047921707997,0.30611506355991125,0.256849631799253,0.8873330941495479,masculino,sudeste,Peso normal,,6323.45,Alto Risco,49194.44,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.44799278038021073,0.5343406099279904,0.8141862743879198,0.9392027730495318,feminino,nordeste,Peso normal,,6206.58,Alto Risco,49488.27,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.2610772736236564,0.4614964964124795,0.8456526198495387,0.8993037823027261,masculino,sudoeste,Obeso,,5996.85,Baixo Risco,49483.09,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.03163423181770875,0.06765143365549908,0.1795779949414874,0.3029450862732622,feminino,noroeste,Sobrepeso,,5264.9,Baixo Risco,49002.21,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9647043520566554,0.33005788910123746,0.6536594731993779,0.40409457618964184,masculino,sudoeste,Sobrepeso,,6558.02,Alto Risco,49274.28,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.16466538996681335,0.21273680607977086,0.24599878500994254,0.18040320689136768,feminino,nordeste,Sobrepeso,,5436.25,Baixo Risco,49027.99,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.05867596908259909,0.3451998214762765,0.6225318719784676,0.5945250415018493,feminino,sudeste,Peso normal,,5594.69,Baixo Risco,49302.41,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.2558318653503815,0.6505343118127341,0.6050440520567364,0.007842221423881579,masculino,noroeste,Abaixo do peso,,5725.79,Baixo Risco,49217.77,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.14854830914455275,0.764331702027,0.9783290823765961,0.2996700187742567,feminino,noroeste,Sobrepeso,,5853.04,Baixo Risco,49462.41,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.5875725775195014,0.27380366568906267,0.5067692871495977,0.17602618989699992,masculino,sudoeste,Sobrepeso,,6023.69,Baixo Risco,49152.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.14797396252031603,0.9952202257178102,0.49466429974794457,0.9509244844810137,masculino,sudeste,Sobrepeso,,5807.0,Baixo Risco,49417.0,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.09891548151784235,0.5922599593895193,0.2714071810680915,0.1827446003990485,masculino,nordeste,Peso normal,,5432.92,Baixo Risco,49096.6,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9933451144703045,0.45182497248395603,0.5102076571906351,0.8008737372626142,masculino,noroeste,Sobrepeso,,6626.39,Alto Risco,49311.31,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4253069862029779,0.09973151447839046,0.9414774866051598,0.7727629549070592,masculino,sudoeste,Peso normal,,6138.8,Alto Risco,49445.32,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.26719353152919323,0.4281057623322676,0.16642880769943635,0.6994611092252097,feminino,sudeste,Sobrepeso,,5653.54,Baixo Risco,49133.08,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.8529737690319169,0.15566768646630647,0.23826528647709322,0.24729483509825734,masculino,sudoeste,Sobrepeso,,6191.44,Alto Risco,49029.96,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.39032988875513164,0.4014934498243532,0.9929340270659589,0.0981920001961446,masculino,nordeste,Obeso,,6027.78,Baixo Risco,49372.57,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.6855889973315522,0.5732359457062196,0.5579365497941609,0.1738798329962018,masculino,sudeste,Obeso,,6198.15,Alto Risco,49219.84,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.886088441084329,0.25302533182344866,0.4721029018142787,0.7937160604383654,masculino,sudeste,Obeso,,6460.77,Alto Risco,49263.05,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.06703083493283613,0.9153346033697652,0.3823018710881928,0.6726065520592184,feminino,sudeste,Obeso,,5598.18,Baixo Risco,49296.76,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0.9976840887463219,0.6922834065483288,0.6306143970488737,0.45720929603887694,masculino,sudeste,Obeso,,6649.11,Alto Risco,49329.28,Alocar mais recursos,Rever políticas de cobertura de seguro
+0.4276367958469752,0.17532246787644712,0.2134871401678573,0.9893044277682395,feminino,nordeste,Abaixo do peso,,5872.83,Baixo Risco,49176.8,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde

@@ -1,97 +1,155 @@
-import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
 
-def montar_graficos(dados):
+def montar_graficos_visualizacao_inicial(dados):
+    dados_aux = dados.copy()
+    dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
+
     # Contar o número de ocorrências de algumas colunas
-    distribuicao_genero = dados['Gênero'].value_counts().sort_index()
-    distribuicao_imc = dados['Categoria_IMC'].value_counts().sort_index()
-    distribuicao_filhos = dados['Filhos'].value_counts().sort_index()
-    
+    distribuicao_genero = dados_aux['Gênero'].value_counts().sort_index()
+    distribuicao_imc = dados_aux['Categoria_IMC'].value_counts().sort_index()
+    distribuicao_filhos = dados_aux['Filhos'].value_counts().sort_index()
+    distribuicao_regiao = dados_aux['Região'].value_counts().sort_index()
+    distribuicao_fumante = dados_aux['Fumante'].value_counts().sort_index()
+
     # Criar uma figura e uma grade de subplots
-    fig, axs = plt.subplots(2, 2, figsize=(20, 10))
-    
+    fig, axs = plt.subplots(3, 2, figsize=(20, 20))
+
     # Ajustar o espaçamento entre os subplots
-    plt.subplots_adjust(left=0.1, right=0.9, bottom=0.1, top=0.9, wspace=0.4, hspace=0.8)
+    plt.subplots_adjust(left=0.1, right=0.9, bottom=0.1, top=0.9, wspace=0.4, hspace=0.5)
     
     montar_grafico_barra_vertical(distribuicao_genero, axs[0, 0], 'Distribuição de Gênero', 'Número de Pessoas', 'Gênero')
-    
-    montar_grafico_barra_horizontal(distribuicao_imc, axs[0, 1], 'Distribuição de IMC', 'Número de Pessoas', 'Categoria')
-    
-    montar_grafico_histograma_idade(dados, axs[1, 0], 'Distribuição de Idade com Linha de Tendência', 'Idade', 'Densidade')
-    
+
+    montar_grafico_barra_vertical(distribuicao_fumante, axs[0, 1], 'Distribuição Por Fumante', 'Número de Pessoas',
+                                  'Fumante')
+
+    montar_grafico_histograma_idade(dados_aux, axs[1, 0], 'Distribuição de Idade', 'Idade', 'Número de Pessoas')
+
     montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 1], 'Distribuição do Número de Filhos', 'Número de Pessoas', 'Qtd. de Filhos')
-    
+
+    montar_grafico_barra_horizontal(distribuicao_regiao, axs[2, 0], 'Distribuição Por Região', 'Número de Pessoas', 'Região')
+
+    montar_grafico_barra_horizontal(distribuicao_imc, axs[2, 1], 'Distribuição de IMC', 'Número de Pessoas',
+                                    'Categoria')
+
     # Mostra os gráficos
     plt.show()
 
 
-def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y):
+def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y, medida_x=None, medida_y=None):
+    # Plotar o gráfico de barras
     dados.plot(kind='bar', title=titulo, ax=axs)
 
     # Rotacionar os rótulos do eixo x em 45 graus
-    axs.set_xticklabels(dados.index, rotation=90, ha='left')
-    
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
+    axs.set_xticklabels(dados.index, rotation=45, ha='right')
 
-    # Adicionar rótulos (indicadores) às barras
+    # Adicionar rótulos às barras
     for i, valor in enumerate(dados):
-        axs.text(i, valor, str(valor), ha='center', va='bottom')
+        if medida_y:
+            axs.text(i, valor, f'{valor} {medida_y}', ha='center', va='bottom', fontsize=12)
+        else:
+            axs.text(i, valor, str(valor), ha='center', va='bottom', fontsize=12)
+
+    # Definir o título
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
+
+    # Definir os rótulos dos eixos x e y
+    axs.set_xlabel(eixo_x, fontsize=12)
+    axs.set_ylabel(eixo_y, fontsize=12)
 
 
 def montar_grafico_barra_horizontal(dados, axs, titulo, eixo_x, eixo_y):
     dados.plot(kind='barh', title=titulo, ax=axs)
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
+    axs.set_xlabel(eixo_x, fontsize=12)
+    axs.set_ylabel(eixo_y, fontsize=12)
 
     # Adicionar rótulos (indicadores) às barras
     for i, valor in enumerate(dados):
-        axs.text(valor, i, str(valor), ha='left', va='center')
+        axs.text(valor, i, str(valor), ha='left', va='center', fontsize=12)
 
 
 def montar_grafico_pizza(dados, axs, titulo):
     dados.plot(kind='pie', autopct='%1.1f%%', startangle=140, ax=axs)
 
-    # Removendo os rótulos na pizza (labels=None)
     # Adicionando uma legenda embaixo do gráfico
     axs.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), shadow=True, ncol=2)
     
     # Removendo o rótulo do eixo y
     axs.set_ylabel('')
     
-    axs.set_title(titulo, fontweight='bold')
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
     axs.set_ylabel('')  # Remover o rótulo do eixo y
+
+
+def montar_graficos_relacionamento_encargos(dados):
+    # Criar uma figura e uma grade de subplots
+    fig, axs = plt.subplots(2, 1, figsize=(20, 20))
+
+    # Ajustar o espaçamento entre os subplots
+    plt.subplots_adjust(left=0.1, right=0.9, bottom=0.1, top=0.9, wspace=0.4, hspace=0.2)
+
+    montar_grafico_correlacao(dados['Idade'], dados['Encargos'], axs[0],
+                              'Correlação entre Idade e Encargos Médicos', 'Idade', 'Encargos Médicos')
+
+    montar_grafico_linha_com_media(dados, axs[1], 'Filhos', 'Encargos', 'Encargos Médios por Filho', 'Número de Filhos',
+                                   'Encargos Médios')
+
+    # Mostra os gráficos
+    plt.show()
 
 
 def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
     axs.scatter(dados1, dados2, alpha=1, color='green')
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
+    axs.set_xlabel(eixo_x, fontsize=12)
+    axs.set_ylabel(eixo_y, fontsize=12)
 
     # Definindo os limites e intervalos do eixo x
-    plt.xticks(range(0, int(dados1.max()) + 1, 1))
+    # plt.xticks(range(0, int(dados1.max()) + 1, 1))
+
+
+def montar_grafico_linha_com_media(dados, axs, campo1, campo2, titulo, eixo_x, eixo_y):
+    # Calcular a média dos encargos por filho e arredondar para 2 casas decimais
+    media = round(dados.groupby(campo1)[campo2].mean(), 2)
+
+    # Criar o gráfico de linha
+    media.plot(marker='o', linestyle='-', label='Encargos Médios por Filho')
+
+    # Adicionar rótulos aos eixos e título
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
+    axs.set_xlabel(eixo_x, fontsize=12)
+    axs.set_ylabel(eixo_y, fontsize=12)
+
+    # Adicionar os valores numéricos aos pontos de dados com ajuste de posição horizontal
+    for x, y in zip(media.index, media.values):
+        if y > media.mean():  # Se o valor for maior que a média, posicione acima do ponto
+            va = 'bottom'
+            xytext = (0, 5)
+        else:  # Caso contrário, posicione abaixo do ponto
+            va = 'top'
+            xytext = (0, -5)
+
+        axs.annotate(f'{y}', xy=(x, y), xytext=xytext, textcoords='offset points', fontsize=12, ha='center', va=va)
+
+    # Definir os marcadores de posição do eixo x para pular a cada 1 unidade
+    plt.xticks(range(int(media.index.min()), int(media.index.max()) + 1, 1))
+
+    # Adicionar legenda
+    plt.legend(loc='upper center')
 
 
 # Este gráfico foi feito fixo para idade
 def montar_grafico_histograma_idade(dados, axs, titulo, eixo_x, eixo_y):
-    axs.hist(dados['Idade'], bins=10, color='skyblue', edgecolor='black', density=True, rwidth=0.1) # - tive que espaçar as barras para melhor visualização
-    idade_mean = dados['Idade'].mean()
-    idade_std = dados['Idade'].std()
-    xmin, xmax = axs.get_xlim()
-    x = np.linspace(xmin, xmax, 100)
-    normal_fit = (1 / (np.sqrt(2 * np.pi) * idade_std)) * np.exp(-(x - idade_mean) ** 2 / (2 * idade_std ** 2))
+    # Criar o gráfico de linha da distribuição das idades
+    counts, bins, patches = axs.hist(dados['Idade'], bins=20, edgecolor='black', rwidth=0.8)
 
-    # Adicionando rótulos aos valores nas barras
-    for rect in axs.patches:
-        height = rect.get_height()
-        axs.text(rect.get_x() + rect.get_width() / 2, height, f'{height:.2f}', ha='center', va='bottom')
-    
-    axs.plot(x, normal_fit, 'r--', label='Linha de Tendência')
-    axs.set_title(titulo, fontweight='bold')
-    axs.set_xlabel(eixo_x, fontweight='bold')
-    axs.set_ylabel(eixo_y, fontweight='bold')
+    axs.set_title(titulo, fontsize=12, fontweight='bold')
+    axs.set_xlabel(eixo_x)
+    axs.set_ylabel(eixo_y)
+
+    # Adicionar rótulos às barras
+    for count, bin, patch in zip(counts, bins, patches):
+        x = patch.get_x() + patch.get_width() / 2
+        y = patch.get_height()
+        axs.text(x, y, f'{count:.0f}', ha='center', va='bottom', fontsize='12')
