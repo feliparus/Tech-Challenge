@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/graficos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_aleatorios_sobre_original.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planilhas/3_dados_processados_treino.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/3_dados_processados_treino.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planilhas/4_dados_processados_teste.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_processados_teste.csv" afterDir="false" />
@@ -282,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713221994768</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Buscando otimização de modelos">
+      <option name="closed" value="true" />
+      <created>1713222669436</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713222669436</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
