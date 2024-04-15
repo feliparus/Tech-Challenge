@@ -5,10 +5,10 @@ import numpy as np
 def incrementar_dados_aleatorios_csv(dados, num_linhas, ausencias_por_coluna):
     try:
         # Criar listas para cada coluna
-        idades = np.random.randint(18, 80, size=num_linhas).astype(int)
+        idades = np.random.randint(18, 80, size=num_linhas)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
         imcs = np.random.uniform(18, 35, size=num_linhas).astype(float)
-        filhos = np.random.randint(0, 4, size=num_linhas).astype(int)
+        filhos = np.random.randint(0, 4, size=num_linhas)
         fumante = np.random.choice(['sim', 'não'], size=num_linhas)
         regioes = np.random.choice(['sudoeste', 'sudeste', 'nordeste', 'noroeste'], size=num_linhas)
 
@@ -24,8 +24,14 @@ def incrementar_dados_aleatorios_csv(dados, num_linhas, ausencias_por_coluna):
 
         # Introduzir valores nulos manualmente em algumas colunas
         for coluna in dados_adicionais.columns:
-            indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
-            dados_adicionais.loc[indices_nans, coluna] = np.nan
+            if coluna in ['Idade', 'Filhos']:
+                # Convertendo para float e depois para inteiro
+                indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
+                dados_adicionais.loc[indices_nans, coluna] = np.nan
+                dados_adicionais[coluna] = dados_adicionais[coluna].astype('Int64')  # Convertendo para inteiro
+            else:
+                indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
+                dados_adicionais.loc[indices_nans, coluna] = np.nan
 
         # Definir coeficientes para cada variável independente
         coeficientes = {

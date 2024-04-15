@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 def montar_graficos_visualizacao_inicial(dados):
@@ -23,14 +24,15 @@ def montar_graficos_visualizacao_inicial(dados):
     montar_grafico_barra_vertical(distribuicao_fumante, axs[0, 1], 'Distribuição Por Fumante', 'Número de Pessoas',
                                   'Fumante')
 
-    montar_grafico_histograma_idade(dados_aux, axs[1, 0], 'Distribuição de Idade', 'Idade', 'Número de Pessoas')
+    montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 0], 'Distribuição do Número de Filhos', 'Número de Pessoas', 'Qtd. de Filhos')
 
-    montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 1], 'Distribuição do Número de Filhos', 'Número de Pessoas', 'Qtd. de Filhos')
+    montar_grafico_barra_horizontal(distribuicao_regiao, axs[1, 1], 'Distribuição Por Região', 'Número de Pessoas', 'Região')
 
-    montar_grafico_barra_horizontal(distribuicao_regiao, axs[2, 0], 'Distribuição Por Região', 'Número de Pessoas', 'Região')
-
-    montar_grafico_barra_horizontal(distribuicao_imc, axs[2, 1], 'Distribuição de IMC', 'Número de Pessoas',
+    montar_grafico_barra_horizontal(distribuicao_imc, axs[2, 0], 'Distribuição de IMC', 'Número de Pessoas',
                                     'Categoria')
+
+    # Remove o gráfico no axs[2, 1]
+    axs[2, 1].remove()
 
     # Mostra os gráficos
     plt.show()
@@ -140,16 +142,28 @@ def montar_grafico_linha_com_media(dados, axs, campo1, campo2, titulo, eixo_x, e
 
 
 # Este gráfico foi feito fixo para idade
-def montar_grafico_histograma_idade(dados, axs, titulo, eixo_x, eixo_y):
-    # Criar o gráfico de linha da distribuição das idades
-    counts, bins, patches = axs.hist(dados['Idade'], bins=20, edgecolor='black', rwidth=0.8)
+def montar_grafico_histograma_idade(dados, titulo, eixo_x, eixo_y):
+    # Calcula o intervalo para os bins começando do valor mínimo de idade
+    min_idade = int(np.floor(dados['Idade'].min()))
+    max_idade = int(np.ceil(dados['Idade'].max()))
+    intervalo = 5
+    bins = range(min_idade, max_idade + intervalo, intervalo)
 
-    axs.set_title(titulo, fontsize=12, fontweight='bold')
-    axs.set_xlabel(eixo_x)
-    axs.set_ylabel(eixo_y)
+    # Criar uma figura e uma grade de subplots
+    fig, ax = plt.subplots(figsize=(10, 5))
+
+    # Criar o gráfico de linha da distribuição das idades
+    counts, bins, patches = ax.hist(dados['Idade'], bins=bins, edgecolor='black', rwidth=0.8)
+
+    ax.set_title(titulo, fontsize=12, fontweight='bold')
+    ax.set_xlabel(eixo_x)
+    ax.set_ylabel(eixo_y)
 
     # Adicionar rótulos às barras
     for count, bin, patch in zip(counts, bins, patches):
         x = patch.get_x() + patch.get_width() / 2
         y = patch.get_height()
-        axs.text(x, y, f'{count:.0f}', ha='center', va='bottom', fontsize='12')
+        plt.text(x, y, f'{count:.0f}', ha='center', va='bottom', fontsize='12')
+
+    # Mostra os gráficos
+    plt.show()
