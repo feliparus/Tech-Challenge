@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Dados processados - divisão teste, treino e targets">
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Buscando otimização de modelos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
@@ -274,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713214620276</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Buscando otimização de modelos">
+      <option name="closed" value="true" />
+      <created>1713221994768</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713221994768</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,7 +298,8 @@
     <MESSAGE value="Implementando técnica de otimização BayesSearchCV" />
     <MESSAGE value="Otimizando MSE treinamento e teste" />
     <MESSAGE value="Dados processados - divisão teste, treino e targets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dados processados - divisão teste, treino e targets" />
+    <MESSAGE value="Buscando otimização de modelos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buscando otimização de modelos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
