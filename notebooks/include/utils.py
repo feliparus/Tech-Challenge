@@ -218,7 +218,7 @@ def planejamento_estrategico(best_model, dados):
     
     return planos_estrategicos
 
-def check_modelo_nan_inf(model, X, y):
+def verificar_se_modelo_tem_dados_nan_inf(model, X, y):
     """
     Verifica se há valores NaN ou Inf em um modelo após o treinamento.
 
