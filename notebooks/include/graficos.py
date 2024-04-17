@@ -19,14 +19,17 @@ def montar_graficos_visualizacao_inicial(dados):
     # Ajustar o espaçamento entre os subplots
     plt.subplots_adjust(left=0.1, right=0.9, bottom=0.1, top=0.9, wspace=0.4, hspace=0.5)
     
-    montar_grafico_barra_vertical(distribuicao_genero, axs[0, 0], 'Distribuição de Gênero', 'Número de Pessoas', 'Gênero')
+    montar_grafico_barra_vertical(distribuicao_genero, axs[0, 0], 'Distribuição de Gênero', 'Número de Pessoas',
+                                  'Gênero')
 
     montar_grafico_barra_vertical(distribuicao_fumante, axs[0, 1], 'Distribuição Por Fumante', 'Número de Pessoas',
                                   'Fumante')
 
-    montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 0], 'Distribuição do Número de Filhos', 'Número de Pessoas', 'Qtd. de Filhos')
+    montar_grafico_barra_horizontal(distribuicao_filhos, axs[1, 0], 'Distribuição do Número de Filhos',
+                                    'Número de Pessoas', 'Qtd. de Filhos')
 
-    montar_grafico_barra_horizontal(distribuicao_regiao, axs[1, 1], 'Distribuição Por Região', 'Número de Pessoas', 'Região')
+    montar_grafico_barra_horizontal(distribuicao_regiao, axs[1, 1], 'Distribuição Por Região', 'Número de Pessoas',
+                                    'Região')
 
     montar_grafico_barra_horizontal(distribuicao_imc, axs[2, 0], 'Distribuição de IMC', 'Número de Pessoas',
                                     'Categoria')
@@ -94,8 +97,8 @@ def montar_graficos_relacionamento_encargos(dados):
     montar_grafico_correlacao(dados['Idade'], dados['Encargos'], axs[0],
                               'Correlação entre Idade e Encargos Médicos', 'Idade', 'Encargos Médicos')
 
-    montar_grafico_linha_com_media(dados, axs[1], 'Filhos', 'Encargos', 'Encargos Médios por Filho', 'Número de Filhos',
-                                   'Encargos Médios')
+    montar_grafico_linha_com_media(dados, axs[1], 'Filhos', 'Encargos', 'Encargos Médicos por Filho',
+                                   'Número de Filhos', 'Encargos Médicos')
 
     # Mostra os gráficos
     plt.show()

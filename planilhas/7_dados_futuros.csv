@@ -1,0 +1,201 @@
+Idade,IMC,Filhos,Fumante,Gênero,Região,Categoria_IMC,Encargos Reais,Encargo Futuro,Grupos Risco,Encargo Futuro - Expectativa 30 anos,Encargo Futuro - Expectativa 40 anos,Otimização Recursos,Planos estratégicos
+31,14.41,0,não,feminino,sudeste,Obeso,2893.86,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+29,21.25,1,sim,feminino,,IMC Não informado,4064.73,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+47,3.48,0,,masculino,sudoeste,Sobrepeso,3456.21,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+37,26.97,0,sim,masculino,nordeste,Peso normal,4388.36,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+65,9.02,2,,masculino,sudoeste,Sobrepeso,5414.53,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+49,30.97,0,,feminino,noroeste,Obeso,4124.67,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+11,32.51,0,,masculino,nordeste,Peso normal,2386.22,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+15,30.24,1,sim,feminino,noroeste,Sobrepeso,3320.54,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+13,1.17,2,não,feminino,noroeste,Sobrepeso,1720.95,7933.6,Alto Risco,7933.6,7933.6,Alocar mais recursos,Rever políticas de cobertura de seguro
+33,0.57,2,não,masculino,sudoeste,Obeso,3546.48,8176.12,Alto Risco,8176.12,8176.12,Alocar mais recursos,Rever políticas de cobertura de seguro
+41,10.32,2,,feminino,,Obeso,4372.12,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+8,7.15,2,sim,feminino,sudoeste,Obeso,2844.05,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+77,30.18,1,,masculino,nordeste,Peso normal,6605.06,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+57,0.77,2,sim,feminino,sudeste,Peso normal,4964.51,7971.48,Alto Risco,7971.48,7971.48,Alocar mais recursos,Rever políticas de cobertura de seguro
+27,16.24,2,sim,masculino,sudeste,Sobrepeso,4138.8,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+62,33.69,0,,,sudoeste,Peso normal,5702.35,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+77,11.76,1,não,masculino,noroeste,Sobrepeso,6217.4,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+4,25.46,2,sim,masculino,sudeste,Sobrepeso,2450.18,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+33,20.14,1,não,masculino,noroeste,Peso normal,3808.68,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+5,0.4,2,não,feminino,sudoeste,Obeso,1533.91,7895.92,Alto Risco,7895.92,7895.92,Alocar mais recursos,Rever políticas de cobertura de seguro
+61,17.98,1,,masculino,sudoeste,Obeso,5162.99,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+61,34.4,2,,masculino,sudoeste,Obeso,5758.62,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+71,18.08,1,não,masculino,noroeste,IMC Não informado,5999.39,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+37,27.93,0,não,feminino,noroeste,Obeso,3314.72,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+55,22.4,0,,masculino,sudeste,Sobrepeso,4085.34,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+11,1.66,2,,feminino,noroeste,Obeso,2096.89,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+29,30.76,2,sim,masculino,nordeste,Obeso,4137.45,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+64,32.18,2,,masculino,noroeste,Sobrepeso,6385.38,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+61,31.9,1,,feminino,nordeste,Peso normal,5763.83,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+36,18.81,1,,,nordeste,Peso normal,4067.62,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+73,9.38,1,sim,feminino,noroeste,Sobrepeso,5764.72,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+20,28.85,3,,masculino,noroeste,IMC Não informado,3501.09,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+64,16.67,1,,feminino,nordeste,Sobrepeso,5065.86,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+29,21.3,3,não,masculino,sudoeste,Obeso,3697.17,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+51,33.02,1,,masculino,nordeste,IMC Não informado,5100.5,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+57,11.31,3,,feminino,sudoeste,Sobrepeso,5396.55,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+21,0.57,2,,feminino,,Sobrepeso,2480.18,7493.3,Baixo Risco,7493.3,7493.3,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+56,27.54,3,sim,feminino,nordeste,Peso normal,6222.4,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+18,6.62,0,sim,masculino,sudoeste,Peso normal,2210.41,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+27,27.48,1,não,masculino,nordeste,Sobrepeso,3042.89,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+35,17.93,3,sim,masculino,sudeste,Sobrepeso,4967.22,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+73,23.82,1,,masculino,sudoeste,Peso normal,6100.29,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+29,17.13,0,não,masculino,noroeste,Sobrepeso,2912.22,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+27,11.03,1,não,feminino,sudoeste,Peso normal,3132.53,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+54,4.55,2,,,noroeste,IMC Não informado,4821.03,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+62,22.61,1,sim,masculino,sudeste,Obeso,6126.21,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+35,1.05,3,sim,masculino,sudeste,Obeso,4078.29,8065.28,Alto Risco,8065.28,8065.28,Alocar mais recursos,Rever políticas de cobertura de seguro
+2,1.43,2,sim,,sudoeste,Obeso,2414.86,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+25,5.53,2,,masculino,sudoeste,Peso normal,3408.61,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+77,14.1,0,,masculino,nordeste,Obeso,5245.77,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+27,3.09,2,,masculino,noroeste,Peso normal,2925.73,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+41,12.37,3,sim,masculino,sudeste,Obeso,5174.73,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+50,24.79,2,,masculino,nordeste,Sobrepeso,4970.0,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+33,2.64,3,,,noroeste,Obeso,3478.82,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+27,33.7,2,sim,masculino,noroeste,Peso normal,4063.58,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+78,28.51,1,,masculino,noroeste,Obeso,6384.67,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+14,4.86,0,sim,feminino,sudoeste,Obeso,2072.82,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+12,12.85,1,,feminino,sudeste,Peso normal,2307.74,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+3,6.03,2,,masculino,sudoeste,Abaixo do peso,1460.91,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+44,8.44,2,não,masculino,nordeste,Obeso,4681.24,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+9,0.96,1,não,masculino,sudoeste,Peso normal,1761.2,8013.71,Alto Risco,8013.71,8013.71,Alocar mais recursos,Rever políticas de cobertura de seguro
+31,11.91,2,,feminino,nordeste,Obeso,3279.69,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+36,24.99,3,não,feminino,sudoeste,Obeso,5090.51,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+47,27.18,3,não,feminino,sudoeste,Peso normal,5148.93,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+3,12.11,3,sim,feminino,noroeste,Peso normal,2886.36,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+44,2.07,1,,masculino,sudeste,Obeso,3401.56,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+46,1.83,3,não,feminino,sudeste,Obeso,4293.05,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+10,24.88,3,,feminino,noroeste,Peso normal,2949.08,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+19,2.75,3,não,feminino,sudeste,Peso normal,3180.63,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+15,16.88,0,sim,masculino,sudeste,Obeso,2093.88,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+19,8.06,2,sim,feminino,noroeste,Sobrepeso,2990.55,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+78,24.65,0,,masculino,sudeste,Peso normal,5574.02,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+11,31.15,2,não,feminino,sudeste,Peso normal,2770.85,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+51,8.17,0,não,feminino,sudeste,Obeso,4037.01,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+44,16.77,2,sim,masculino,sudoeste,Sobrepeso,5035.33,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+26,23.18,1,não,feminino,sudoeste,IMC Não informado,2792.22,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+18,13.11,2,não,masculino,noroeste,Peso normal,2725.95,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+66,22.37,3,não,feminino,nordeste,Sobrepeso,6796.58,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+28,21.26,2,sim,feminino,sudoeste,Sobrepeso,4135.66,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+31,11.66,0,não,masculino,sudoeste,Peso normal,2859.61,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+68,26.83,1,,masculino,sudoeste,IMC Não informado,5768.63,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+9,5.15,3,,feminino,sudoeste,IMC Não informado,2877.79,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+37,3.02,3,sim,masculino,noroeste,Sobrepeso,4602.99,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+36,27.67,2,sim,masculino,sudoeste,Peso normal,4476.85,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+29,7.1,1,sim,masculino,sudeste,Sobrepeso,3659.85,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+45,21.92,3,não,masculino,sudoeste,Peso normal,4971.02,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+17,32.7,0,,feminino,nordeste,Obeso,2424.64,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+49,32.3,2,,feminino,sudoeste,Obeso,5162.54,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+63,6.3,1,sim,feminino,sudoeste,Sobrepeso,5198.79,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+3,10.31,2,não,masculino,nordeste,Obeso,1675.65,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+79,0.14,3,,feminino,nordeste,Sobrepeso,6192.48,7202.42,Baixo Risco,7202.42,7202.42,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+52,12.11,0,não,masculino,nordeste,IMC Não informado,3699.59,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+23,18.62,0,,feminino,nordeste,Sobrepeso,2261.3,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+74,11.55,0,,,noroeste,Obeso,5189.43,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+6,27.85,1,não,feminino,noroeste,Sobrepeso,2265.49,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+25,16.51,1,,feminino,sudoeste,Sobrepeso,2660.97,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+64,23.24,1,sim,masculino,nordeste,Peso normal,6404.97,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+65,29.22,3,sim,feminino,nordeste,Obeso,7134.81,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+29,12.69,2,não,masculino,,Sobrepeso,3532.61,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+19,31.81,0,não,masculino,noroeste,Sobrepeso,3086.74,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+27,31.95,1,sim,feminino,sudoeste,Sobrepeso,4027.93,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+35,13.97,0,sim,feminino,nordeste,Sobrepeso,3207.24,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+71,18.11,1,,masculino,sudoeste,Sobrepeso,5881.68,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+6,16.52,0,sim,masculino,nordeste,Obeso,1677.39,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+12,1.92,1,não,feminino,noroeste,IMC Não informado,1655.19,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+50,18.29,1,não,feminino,nordeste,Sobrepeso,4492.69,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+57,22.92,3,sim,feminino,sudeste,Peso normal,6578.5,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+27,21.26,0,,feminino,sudeste,Peso normal,3121.31,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+15,20.68,3,,masculino,noroeste,Peso normal,3508.55,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+21,32.8,3,sim,feminino,noroeste,Peso normal,4142.25,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+32,13.77,2,,masculino,sudoeste,Obeso,3410.28,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+69,10.4,3,não,masculino,sudeste,Peso normal,6076.27,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+29,5.83,0,sim,feminino,sudoeste,Obeso,3076.76,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+66,32.66,2,,feminino,sudoeste,Obeso,6318.54,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+68,15.3,0,,masculino,nordeste,Peso normal,5217.46,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+51,4.98,1,sim,masculino,noroeste,Obeso,4977.46,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+10,5.16,2,,masculino,noroeste,Peso normal,2436.61,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+41,28.67,1,,masculino,sudeste,Sobrepeso,4657.42,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+36,33.65,1,sim,masculino,noroeste,IMC Não informado,4607.6,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+39,6.21,0,não,masculino,sudeste,Obeso,2955.37,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+48,5.66,2,não,masculino,noroeste,Obeso,4309.62,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+7,26.44,0,,masculino,noroeste,Peso normal,1346.48,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+66,30.34,0,sim,masculino,sudeste,Peso normal,5707.22,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+40,2.07,3,não,feminino,noroeste,Peso normal,4170.09,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+40,7.54,0,sim,feminino,sudeste,Abaixo do peso,3237.32,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+79,8.59,1,não,feminino,noroeste,Obeso,6223.88,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+55,21.24,3,sim,masculino,sudoeste,Obeso,6315.39,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+1,16.23,1,não,feminino,noroeste,Peso normal,1368.6,7328.92,Baixo Risco,8248.45,8248.45,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+58,33.11,1,sim,feminino,noroeste,Peso normal,5835.67,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+75,30.87,2,,masculino,sudeste,Sobrepeso,7025.66,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+11,3.54,2,,masculino,,Peso normal,1854.2,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+24,10.27,0,,masculino,noroeste,Obeso,2576.86,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+59,7.06,2,,feminino,sudeste,Sobrepeso,4974.57,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+26,18.86,0,não,masculino,sudoeste,Sobrepeso,2807.63,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+10,13.31,0,não,masculino,,Peso normal,1471.09,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+3,26.5,0,sim,masculino,sudoeste,Obeso,2121.22,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+55,18.62,1,,masculino,nordeste,Peso normal,5075.97,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+79,6.63,0,,masculino,sudoeste,Obeso,5123.67,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+34,33.62,0,,feminino,noroeste,Sobrepeso,3662.41,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+2,31.31,2,não,feminino,nordeste,Peso normal,2332.13,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+27,13.46,3,sim,feminino,sudeste,Obeso,4580.64,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+51,24.73,1,não,masculino,nordeste,Peso normal,5148.01,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+56,33.06,2,sim,,nordeste,Obeso,6168.57,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+65,26.34,3,não,masculino,noroeste,Obeso,6069.98,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+39,0.65,3,não,masculino,nordeste,Peso normal,3708.97,7959.33,Alto Risco,7959.33,7959.33,Alocar mais recursos,Rever políticas de cobertura de seguro
+23,10.26,2,,,noroeste,Peso normal,2687.79,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+27,15.06,1,,masculino,sudeste,Obeso,2852.37,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+2,25.87,3,,feminino,sudeste,Peso normal,2620.78,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+13,29.71,2,,feminino,noroeste,Peso normal,3143.68,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+13,1.87,2,não,feminino,,Obeso,1947.91,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+26,6.64,1,,feminino,sudeste,Sobrepeso,2819.62,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+19,23.34,3,,masculino,noroeste,IMC Não informado,4019.04,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+8,3.17,1,,feminino,sudeste,Peso normal,1710.84,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+53,34.37,3,,,sudoeste,Peso normal,6283.62,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+29,10.32,0,sim,masculino,sudoeste,Sobrepeso,3198.07,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+11,10.94,3,não,masculino,sudeste,Sobrepeso,2484.97,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+25,7.17,0,não,masculino,noroeste,Obeso,2385.03,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+47,34.9,1,sim,masculino,sudoeste,Peso normal,5106.87,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+47,28.07,0,sim,masculino,sudeste,Peso normal,4762.22,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+33,0.36,2,não,masculino,nordeste,Sobrepeso,3364.8,8007.74,Alto Risco,8007.74,8007.74,Alocar mais recursos,Rever políticas de cobertura de seguro
+9,26.0,0,sim,feminino,sudoeste,Sobrepeso,2717.24,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+58,28.7,3,não,feminino,sudeste,Obeso,6463.69,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+11,26.48,0,sim,masculino,nordeste,Obeso,2434.92,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+63,3.35,3,sim,masculino,sudoeste,Obeso,6526.5,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+77,15.71,2,sim,feminino,noroeste,Peso normal,6511.13,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+51,0.04,3,sim,feminino,noroeste,Obeso,5346.3,8010.46,Alto Risco,8010.46,8010.46,Alocar mais recursos,Rever políticas de cobertura de seguro
+72,12.07,1,sim,,,Obeso,6130.43,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+28,10.37,1,não,masculino,sudeste,IMC Não informado,3090.23,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+71,3.43,1,,masculino,sudoeste,Obeso,5639.11,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+46,9.01,3,não,masculino,sudoeste,Obeso,4827.66,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+11,24.14,3,sim,masculino,sudoeste,Peso normal,3257.13,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+44,21.36,2,sim,,nordeste,Peso normal,4982.31,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+73,28.01,0,não,feminino,noroeste,Obeso,6113.45,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+36,15.14,3,sim,feminino,sudeste,Sobrepeso,4430.69,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+18,4.39,1,,masculino,sudeste,Obeso,1753.88,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+78,8.23,3,sim,feminino,noroeste,IMC Não informado,6877.12,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+3,22.09,2,sim,feminino,sudeste,Peso normal,2793.66,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+57,5.25,1,sim,masculino,sudoeste,Sobrepeso,5099.59,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+26,8.65,0,,,sudoeste,Sobrepeso,2640.44,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+5,29.4,3,não,,nordeste,Obeso,3295.55,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+35,27.94,0,sim,masculino,sudeste,IMC Não informado,3574.22,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+0,10.61,1,,feminino,sudeste,Peso normal,1641.69,5443.12,Baixo Risco,7603.65,7603.65,Manter recursos,Realizar campanhas de conscientização sobre saúde
+40,10.29,2,não,masculino,sudeste,Peso normal,3621.03,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+5,10.27,0,não,masculino,sudeste,Obeso,934.91,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+57,15.98,0,,masculino,sudeste,Peso normal,4520.79,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+54,20.17,0,sim,masculino,noroeste,Sobrepeso,5245.53,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+50,13.46,1,não,feminino,nordeste,Obeso,3955.59,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+31,21.85,1,não,masculino,noroeste,IMC Não informado,3705.16,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+4,0.14,2,sim,feminino,sudeste,Obeso,2447.24,7837.49,Alto Risco,7837.49,7837.49,Alocar mais recursos,Rever políticas de cobertura de seguro
+32,25.68,1,,masculino,nordeste,Abaixo do peso,3632.48,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+24,24.07,1,não,feminino,sudeste,Peso normal,3069.16,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+57,19.71,0,,feminino,sudeste,Obeso,4969.17,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+0,16.74,3,,masculino,sudoeste,Peso normal,1978.34,5443.12,Baixo Risco,7603.65,7603.65,Manter recursos,Realizar campanhas de conscientização sobre saúde
+61,24.44,1,não,feminino,nordeste,Sobrepeso,5772.98,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+32,12.08,0,,feminino,sudeste,Obeso,2969.39,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+31,9.0,2,,masculino,nordeste,Peso normal,3789.64,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+32,11.59,1,sim,feminino,nordeste,Obeso,3344.39,8248.45,Alto Risco,8248.45,8248.45,Alocar mais recursos,Rever políticas de cobertura de seguro
+39,25.43,0,sim,masculino,nordeste,IMC Não informado,3806.13,7346.33,Baixo Risco,7346.33,7346.33,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
+34,9.46,0,,feminino,nordeste,Sobrepeso,2524.3,6820.94,Baixo Risco,6820.94,6820.94,Manter recursos,Realizar campanhas de conscientização sobre saúde
+42,9.02,2,,masculino,sudeste,Obeso,4584.89,7603.65,Baixo Risco,7603.65,7603.65,Alocar mais recursos,Realizar campanhas de conscientização sobre saúde
