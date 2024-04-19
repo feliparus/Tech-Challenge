@@ -170,3 +170,46 @@ def montar_grafico_histograma_idade(dados, titulo, eixo_x, eixo_y):
 
     # Mostra os gráficos
     plt.show()
+
+
+def montar_graficos_dados_futuros(dados_futuros):
+    # Criar uma figura e subplots com 2 linhas e 1 coluna
+    fig, axs = plt.subplots(2, 1, figsize=(15, 10))
+
+    # Gráfico 1: Previsões vs. Expectativas Anuais
+    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 70 anos'], label='Expectativa Fixa 70 anos',
+                color='blue', marker='o')
+    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 75 anos'], label='Expectativa Fixa 75 anos',
+                color='green', marker='x')
+    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 80 anos'], label='Expectativa Fixa 80 anos',
+                color='red', marker='.')
+
+    # Configurar o primeiro subplot
+    axs[0].set_xlabel('Previsões')
+    axs[0].set_ylabel('Encargos')
+    axs[0].legend()
+    axs[0].set_title('Previsões vs. Expectativas Idades Fixas')
+
+    # Gráfico 2: Comparação entre Encargos Reais e Encargos Futuro
+    indices = range(len(dados_futuros))
+
+    # Encargos Reais (bolinhas azuis)
+    axs[1].scatter(indices, dados_futuros['Encargos Reais'], color='blue', label='Encargos Reais', marker='o')
+
+    # Encargo Futuro (bolinhas vermelhas)
+    axs[1].scatter(indices, dados_futuros['Encargos Futuro'], color='red', label='Encargos Futuro', marker='o')
+
+    # Adicionando linhas de conexão entre pares correspondentes
+    for i in indices:
+        axs[1].plot([i, i], [dados_futuros['Encargos Reais'][i], dados_futuros['Encargos Futuro'][i]], color='gray',
+                    linestyle='-', linewidth=0.5)
+
+    # Configurar o segundo subplot
+    axs[1].set_xlabel('Índice')
+    axs[1].set_ylabel('Valor')
+    axs[1].set_title('Comparação entre Encargos Reais e Encargos Futuro')
+    axs[1].legend()
+
+    # Ajustar o layout e exibir o gráfico
+    plt.tight_layout()
+    plt.show()

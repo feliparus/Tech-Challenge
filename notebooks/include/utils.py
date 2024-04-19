@@ -16,7 +16,7 @@ def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
 
     try:
         # Criar listas para cada coluna
-        idades = np.random.randint(18, 80, size=num_linhas)
+        idades = np.random.randint(18, 65, size=num_linhas)
         generos = np.random.choice(['masculino', 'feminino'], size=num_linhas)
         imcs = np.random.uniform(18, 35, size=num_linhas).astype(float)
         filhos = np.random.randint(0, 4, size=num_linhas)
@@ -43,6 +43,18 @@ def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
             else:
                 indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
                 dados.loc[indices_nans, coluna] = np.nan
+
+        dados_adicionais_aux = dados.copy()
+
+        # Preencher valores ausentes de 'Idade' e 'Filhos'
+        dados_adicionais_aux[['Idade', 'Filhos']] = dados_adicionais_aux[['Idade', 'Filhos']].fillna(0)
+
+        # Preencher valores ausentes de 'Fumante' como não
+        dados_adicionais_aux['Fumante'] = dados_adicionais_aux['Fumante'].fillna('não')
+
+        # Preencher valores ausentes de 'IMC' com a média
+        media_imc = dados_adicionais_aux['IMC'].mean()
+        dados_adicionais_aux['IMC'] = dados_adicionais_aux['IMC'].fillna(media_imc)
 
         # Obtendo encargos por coeficiente
         dados['Encargos'] = obter_encargo_por_coeficientes(dados, num_linhas)
@@ -98,10 +110,16 @@ def obter_encargo_por_coeficientes(dados, quantidade_maxima_ausencias):
         'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0}  # Não tem impacto nos encargos
     }
 
+    # Trazendo as colunas dos coeficientes para auxiliar o treinamento do modelo
+    # dados['Coef_Idade'] = coeficientes['Idade'] * dados_adicionais_aux['Idade']
+    # dados['Coef_IMC'] = round(coeficientes['IMC'] * dados_adicionais_aux['IMC'],2)
+    # dados['Coef_Filhos'] = coeficientes['Filhos'] * dados_adicionais_aux['Filhos']
+    # dados['Coef_Fumante'] = dados_adicionais_aux['Fumante'].map(coeficientes['Fumante'])
+
     # Gerando encargos com base nas variáveis independentes
     encargos = (
             coeficientes['Idade'] * dados_adicionais_aux['Idade'] +
-            coeficientes['IMC'] * dados_adicionais_aux['IMC'] +
+            round(coeficientes['IMC'] * dados_adicionais_aux['IMC'],2) +
             coeficientes['Filhos'] * dados_adicionais_aux['Filhos'] +
             dados_adicionais_aux['Fumante'].map(coeficientes['Fumante']) +
             np.random.uniform(100, 1000, size=quantidade_maxima_ausencias)
@@ -131,16 +149,22 @@ def limpar_dados(dados):
 
     # Substituir valores nulos para o valor esperado
     dados_aux['Idade'] = dados_aux['Idade'].fillna(0)
-    dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
     dados_aux['Filhos'] = dados_aux['Filhos'].fillna(0)
+    dados_aux['Coef_Idade'] = dados_aux['Idade'].fillna(0)
+    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].fillna(0)
+    dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
+    dados_aux['Coef_IMC'] = dados_aux['IMC'].fillna(0)
     dados_aux['Fumante'] = dados_aux['Fumante'].fillna(0)
+    dados_aux['Coef_Fumante'] = dados_aux['IMC'].fillna(0)
 
     # dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
     # dados_aux['Fumante'] = dados_aux['Fumante'].fillna('não')
 
     # Convertendo colunas para o tipo esperado
-    dados_aux['Filhos'] = dados_aux['Filhos'].astype(int)
     dados_aux['Idade'] = dados_aux['Idade'].astype(int)
+    dados_aux['Filhos'] = dados_aux['Filhos'].astype(int)
+    dados_aux['Coef_Idade'] = dados_aux['Idade'].astype(int)
+    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].astype(int)
 
     return dados_aux
 
@@ -234,6 +258,37 @@ def analise_de_sensibilidade(best_model, dados, variavel_alterada, novo_valor):
     return custos_previstos_alterados
 
 
+def previsao_por_coluna(model, dados_futuros_scaled, indice_coluna, novo_valor):
+    """
+    Função para fazer previsões com um valor específico para a coluna de idade nos dados futuros.
+
+    Args:
+        model: Modelo treinado.
+        dados_futuros_scaled: Dados futuros padronizados.
+        coluna: Nome da coluna de idade nos dados futuros.
+        novo_valor: Novo valor de idade a ser previsto.
+
+    Retorna:
+        Previsões feitas pelo modelo com o valor específico de idade.
+    """
+    # Criar uma cópia dos dados futuros para manter os dados originais inalterados
+    dados_futuros_previsao = dados_futuros_scaled.copy()
+
+    # Identificar o índice da coluna de idade
+    # Supondo que a coluna seja identificada pelo nome fornecido
+    coluna_index = list(range(dados_futuros_previsao.shape[1]))[indice_coluna]
+
+    # Definir o novo valor de idade
+    dados_futuros_previsao[:, coluna_index] = novo_valor
+
+    # Fazer previsão com os dados modificados
+    previsoes = model.predict(dados_futuros_previsao)
+    previsoes = list(map(lambda x: round(x, 2), previsoes))
+
+    # Retornar as previsões
+    return previsoes
+
+
 def otimizacao_de_recursos(custos_previstos):
     # Suponha que a otimização de recursos envolva alocar mais recursos para grupos de alto risco
     recursos_otimizados = []
@@ -294,13 +349,14 @@ def verificar_se_modelo_tem_dados_nan_inf(model, x, y):
         raise ValueError("Inf encontrado nas previsões do modelo")
 
 
-def gerar_dados_futuros_com_limites(novas_linhas, x_test):
+def gerar_dados_futuros_com_limites(novas_linhas, x_test, idade_minima=18):
     """
     Gera dados futuros com valores aleatórios dentro dos limites especificados para cada coluna.
 
     Parâmetros:
         - novas_linhas: número de linhas a serem geradas
         - x_test: DataFrame contendo os dados de teste
+        - idade_minima: Limite inferior para a coluna 'Idade' (padrão é 18 anos)
 
     Retorna:
         - DataFrame contendo os dados futuros gerados
@@ -309,11 +365,17 @@ def gerar_dados_futuros_com_limites(novas_linhas, x_test):
 
     for coluna in x_test.columns:
         if x_test[coluna].dtype == 'int64' or x_test[coluna].dtype == 'int32':
-            minimo = int(x_test[coluna].min())
+            if coluna == 'Idade':
+                # Garante que a idade esteja dentro dos limites desejados
+                minimo = max(idade_minima, int(x_test[coluna].min()))
+            else:
+                minimo = int(x_test[coluna].min())
+
             maximo = int(x_test[coluna].max())
             valores = np.random.randint(minimo, maximo + 1, size=novas_linhas).astype(x_test[coluna].dtype)
         else:
             valores = np.round(np.random.uniform(x_test[coluna].min(), x_test[coluna].max(), size=novas_linhas), 2)
+
         dados_futuros[coluna] = valores
 
     return dados_futuros
