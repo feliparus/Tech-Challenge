@@ -11,7 +11,7 @@ def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
         - ausencias_por_coluna: Quantidade máxima de ausência de dados nas colunas (np.nan)
 
     Retorna:
-        - Retorna os dados concatenados entre o dataset original e o dataset dados_adicionais, gerado neste método
+        - Retorna os dados randomicos e acordo com os parâmetros recebidos e cálculo dos coeficientes
     """
 
     try:
@@ -151,8 +151,8 @@ def limpar_dados(dados):
     dados_aux['Idade'] = dados_aux['Idade'].fillna(0)
     dados_aux['Filhos'] = dados_aux['Filhos'].fillna(0)
     dados_aux['Coef_Idade'] = dados_aux['Idade'].fillna(0)
-    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].fillna(0)
     dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
+    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].fillna(0)
     dados_aux['Coef_IMC'] = dados_aux['IMC'].fillna(0)
     dados_aux['Fumante'] = dados_aux['Fumante'].fillna(0)
     dados_aux['Coef_Fumante'] = dados_aux['IMC'].fillna(0)
@@ -163,8 +163,8 @@ def limpar_dados(dados):
     # Convertendo colunas para o tipo esperado
     dados_aux['Idade'] = dados_aux['Idade'].astype(int)
     dados_aux['Filhos'] = dados_aux['Filhos'].astype(int)
-    dados_aux['Coef_Idade'] = dados_aux['Idade'].astype(int)
-    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].astype(int)
+    #dados_aux['Coef_Idade'] = dados_aux['Idade'].astype(int)
+    #dados_aux['Coef_Filhos'] = dados_aux['Filhos'].astype(int)
 
     return dados_aux
 
@@ -331,6 +331,8 @@ def verificar_se_modelo_tem_dados_nan_inf(model, x, y):
         x: Matriz de features.
         y: Vetor de targets.
     """
+
+    # isinf = é uma função que verifica se um ou mais elementos de um array são infinitos(infinito positivo ou negativo)
 
     model.fit(x, y)
 

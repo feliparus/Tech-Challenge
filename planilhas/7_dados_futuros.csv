@@ -1,101 +1,101 @@
 Idade,IMC,Filhos,Fumante,Coef_Idade,Coef_Filhos,Coef_IMC,Coef_Fumante,Gênero,Região,Categoria_IMC,Encargos Reais,Encargos Futuro,Grupos Risco,Encargo Futuro - Fixo 70 anos,Encargo Futuro - Fixo 75 anos,Encargo Futuro - Fixo 80 anos,Otimização Recursos,Planos estratégicos
-33,13.14,2,sim,32,2,25.65,23.05,masculino,noroeste,Peso normal,4568.57,3964.23,Baixo Risco,33795.58,36203.7,38611.82,Manter recursos,Realizar campanhas de conscientização sobre saúde
-23,28.86,2,sim,25,3,3.32,3.61,feminino,sudoeste,Obeso,3726.24,4269.45,Alto Risco,33666.8,36074.92,38483.04,Manter recursos,Implementar programas de saúde preventiva para este grupo
-50,32.53,0,,6,2,8.25,20.98,masculino,sudoeste,Obeso,4162.04,4095.1,Baixo Risco,32910.28,35318.4,37726.53,Manter recursos,Realizar campanhas de conscientização sobre saúde
-25,6.79,1,,49,2,23.8,29.68,masculino,,Peso normal,2669.22,4010.6,Baixo Risco,34392.22,36800.34,39208.46,Manter recursos,Realizar campanhas de conscientização sobre saúde
-29,31.79,2,não,32,1,8.05,14.82,masculino,sudeste,Abaixo do peso,4493.35,4171.83,Alto Risco,33275.0,35683.13,38091.25,Manter recursos,Implementar programas de saúde preventiva para este grupo
-43,34.32,0,não,49,0,10.02,27.17,masculino,sudoeste,Sobrepeso,4553.13,4328.56,Alto Risco,33267.69,35675.81,38083.93,Manter recursos,Implementar programas de saúde preventiva para este grupo
-24,10.47,3,sim,63,3,17.71,7.47,masculino,noroeste,Peso normal,4084.48,5108.27,Alto Risco,35004.65,37412.77,39820.89,Manter recursos,Implementar programas de saúde preventiva para este grupo
-41,16.22,2,não,23,0,31.57,24.19,feminino,sudoeste,Obeso,4083.53,3423.02,Baixo Risco,32884.47,35292.59,37700.71,Manter recursos,Realizar campanhas de conscientização sobre saúde
-40,2.97,3,,5,3,18.4,13.41,feminino,sudoeste,Peso normal,3894.68,3763.51,Baixo Risco,33550.38,35958.5,38366.62,Manter recursos,Realizar campanhas de conscientização sobre saúde
-49,32.05,2,não,45,3,8.42,9.45,masculino,nordeste,Sobrepeso,5133.46,5905.64,Alto Risco,34039.4,36447.52,38855.64,Manter recursos,Implementar programas de saúde preventiva para este grupo
-31,33.22,1,não,63,0,14.56,21.07,feminino,nordeste,Obeso,3872.57,4022.31,Baixo Risco,33873.76,36281.88,38690.0,Manter recursos,Realizar campanhas de conscientização sobre saúde
-22,21.46,1,não,56,0,9.16,10.71,masculino,sudoeste,Peso normal,3266.04,3852.06,Baixo Risco,33540.78,35948.9,38357.02,Manter recursos,Realizar campanhas de conscientização sobre saúde
-57,10.97,0,não,63,3,12.89,11.47,masculino,sudeste,Abaixo do peso,4212.63,4987.64,Alto Risco,34119.42,36527.54,38935.67,Manter recursos,Implementar programas de saúde preventiva para este grupo
-63,27.27,0,sim,25,2,23.59,3.56,masculino,noroeste,Sobrepeso,5770.77,5041.27,Alto Risco,33157.05,35565.17,37973.29,Manter recursos,Implementar programas de saúde preventiva para este grupo
-52,13.62,2,não,50,1,23.12,13.22,masculino,sudeste,Peso normal,5221.46,4884.83,Alto Risco,33794.43,36202.55,38610.67,Manter recursos,Implementar programas de saúde preventiva para este grupo
-20,6.88,1,não,36,3,16.41,33.39,feminino,noroeste,Sobrepeso,2461.78,3801.06,Baixo Risco,33601.74,36009.86,38417.98,Manter recursos,Realizar campanhas de conscientização sobre saúde
-41,33.44,1,,12,1,18.31,4.9,feminino,noroeste,Sobrepeso,4067.47,3508.86,Baixo Risco,33067.61,35475.73,37883.85,Manter recursos,Realizar campanhas de conscientização sobre saúde
-19,9.35,2,,55,0,3.01,16.35,feminino,noroeste,IMC Não informado,2636.25,3937.28,Baixo Risco,34233.87,36641.99,39050.11,Manter recursos,Realizar campanhas de conscientização sobre saúde
-26,29.04,1,não,3,2,1.6,24.23,feminino,nordeste,Sobrepeso,3753.82,2625.5,Baixo Risco,32405.3,34813.42,37221.54,Manter recursos,Realizar campanhas de conscientização sobre saúde
-58,14.15,0,não,12,3,7.76,0.53,feminino,noroeste,Obeso,4708.8,4077.75,Baixo Risco,32530.76,34938.88,37347.01,Manter recursos,Realizar campanhas de conscientização sobre saúde
-37,12.18,0,,0,1,33.21,26.31,feminino,noroeste,Peso normal,2896.87,2995.63,Baixo Risco,32576.88,34985.0,37393.12,Manter recursos,Realizar campanhas de conscientização sobre saúde
-38,31.95,0,não,21,2,14.03,22.96,feminino,sudoeste,Abaixo do peso,4218.78,3814.0,Baixo Risco,32810.86,35218.98,37627.1,Manter recursos,Realizar campanhas de conscientização sobre saúde
-36,5.76,2,sim,35,1,14.9,2.41,feminino,noroeste,IMC Não informado,4416.08,4543.0,Alto Risco,33514.99,35923.11,38331.23,Manter recursos,Implementar programas de saúde preventiva para este grupo
-24,12.68,2,,4,0,28.23,27.43,feminino,noroeste,Sobrepeso,2725.79,2241.04,Baixo Risco,32879.61,35287.73,37695.85,Manter recursos,Realizar campanhas de conscientização sobre saúde
-49,4.95,0,sim,49,3,19.32,32.45,feminino,sudoeste,Peso normal,4343.94,5603.1,Alto Risco,34085.48,36493.6,38901.72,Manter recursos,Implementar programas de saúde preventiva para este grupo
-30,1.96,3,não,12,3,3.29,23.21,feminino,noroeste,Peso normal,3250.24,3943.16,Baixo Risco,33150.53,35558.65,37966.77,Manter recursos,Realizar campanhas de conscientização sobre saúde
-32,29.88,1,,26,2,10.42,25.7,,sudoeste,Sobrepeso,3879.19,4096.55,Baixo Risco,33727.28,36135.4,38543.52,Manter recursos,Realizar campanhas de conscientização sobre saúde
-53,12.35,2,sim,10,1,14.3,6.1,masculino,nordeste,Peso normal,5836.4,4488.13,Alto Risco,32807.63,35215.75,37623.88,Manter recursos,Implementar programas de saúde preventiva para este grupo
-33,9.81,1,não,55,0,4.77,1.44,feminino,sudoeste,Peso normal,3124.92,3893.66,Baixo Risco,33397.8,35805.92,38214.05,Manter recursos,Realizar campanhas de conscientização sobre saúde
-59,5.38,2,,53,3,30.43,19.23,feminino,noroeste,Sobrepeso,5399.56,5767.44,Alto Risco,34884.23,37292.35,39700.47,Manter recursos,Implementar programas de saúde preventiva para este grupo
-40,16.18,1,,61,1,25.91,24.48,,sudeste,Peso normal,3864.36,4924.81,Alto Risco,34582.97,36991.09,39399.21,Manter recursos,Implementar programas de saúde preventiva para este grupo
-23,13.77,0,não,4,1,23.31,27.57,masculino,sudoeste,Obeso,2564.39,2022.01,Baixo Risco,32083.7,34491.82,36899.95,Manter recursos,Realizar campanhas de conscientização sobre saúde
-35,32.3,0,,37,2,29.15,8.14,masculino,sudeste,Sobrepeso,3813.76,4599.55,Alto Risco,33875.92,36284.04,38692.16,Manter recursos,Implementar programas de saúde preventiva para este grupo
-32,23.99,1,,60,2,20.13,34.57,feminino,sudeste,Sobrepeso,3663.02,4422.09,Alto Risco,34804.67,37212.79,39620.91,Manter recursos,Implementar programas de saúde preventiva para este grupo
-33,31.52,1,não,30,2,19.32,19.79,masculino,noroeste,Sobrepeso,3683.21,4426.79,Alto Risco,33286.23,35694.35,38102.47,Manter recursos,Implementar programas de saúde preventiva para este grupo
-64,23.43,3,não,3,0,19.28,14.06,masculino,sudoeste,Obeso,6433.49,3773.06,Baixo Risco,32413.78,34821.9,37230.02,Manter recursos,Realizar campanhas de conscientização sobre saúde
-35,15.13,0,sim,19,0,24.08,31.76,masculino,noroeste,Obeso,3221.03,3008.53,Baixo Risco,32655.51,35063.63,37471.75,Manter recursos,Realizar campanhas de conscientização sobre saúde
-55,9.32,3,não,7,0,19.97,6.21,feminino,,Peso normal,4963.22,3615.02,Baixo Risco,32438.94,34847.06,37255.18,Manter recursos,Realizar campanhas de conscientização sobre saúde
-46,10.44,1,não,19,3,27.99,13.33,feminino,sudeste,Sobrepeso,3877.64,3827.02,Baixo Risco,33069.4,35477.53,37885.65,Manter recursos,Realizar campanhas de conscientização sobre saúde
-34,15.23,2,,62,2,30.24,22.94,feminino,noroeste,Peso normal,3563.48,4647.46,Alto Risco,35016.47,37424.59,39832.71,Manter recursos,Implementar programas de saúde preventiva para este grupo
-38,3.42,1,sim,50,3,10.91,31.64,feminino,nordeste,Obeso,3947.93,5320.71,Alto Risco,34265.15,36673.27,39081.4,Manter recursos,Implementar programas de saúde preventiva para este grupo
-57,20.72,0,não,38,3,25.79,5.66,,,Peso normal,4479.13,4921.57,Alto Risco,33444.03,35852.15,38260.27,Manter recursos,Implementar programas de saúde preventiva para este grupo
-23,27.92,0,sim,25,1,15.62,9.78,feminino,noroeste,Obeso,2864.76,3062.83,Baixo Risco,32954.51,35362.63,37770.75,Manter recursos,Realizar campanhas de conscientização sobre saúde
-19,28.82,0,,35,2,32.59,30.96,masculino,sudeste,Obeso,2466.6,3378.0,Baixo Risco,33917.54,36325.66,38733.78,Manter recursos,Realizar campanhas de conscientização sobre saúde
-57,31.1,3,sim,58,2,18.05,24.59,masculino,nordeste,Sobrepeso,6418.99,6519.56,Alto Risco,34826.9,37235.02,39643.14,Manter recursos,Implementar programas de saúde preventiva para este grupo
-52,20.21,0,não,44,3,1.45,13.64,,sudoeste,Obeso,4443.88,4825.29,Alto Risco,33548.87,35956.99,38365.11,Manter recursos,Implementar programas de saúde preventiva para este grupo
-34,25.65,0,não,16,0,19.44,28.7,feminino,,IMC Não informado,3678.21,3038.67,Baixo Risco,32287.13,34695.25,37103.37,Manter recursos,Realizar campanhas de conscientização sobre saúde
-31,33.01,1,,0,3,28.08,28.48,feminino,nordeste,Obeso,3767.17,3100.68,Baixo Risco,33249.53,35657.65,38065.77,Manter recursos,Realizar campanhas de conscientização sobre saúde
-27,26.29,0,sim,28,1,21.7,29.42,feminino,nordeste,Sobrepeso,3212.28,3518.67,Baixo Risco,33152.09,35560.21,37968.33,Manter recursos,Realizar campanhas de conscientização sobre saúde
-49,3.86,3,não,42,0,16.91,34.15,feminino,noroeste,Sobrepeso,4873.12,4167.19,Alto Risco,33576.39,35984.51,38392.63,Manter recursos,Implementar programas de saúde preventiva para este grupo
-43,13.85,0,não,49,1,25.81,8.42,feminino,noroeste,Peso normal,3836.41,3787.07,Baixo Risco,33360.75,35768.87,38176.99,Manter recursos,Realizar campanhas de conscientização sobre saúde
-39,21.14,3,não,15,3,28.92,20.79,,sudeste,Peso normal,4314.23,4297.01,Alto Risco,33429.78,35837.9,38246.02,Manter recursos,Implementar programas de saúde preventiva para este grupo
-38,24.17,3,não,13,3,25.6,13.98,masculino,sudoeste,Peso normal,5018.67,4572.25,Alto Risco,33338.05,35746.17,38154.29,Manter recursos,Implementar programas de saúde preventiva para este grupo
-35,33.51,0,não,50,0,4.25,4.61,feminino,sudoeste,Sobrepeso,3495.74,3461.35,Baixo Risco,33167.66,35575.78,37983.9,Manter recursos,Realizar campanhas de conscientização sobre saúde
-44,2.83,3,não,21,0,13.56,28.47,feminino,noroeste,Obeso,4415.03,3562.01,Baixo Risco,32901.02,35309.14,37717.26,Manter recursos,Realizar campanhas de conscientização sobre saúde
-24,28.77,3,,49,1,16.52,8.65,masculino,nordeste,Abaixo do peso,4206.49,3733.04,Baixo Risco,34561.6,36969.72,39377.84,Manter recursos,Realizar campanhas de conscientização sobre saúde
-56,13.44,1,sim,55,2,18.64,16.16,feminino,nordeste,IMC Não informado,5641.49,5612.33,Alto Risco,34227.76,36635.88,39044.01,Manter recursos,Implementar programas de saúde preventiva para este grupo
-34,21.6,0,,22,3,18.31,22.33,masculino,sudoeste,Peso normal,2948.43,3687.76,Baixo Risco,33590.41,35998.53,38406.65,Manter recursos,Realizar campanhas de conscientização sobre saúde
-59,14.75,3,sim,50,0,19.24,17.93,masculino,noroeste,Peso normal,5850.28,5396.89,Alto Risco,34094.08,36502.2,38910.32,Manter recursos,Implementar programas de saúde preventiva para este grupo
-35,14.2,0,sim,14,0,25.85,12.48,masculino,nordeste,Peso normal,3245.54,3264.7,Baixo Risco,32423.1,34831.23,37239.35,Manter recursos,Realizar campanhas de conscientização sobre saúde
-46,10.96,0,não,37,2,0.13,25.34,masculino,sudoeste,Peso normal,3631.06,4361.64,Alto Risco,33146.12,35554.25,37962.37,Manter recursos,Implementar programas de saúde preventiva para este grupo
-43,3.61,0,sim,41,1,21.18,4.75,masculino,nordeste,Peso normal,3590.72,4218.01,Alto Risco,33328.73,35736.85,38144.97,Manter recursos,Implementar programas de saúde preventiva para este grupo
-37,10.57,0,,55,2,9.1,9.05,feminino,nordeste,Peso normal,3534.08,4612.36,Alto Risco,34233.92,36642.04,39050.16,Manter recursos,Implementar programas de saúde preventiva para este grupo
-28,11.27,0,,22,1,29.24,7.73,feminino,sudoeste,Abaixo do peso,2459.76,2982.48,Baixo Risco,33132.67,35540.79,37948.91,Manter recursos,Realizar campanhas de conscientização sobre saúde
-58,23.46,0,,62,1,12.04,0.52,masculino,noroeste,Obeso,4923.44,5057.59,Alto Risco,34279.02,36687.14,39095.26,Manter recursos,Implementar programas de saúde preventiva para este grupo
-39,13.06,0,,57,0,0.19,16.63,masculino,noroeste,Peso normal,3712.91,4021.65,Baixo Risco,33903.87,36312.0,38720.12,Manter recursos,Realizar campanhas de conscientização sobre saúde
-45,4.44,3,não,12,1,19.25,17.7,feminino,sudoeste,Obeso,4169.7,3735.23,Baixo Risco,32812.97,35221.09,37629.21,Manter recursos,Realizar campanhas de conscientização sobre saúde
-47,6.23,1,não,53,3,19.69,2.11,feminino,sudoeste,Peso normal,4261.98,4599.99,Alto Risco,33984.25,36392.38,38800.5,Manter recursos,Implementar programas de saúde preventiva para este grupo
-23,19.36,3,não,3,1,12.35,21.43,masculino,sudoeste,Obeso,3836.35,2505.2,Baixo Risco,32595.21,35003.33,37411.45,Manter recursos,Realizar campanhas de conscientização sobre saúde
-63,19.02,1,não,7,1,17.94,30.43,,,Sobrepeso,5284.8,3546.34,Baixo Risco,32383.63,34791.75,37199.87,Manter recursos,Realizar campanhas de conscientização sobre saúde
-37,7.34,3,não,38,3,15.16,0.63,masculino,sudeste,Obeso,4377.01,4833.73,Alto Risco,33907.32,36315.44,38723.56,Manter recursos,Implementar programas de saúde preventiva para este grupo
-54,1.83,0,,0,2,22.55,17.87,masculino,noroeste,Obeso,3831.22,3823.28,Baixo Risco,32643.08,35051.2,37459.32,Manter recursos,Realizar campanhas de conscientização sobre saúde
-56,5.96,3,não,49,0,31.29,32.29,feminino,sudeste,Peso normal,5199.73,5120.57,Alto Risco,33851.79,36259.91,38668.03,Manter recursos,Implementar programas de saúde preventiva para este grupo
-38,27.13,0,não,14,0,26.23,21.11,masculino,sudoeste,Sobrepeso,3616.1,2848.58,Baixo Risco,32230.12,34638.24,37046.36,Manter recursos,Realizar campanhas de conscientização sobre saúde
-56,25.37,0,sim,23,2,1.81,21.1,feminino,noroeste,Peso normal,5617.79,4591.89,Alto Risco,33069.6,35477.72,37885.84,Manter recursos,Implementar programas de saúde preventiva para este grupo
-29,20.91,2,não,27,1,27.51,5.56,feminino,nordeste,Obeso,3979.68,3332.75,Baixo Risco,33121.86,35529.98,37938.1,Manter recursos,Realizar campanhas de conscientização sobre saúde
-47,22.15,2,sim,34,3,6.6,29.03,masculino,noroeste,Sobrepeso,5337.86,5279.22,Alto Risco,34035.14,36443.26,38851.38,Manter recursos,Implementar programas de saúde preventiva para este grupo
-29,19.89,2,,33,3,19.34,8.52,feminino,nordeste,Peso normal,3504.4,3887.83,Baixo Risco,34251.25,36659.37,39067.49,Manter recursos,Realizar campanhas de conscientização sobre saúde
-57,23.24,3,não,8,0,25.96,23.25,masculino,sudeste,Sobrepeso,5704.64,3590.43,Baixo Risco,32633.87,35041.99,37450.11,Manter recursos,Realizar campanhas de conscientização sobre saúde
-46,8.84,0,sim,5,2,19.11,27.35,feminino,sudeste,Peso normal,4123.13,4460.98,Alto Risco,32560.53,34968.65,37376.77,Manter recursos,Implementar programas de saúde preventiva para este grupo
-19,29.15,1,sim,33,0,26.67,10.96,,nordeste,Obeso,3425.49,4142.66,Alto Risco,33254.76,35662.88,38071.0,Manter recursos,Implementar programas de saúde preventiva para este grupo
-35,2.24,3,,55,2,4.75,14.38,masculino,sudoeste,Obeso,3878.05,4637.12,Alto Risco,34794.01,37202.13,39610.25,Manter recursos,Implementar programas de saúde preventiva para este grupo
-27,29.58,0,não,16,0,18.11,19.55,feminino,sudeste,Peso normal,3351.27,2595.81,Baixo Risco,32257.9,34666.02,37074.14,Manter recursos,Realizar campanhas de conscientização sobre saúde
-37,15.87,2,não,60,1,18.93,28.17,feminino,sudeste,Peso normal,4326.65,5081.03,Alto Risco,34152.71,36560.83,38968.95,Manter recursos,Implementar programas de saúde preventiva para este grupo
-33,33.34,0,não,31,2,3.92,12.88,feminino,noroeste,Sobrepeso,3258.87,3829.04,Baixo Risco,33027.18,35435.3,37843.42,Manter recursos,Realizar campanhas de conscientização sobre saúde
-22,3.85,3,não,28,3,3.24,11.24,masculino,noroeste,Obeso,2890.23,4168.62,Alto Risco,33585.67,35993.79,38401.91,Manter recursos,Implementar programas de saúde preventiva para este grupo
-21,30.83,0,não,5,0,4.29,0.44,feminino,sudeste,Peso normal,2772.45,2136.38,Baixo Risco,31786.27,34194.39,36602.51,Manter recursos,Realizar campanhas de conscientização sobre saúde
-39,5.24,3,não,10,2,16.33,12.63,feminino,noroeste,Sobrepeso,4298.72,4377.2,Alto Risco,32918.47,35326.59,37734.71,Manter recursos,Implementar programas de saúde preventiva para este grupo
-43,8.37,2,,47,0,18.31,21.7,masculino,sudoeste,Obeso,4043.08,4462.73,Alto Risco,34081.48,36489.6,38897.72,Manter recursos,Implementar programas de saúde preventiva para este grupo
-22,7.7,2,,35,2,22.43,4.55,feminino,sudoeste,Sobrepeso,3014.11,4175.93,Alto Risco,34055.34,36463.46,38871.58,Manter recursos,Implementar programas de saúde preventiva para este grupo
-56,31.18,2,,31,0,20.97,33.67,masculino,nordeste,Sobrepeso,5774.2,4750.74,Alto Risco,33768.22,36176.34,38584.46,Manter recursos,Implementar programas de saúde preventiva para este grupo
-61,32.06,3,sim,44,3,5.42,5.17,masculino,sudoeste,Obeso,6458.11,6494.02,Alto Risco,34465.47,36873.59,39281.71,Manter recursos,Implementar programas de saúde preventiva para este grupo
-49,6.01,3,não,8,2,30.55,9.46,masculino,noroeste,Sobrepeso,4877.47,4245.72,Alto Risco,32911.17,35319.3,37727.42,Manter recursos,Implementar programas de saúde preventiva para este grupo
-64,20.11,1,sim,38,1,28.74,20.16,feminino,sudoeste,Peso normal,6178.48,5183.33,Alto Risco,33612.45,36020.57,38428.69,Manter recursos,Implementar programas de saúde preventiva para este grupo
-39,17.23,0,sim,11,0,0.41,18.21,feminino,sudeste,Obeso,4021.13,3726.14,Baixo Risco,32258.6,34666.72,37074.84,Manter recursos,Realizar campanhas de conscientização sobre saúde
-51,20.62,1,,24,1,14.27,23.2,feminino,noroeste,Peso normal,4903.66,3760.18,Baixo Risco,33434.31,35842.43,38250.55,Manter recursos,Realizar campanhas de conscientização sobre saúde
-55,21.33,1,,28,1,30.69,20.58,,sudeste,Sobrepeso,5030.68,4047.1,Baixo Risco,33619.15,36027.27,38435.39,Manter recursos,Realizar campanhas de conscientização sobre saúde
-30,26.32,1,sim,50,2,34.04,18.62,masculino,noroeste,Sobrepeso,4213.7,4762.67,Alto Risco,34214.84,36622.96,39031.09,Manter recursos,Implementar programas de saúde preventiva para este grupo
-28,12.21,1,não,6,0,16.46,23.79,masculino,sudeste,Obeso,3028.3,1945.97,Baixo Risco,32089.35,34497.47,36905.59,Manter recursos,Realizar campanhas de conscientização sobre saúde
-51,29.79,3,não,31,0,27.36,11.79,masculino,nordeste,Obeso,6091.91,4020.34,Baixo Risco,33308.71,35716.83,38124.95,Manter recursos,Realizar campanhas de conscientização sobre saúde
+24,30.88,2,,25.38,2.57,16.11,27.69,masculino,sudoeste,Obeso,4001.46,3784.72,Baixo Risco,33871.7,36265.67,38659.63,Manter recursos,Realizar campanhas de conscientização sobre saúde
+24,11.77,0,sim,51.36,2.8,5.22,22.38,masculino,nordeste,Obeso,2894.92,4565.65,Alto Risco,33856.97,36250.93,38644.89,Manter recursos,Implementar programas de saúde preventiva para este grupo
+26,29.27,1,não,42.28,2.93,28.12,20.25,,noroeste,Obeso,3809.45,4221.15,Baixo Risco,33677.0,36070.97,38464.93,Manter recursos,Realizar campanhas de conscientização sobre saúde
+24,22.64,0,não,44.37,1.45,8.03,27.42,masculino,sudoeste,Peso normal,2789.34,3691.64,Baixo Risco,33156.7,35550.66,37944.62,Manter recursos,Realizar campanhas de conscientização sobre saúde
+20,33.48,0,não,19.57,1.33,11.73,34.12,feminino,noroeste,Sobrepeso,2440.1,2897.39,Baixo Risco,32473.01,34866.97,37260.93,Manter recursos,Realizar campanhas de conscientização sobre saúde
+61,2.22,2,,25.97,1.57,22.43,13.39,masculino,noroeste,Obeso,5341.06,4509.27,Alto Risco,33536.27,35930.23,38324.19,Manter recursos,Implementar programas de saúde preventiva para este grupo
+60,9.25,0,sim,12.4,1.94,34.91,2.64,feminino,sudeste,Obeso,5084.16,4395.4,Alto Risco,32540.26,34934.22,37328.19,Manter recursos,Implementar programas de saúde preventiva para este grupo
+38,6.76,3,,31.48,1.09,1.41,34.87,feminino,noroeste,Peso normal,4539.28,4218.39,Baixo Risco,33828.12,36222.08,38616.04,Manter recursos,Realizar campanhas de conscientização sobre saúde
+49,2.91,2,não,15.52,0.44,11.06,13.05,masculino,sudoeste,Sobrepeso,4016.67,3597.57,Baixo Risco,32361.52,34755.48,37149.44,Manter recursos,Realizar campanhas de conscientização sobre saúde
+43,21.01,3,,31.89,1.93,25.85,8.03,feminino,nordeste,Sobrepeso,4531.98,4529.24,Alto Risco,34059.46,36453.42,38847.38,Manter recursos,Implementar programas de saúde preventiva para este grupo
+39,0.63,2,sim,15.4,2.91,19.77,29.18,feminino,sudeste,Peso normal,4188.88,4311.87,Baixo Risco,33244.33,35638.3,38032.26,Manter recursos,Realizar campanhas de conscientização sobre saúde
+49,30.37,0,não,57.49,1.55,15.5,26.04,masculino,noroeste,Peso normal,4539.7,4934.26,Alto Risco,33628.65,36022.61,38416.57,Manter recursos,Implementar programas de saúde preventiva para este grupo
+50,24.84,3,sim,22.15,1.76,19.16,9.69,masculino,noroeste,Obeso,6235.04,4880.03,Alto Risco,33433.97,35827.93,38221.89,Manter recursos,Implementar programas de saúde preventiva para este grupo
+44,8.08,3,sim,17.36,2.77,12.35,28.04,feminino,sudeste,Obeso,4683.57,4767.22,Alto Risco,33473.2,35867.16,38261.12,Manter recursos,Implementar programas de saúde preventiva para este grupo
+43,10.87,2,,51.57,0.84,16.9,18.24,feminino,noroeste,Peso normal,4193.66,4761.69,Alto Risco,34191.54,36585.5,38979.46,Manter recursos,Implementar programas de saúde preventiva para este grupo
+46,9.17,3,,34.98,2.97,29.7,8.49,feminino,sudeste,Peso normal,5085.09,4878.98,Alto Risco,34332.49,36726.45,39120.41,Manter recursos,Implementar programas de saúde preventiva para este grupo
+28,24.34,2,,15.04,2.12,4.33,4.75,masculino,nordeste,Sobrepeso,3590.74,3470.81,Baixo Risco,33299.84,35693.8,38087.76,Manter recursos,Realizar campanhas de conscientização sobre saúde
+38,13.19,2,não,59.95,1.73,2.21,4.41,feminino,sudoeste,Peso normal,3851.62,5081.18,Alto Risco,33930.99,36324.95,38718.92,Manter recursos,Implementar programas de saúde preventiva para este grupo
+53,23.06,1,,60.63,2.37,13.83,22.15,masculino,sudeste,Peso normal,5264.92,5257.04,Alto Risco,34625.24,37019.2,39413.16,Manter recursos,Implementar programas de saúde preventiva para este grupo
+28,34.02,0,sim,13.15,2.04,0.93,6.98,masculino,noroeste,Obeso,3481.08,3571.47,Baixo Risco,32563.13,34957.09,37351.06,Manter recursos,Realizar campanhas de conscientização sobre saúde
+20,25.07,0,não,44.91,1.68,28.49,4.18,masculino,nordeste,IMC Não informado,2342.76,3871.3,Baixo Risco,33218.17,35612.13,38006.09,Manter recursos,Realizar campanhas de conscientização sobre saúde
+25,14.58,1,,60.3,2.68,12.44,9.31,feminino,sudoeste,Sobrepeso,2725.08,4528.18,Alto Risco,34584.97,36978.93,39372.89,Manter recursos,Implementar programas de saúde preventiva para este grupo
+57,21.77,3,sim,18.69,0.47,2.6,27.49,feminino,,Obeso,5875.06,4518.59,Alto Risco,33060.68,35454.64,37848.6,Manter recursos,Implementar programas de saúde preventiva para este grupo
+44,3.3,3,,19.85,1.63,28.83,17.65,masculino,noroeste,IMC Não informado,4126.02,4319.05,Alto Risco,33615.21,36009.17,38403.13,Manter recursos,Implementar programas de saúde preventiva para este grupo
+30,34.99,2,não,57.72,0.84,29.32,6.95,masculino,nordeste,Sobrepeso,4581.6,4787.98,Alto Risco,33894.53,36288.49,38682.45,Manter recursos,Implementar programas de saúde preventiva para este grupo
+58,4.46,0,sim,23.71,2.28,31.14,20.35,masculino,noroeste,Peso normal,5091.99,4395.06,Alto Risco,32987.23,35381.19,37775.15,Manter recursos,Implementar programas de saúde preventiva para este grupo
+49,9.65,2,não,19.47,0.43,14.57,30.86,feminino,noroeste,Obeso,4270.26,3734.25,Baixo Risco,32593.56,34987.52,37381.48,Manter recursos,Realizar campanhas de conscientização sobre saúde
+30,0.75,0,sim,52.11,2.97,8.33,10.13,feminino,sudeste,Peso normal,2652.84,4756.3,Alto Risco,33831.28,36225.24,38619.2,Manter recursos,Implementar programas de saúde preventiva para este grupo
+54,10.77,1,sim,44.9,0.14,4.93,11.51,masculino,sudeste,Obeso,5358.08,4874.96,Alto Risco,33275.93,35669.89,38063.85,Manter recursos,Implementar programas de saúde preventiva para este grupo
+55,7.89,2,,30.36,0.82,9.51,31.28,feminino,noroeste,Sobrepeso,5048.46,4326.63,Alto Risco,33559.98,35953.94,38347.9,Manter recursos,Implementar programas de saúde preventiva para este grupo
+21,23.38,3,,10.05,1.31,28.71,6.1,feminino,,Peso normal,3672.07,3205.49,Baixo Risco,33289.83,35683.79,38077.75,Manter recursos,Realizar campanhas de conscientização sobre saúde
+27,6.85,1,não,54.15,2.15,7.87,27.57,feminino,,Peso normal,2432.72,4213.27,Baixo Risco,33731.03,36125.0,38518.96,Manter recursos,Realizar campanhas de conscientização sobre saúde
+48,7.4,2,,21.93,2.51,6.3,10.6,feminino,noroeste,Sobrepeso,4559.9,4351.11,Alto Risco,33548.91,35942.87,38336.83,Manter recursos,Implementar programas de saúde preventiva para este grupo
+22,6.91,0,sim,18.62,1.25,28.84,31.26,feminino,sudeste,Peso normal,2846.09,3315.91,Baixo Risco,32670.51,35064.47,37458.43,Manter recursos,Realizar campanhas de conscientização sobre saúde
+51,34.82,2,,4.41,2.63,7.35,21.94,masculino,sudoeste,Peso normal,5281.98,4040.2,Baixo Risco,33209.25,35603.21,37997.17,Manter recursos,Realizar campanhas de conscientização sobre saúde
+29,11.82,0,não,61.21,0.37,24.44,17.97,feminino,sudoeste,Peso normal,2964.79,3772.72,Baixo Risco,33428.74,35822.7,38216.66,Manter recursos,Realizar campanhas de conscientização sobre saúde
+47,16.36,1,,45.33,0.54,12.52,24.81,,sudoeste,Obeso,4147.47,4392.48,Alto Risco,33771.57,36165.53,38559.49,Manter recursos,Implementar programas de saúde preventiva para este grupo
+54,22.91,1,sim,21.6,2.72,33.47,17.69,feminino,sudoeste,Peso normal,5677.17,4656.87,Alto Risco,33290.14,35684.1,38078.06,Manter recursos,Implementar programas de saúde preventiva para este grupo
+46,29.8,1,sim,50.33,2.65,16.16,6.62,feminino,nordeste,Peso normal,5250.85,5446.98,Alto Risco,34052.57,36446.53,38840.49,Manter recursos,Implementar programas de saúde preventiva para este grupo
+56,18.13,2,,56.25,1.2,29.65,8.6,masculino,sudeste,Obeso,5259.05,5390.17,Alto Risco,34447.99,36841.96,39235.92,Manter recursos,Implementar programas de saúde preventiva para este grupo
+44,22.38,3,não,59.18,0.04,15.32,25.39,masculino,nordeste,IMC Não informado,4974.47,5041.33,Alto Risco,33945.51,36339.47,38733.43,Manter recursos,Implementar programas de saúde preventiva para este grupo
+27,6.87,3,sim,46.08,0.44,33.28,6.43,feminino,sudoeste,Peso normal,4345.39,4705.02,Alto Risco,33857.42,36251.38,38645.34,Manter recursos,Implementar programas de saúde preventiva para este grupo
+34,27.85,0,não,35.97,1.43,2.59,19.57,masculino,sudeste,Peso normal,3331.72,3506.45,Baixo Risco,32866.62,35260.59,37654.55,Manter recursos,Realizar campanhas de conscientização sobre saúde
+42,14.32,2,,59.0,1.68,18.72,29.13,masculino,nordeste,Peso normal,4268.02,5169.25,Alto Risco,34651.89,37045.85,39439.81,Manter recursos,Implementar programas de saúde preventiva para este grupo
+59,8.87,2,sim,33.31,0.85,6.91,22.0,feminino,nordeste,Peso normal,5913.88,4843.19,Alto Risco,33317.24,35711.2,38105.16,Manter recursos,Implementar programas de saúde preventiva para este grupo
+58,2.99,3,sim,35.83,0.11,13.5,23.09,masculino,sudeste,Obeso,5551.17,5105.15,Alto Risco,33453.22,35847.18,38241.14,Manter recursos,Implementar programas de saúde preventiva para este grupo
+23,13.77,3,não,37.25,0.72,33.52,3.22,feminino,sudeste,Obeso,3452.64,4071.69,Baixo Risco,33371.65,35765.61,38159.57,Manter recursos,Realizar campanhas de conscientização sobre saúde
+38,27.56,1,sim,3.81,2.29,32.81,34.35,feminino,sudeste,Peso normal,4999.0,4031.46,Baixo Risco,32752.16,35146.12,37540.09,Manter recursos,Realizar campanhas de conscientização sobre saúde
+38,12.95,0,sim,40.62,2.96,18.63,4.06,feminino,sudoeste,Abaixo do peso,4106.94,4678.01,Alto Risco,33550.81,35944.77,38338.73,Manter recursos,Implementar programas de saúde preventiva para este grupo
+37,22.25,0,sim,1.45,0.16,15.68,19.16,masculino,sudoeste,Obeso,3640.59,2915.93,Baixo Risco,31891.87,34285.83,36679.79,Manter recursos,Realizar campanhas de conscientização sobre saúde
+64,13.65,0,,45.26,2.27,17.91,7.91,feminino,sudeste,Sobrepeso,4635.81,4893.26,Alto Risco,33859.15,36253.11,38647.07,Manter recursos,Implementar programas de saúde preventiva para este grupo
+61,6.14,1,não,31.94,1.61,24.57,9.22,masculino,sudoeste,Peso normal,4462.67,4321.87,Alto Risco,32943.26,35337.22,37731.18,Manter recursos,Implementar programas de saúde preventiva para este grupo
+23,2.05,0,não,60.04,2.4,26.48,7.62,,sudoeste,Sobrepeso,2292.92,4138.36,Baixo Risco,33731.03,36124.99,38518.95,Manter recursos,Realizar campanhas de conscientização sobre saúde
+37,30.66,0,não,27.7,1.14,3.74,33.99,feminino,nordeste,Obeso,3436.69,3488.99,Baixo Risco,32634.3,35028.26,37422.22,Manter recursos,Realizar campanhas de conscientização sobre saúde
+50,25.82,0,não,2.52,0.5,19.81,24.94,feminino,nordeste,Sobrepeso,4247.9,3018.14,Baixo Risco,31755.48,34149.44,36543.4,Manter recursos,Realizar campanhas de conscientização sobre saúde
+55,3.39,0,,30.68,1.97,4.6,18.78,masculino,noroeste,Sobrepeso,4397.46,4099.56,Baixo Risco,33307.29,35701.25,38095.22,Manter recursos,Realizar campanhas de conscientização sobre saúde
+31,24.35,3,não,18.24,2.31,5.03,10.4,feminino,sudoeste,Peso normal,4352.98,3754.64,Baixo Risco,33077.84,35471.8,37865.76,Manter recursos,Realizar campanhas de conscientização sobre saúde
+52,15.17,2,sim,60.1,1.26,3.14,12.64,feminino,nordeste,Sobrepeso,4980.97,5702.09,Alto Risco,34178.8,36572.76,38966.72,Manter recursos,Implementar programas de saúde preventiva para este grupo
+39,16.92,2,sim,42.73,2.59,29.2,16.16,masculino,sudoeste,Obeso,4424.46,5200.65,Alto Risco,34054.25,36448.21,38842.17,Manter recursos,Implementar programas de saúde preventiva para este grupo
+57,32.12,0,,34.88,1.23,0.53,0.84,feminino,noroeste,Sobrepeso,4823.5,4115.2,Baixo Risco,33311.22,35705.18,38099.14,Manter recursos,Realizar campanhas de conscientização sobre saúde
+50,4.65,3,,2.54,2.11,15.39,32.89,masculino,sudoeste,Sobrepeso,5162.71,4191.27,Baixo Risco,33204.42,35598.38,37992.34,Manter recursos,Realizar campanhas de conscientização sobre saúde
+42,21.49,3,,28.13,2.28,12.36,29.64,masculino,noroeste,Sobrepeso,4749.4,4334.81,Alto Risco,34052.55,36446.52,38840.48,Manter recursos,Implementar programas de saúde preventiva para este grupo
+58,0.57,3,sim,51.47,2.24,15.95,24.61,feminino,sudoeste,Sobrepeso,5724.81,6000.64,Alto Risco,34362.37,36756.33,39150.29,Manter recursos,Implementar programas de saúde preventiva para este grupo
+29,33.42,2,não,4.86,0.44,30.65,10.94,feminino,nordeste,Peso normal,4314.84,2719.34,Baixo Risco,32237.6,34631.56,37025.52,Manter recursos,Realizar campanhas de conscientização sobre saúde
+60,15.86,3,sim,0.02,2.99,33.42,4.68,masculino,sudoeste,Sobrepeso,6017.49,4913.61,Alto Risco,33018.38,35412.34,37806.3,Manter recursos,Implementar programas de saúde preventiva para este grupo
+47,19.42,2,sim,43.57,0.06,9.31,19.58,masculino,sudoeste,Obeso,5282.24,4879.37,Alto Risco,33509.08,35903.04,38297.01,Manter recursos,Implementar programas de saúde preventiva para este grupo
+55,8.81,3,sim,55.61,1.48,34.64,33.91,feminino,noroeste,Sobrepeso,6172.45,6164.58,Alto Risco,34481.55,36875.51,39269.47,Manter recursos,Implementar programas de saúde preventiva para este grupo
+28,33.44,1,não,35.17,2.94,8.63,1.39,feminino,nordeste,Peso normal,3886.09,4008.92,Baixo Risco,33324.72,35718.68,38112.64,Manter recursos,Realizar campanhas de conscientização sobre saúde
+28,22.84,3,,8.7,2.69,12.87,13.1,feminino,sudeste,Obeso,4459.62,3287.77,Baixo Risco,33490.57,35884.53,38278.49,Manter recursos,Realizar campanhas de conscientização sobre saúde
+53,17.15,2,sim,28.57,1.54,12.61,29.65,masculino,nordeste,Obeso,5590.76,4841.54,Alto Risco,33403.27,35797.23,38191.19,Manter recursos,Implementar programas de saúde preventiva para este grupo
+64,33.94,1,não,14.38,0.96,5.54,16.08,masculino,sudoeste,Obeso,5666.31,3937.62,Baixo Risco,32346.99,34740.95,37134.91,Manter recursos,Realizar campanhas de conscientização sobre saúde
+51,20.07,1,,17.64,2.59,10.14,9.83,feminino,sudeste,Obeso,4698.78,3924.71,Baixo Risco,33297.78,35691.74,38085.7,Manter recursos,Realizar campanhas de conscientização sobre saúde
+41,30.05,2,,2.32,2.8,34.65,9.7,feminino,nordeste,Peso normal,4954.38,3882.8,Baixo Risco,33223.05,35617.01,38010.97,Manter recursos,Realizar campanhas de conscientização sobre saúde
+37,3.35,3,,60.68,1.74,30.96,34.33,feminino,nordeste,Peso normal,4361.45,5367.28,Alto Risco,34944.0,37337.96,39731.92,Manter recursos,Implementar programas de saúde preventiva para este grupo
+29,21.84,1,,62.99,0.23,30.12,24.81,feminino,nordeste,Obeso,3777.1,4170.92,Baixo Risco,34335.03,36728.99,39122.95,Manter recursos,Realizar campanhas de conscientização sobre saúde
+64,16.33,2,,26.36,1.36,17.34,18.69,feminino,sudeste,Obeso,5369.69,4241.03,Baixo Risco,33564.19,35958.15,38352.11,Manter recursos,Realizar campanhas de conscientização sobre saúde
+23,14.53,1,sim,26.06,1.2,25.67,0.92,feminino,noroeste,Peso normal,2984.61,3648.01,Baixo Risco,32980.88,35374.84,37768.8,Manter recursos,Realizar campanhas de conscientização sobre saúde
+27,25.57,0,não,18.78,2.88,8.18,30.73,feminino,sudeste,IMC Não informado,2525.1,3291.03,Baixo Risco,32702.64,35096.6,37490.56,Manter recursos,Realizar campanhas de conscientização sobre saúde
+37,1.4,3,sim,52.11,2.07,18.1,25.36,masculino,sudeste,Peso normal,4827.41,5430.66,Alto Risco,34362.46,36756.42,39150.38,Manter recursos,Implementar programas de saúde preventiva para este grupo
+56,0.99,0,sim,26.5,1.83,28.06,5.65,masculino,nordeste,Peso normal,4608.41,4439.89,Alto Risco,32892.73,35286.69,37680.65,Manter recursos,Implementar programas de saúde preventiva para este grupo
+41,6.1,2,,3.86,2.36,7.17,6.47,masculino,sudeste,Peso normal,3868.84,3679.0,Baixo Risco,32955.82,35349.78,37743.74,Manter recursos,Realizar campanhas de conscientização sobre saúde
+61,14.47,1,,6.16,2.85,14.5,15.25,,nordeste,Peso normal,5042.97,3863.11,Baixo Risco,33022.1,35416.06,37810.02,Manter recursos,Realizar campanhas de conscientização sobre saúde
+41,14.14,1,,40.13,2.52,2.81,31.45,feminino,nordeste,Obeso,3863.98,4549.32,Alto Risco,33994.9,36388.86,38782.82,Manter recursos,Implementar programas de saúde preventiva para este grupo
+29,24.18,0,sim,7.71,0.25,31.68,6.68,feminino,sudeste,Peso normal,3473.7,2836.84,Baixo Risco,32120.93,34514.89,36908.85,Manter recursos,Realizar campanhas de conscientização sobre saúde
+51,1.84,3,não,20.41,1.06,19.02,13.04,feminino,sudeste,Peso normal,4683.0,4049.62,Baixo Risco,32865.51,35259.47,37653.43,Manter recursos,Realizar campanhas de conscientização sobre saúde
+34,12.59,1,não,29.76,2.37,22.59,5.48,,sudeste,Obeso,3592.89,3713.39,Baixo Risco,33034.77,35428.73,37822.69,Manter recursos,Realizar campanhas de conscientização sobre saúde
+63,31.94,2,,20.84,0.17,22.6,13.93,feminino,nordeste,Sobrepeso,6421.4,4038.2,Baixo Risco,33222.8,35616.76,38010.72,Manter recursos,Realizar campanhas de conscientização sobre saúde
+20,21.56,2,,22.43,0.2,26.82,30.66,feminino,sudeste,Sobrepeso,2885.1,3085.2,Baixo Risco,33320.13,35714.09,38108.05,Manter recursos,Realizar campanhas de conscientização sobre saúde
+47,27.6,2,sim,1.12,2.21,2.59,6.31,masculino,,Obeso,5628.45,4340.32,Alto Risco,32618.82,35012.78,37406.74,Manter recursos,Implementar programas de saúde preventiva para este grupo
+31,34.26,3,,40.48,0.74,5.54,33.02,feminino,nordeste,Sobrepeso,4296.07,4509.34,Alto Risco,34150.28,36544.24,38938.2,Manter recursos,Implementar programas de saúde preventiva para este grupo
+59,1.87,3,,46.16,0.68,24.13,17.54,feminino,sudeste,Abaixo do peso,5346.15,5321.35,Alto Risco,34188.91,36582.88,38976.84,Manter recursos,Implementar programas de saúde preventiva para este grupo
+21,11.64,1,não,23.52,2.52,14.02,21.19,masculino,noroeste,Obeso,2132.7,3329.76,Baixo Risco,32902.76,35296.72,37690.68,Manter recursos,Realizar campanhas de conscientização sobre saúde
+35,34.9,2,sim,18.71,2.09,3.43,27.98,masculino,sudeste,Obeso,5001.15,4327.96,Alto Risco,33246.33,35640.29,38034.25,Manter recursos,Implementar programas de saúde preventiva para este grupo
+45,12.32,2,não,9.05,1.64,32.44,15.84,feminino,sudoeste,Obeso,4527.86,3979.31,Baixo Risco,32547.96,34941.92,37335.88,Manter recursos,Realizar campanhas de conscientização sobre saúde
+49,5.0,3,sim,3.81,1.85,5.95,19.63,feminino,sudeste,Obeso,5213.17,4528.81,Alto Risco,32805.3,35199.26,37593.22,Manter recursos,Implementar programas de saúde preventiva para este grupo
+58,11.78,1,não,48.73,2.22,17.65,28.87,feminino,sudoeste,Obeso,5120.47,5037.71,Alto Risco,33647.79,36041.75,38435.71,Manter recursos,Implementar programas de saúde preventiva para este grupo
+30,16.23,1,não,16.04,1.7,19.49,21.22,masculino,sudeste,Obeso,3419.5,3149.54,Baixo Risco,32552.7,34946.66,37340.63,Manter recursos,Realizar campanhas de conscientização sobre saúde
+28,22.21,2,não,43.41,1.59,12.17,1.79,masculino,sudeste,Peso normal,3277.26,4313.81,Baixo Risco,33471.86,35865.82,38259.78,Manter recursos,Realizar campanhas de conscientização sobre saúde
+60,10.05,3,sim,49.78,2.87,16.47,7.0,masculino,noroeste,Obeso,6177.62,6236.91,Alto Risco,34408.03,36801.99,39195.95,Manter recursos,Implementar programas de saúde preventiva para este grupo
+42,0.52,0,sim,51.55,2.81,28.88,27.32,masculino,noroeste,Peso normal,3869.97,5278.34,Alto Risco,33935.93,36329.89,38723.85,Manter recursos,Implementar programas de saúde preventiva para este grupo
