@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import textwrap
 
 
 def montar_graficos_visualizacao_inicial(dados):
@@ -64,27 +66,60 @@ def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y, medida_x=N
 
 
 def montar_grafico_barra_horizontal(dados, axs, titulo, eixo_x, eixo_y):
+    """
+        Monta um gráfico de barras horizontais para os dados fornecidos.
+
+        Argumentos:
+            dados: Dados para o gráfico de barras horizontais.
+            axs: Eixo em que o gráfico será plotado.
+            titulo: Título do gráfico.
+            eixo_x: Rótulo do eixo x.
+            eixo_y: Rótulo do eixo y.
+
+    """
+
+    # Definir a largura máxima dos rótulos das barras
+    largura_maxima_rotulos = 20  # Ajuste conforme necessário
+
+    # Quebrar os rótulos das barras
+    if isinstance(dados.index, pd.Index):
+        rotulos_ajustados = [textwrap.fill(str(label), largura_maxima_rotulos) for label in dados.index]
+        dados.index = rotulos_ajustados
+
+    # Plotar o gráfico de barras horizontais
     dados.plot(kind='barh', title=titulo, ax=axs)
+
+    # Configurar título e rótulos dos eixos
     axs.set_title(titulo, fontsize=12, fontweight='bold')
     axs.set_xlabel(eixo_x, fontsize=12)
     axs.set_ylabel(eixo_y, fontsize=12)
 
-    # Adicionar rótulos (indicadores) às barras
+    # Adicionar rótulos às barras
     for i, valor in enumerate(dados):
         axs.text(valor, i, str(valor), ha='left', va='center', fontsize=12)
 
 
 def montar_grafico_pizza(dados, axs, titulo):
-    dados.plot(kind='pie', autopct='%1.1f%%', startangle=140, ax=axs)
+    """
+       Monta um gráfico de pizza para os valores de grupos de risco.
 
-    # Adicionando uma legenda embaixo do gráfico
-    axs.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), shadow=True, ncol=2)
-    
-    # Removendo o rótulo do eixo y
+       Parâmetros:
+           dados: dataset do Pandas
+           axs: Eixo em que o gráfico de pizza será plotado.
+           titulo: Título do gráfico de pizza.
+
+       """
+    # Plotar gráfico de pizza
+    dados.plot(kind='pie', autopct='%1.1f%%', startangle=140, ax=axs, colors=['red', 'orange', 'green'])
+
+    # Adicionar uma legenda embaixo do gráfico
+    axs.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), shadow=True, ncol=1)
+
+    # Remover rótulo do eixo y
     axs.set_ylabel('')
-    
+
+    # Configurar título
     axs.set_title(titulo, fontsize=12, fontweight='bold')
-    axs.set_ylabel('')  # Remover o rótulo do eixo y
 
 
 def montar_graficos_relacionamento_encargos(dados):
@@ -173,43 +208,46 @@ def montar_grafico_histograma_idade(dados, titulo, eixo_x, eixo_y):
 
 
 def montar_graficos_dados_futuros(dados_futuros):
-    # Criar uma figura e subplots com 2 linhas e 1 coluna
-    fig, axs = plt.subplots(2, 1, figsize=(15, 10))
+    # Criar subplots com um layout de 2x2
+    fig, axs = plt.subplots(4, 1, figsize=(15, 30))
 
-    # Gráfico 1: Previsões vs. Expectativas Anuais
-    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 70 anos'], label='Expectativa Fixa 70 anos',
-                color='blue', marker='o')
-    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 75 anos'], label='Expectativa Fixa 75 anos',
-                color='green', marker='x')
-    axs[0].plot(dados_futuros['Encargo Futuro - Fixo 80 anos'], label='Expectativa Fixa 80 anos',
-                color='red', marker='.')
+    # Ajustar o espaçamento entre os subplots
+    plt.subplots_adjust(left=0.1, right=0.9, bottom=0.3, top=0.7, wspace=0.3, hspace=1.0)
 
-    # Configurar o primeiro subplot
-    axs[0].set_xlabel('Previsões')
-    axs[0].set_ylabel('Encargos')
-    axs[0].legend()
-    axs[0].set_title('Previsões vs. Expectativas Idades Fixas')
+    # Contar o número de ocorrências de algumas colunas
+    distribuicao_grupos_risco = dados_futuros['Grupos Risco'].value_counts().sort_index()
+    distribuicao_expectativa_plano_saude = dados_futuros['Expectativa Plano de Saúde'].value_counts().sort_index()
+    distribuicao_planos_estrategicos = dados_futuros['Planos estratégicos'].value_counts().sort_index()
 
-    # Gráfico 2: Comparação entre Encargos Reais e Encargos Futuro
+    # Gráfico Comparação entre Encargos Reais e Encargos Futuro
     indices = range(len(dados_futuros))
-
-    # Encargos Reais (bolinhas azuis)
-    axs[1].scatter(indices, dados_futuros['Encargos Reais'], color='blue', label='Encargos Reais', marker='o')
-
-    # Encargo Futuro (bolinhas vermelhas)
-    axs[1].scatter(indices, dados_futuros['Encargos Futuro'], color='red', label='Encargos Futuro', marker='o')
+    axs[0].scatter(indices, dados_futuros['Encargos Reais'], color='blue', label='Encargos Reais', marker='o')
+    axs[0].scatter(indices, dados_futuros['Encargos Futuro'], color='red', label='Encargos Futuro', marker='o')
 
     # Adicionando linhas de conexão entre pares correspondentes
     for i in indices:
-        axs[1].plot([i, i], [dados_futuros['Encargos Reais'][i], dados_futuros['Encargos Futuro'][i]], color='gray',
-                    linestyle='-', linewidth=0.5)
+        axs[0].plot([i, i], [dados_futuros['Encargos Reais'][i], dados_futuros['Encargos Futuro'][i]], color='gray',
+                       linestyle='-', linewidth=0.5)
 
-    # Configurar o segundo subplot
-    axs[1].set_xlabel('Índice')
-    axs[1].set_ylabel('Valor')
-    axs[1].set_title('Comparação entre Encargos Reais e Encargos Futuro')
-    axs[1].legend()
+    # Configurações para o gráfico de comparação entre encargos reais e futuros
+    axs[0].set_xlabel('Índice', fontsize=12)
+    axs[0].set_ylabel('Valor', fontsize=12)
+    axs[0].set_title('Comparação entre Encargos Reais e Encargos Futuro')
+    axs[0].legend()
 
-    # Ajustar o layout e exibir o gráfico
+    montar_grafico_barra_horizontal(distribuicao_expectativa_plano_saude, axs[1], 'Distribuição por Expectativa Plano de Saúde',
+                                    'Expectativa', 'Qtd. de Associados')
+
+    # Gráfico de Barras para Distribuição de Risco
+    montar_grafico_barra_horizontal(distribuicao_planos_estrategicos, axs[2], 'Distribuição por Planos Estratégicos', 'Planos estratégicos',
+                                  'Quantidade')
+
+    # Gráfico de Barras para Distribuição de Risco
+    montar_grafico_barra_vertical(distribuicao_grupos_risco, axs[3], 'Distribuição por Grupos de Risco',
+                                  'Grupos de Risco',
+                                  'Quantidade')
+
+
+    # Configurar layout
     plt.tight_layout()
     plt.show()

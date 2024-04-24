@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
 
 
 def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
@@ -44,18 +46,6 @@ def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
                 indices_nans = np.random.choice(num_linhas, size=ausencias_por_coluna, replace=False)
                 dados.loc[indices_nans, coluna] = np.nan
 
-        dados_adicionais_aux = dados.copy()
-
-        # Preencher valores ausentes de 'Idade' e 'Filhos'
-        dados_adicionais_aux[['Idade', 'Filhos']] = dados_adicionais_aux[['Idade', 'Filhos']].fillna(0)
-
-        # Preencher valores ausentes de 'Fumante' como não
-        dados_adicionais_aux['Fumante'] = dados_adicionais_aux['Fumante'].fillna('não')
-
-        # Preencher valores ausentes de 'IMC' com a média
-        media_imc = dados_adicionais_aux['IMC'].mean()
-        dados_adicionais_aux['IMC'] = dados_adicionais_aux['IMC'].fillna(media_imc)
-
         # Obtendo encargos por coeficiente
         dados['Encargos'] = obter_encargo_por_coeficientes(dados, num_linhas)
 
@@ -71,6 +61,31 @@ def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
     except Exception as e:
         print("Ocorreu uma exceção:", e)
         return None  # Certificando de que a função retorna algo, mesmo em caso de exceção
+
+
+def obter_indice_coeficientes(feature):
+    """
+    Gera o coeficiente que será usado posteriormente no cálculo dos encargos reais
+
+    Parâmetros:
+        - feature: Nome da coluna
+
+    Retorna:
+        - Retorna o coeficiente de acordo com a feature passada
+    """
+
+    if feature == 'Idade':
+        coeficiente = 60
+    elif feature == 'IMC':
+        coeficiente = 30
+    elif feature == 'Filhos':
+        coeficiente = 400
+    elif feature == 'Fumante_sim':
+        coeficiente = 500
+    else:
+        coeficiente = 0 # valor default caso não caia em outra condição
+
+    return coeficiente
 
 
 def obter_encargo_por_coeficientes(dados, quantidade_maxima_ausencias):
@@ -100,21 +115,34 @@ def obter_encargo_por_coeficientes(dados, quantidade_maxima_ausencias):
     media_imc = dados_adicionais_aux['IMC'].mean()
     dados_adicionais_aux['IMC'] = dados_adicionais_aux['IMC'].fillna(media_imc)
 
+    # Obtendo o índice dos coeficientes
+    coeficiente_idade = obter_indice_coeficientes('Idade')
+    coeficiente_genero_masculino = obter_indice_coeficientes('Gênero_masculino')
+    coeficiente_genero_feminino = obter_indice_coeficientes('Gênero_feminino')
+    coeficiente_imc = obter_indice_coeficientes('IMC')
+    coeficiente_filhos = obter_indice_coeficientes('Filhos')
+    coeficiente_fumante_sim = obter_indice_coeficientes('Fumante_sim')
+    coeficiente_fumante_nao = obter_indice_coeficientes('Fumante_não')
+    coeficiente_regiao_sudoeste = obter_indice_coeficientes('Região_sudoeste')
+    coeficiente_regiao_sudeste = obter_indice_coeficientes('Região_sudeste')
+    coeficiente_regiao_nordeste = obter_indice_coeficientes('Região_nordeste')
+    coeficiente_regiao_noroeste = obter_indice_coeficientes('Região_noroeste')
+
     # Definindo coeficientes para cada variável independente
     coeficientes = {
-        'Idade': 60,  # Idade tem impacto nos encargos
-        'Gênero': {'masculino': 0, 'feminino': 0},  # Não tem impacto nos encargos
-        'IMC': 30,  # tem pouco impacto nos encargos
-        'Filhos': 400,  # Ter filhos aumenta o encargo
-        'Fumante': {'sim': 500, 'não': 0},  # Ser fumante aumenta o encargo
-        'Região': {'sudoeste': 0, 'sudeste': 0, 'nordeste': 0, 'noroeste': 0}  # Não tem impacto nos encargos
+        'Idade': coeficiente_idade,  # Idade tem impacto nos encargos
+        'Gênero': {'masculino': coeficiente_genero_masculino, 'feminino': coeficiente_genero_feminino},  # Não tem impacto nos encargos
+        'IMC': coeficiente_imc,  # tem pouco impacto nos encargos
+        'Filhos': coeficiente_filhos,  # Ter filhos aumenta o encargo
+        'Fumante': {'sim': coeficiente_fumante_sim, 'não': coeficiente_fumante_nao},  # Ser fumante aumenta o encargo
+        'Região': {'sudoeste': coeficiente_regiao_sudoeste, 'sudeste': coeficiente_regiao_sudeste, 'nordeste': coeficiente_regiao_nordeste, 'noroeste': coeficiente_regiao_noroeste}  # Não tem impacto nos encargos
     }
 
     # Trazendo as colunas dos coeficientes para auxiliar o treinamento do modelo
-    # dados['Coef_Idade'] = coeficientes['Idade'] * dados_adicionais_aux['Idade']
-    # dados['Coef_IMC'] = round(coeficientes['IMC'] * dados_adicionais_aux['IMC'],2)
-    # dados['Coef_Filhos'] = coeficientes['Filhos'] * dados_adicionais_aux['Filhos']
-    # dados['Coef_Fumante'] = dados_adicionais_aux['Fumante'].map(coeficientes['Fumante'])
+    #dados['Coef_Idade'] = coeficientes['Idade'] * dados_adicionais_aux['Idade']
+    #dados['Coef_IMC'] = round(coeficientes['IMC'] * dados_adicionais_aux['IMC'],2)
+    #dados['Coef_Filhos'] = coeficientes['Filhos'] * dados_adicionais_aux['Filhos']
+    #dados['Coef_Fumante'] = dados_adicionais_aux['Fumante'].map(coeficientes['Fumante'])
 
     # Gerando encargos com base nas variáveis independentes
     encargos = (
@@ -149,13 +177,13 @@ def limpar_dados(dados):
 
     # Substituir valores nulos para o valor esperado
     dados_aux['Idade'] = dados_aux['Idade'].fillna(0)
+    #dados_aux['Coef_Idade'] = dados_aux['Coef_Idade'].fillna(0)
     dados_aux['Filhos'] = dados_aux['Filhos'].fillna(0)
-    dados_aux['Coef_Idade'] = dados_aux['Idade'].fillna(0)
+    #dados_aux['Coef_Filhos'] = dados_aux['Coef_Filhos'].fillna(0)
     dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
-    dados_aux['Coef_Filhos'] = dados_aux['Filhos'].fillna(0)
-    dados_aux['Coef_IMC'] = dados_aux['IMC'].fillna(0)
+    #dados_aux['Coef_IMC'] = dados_aux['Coef_IMC'].fillna(0)
     dados_aux['Fumante'] = dados_aux['Fumante'].fillna(0)
-    dados_aux['Coef_Fumante'] = dados_aux['IMC'].fillna(0)
+    #dados_aux['Coef_Fumante'] = dados_aux['Coef_Fumante'].fillna(0)
 
     # dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
     # dados_aux['Fumante'] = dados_aux['Fumante'].fillna('não')
@@ -163,8 +191,8 @@ def limpar_dados(dados):
     # Convertendo colunas para o tipo esperado
     dados_aux['Idade'] = dados_aux['Idade'].astype(int)
     dados_aux['Filhos'] = dados_aux['Filhos'].astype(int)
-    #dados_aux['Coef_Idade'] = dados_aux['Idade'].astype(int)
-    #dados_aux['Coef_Filhos'] = dados_aux['Filhos'].astype(int)
+    #dados_aux['Coef_Idade'] = dados_aux['Coef_Idade'].astype(int)
+    #dados_aux['Coef_Filhos'] = dados_aux['Coef_Filhos'].astype(int)
 
     return dados_aux
 
@@ -224,16 +252,16 @@ def prever_encargos_futuros(best_model, dados):
     return custos_previstos
 
 
-def segmentacao_de_risco(best_model, dados):
+def obter_grupo_de_risco(best_model, dados):
     # Identifique grupos de indivíduos com diferentes níveis de risco
-    previsoes = best_model.predict(dados)
+    encargos_futuros = prever_encargos_futuros(best_model, dados)
     # Aqui, vamos assumir que os valores acima da média são alto risco,
     # os valores abaixo da média são baixo risco e o resto é médio risco
-    media = np.mean(previsoes)
+    media = np.mean(encargos_futuros)
 
     # Classifique os clientes em grupos de risco
     grupos_risco = []
-    for custo in previsoes:
+    for custo in encargos_futuros:
         if custo > media:
             grupos_risco.append("Alto Risco")
         elif custo < media:
@@ -244,83 +272,66 @@ def segmentacao_de_risco(best_model, dados):
     return grupos_risco
 
 
-def analise_de_sensibilidade(best_model, dados, variavel_alterada, novo_valor):
-    # Copiar os dados dos clientes para fazer as alterações
-    dados_alterados = dados.copy()
+def expectativa_plano_saude(dados):
+    expectativa_plano_saude = []
 
-    # Alterar o valor da variável específica nos dados alterados
-    dados_alterados[variavel_alterada] = novo_valor
-
-    # Fazer previsões com o modelo usando os dados alterados
-    custos_previstos_alterados = best_model.predict(dados_alterados)
-    custos_previstos_alterados = list(map(lambda x: round(x, 2), custos_previstos_alterados))
-
-    return custos_previstos_alterados
-
-
-def previsao_por_coluna(model, dados_futuros_scaled, indice_coluna, novo_valor):
-    """
-    Função para fazer previsões com um valor específico para a coluna de idade nos dados futuros.
-
-    Args:
-        model: Modelo treinado.
-        dados_futuros_scaled: Dados futuros padronizados.
-        coluna: Nome da coluna de idade nos dados futuros.
-        novo_valor: Novo valor de idade a ser previsto.
-
-    Retorna:
-        Previsões feitas pelo modelo com o valor específico de idade.
-    """
-    # Criar uma cópia dos dados futuros para manter os dados originais inalterados
-    dados_futuros_previsao = dados_futuros_scaled.copy()
-
-    # Identificar o índice da coluna de idade
-    # Supondo que a coluna seja identificada pelo nome fornecido
-    coluna_index = list(range(dados_futuros_previsao.shape[1]))[indice_coluna]
-
-    # Definir o novo valor de idade
-    dados_futuros_previsao[:, coluna_index] = novo_valor
-
-    # Fazer previsão com os dados modificados
-    previsoes = model.predict(dados_futuros_previsao)
-    previsoes = list(map(lambda x: round(x, 2), previsoes))
-
-    # Retornar as previsões
-    return previsoes
-
-
-def otimizacao_de_recursos(custos_previstos):
-    # Suponha que a otimização de recursos envolva alocar mais recursos para grupos de alto risco
-    recursos_otimizados = []
-    for custo in custos_previstos:
-        if custo > 7000:  # Exemplo de um limite arbitrário para custo alto
-            recursos_otimizados.append("Alocar mais recursos")
+    for index, row in dados.iterrows():
+        if row['Encargos Futuro'] > row['Encargos Reais']:
+            expectativa_plano_saude.append("Plano de saúde será mais caro")
+        elif row['Encargos Futuro'] < row['Encargos Reais']:
+            expectativa_plano_saude.append("Plano de saúde mais barato")
         else:
-            recursos_otimizados.append("Manter recursos")
+            expectativa_plano_saude.append("Plano de saúde com mesmo valor atual")
     
-    return recursos_otimizados
+    return expectativa_plano_saude
 
 
-def planejamento_estrategico(best_model, dados):
-    # Utilize as informações obtidas com o modelo para desenvolver planos estratégicos
-    # Supondo que isso envolva análise dos grupos de risco e previsões de custos
-    grupos_risco = segmentacao_de_risco(best_model, dados)
-    custos_previstos = prever_encargos_futuros(best_model, dados)
-    
-    # Definir os planos estratégicos com base nas análises realizadas
-    planos_estrategicos = []
+def planejamento_estrategico(best_model, dados, encargos_futuros):
+    # Segmentação de risco
+    grupos_risco = obter_grupo_de_risco(best_model, dados)
 
-    # Exemplo de planos estratégicos com base nos insights obtidos
-    for grupo, custo in zip(grupos_risco, custos_previstos):
-        if grupo == "Alto Risco" and custo < 7700:  # Exemplo de condição arbitrária
-            planos_estrategicos.append("Implementar programas de saúde preventiva para este grupo")
-        elif grupo == "Baixo Risco":
-            planos_estrategicos.append("Realizar campanhas de conscientização sobre saúde")
-        else:
-            planos_estrategicos.append("Rever políticas de cobertura de seguro")
-    
-    return planos_estrategicos
+    # Média dos encargos futuros
+    media_encargos = np.mean(encargos_futuros)
 
+    # Definição de limites com base na média
+    limite_baixo = media_encargos * 0.8  # 20% abaixo da média
+    limite_alto = media_encargos * 1.2  # 20% acima da média
+
+    # Lista para armazenar sugestões estratégicas
+    sugestoes_estrategicas = []
+
+    # Fornece sugestões estratégicas com base no grupo de risco e custo
+    for i, risco in enumerate(grupos_risco):
+        custo = encargos_futuros[i]
+
+        if risco == "Alto Risco":
+            if custo < limite_baixo:
+                sugestao = "Aumentar monitoramento e tratamentos preventivos para evitar complicações"
+            elif custo > limite_alto:
+                sugestao = "Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes"
+            else:
+                sugestao = "Continuar com o plano de tratamento atual, com monitoramento regular"
+
+        elif risco == "Médio Risco":
+            if custo < limite_baixo:
+                sugestao = "Manter consultas regulares e promover educação em saúde"
+            elif custo > limite_alto:
+                sugestao = "Reavaliar o plano de tratamento para evitar custos excessivos"
+            else:
+                sugestao = "Continuar acompanhamento periódico e ajuste conforme necessário"
+
+        elif risco == "Baixo Risco":
+            if custo < limite_baixo:
+                sugestao = "Incentivar hábitos saudáveis e prevenção"
+            elif custo > limite_alto:
+                sugestao = "Monitorar a saúde para garantir que o risco permaneça baixo"
+            else:
+                sugestao = "Manter acompanhamento regular e monitorar indicadores de saúde"
+
+        # Adiciona a sugestão à lista
+        sugestoes_estrategicas.append(sugestao)
+
+    return sugestoes_estrategicas
 
 def verificar_se_modelo_tem_dados_nan_inf(model, x, y):
     """
