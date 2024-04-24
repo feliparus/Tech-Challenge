@@ -4,7 +4,7 @@ Seguem abaixo as descrições da estrutura do projeto e seus principais arquivos
 
 **Pasta notebooks**
 
-Importante: A ordem de execução é rodar primeiro o EDA e depois o Modelling.
+<span style="color: red;">Importante: A ordem de execução é rodar primeiro o EDA e depois o Modelling.</span>
 
 A pasta notebooks contém os notebooks Jupyter para explorar e modelar os dados.
 
