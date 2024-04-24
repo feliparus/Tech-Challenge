@@ -9,6 +9,7 @@ Importante: A ordem de execução é rodar primeiro o EDA e depois o Modelling.
 A pasta notebooks contém os notebooks Jupyter para explorar e modelar os dados.
 
 EDA.ipynb: Notebook de Análise Exploratória de Dados (EDA). Usamos este notebook para entender e analisar os dados de entrada.
+
 Modelling.ipynb: Notebook de modelagem de dados. Aqui, experimentamos diferentes modelos de machine learning para prever resultados ou extrair insights valiosos dos dados.
 
 **Pasta includes**
