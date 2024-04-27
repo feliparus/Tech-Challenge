@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Documentando seções no EDA">
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Documentando seções e otimizando modelo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anotações.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/graficos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713822144036</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Documentando seções e otimizando modelo">
+      <option name="closed" value="true" />
+      <created>1713988110755</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1713988110756</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +391,8 @@
     <MESSAGE value="Organizando defs e otimizando modelo" />
     <MESSAGE value="Resolvendo previsões futuras" />
     <MESSAGE value="Documentando seções no EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Documentando seções no EDA" />
+    <MESSAGE value="Documentando seções e otimizando modelo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentando seções e otimizando modelo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
