@@ -4,10 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Documentando seções e otimizando modelo">
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Implementação kfold">
+      <change beforePath="$PROJECT_DIR$/.idea/Tech Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tech Challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/graficos-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/graficos-checkpoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/utils-checkpoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/include/graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/graficos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/include/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +74,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/luiz.santos/Documents/FIAP Grupo/Tech Challenge/notebooks&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/luiz.santos/Documents/FIAP Grupo/Tech Challenge/notebooks&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -359,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713988110756</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Implementação kfold">
+      <option name="closed" value="true" />
+      <created>1714227236836</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1714227236836</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +416,8 @@
     <MESSAGE value="Resolvendo previsões futuras" />
     <MESSAGE value="Documentando seções no EDA" />
     <MESSAGE value="Documentando seções e otimizando modelo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Documentando seções e otimizando modelo" />
+    <MESSAGE value="Implementação kfold" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação kfold" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

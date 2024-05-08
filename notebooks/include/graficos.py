@@ -6,7 +6,11 @@ import textwrap
 
 def montar_graficos_visualizacao_inicial(dados):
     dados_aux = dados.copy()
+
+    # Mudando exibição dos dados vazios para aparecer no gráfico
     dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
+    dados_aux['Fumante'] = dados_aux['Fumante'].fillna('Não informado')
+    dados_aux['Região'] = dados_aux['Região'].fillna('Não informado')
 
     # Contar o número de ocorrências de algumas colunas
     distribuicao_genero = dados_aux['Gênero'].value_counts().sort_index()

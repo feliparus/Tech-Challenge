@@ -175,18 +175,20 @@ def limpar_dados(dados):
     # Caso exista, removendo linhas com valores NaN
     # dados_aux = dados_aux.dropna()
 
-    # Substituir valores nulos para o valor esperado
+    # Substituir valores nulos para o valor esperado (float e int)
     dados_aux['Idade'] = dados_aux['Idade'].fillna(0)
-    #dados_aux['Coef_Idade'] = dados_aux['Coef_Idade'].fillna(0)
     dados_aux['Filhos'] = dados_aux['Filhos'].fillna(0)
-    #dados_aux['Coef_Filhos'] = dados_aux['Coef_Filhos'].fillna(0)
     dados_aux['IMC'] = dados_aux['IMC'].fillna(0)
+
+    #dados_aux['Coef_Idade'] = dados_aux['Coef_Idade'].fillna(0)
+    #dados_aux['Coef_Filhos'] = dados_aux['Coef_Filhos'].fillna(0)
     #dados_aux['Coef_IMC'] = dados_aux['Coef_IMC'].fillna(0)
-    dados_aux['Fumante'] = dados_aux['Fumante'].fillna(0)
     #dados_aux['Coef_Fumante'] = dados_aux['Coef_Fumante'].fillna(0)
 
-    # dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
-    # dados_aux['Fumante'] = dados_aux['Fumante'].fillna('não')
+    # Substituir valores nulos de faatures categóricas para o valor esperado (Não informado)
+    dados_aux['Gênero'] = dados_aux['Gênero'].fillna('Não informado')
+    dados_aux['Fumante'] = dados_aux['Fumante'].fillna('Não informado')
+    dados_aux['Região'] = dados_aux['Região'].fillna('Não informado')
 
     # Convertendo colunas para o tipo esperado
     dados_aux['Idade'] = dados_aux['Idade'].astype(int)
@@ -209,7 +211,7 @@ def categorizar_imc(imc):
     """
 
     if imc is None or np.isnan(imc):
-        return 'IMC Não informado'
+        return 'Não informado'
     if imc < 18.5:
         return 'Abaixo do peso'
     elif 18.5 <= imc < 24.9:
