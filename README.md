@@ -4,7 +4,22 @@ Usamos o Pycharm Community Edition. Caso seja necessário rodar no Google Colab 
 
 **Tech Challenge FIAP**
 
-Seguem abaixo as descrições da estrutura do projeto e seus principais arquivos:
+Seguem abaixo a estrutura do projeto e a explicação dos principais arquivos:
+
+    notebooks:
+        include:
+            graficos.py
+            utils.py
+        EDA.ipynb
+        Modelling.ipynb
+    planilhas:
+        1_dados_sinteticos.csv
+        2_dados_processados_treino.csv
+        3_dados_processados_teste.csv
+        4_dados_processados_treino_target.csv
+        5_dados_processados_teste_target.csv
+        6_dados_com_outliers.csv
+        7_dados_futuros.csv    
 
 **Pasta notebooks**
 
@@ -19,6 +34,7 @@ Modelling.ipynb: Notebook de modelagem de dados. Aqui, experimentamos diferentes
 **Pasta includes**
 
 Nesta pasta contém arquivos Python com funções personalizadas para auxiliar nas tarefas de análise de dados e visualização.
+
 - utils.py: Este arquivo contém funções customizadas para manipulação de dados, como:
 
     obter_csv_dados_aleatorios: Função para gerar um DataFrame com dados aleatórios a partir de um arquivo CSV.
