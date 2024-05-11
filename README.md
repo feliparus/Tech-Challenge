@@ -6,6 +6,22 @@ Usamos o Pycharm Community Edition. Caso seja necessário rodar no Google Colab 
 
 Seguem abaixo as descrições da estrutura do projeto e seus principais arquivos:
 
+    notebooks:
+        include:
+            _init_.py
+            graficos.py
+            utils.py
+        EDA.ipynb
+        Modelling.ipynb
+    planilhas:
+        1_dados_sinteticos.csv
+        2_dados_processados_treino.csv
+        3_dados_processados_teste.csv
+        4_dados_processados_treino_target.csv
+        5_dados_processados_teste_target.csv
+        6_dados_com_outliers.csv
+        7_dados_futuros.csv    
+
 **Pasta notebooks**
 
     Importante: A ordem de execução é rodar primeiro o EDA e depois o Modelling.
