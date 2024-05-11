@@ -5,6 +5,16 @@ import textwrap
 
 
 def montar_graficos_visualizacao_inicial(dados):
+    """
+    Monta e exibe gráficos para visualização inicial dos dados, incluindo distribuições de gênero, fumante, número de filhos, região e IMC.
+    
+    Parâmetros:
+        - dados: DataFrame contendo os dados a serem visualizados.
+    
+    Retorna:
+        - Exibe os gráficos na saída padrão.
+    """
+    
     dados_aux = dados.copy()
 
     # Mudando exibição dos dados vazios para aparecer no gráfico
@@ -48,6 +58,22 @@ def montar_graficos_visualizacao_inicial(dados):
 
 
 def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y, medida_x=None, medida_y=None):
+    """
+    Monta e exibe um gráfico de barras verticais.
+    
+    Parâmetros:
+        - dados: Series contendo os dados a serem plotados.
+        - axs: Eixo no qual o gráfico será desenhado.
+        - titulo: Título do gráfico.
+        - eixo_x: Rótulo do eixo x.
+        - eixo_y: Rótulo do eixo y.
+        - medida_x: Unidade de medida opcional para o eixo x.
+        - medida_y: Unidade de medida opcional para o eixo y.
+    
+    Retorna:
+        - Exibe o gráfico de barras na saída padrão.
+    """
+    
     # Plotar o gráfico de barras
     dados.plot(kind='bar', title=titulo, ax=axs)
 
@@ -71,15 +97,14 @@ def montar_grafico_barra_vertical(dados, axs, titulo, eixo_x, eixo_y, medida_x=N
 
 def montar_grafico_barra_horizontal(dados, axs, titulo, eixo_x, eixo_y):
     """
-        Monta um gráfico de barras horizontais para os dados fornecidos.
+    Monta um gráfico de barras horizontais para os dados fornecidos.
 
-        Argumentos:
-            dados: Dados para o gráfico de barras horizontais.
-            axs: Eixo em que o gráfico será plotado.
-            titulo: Título do gráfico.
-            eixo_x: Rótulo do eixo x.
-            eixo_y: Rótulo do eixo y.
-
+    Parâmetros:
+        - dados: Dados para o gráfico de barras horizontais.
+        - axs: Eixo em que o gráfico será plotado.
+        - titulo: Título do gráfico.
+        - eixo_x: Rótulo do eixo x.
+        - eixo_y: Rótulo do eixo y.
     """
 
     # Definir a largura máxima dos rótulos das barras
@@ -105,14 +130,14 @@ def montar_grafico_barra_horizontal(dados, axs, titulo, eixo_x, eixo_y):
 
 def montar_grafico_pizza(dados, axs, titulo):
     """
-       Monta um gráfico de pizza para os valores de grupos de risco.
+    Monta um gráfico de pizza para os valores de grupos de risco.
 
-       Parâmetros:
-           dados: dataset do Pandas
-           axs: Eixo em que o gráfico de pizza será plotado.
-           titulo: Título do gráfico de pizza.
-
-       """
+    Parâmetros:
+        - dados: dataset do Pandas
+        - axs: Eixo em que o gráfico de pizza será plotado.
+        - titulo: Título do gráfico de pizza.
+    """
+    
     # Plotar gráfico de pizza
     dados.plot(kind='pie', autopct='%1.1f%%', startangle=140, ax=axs, colors=['red', 'orange', 'green'])
 
@@ -127,6 +152,16 @@ def montar_grafico_pizza(dados, axs, titulo):
 
 
 def montar_graficos_relacionamento_encargos(dados):
+    """
+    Monta e exibe gráficos para analisar o relacionamento entre os encargos médicos e variáveis como idade e número de filhos.
+    
+    Parâmetros:
+        - dados: DataFrame contendo os dados para análise.
+    
+    Retorna:
+        - Exibe os gráficos na saída padrão.
+    """
+    
     # Criar uma figura e uma grade de subplots
     fig, axs = plt.subplots(2, 1, figsize=(20, 20))
 
@@ -144,6 +179,21 @@ def montar_graficos_relacionamento_encargos(dados):
 
 
 def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
+    """
+    Monta e exibe um gráfico de dispersão para visualizar a correlação entre duas variáveis.
+    
+    Parâmetros:
+        - dados1: Valores da primeira variável.
+        - dados2: Valores da segunda variável.
+        - axs: Eixo no qual o gráfico será desenhado.
+        - titulo: Título do gráfico.
+        - eixo_x: Rótulo do eixo x.
+        - eixo_y: Rótulo do eixo y.
+    
+    Retorna:
+        - Exibe o gráfico de dispersão na saída padrão.
+    """
+    
     axs.scatter(dados1, dados2, alpha=1, color='green')
     axs.set_title(titulo, fontsize=12, fontweight='bold')
     axs.set_xlabel(eixo_x, fontsize=12)
@@ -154,6 +204,22 @@ def montar_grafico_correlacao(dados1, dados2, axs, titulo, eixo_x, eixo_y):
 
 
 def montar_grafico_linha_com_media(dados, axs, campo1, campo2, titulo, eixo_x, eixo_y):
+    """
+    Monta e exibe um gráfico de linha com a média de uma variável agrupada por outra variável.
+    
+    Parâmetros:
+        - dados: DataFrame contendo os dados a serem plotados.
+        - axs: Eixo no qual o gráfico será desenhado.
+        - campo1: Variável para agrupamento.
+        - campo2: Variável para calcular a média.
+        - titulo: Título do gráfico.
+        - eixo_x: Rótulo do eixo x.
+        - eixo_y: Rótulo do eixo y.
+    
+    Retorna:
+        - Exibe o gráfico de linha na saída padrão.
+    """
+    
     # Calcular a média dos encargos por filho e arredondar para 2 casas decimais
     media = round(dados.groupby(campo1)[campo2].mean(), 2)
 
@@ -185,6 +251,19 @@ def montar_grafico_linha_com_media(dados, axs, campo1, campo2, titulo, eixo_x, e
 
 # Este gráfico foi feito fixo para idade
 def montar_grafico_histograma_idade(dados, titulo, eixo_x, eixo_y):
+    """
+    Monta e exibe um histograma para visualização da distribuição da idade nos dados.
+    
+    Parâmetros:
+        - dados: DataFrame contendo os dados para análise.
+        - titulo: Título do gráfico.
+        - eixo_x: Rótulo do eixo x.
+        - eixo_y: Rótulo do eixo y.
+    
+    Retorna:
+        - Exibe o histograma na saída padrão.
+    """
+    
     # Calcula o intervalo para os bins começando do valor mínimo de idade
     min_idade = int(np.floor(dados['Idade'].min()))
     max_idade = int(np.ceil(dados['Idade'].max()))
@@ -212,6 +291,16 @@ def montar_grafico_histograma_idade(dados, titulo, eixo_x, eixo_y):
 
 
 def montar_graficos_dados_futuros(dados_futuros):
+    """
+    Monta e exibe gráficos para análise dos dados futuros, incluindo comparação entre encargos reais e futuros, distribuição por expectativa de plano de saúde, planos estratégicos e grupos de risco.
+    
+    Parâmetros:
+        - dados_futuros: DataFrame contendo os dados futuros a serem analisados.
+    
+    Retorna:
+        - Exibe os gráficos na saída padrão.
+    """
+    
     # Criar subplots com um layout de 2x2
     fig, axs = plt.subplots(4, 1, figsize=(15, 30))
 
@@ -250,7 +339,6 @@ def montar_graficos_dados_futuros(dados_futuros):
     montar_grafico_barra_vertical(distribuicao_grupos_risco, axs[3], 'Distribuição por Grupos de Risco',
                                   'Grupos de Risco',
                                   'Quantidade')
-
 
     # Configurar layout
     plt.tight_layout()

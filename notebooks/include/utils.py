@@ -1,7 +1,6 @@
-import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
+import pandas as pd
+from scipy import stats
 
 
 def obter_csv_dados_aleatorios(num_linhas, ausencias_por_coluna):
@@ -223,6 +222,17 @@ def categorizar_imc(imc):
 
 
 def dados_especificos_coluna(dados, nome_coluna):
+    """
+    Extrair informações específicas de uma coluna do conjunto de dados.
+    
+    Parâmetros:
+        - dados: DataFrame do Pandas contendo o conjunto de dados.
+        - nome_coluna: Nome da coluna da qual se deseja extrair informações.
+    
+    Retorna:
+        - Imprime na saída padrão informações específicas da coluna, como faixa de valores, valor mais frequente e contagem desse valor.
+    """
+    
     # Criei uma cópia auxiliar para não mudar nada ainda em dados
     dados_aux = dados.copy()
 
@@ -247,6 +257,17 @@ def dados_especificos_coluna(dados, nome_coluna):
 
 
 def prever_encargos_futuros(best_model, dados):
+    """
+    Realiza previsões dos encargos futuros utilizando o melhor modelo previamente treinado.
+    
+    Parâmetros:
+        - best_model: Melhor modelo de machine learning previamente treinado.
+        - dados: Conjunto de dados para o qual se deseja fazer as previsões.
+    
+    Retorna:
+        - Uma lista com os encargos futuros previstos.
+    """
+    
     # Utilize o modelo treinado para fazer previsões dos encargos futuros
     previsoes = best_model.predict(dados)
     custos_previstos = list(map(lambda x: round(x, 2), previsoes))
@@ -255,6 +276,17 @@ def prever_encargos_futuros(best_model, dados):
 
 
 def obter_grupo_de_risco(best_model, dados):
+    """
+    Identifica grupos de risco com base nos encargos futuros previstos.
+    
+    Parâmetros:
+        - best_model: Melhor modelo de machine learning previamente treinado.
+        - dados: Conjunto de dados para o qual se deseja fazer a identificação de grupos de risco.
+    
+    Retorna:
+        - Uma lista com os grupos de risco para cada indivíduo no conjunto de dados.
+    """
+    
     # Identifique grupos de indivíduos com diferentes níveis de risco
     encargos_futuros = prever_encargos_futuros(best_model, dados)
     # Aqui, vamos assumir que os valores acima da média são alto risco,
@@ -275,6 +307,16 @@ def obter_grupo_de_risco(best_model, dados):
 
 
 def expectativa_plano_saude(dados):
+    """
+    Determina a expectativa em relação aos encargos do plano de saúde.
+    
+    Parâmetros:
+        - dados: Conjunto de dados contendo informações sobre os encargos futuros e reais.
+    
+    Retorna:
+        - Uma lista com as expectativas sobre os encargos do plano de saúde para cada entrada no conjunto de dados.
+    """
+    
     expectativa_plano_saude = []
 
     for index, row in dados.iterrows():
@@ -289,6 +331,18 @@ def expectativa_plano_saude(dados):
 
 
 def planejamento_estrategico(best_model, dados, encargos_futuros):
+    """
+    Fornece sugestões estratégicas com base nos grupos de risco e nos encargos futuros previstos.
+    
+    Parâmetros:
+        - best_model: Melhor modelo de machine learning previamente treinado.
+        - dados: Conjunto de dados contendo informações sobre os encargos futuros e reais.
+        - encargos_futuros: Lista dos encargos futuros previstos para cada entrada no conjunto de dados.
+    
+    Retorna:
+        - Uma lista com sugestões estratégicas para cada indivíduo, considerando seu grupo de risco e custo previsto.
+    """
+    
     # Segmentação de risco
     grupos_risco = obter_grupo_de_risco(best_model, dados)
 
@@ -335,14 +389,15 @@ def planejamento_estrategico(best_model, dados, encargos_futuros):
 
     return sugestoes_estrategicas
 
+    
 def verificar_se_modelo_tem_dados_nan_inf(model, x, y):
     """
     Verifica se há valores NaN ou Inf em um modelo após o treinamento.
 
-    Args:
-        model: Modelo de regressão do scikit-learn.
-        x: Matriz de features.
-        y: Vetor de targets.
+    Parâmetros:
+        - model: Modelo de regressão do scikit-learn.
+        - x: Matriz de features.
+        - y: Vetor de targets.
     """
 
     # isinf = é uma função que verifica se um ou mais elementos de um array são infinitos(infinito positivo ou negativo)
@@ -376,6 +431,7 @@ def gerar_dados_futuros_com_limites(novas_linhas, x_test, idade_minima=18):
     Retorna:
         - DataFrame contendo os dados futuros gerados
     """
+    
     dados_futuros = pd.DataFrame()
 
     for coluna in x_test.columns:
@@ -394,3 +450,24 @@ def gerar_dados_futuros_com_limites(novas_linhas, x_test, idade_minima=18):
         dados_futuros[coluna] = valores
 
     return dados_futuros
+
+
+def anova_correlation(df, numeric_col, categorical_col):
+    """
+    Calcula a correlação entre uma variável numérica e uma variável categórica usando o teste ANOVA.
+
+    Parâmetros:
+        - df: DataFrame contendo os dados
+        - numeric_col: nome da coluna que contém a variável numérica
+        - categorical_col: nome da coluna que contém a variável categórica
+
+    Retorna:
+        - f_statistic: estatística F calculada pelo teste ANOVA
+        - p_value: valor p associado ao teste ANOVA
+    """
+
+    groups = df.groupby(categorical_col)
+    samples = [group[numeric_col].values for _, group in groups]
+    f_statistic, p_value = stats.f_oneway(*samples)
+    
+    return f_statistic, p_value

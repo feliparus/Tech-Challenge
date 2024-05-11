@@ -1,3 +1,7 @@
+**Ferramenta utilizada**
+
+Usamos o Pycharm Community Edition. Caso seja necessário rodar no Google Colab alguns ajustes pontuais precisariam ser realizados.
+
 **Tech Challenge FIAP**
 
 Seguem abaixo as descrições da estrutura do projeto e seus principais arquivos:

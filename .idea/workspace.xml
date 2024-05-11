@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Implementação kfold">
-      <change beforePath="$PROJECT_DIR$/.idea/Tech Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tech Challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Organizando algumas seções">
+      <change afterPath="$PROJECT_DIR$/notebooks/include/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Modelling2-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/graficos-checkpoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/include/.ipynb_checkpoints/graficos-checkpoint.py" afterDir="false" />
@@ -22,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714227236836</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Organizando algumas seções">
+      <option name="closed" value="true" />
+      <created>1715199036205</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1715199036205</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +426,8 @@
     <MESSAGE value="Documentando seções no EDA" />
     <MESSAGE value="Documentando seções e otimizando modelo" />
     <MESSAGE value="Implementação kfold" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação kfold" />
+    <MESSAGE value="Organizando algumas seções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando algumas seções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
