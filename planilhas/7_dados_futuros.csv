@@ -1,201 +1,201 @@
 Idade,IMC,Filhos,Fumante,Gênero,Região,Categoria_IMC,Encargos Reais,Encargos Futuro,Grupos Risco,Expectativa Plano de Saúde,Planos estratégicos
-56,21.38,0,sim,feminino,sudeste,Peso normal,4695.27,4617.08,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-64,24.73,2,Não informado,masculino,noroeste,Obeso,6334.32,6340.79,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-60,24.32,0,não,feminino,nordeste,Peso normal,4775.28,4908.89,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-35,30.36,2,não,Não informado,nordeste,Peso normal,4558.15,4346.71,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-38,26.29,0,não,masculino,nordeste,Obeso,3938.63,3657.0,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-44,4.02,2,não,feminino,sudeste,Peso normal,4258.42,4765.66,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-48,30.8,0,Não informado,masculino,noroeste,Peso normal,4711.43,4867.32,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,21.83,1,sim,feminino,nordeste,Peso normal,3959.63,3104.31,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-60,5.31,1,sim,Não informado,nordeste,Obeso,5230.43,5337.08,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-27,33.57,1,Não informado,feminino,nordeste,Peso normal,3156.41,3979.99,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-49,30.99,2,Não informado,masculino,noroeste,Peso normal,5145.0,5672.05,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-33,6.17,2,Não informado,masculino,noroeste,Peso normal,3432.45,4606.74,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-33,29.41,0,não,masculino,nordeste,Obeso,3336.16,3446.11,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-40,10.13,0,não,feminino,noroeste,Sobrepeso,3176.04,3695.35,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-57,13.85,3,Não informado,feminino,nordeste,Sobrepeso,5907.12,6287.47,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-47,29.63,2,Não informado,feminino,sudoeste,Peso normal,4705.34,5534.6,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-48,21.06,3,não,Não informado,sudeste,Sobrepeso,4943.36,5312.06,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-35,0.65,0,Não informado,feminino,sudoeste,Sobrepeso,2753.59,3931.7,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-46,11.03,0,sim,masculino,noroeste,Obeso,3787.46,4047.5,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-50,31.57,0,Não informado,feminino,noroeste,Peso normal,4870.33,4995.46,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-64,3.43,2,sim,feminino,sudoeste,Sobrepeso,5434.19,5806.62,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-27,32.16,0,sim,masculino,sudoeste,Não informado,3707.21,3060.84,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-33,11.05,2,Não informado,masculino,nordeste,Peso normal,3527.92,4518.78,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,18.83,2,Não informado,feminino,sudeste,Obeso,3792.15,3952.01,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-34,6.07,0,Não informado,feminino,sudoeste,Sobrepeso,2509.7,3879.77,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-57,17.66,0,Não informado,feminino,sudoeste,Obeso,4426.87,5081.15,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-25,4.73,2,Não informado,masculino,sudeste,Peso normal,2869.68,4099.27,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-38,8.97,3,não,feminino,sudoeste,Sobrepeso,4028.86,4806.46,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-49,5.85,2,sim,feminino,noroeste,Peso normal,4631.07,5062.83,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-31,9.79,2,sim,feminino,nordeste,Peso normal,3987.65,3858.84,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-19,28.53,2,Não informado,masculino,sudoeste,Obeso,3623.59,3906.83,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-23,27.05,1,não,feminino,noroeste,Obeso,2891.05,3123.14,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-19,4.71,3,sim,masculino,sudeste,Obeso,3531.49,3632.12,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-52,13.66,1,não,feminino,sudoeste,Abaixo do peso,4543.81,4754.03,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-18,32.18,0,sim,feminino,sudeste,Sobrepeso,2691.72,2619.18,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-49,16.13,0,sim,feminino,sudeste,Sobrepeso,4515.38,4241.09,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-45,4.7,0,não,feminino,noroeste,Sobrepeso,3227.25,4017.77,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-57,23.29,0,sim,feminino,sudeste,Obeso,5398.48,4677.89,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-42,4.37,3,sim,feminino,Não informado,Sobrepeso,4484.74,5006.62,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-42,34.32,2,Não informado,feminino,sudeste,Obeso,5155.42,5354.83,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-64,16.43,1,Não informado,feminino,sudeste,Obeso,4969.61,5750.55,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-22,13.47,0,Não informado,feminino,noroeste,Sobrepeso,2472.09,3093.1,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-63,27.59,3,sim,feminino,noroeste,Obeso,7078.86,6249.4,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-45,11.69,0,Não informado,masculino,sudeste,Obeso,3984.47,4480.72,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-46,2.34,3,sim,feminino,Não informado,Peso normal,5170.6,5248.56,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-18,33.09,1,não,feminino,noroeste,Obeso,2763.59,2992.24,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-30,17.69,2,não,masculino,nordeste,Peso normal,3793.7,3855.84,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-42,23.45,3,sim,feminino,nordeste,Não informado,5340.32,4996.11,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-36,32.62,0,Não informado,masculino,noroeste,Peso normal,3731.15,4181.5,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-18,21.62,2,não,feminino,sudoeste,Sobrepeso,2648.54,3103.92,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-18,15.62,1,não,masculino,nordeste,Peso normal,2768.66,2693.45,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-61,2.23,3,não,masculino,nordeste,Não informado,5578.99,6044.18,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-44,16.39,1,sim,feminino,sudeste,Não informado,4699.01,4252.1,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-60,5.48,2,não,masculino,nordeste,Obeso,5056.55,5716.0,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-60,4.8,1,Não informado,feminino,nordeste,Obeso,4626.81,5734.68,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-35,22.67,0,Não informado,masculino,nordeste,Sobrepeso,3216.53,3861.36,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-31,31.77,0,não,feminino,sudeste,Sobrepeso,3606.41,3331.1,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-50,6.57,1,sim,feminino,nordeste,Sobrepeso,4921.71,4709.44,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-54,11.85,3,não,feminino,sudoeste,Sobrepeso,5083.79,5669.5,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-47,4.52,1,sim,masculino,noroeste,Peso normal,4492.25,4545.62,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-59,12.89,2,não,masculino,nordeste,Obeso,5369.19,5537.53,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-20,31.83,0,não,feminino,sudeste,Obeso,2702.72,2684.87,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-18,32.97,0,sim,feminino,sudoeste,Peso normal,3550.95,2641.66,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-33,6.32,2,sim,feminino,noroeste,Sobrepeso,3781.53,4150.1,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-47,3.29,1,sim,masculino,sudoeste,Sobrepeso,3945.73,4545.62,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,4.23,2,sim,feminino,sudoeste,Peso normal,5266.13,5566.57,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-48,11.65,1,Não informado,masculino,sudoeste,Peso normal,3992.2,4989.12,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-32,13.27,1,Não informado,feminino,noroeste,Sobrepeso,3388.78,4097.26,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-51,26.21,3,sim,feminino,noroeste,Obeso,5673.84,5553.5,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-24,28.42,0,não,masculino,sudeste,Obeso,2949.74,2862.19,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-51,33.87,2,sim,masculino,noroeste,Sobrepeso,6328.36,5326.65,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,29.41,2,Não informado,masculino,noroeste,Obeso,3386.27,4217.35,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-57,4.34,2,Não informado,masculino,noroeste,Sobrepeso,4848.22,6073.91,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-62,19.96,1,Não informado,feminino,sudoeste,Peso normal,5339.2,5692.65,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-46,13.19,0,não,masculino,nordeste,Peso normal,4130.71,4047.5,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-46,31.59,1,não,masculino,sudoeste,Peso normal,4767.59,4645.12,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-45,3.17,3,não,masculino,sudoeste,Peso normal,4242.82,5178.15,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-19,16.54,1,não,feminino,sudoeste,Sobrepeso,2698.22,2798.09,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-40,14.89,0,Não informado,feminino,sudoeste,Peso normal,3307.39,4215.77,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-55,27.16,0,Não informado,masculino,nordeste,Sobrepeso,4249.84,5227.2,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-36,2.52,1,sim,Não informado,nordeste,Sobrepeso,3389.08,3899.16,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-28,14.82,2,sim,masculino,sudeste,Obeso,4161.65,3631.75,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-26,10.64,2,não,masculino,sudoeste,Peso normal,2784.0,3534.53,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-19,28.6,1,sim,feminino,sudoeste,Peso normal,3395.99,3005.16,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-58,22.7,2,sim,feminino,sudoeste,Sobrepeso,6297.98,5571.28,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-22,2.74,3,Não informado,feminino,sudeste,Obeso,2771.4,4262.62,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-40,12.27,2,não,feminino,nordeste,Sobrepeso,3674.54,4402.92,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-35,27.88,0,não,feminino,nordeste,Peso normal,3704.14,3542.04,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-28,6.19,3,sim,masculino,nordeste,Sobrepeso,4472.75,4137.17,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-55,2.99,0,Não informado,masculino,sudoeste,Peso normal,4078.36,5071.9,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-19,31.49,0,Não informado,feminino,sudoeste,Abaixo do peso,2692.07,3149.56,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-22,15.14,2,Não informado,masculino,sudoeste,Peso normal,3202.04,3883.27,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-31,2.55,0,Não informado,masculino,Não informado,Peso normal,2096.1,3677.4,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-25,1.18,3,Não informado,feminino,sudeste,Sobrepeso,3287.74,4532.28,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-29,34.11,0,Não informado,masculino,nordeste,Peso normal,3094.4,3759.79,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-63,33.74,0,Não informado,feminino,sudeste,Abaixo do peso,4962.69,5808.23,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-51,14.24,3,não,masculino,sudeste,Peso normal,4920.01,5427.82,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-58,0.2,0,sim,masculino,sudoeste,Obeso,4179.57,4791.4,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,6.14,0,Não informado,feminino,nordeste,Obeso,4232.45,5159.02,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-62,8.9,0,sim,Não informado,noroeste,Sobrepeso,4761.31,5097.7,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,0.43,1,não,feminino,Não informado,Sobrepeso,2048.87,3185.37,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-27,9.77,3,sim,Não informado,sudeste,Sobrepeso,4498.4,4028.07,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-41,26.63,3,não,masculino,sudoeste,Sobrepeso,4646.68,4957.54,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-60,2.83,0,Não informado,feminino,sudoeste,Peso normal,4395.98,5369.34,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-63,19.03,1,sim,Não informado,sudoeste,Peso normal,6196.79,5317.22,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,13.21,0,não,feminino,noroeste,Peso normal,4128.95,4647.9,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-56,9.56,1,Não informado,masculino,noroeste,Sobrepeso,4978.01,5419.12,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-33,9.77,2,não,feminino,nordeste,Peso normal,4006.64,4042.88,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-39,5.7,3,sim,feminino,noroeste,Peso normal,5033.62,4852.24,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-54,33.43,2,sim,masculino,noroeste,Obeso,6155.23,5568.3,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-39,21.39,0,sim,feminino,nordeste,Peso normal,3772.44,3587.23,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-20,22.2,1,não,masculino,nordeste,Sobrepeso,3142.48,2807.6,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-28,14.85,3,sim,masculino,Não informado,Sobrepeso,4026.47,4053.78,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-54,16.87,2,sim,masculino,sudeste,Obeso,5333.76,5256.97,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-22,8.68,3,sim,feminino,sudoeste,Sobrepeso,3789.25,3769.84,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-45,4.16,3,Não informado,masculino,noroeste,Peso normal,4703.99,5711.66,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-23,6.44,1,sim,masculino,Não informado,Sobrepeso,3235.13,3101.01,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-48,17.13,3,sim,masculino,noroeste,Sobrepeso,5329.38,5300.5,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-49,27.06,1,Não informado,feminino,noroeste,Peso normal,4864.18,5171.77,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-43,12.18,0,não,masculino,nordeste,Sobrepeso,3255.43,3860.8,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-37,20.07,2,Não informado,masculino,noroeste,Obeso,4543.39,4619.44,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-22,26.5,1,não,masculino,nordeste,Obeso,2810.5,3090.06,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-26,9.61,3,Não informado,feminino,sudoeste,Não informado,3195.83,4476.12,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-54,10.86,3,Não informado,feminino,noroeste,Obeso,4909.9,6093.48,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-60,30.23,2,sim,masculino,sudeste,Peso normal,5995.37,5845.8,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-50,17.53,1,sim,masculino,noroeste,Peso normal,4818.02,4621.73,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,22.83,2,sim,masculino,nordeste,Obeso,5968.75,5539.15,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-55,14.41,3,sim,feminino,sudeste,Peso normal,6202.88,5669.64,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-60,11.43,3,sim,feminino,sudoeste,Sobrepeso,6146.41,5929.78,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-26,18.1,0,sim,masculino,Não informado,Obeso,3015.42,2766.84,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-33,24.84,2,Não informado,feminino,Não informado,Peso normal,4166.03,4592.58,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-22,18.89,2,Não informado,feminino,noroeste,Obeso,3040.45,3831.53,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-62,22.1,0,não,feminino,sudeste,Peso normal,4947.89,4986.55,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-60,7.8,0,sim,feminino,nordeste,Obeso,5100.62,4982.52,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-48,12.8,0,não,masculino,sudoeste,Peso normal,4102.61,4180.48,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-50,3.63,1,não,feminino,nordeste,Obeso,4199.33,4709.44,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-42,14.77,3,sim,masculino,nordeste,Sobrepeso,4893.31,4936.87,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-38,29.92,1,Não informado,feminino,noroeste,Obeso,4037.22,4590.49,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-42,21.81,3,sim,feminino,sudoeste,Não informado,5477.68,4943.24,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-27,23.94,1,não,masculino,noroeste,Obeso,3716.92,3236.1,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-54,20.64,0,sim,feminino,noroeste,Sobrepeso,4585.84,4519.76,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-54,22.4,2,não,masculino,sudoeste,Sobrepeso,5381.44,5327.36,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-51,4.72,1,Não informado,feminino,sudeste,Peso normal,4348.92,5190.43,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-37,12.86,1,sim,feminino,sudoeste,Sobrepeso,3864.63,3860.09,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-36,30.72,2,sim,masculino,noroeste,Obeso,4787.22,4404.16,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-21,22.49,3,não,feminino,sudoeste,Sobrepeso,3376.61,3632.35,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-19,2.57,2,Não informado,masculino,noroeste,Não informado,2505.48,3806.69,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-32,30.09,3,Não informado,masculino,sudeste,Peso normal,5020.94,5019.8,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,7.59,1,Não informado,masculino,noroeste,Obeso,2418.64,3713.56,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-50,25.52,0,sim,feminino,nordeste,Obeso,5035.1,4346.98,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-48,0.41,1,não,feminino,sudoeste,Sobrepeso,4154.42,4589.58,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-45,34.74,2,sim,masculino,sudoeste,Peso normal,5561.92,5080.93,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-24,31.92,1,não,masculino,sudoeste,Sobrepeso,3715.13,3346.99,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-19,7.01,1,não,masculino,noroeste,Obeso,1887.09,2883.38,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-51,24.45,0,não,feminino,sudeste,Peso normal,4369.63,4332.13,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-41,32.07,2,Não informado,feminino,sudeste,Peso normal,5019.06,5230.05,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-33,23.44,1,sim,feminino,nordeste,Sobrepeso,3829.99,3713.58,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-26,2.5,3,sim,masculino,noroeste,Peso normal,4211.43,4052.54,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-32,21.48,0,não,Não informado,Não informado,Peso normal,2921.49,3185.49,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-41,15.79,0,não,feminino,noroeste,Peso normal,3508.67,3741.98,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-35,31.45,3,sim,feminino,noroeste,Sobrepeso,4918.53,4780.68,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-39,1.86,3,não,feminino,sudoeste,Peso normal,3733.24,4852.24,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,7.58,3,Não informado,masculino,sudeste,Não informado,5744.9,6376.99,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-49,13.32,3,sim,feminino,sudeste,Peso normal,5822.89,5349.94,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-22,6.21,3,não,masculino,sudoeste,Obeso,2942.11,3769.84,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-22,29.64,3,não,feminino,nordeste,Obeso,4105.49,3955.0,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-22,21.98,0,sim,masculino,sudeste,Obeso,2614.48,2596.47,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-57,15.23,3,sim,masculino,noroeste,Obeso,5773.79,5822.68,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-21,31.24,3,Não informado,masculino,nordeste,Peso normal,4327.65,4339.4,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-48,10.6,2,sim,feminino,sudeste,Sobrepeso,5389.49,4903.56,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-43,16.19,2,sim,masculino,sudeste,Peso normal,5084.83,4597.42,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-46,12.79,1,não,feminino,nordeste,Sobrepeso,3788.72,4389.25,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-58,17.58,3,sim,masculino,nordeste,Sobrepeso,6488.81,5854.8,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-41,24.14,1,sim,masculino,noroeste,Peso normal,4554.2,4109.27,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-36,24.71,0,sim,Não informado,sudoeste,Peso normal,3736.57,3507.53,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-50,9.43,2,Não informado,masculino,nordeste,Obeso,4473.17,5475.75,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-29,18.61,3,Não informado,feminino,noroeste,Sobrepeso,4445.2,4588.41,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-36,16.57,2,Não informado,masculino,Não informado,Peso normal,3976.6,4623.51,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-57,17.47,2,sim,masculino,Não informado,Sobrepeso,5574.31,5454.99,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-61,1.03,2,não,masculino,sudeste,Peso normal,5389.28,5734.45,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-46,14.2,1,sim,masculino,noroeste,Sobrepeso,4727.28,4389.25,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-18,23.12,3,não,masculino,sudoeste,Peso normal,3640.2,3565.86,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-50,22.3,0,Não informado,feminino,sudoeste,Peso normal,3793.02,4746.71,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-41,9.53,2,não,feminino,sudeste,Obeso,4504.74,4481.91,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-50,14.21,0,sim,feminino,sudeste,Obeso,4486.19,4304.03,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-46,25.26,3,sim,feminino,sudeste,Obeso,5480.13,5265.16,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
-34,17.9,2,Não informado,masculino,noroeste,Peso normal,3815.28,4537.87,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-33,3.1,0,não,feminino,sudoeste,Peso normal,2195.9,3382.27,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-36,17.28,2,sim,feminino,noroeste,Abaixo do peso,4849.14,4156.33,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
-50,1.22,2,não,masculino,sudeste,Não informado,4355.86,5082.01,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-62,13.64,0,sim,feminino,noroeste,Obeso,4964.42,4979.53,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-33,7.62,0,não,feminino,noroeste,Peso normal,2826.95,3382.27,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-59,13.9,3,não,masculino,sudoeste,Peso normal,5614.15,5854.8,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
-18,6.93,1,Não informado,feminino,sudoeste,Sobrepeso,2394.22,3254.25,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
-24,29.86,0,sim,feminino,nordeste,Obeso,3234.6,2891.61,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-51,22.01,0,não,masculino,noroeste,Sobrepeso,4296.26,4304.11,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-20,16.7,0,sim,feminino,sudeste,Obeso,2512.05,2456.35,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
-38,3.76,1,Não informado,feminino,noroeste,Peso normal,3068.43,4463.45,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
-59,0.42,1,sim,feminino,nordeste,Peso normal,5113.37,5267.61,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
-45,2.61,3,Não informado,feminino,noroeste,Peso normal,4370.32,5711.66,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+36,2.5,1,não,feminino,sudeste,Obeso,3165.82,3989.22,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+19,34.38,2,Não informado,masculino,noroeste,Obeso,3448.79,4019.02,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+60,31.22,2,não,masculino,noroeste,Sobrepeso,6281.23,5883.65,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+50,28.03,0,não,masculino,noroeste,Obeso,4438.78,4403.95,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+24,13.79,1,sim,masculino,sudoeste,Sobrepeso,3350.12,3011.94,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+30,15.12,3,não,feminino,Não informado,Não informado,3647.15,4068.71,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+19,9.63,0,sim,masculino,sudeste,Abaixo do peso,2765.51,2311.98,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+22,12.57,2,Não informado,masculino,sudeste,Sobrepeso,3236.58,3812.69,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+62,19.73,0,não,masculino,noroeste,Obeso,5015.73,4913.49,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+60,19.44,1,sim,feminino,nordeste,Obeso,5660.74,5119.85,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+58,9.79,1,sim,feminino,sudoeste,Sobrepeso,5189.48,5010.14,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+43,4.17,1,Não informado,masculino,nordeste,Abaixo do peso,4007.64,4792.81,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+19,22.28,3,sim,feminino,sudeste,Peso normal,4313.07,3577.76,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+24,23.48,3,sim,masculino,sudeste,Obeso,4098.27,3900.74,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+59,21.11,3,sim,Não informado,sudoeste,Obeso,6553.68,5908.66,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+53,23.26,1,Não informado,feminino,nordeste,Peso normal,4823.13,5320.74,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+56,12.16,3,sim,feminino,nordeste,Peso normal,5582.94,5746.65,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+29,25.16,1,sim,masculino,nordeste,Obeso,4025.36,3427.71,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+42,17.36,3,Não informado,masculino,sudeste,Peso normal,4875.79,5363.25,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+42,20.48,1,Não informado,masculino,sudoeste,Obeso,3953.84,4601.15,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+58,1.99,0,sim,feminino,sudeste,Peso normal,4816.04,4800.67,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+62,29.2,1,sim,masculino,sudeste,Peso normal,6421.51,5575.34,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+32,33.09,0,Não informado,feminino,noroeste,Peso normal,3776.59,3966.93,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+29,8.59,0,sim,masculino,sudoeste,Sobrepeso,3192.07,3067.11,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+29,13.05,0,não,masculino,sudoeste,Obeso,3112.82,2887.79,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+63,14.91,0,sim,feminino,sudoeste,Obeso,4949.83,4914.0,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+50,10.66,3,não,feminino,sudoeste,Obeso,5440.96,5316.32,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+42,10.36,0,sim,feminino,noroeste,Sobrepeso,3856.32,3706.28,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+42,10.45,2,não,feminino,nordeste,Peso normal,3759.04,4495.02,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+53,20.77,2,sim,feminino,nordeste,Obeso,6043.28,5180.05,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+50,12.03,1,não,feminino,sudeste,Peso normal,4155.02,4535.87,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+43,31.37,1,não,feminino,nordeste,Obeso,4867.7,4489.62,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+33,14.21,0,Não informado,feminino,sudeste,Sobrepeso,2667.23,3574.84,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+29,7.29,3,não,feminino,noroeste,Sobrepeso,4012.28,4236.35,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+64,8.11,2,sim,masculino,nordeste,Sobrepeso,5910.6,5882.05,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+55,18.83,2,sim,masculino,noroeste,Sobrepeso,5385.77,5210.63,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+38,30.0,2,sim,Não informado,sudoeste,Sobrepeso,4892.29,4517.51,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+35,9.37,1,Não informado,masculino,nordeste,Abaixo do peso,3470.72,4005.82,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+23,24.66,0,não,masculino,sudeste,Obeso,2263.83,2717.82,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+32,13.09,1,sim,feminino,noroeste,Sobrepeso,3789.58,3475.9,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+33,4.67,1,Não informado,masculino,noroeste,Sobrepeso,3450.98,4142.94,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+59,15.88,0,não,Não informado,nordeste,Sobrepeso,4291.76,4683.99,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+42,18.33,3,sim,feminino,sudeste,Obeso,5676.31,4875.52,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+25,2.8,3,não,feminino,nordeste,Peso normal,3179.69,3996.46,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+41,11.15,0,sim,feminino,nordeste,Peso normal,3436.79,3561.55,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+34,22.19,3,sim,feminino,sudeste,Peso normal,4547.8,4395.09,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+45,1.19,2,sim,feminino,Não informado,Sobrepeso,4321.1,4828.46,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+37,22.85,3,Não informado,feminino,sudoeste,Obeso,4365.76,5186.43,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+39,23.91,2,sim,masculino,noroeste,Peso normal,4994.54,4402.35,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+18,2.13,0,sim,masculino,sudoeste,Peso normal,2426.36,2428.61,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+42,30.52,3,não,masculino,sudeste,Obeso,5433.05,5197.41,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+22,6.18,0,Não informado,masculino,sudeste,Peso normal,2426.5,3203.27,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+30,16.29,0,sim,feminino,sudoeste,Sobrepeso,2959.73,2899.47,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+25,0.71,3,sim,masculino,nordeste,Peso normal,4073.93,3996.46,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+41,19.74,3,sim,masculino,sudeste,Obeso,5643.12,4747.13,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+56,20.67,0,Não informado,masculino,sudeste,Peso normal,4417.54,5120.57,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+20,19.82,1,não,masculino,sudeste,Não informado,2709.01,2719.12,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+45,20.47,0,não,masculino,nordeste,Obeso,3738.28,3878.76,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+32,21.4,1,Não informado,masculino,sudeste,Peso normal,3470.44,4019.06,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+41,22.79,2,Não informado,feminino,noroeste,Peso normal,4444.07,4946.36,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+37,33.61,2,sim,feminino,noroeste,Peso normal,4913.97,4601.95,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+56,28.63,2,sim,feminino,noroeste,Não informado,6200.6,5635.79,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+41,30.54,2,sim,feminino,sudeste,Sobrepeso,5385.71,4672.18,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+29,18.93,2,sim,masculino,sudeste,Peso normal,4038.81,3676.53,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+28,6.56,2,não,feminino,sudeste,Peso normal,2996.3,3790.2,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+42,22.53,1,não,masculino,nordeste,Sobrepeso,4543.97,4201.58,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+36,0.14,0,não,feminino,noroeste,Peso normal,3152.26,3600.44,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+22,26.22,3,sim,feminino,sudoeste,Obeso,4384.24,3945.44,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+62,27.89,1,não,masculino,noroeste,Obeso,5811.98,5542.81,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+22,7.68,1,Não informado,masculino,nordeste,Obeso,2823.69,3592.05,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+32,8.99,1,Não informado,masculino,Não informado,Peso normal,2762.79,4142.94,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+48,12.07,1,Não informado,masculino,sudeste,Peso normal,3944.26,4937.91,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+51,7.92,2,não,masculino,sudoeste,Obeso,4934.21,5224.33,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+31,26.95,2,não,feminino,nordeste,Peso normal,3976.26,4047.41,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+58,0.69,1,sim,masculino,sudeste,Obeso,4643.17,5189.45,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+35,10.37,0,não,masculino,sudoeste,Não informado,2582.66,3129.31,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+38,6.43,1,sim,masculino,sudeste,Sobrepeso,4215.11,3990.37,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+45,24.14,1,não,feminino,sudeste,Peso normal,4075.17,4390.37,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+22,9.94,2,não,feminino,nordeste,Sobrepeso,2881.84,3324.96,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+52,18.87,3,sim,masculino,nordeste,Sobrepeso,5678.49,5432.14,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+40,17.53,3,sim,masculino,sudoeste,Obeso,5420.99,4720.48,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+47,34.05,1,não,masculino,Não informado,Não informado,4987.39,4785.91,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+57,23.98,2,não,masculino,noroeste,Obeso,5632.4,5507.32,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+25,4.35,2,Não informado,masculino,nordeste,Não informado,3274.34,4103.69,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+46,11.87,2,sim,masculino,nordeste,Sobrepeso,4781.22,4755.29,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+18,32.04,1,não,masculino,sudoeste,Sobrepeso,2744.05,3001.93,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+58,9.52,3,Não informado,masculino,sudeste,Peso normal,5779.98,6278.32,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+50,15.88,0,sim,masculino,nordeste,Sobrepeso,4708.64,4147.08,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+26,7.87,1,não,masculino,noroeste,Obeso,2326.41,3276.85,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+63,10.26,1,sim,feminino,noroeste,Sobrepeso,5548.0,5302.78,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+40,7.58,3,não,Não informado,noroeste,Abaixo do peso,4232.13,4899.8,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+40,16.46,1,Não informado,masculino,sudoeste,Não informado,3785.66,4427.75,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+31,22.6,1,Não informado,feminino,Não informado,Obeso,3658.98,4003.54,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+47,22.08,2,Não informado,masculino,noroeste,Sobrepeso,4537.56,5339.56,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+49,8.76,2,não,masculino,sudoeste,Sobrepeso,4775.72,5029.45,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+50,31.78,1,sim,feminino,noroeste,Peso normal,5803.16,4899.71,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+55,25.31,0,sim,feminino,nordeste,Peso normal,5540.09,4576.23,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+32,6.55,1,Não informado,feminino,Não informado,Peso normal,3231.81,4142.94,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+33,0.93,3,não,masculino,nordeste,Peso normal,3438.27,4435.67,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+19,17.73,1,não,feminino,sudoeste,Obeso,2533.14,2700.76,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+51,6.77,1,não,masculino,sudeste,Sobrepeso,3971.69,4824.38,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+34,16.1,1,sim,masculino,sudoeste,Abaixo do peso,3604.97,3518.09,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+63,33.53,1,não,masculino,noroeste,Peso normal,5340.95,5694.86,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+41,14.8,3,não,feminino,noroeste,Peso normal,4320.97,4730.79,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+54,28.46,2,Não informado,masculino,sudeste,Peso normal,5815.48,5944.98,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+49,15.21,2,não,masculino,Não informado,Peso normal,5070.1,4850.13,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+49,17.14,1,sim,masculino,sudeste,Peso normal,4668.9,4450.18,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+34,17.02,2,Não informado,masculino,sudoeste,Sobrepeso,3524.91,4405.78,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+22,1.23,2,sim,Não informado,nordeste,Peso normal,2863.77,3504.28,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+28,5.96,3,não,masculino,noroeste,Peso normal,3893.56,4170.7,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+54,22.84,3,não,feminino,sudeste,Peso normal,5414.51,5676.45,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+23,28.48,3,não,masculino,sudoeste,Obeso,4361.72,4015.53,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+64,3.43,0,sim,masculino,sudeste,Obeso,4966.69,5093.31,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+30,3.06,0,não,feminino,sudeste,Obeso,2034.58,3078.79,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+54,14.45,3,sim,feminino,sudoeste,Obeso,5896.26,5568.11,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+19,11.36,2,não,masculino,nordeste,Obeso,2684.34,3100.72,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+47,5.63,0,não,masculino,noroeste,Peso normal,3731.7,4145.87,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+27,14.42,0,sim,masculino,nordeste,Peso normal,2847.85,2822.15,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+23,8.09,1,não,feminino,sudeste,Obeso,2501.69,3144.74,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+56,11.64,0,sim,feminino,noroeste,Peso normal,4387.81,4577.41,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+46,4.58,1,sim,masculino,noroeste,Sobrepeso,4023.62,4534.65,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+23,5.76,2,não,Não informado,noroeste,Sobrepeso,3341.87,3544.7,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+24,18.97,0,não,masculino,sudoeste,Peso normal,2418.55,2623.16,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+34,13.93,2,Não informado,masculino,sudoeste,Abaixo do peso,3801.72,4405.78,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+46,31.05,2,sim,masculino,sudoeste,Obeso,5458.21,5119.14,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+29,17.09,3,Não informado,feminino,nordeste,Sobrepeso,3958.49,4544.76,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+47,15.93,2,sim,masculino,noroeste,Sobrepeso,4758.17,4755.29,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+39,16.17,1,não,feminino,sudoeste,Sobrepeso,3620.75,3861.21,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+56,5.88,2,sim,feminino,nordeste,Obeso,5603.93,5545.46,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+62,15.26,3,Não informado,feminino,sudeste,Sobrepeso,5832.45,6554.13,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+34,33.37,2,sim,masculino,nordeste,Sobrepeso,4551.83,4310.13,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+34,2.7,3,não,feminino,noroeste,Obeso,3617.89,4477.87,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+58,26.16,3,sim,feminino,noroeste,Peso normal,6338.42,6030.58,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+45,28.05,2,sim,Não informado,noroeste,Sobrepeso,5649.71,4906.01,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+43,21.53,2,não,masculino,sudeste,Sobrepeso,4822.71,4581.16,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+61,0.89,0,Não informado,masculino,nordeste,Obeso,4210.84,5475.53,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+53,22.67,0,não,feminino,nordeste,Obeso,4036.31,4444.23,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+60,29.57,1,sim,masculino,Não informado,Sobrepeso,5803.74,5426.35,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+43,34.48,1,Não informado,masculino,Não informado,Peso normal,4311.36,5044.07,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+43,27.74,0,Não informado,masculino,noroeste,Obeso,3849.07,4481.58,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+59,5.07,3,sim,feminino,sudoeste,Peso normal,5650.11,6032.55,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+18,34.45,2,não,feminino,noroeste,Obeso,3787.53,3468.61,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+19,21.5,3,Não informado,feminino,sudeste,Peso normal,3828.94,4024.38,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+46,25.62,2,não,feminino,sudeste,Obeso,4677.94,4909.63,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+42,25.38,2,sim,feminino,noroeste,Obeso,5110.06,4649.36,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+52,29.02,3,não,feminino,nordeste,Obeso,5910.77,5721.54,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+58,31.38,3,não,feminino,sudeste,Obeso,6418.77,6154.44,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+29,13.06,3,não,feminino,sudeste,Peso normal,3437.48,4057.03,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+30,21.76,1,Não informado,feminino,sudoeste,Obeso,3238.7,3831.42,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+28,20.32,1,sim,feminino,sudoeste,Peso normal,3719.78,3229.28,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+43,12.94,0,não,feminino,nordeste,Peso normal,3260.33,3736.99,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+41,18.38,2,não,feminino,sudeste,Obeso,4172.32,4350.29,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+21,25.98,1,Não informado,feminino,noroeste,Peso normal,2700.37,3458.89,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+24,6.63,0,sim,feminino,Não informado,Obeso,3127.41,2802.48,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+41,20.14,2,Não informado,feminino,sudeste,Peso normal,4809.73,4856.37,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+57,28.06,2,Não informado,masculino,sudeste,Obeso,5760.79,6110.74,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+56,0.47,2,sim,feminino,Não informado,Obeso,5315.13,5545.46,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+33,24.66,1,não,Não informado,noroeste,Peso normal,3914.5,3617.07,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+56,24.13,1,não,masculino,noroeste,Peso normal,5252.9,5107.37,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+59,10.19,3,Não informado,feminino,noroeste,Não informado,5262.45,6340.96,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+23,20.9,2,sim,feminino,sudeste,Obeso,3614.22,3420.81,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+30,12.29,3,Não informado,masculino,sudeste,Obeso,4347.92,4556.44,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+44,5.25,1,não,masculino,Não informado,Obeso,3432.5,4305.09,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+41,16.89,3,Não informado,masculino,Não informado,Sobrepeso,4576.59,5218.52,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+54,23.05,0,não,masculino,nordeste,Peso normal,4360.13,4507.21,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+38,28.87,1,Não informado,masculino,sudoeste,Peso normal,4223.85,4588.18,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+55,9.93,3,Não informado,feminino,nordeste,Obeso,4919.94,6078.86,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+24,21.52,0,Não informado,masculino,nordeste,Obeso,2744.02,3166.32,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+43,13.55,0,não,Não informado,nordeste,Obeso,3868.56,3736.99,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+32,11.38,0,sim,feminino,noroeste,Peso normal,3708.55,3087.11,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+33,2.89,2,Não informado,masculino,noroeste,Não informado,3736.99,4542.89,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+51,32.04,0,Não informado,feminino,noroeste,Sobrepeso,4809.44,5107.85,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+28,18.03,0,sim,Não informado,nordeste,Peso normal,3255.55,2822.15,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+46,8.99,2,sim,feminino,nordeste,Sobrepeso,4474.31,4934.61,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+48,30.85,2,não,masculino,nordeste,Peso normal,4780.31,5213.98,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+58,31.82,2,Não informado,masculino,sudoeste,Peso normal,5466.76,6261.67,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+22,14.65,2,Não informado,feminino,sudoeste,Obeso,2671.11,3812.69,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+54,10.44,1,não,masculino,sudeste,Não informado,4277.09,4787.65,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+55,1.9,1,Não informado,feminino,sudoeste,Sobrepeso,4441.67,5477.72,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+57,25.5,2,Não informado,masculino,sudeste,Peso normal,5941.28,6008.21,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+21,34.34,1,não,masculino,sudoeste,Obeso,2808.25,3230.44,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+42,4.63,0,não,feminino,noroeste,Peso normal,2760.54,3885.6,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+21,12.98,3,não,feminino,nordeste,Obeso,3048.65,3580.32,Baixo Risco,Plano de saúde será mais caro,Incentivar hábitos saudáveis e prevenção
+49,18.77,3,sim,feminino,sudoeste,Não informado,5363.85,5230.63,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+55,32.6,2,sim,masculino,sudeste,Peso normal,5884.61,5583.96,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+43,2.77,2,Não informado,masculino,nordeste,Obeso,3918.35,5192.77,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+41,22.01,3,sim,masculino,nordeste,Peso normal,5229.22,4818.49,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+27,34.31,1,sim,feminino,noroeste,Obeso,3667.88,3641.5,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+54,5.34,0,Não informado,masculino,sudeste,Obeso,4044.83,5065.92,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+64,19.59,1,não,feminino,sudeste,Sobrepeso,5824.97,5319.11,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
+31,27.27,1,sim,masculino,sudoeste,Sobrepeso,4524.1,3655.44,Baixo Risco,Plano de saúde mais barato,Manter acompanhamento regular e monitorar indicadores de saúde
+30,4.03,3,não,feminino,nordeste,Sobrepeso,3985.27,4248.03,Baixo Risco,Plano de saúde será mais caro,Manter acompanhamento regular e monitorar indicadores de saúde
+54,24.56,3,Não informado,masculino,sudoeste,Peso normal,5560.36,6197.02,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+21,32.4,2,não,feminino,sudoeste,Sobrepeso,3586.77,3563.67,Baixo Risco,Plano de saúde mais barato,Incentivar hábitos saudáveis e prevenção
+36,9.59,3,Não informado,feminino,sudeste,Peso normal,4345.02,5078.09,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+64,3.08,1,sim,masculino,sudoeste,Sobrepeso,4975.02,5482.09,Alto Risco,Plano de saúde será mais caro,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+59,4.09,2,sim,masculino,sudeste,Peso normal,5926.85,5652.04,Alto Risco,Plano de saúde mais barato,Reduzir custos otimizando tratamentos e buscando alternativas mais eficientes
+41,4.4,2,não,feminino,sudoeste,Peso normal,3696.68,4529.6,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+32,19.78,3,Não informado,masculino,sudeste,Obeso,4333.21,4760.42,Alto Risco,Plano de saúde será mais caro,"Continuar com o plano de tratamento atual, com monitoramento regular"
+40,26.14,2,não,masculino,nordeste,Obeso,4871.41,4579.96,Alto Risco,Plano de saúde mais barato,"Continuar com o plano de tratamento atual, com monitoramento regular"
