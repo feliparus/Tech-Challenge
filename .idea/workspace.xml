@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Organizando algumas seções">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Modelling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/1_dados_sinteticos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/2_dados_processados_treino.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/3_dados_processados_teste.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/4_dados_processados_treino_target.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/5_dados_processados_teste_target.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/6_dados_com_outliers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/planilhas/7_dados_futuros.csv" afterDir="false" />
-    </list>
+    <list default="true" id="757f7306-2b8a-4553-a53e-2f037707f7a3" name="Changes" comment="Organizando algumas seções" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715441254717</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Organizando algumas seções">
+      <option name="closed" value="true" />
+      <created>1716207032313</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1716207032313</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
