@@ -224,7 +224,7 @@ def montar_grafico_linha_com_media(dados, axs, campo1, campo2, titulo, eixo_x, e
     media = round(dados.groupby(campo1)[campo2].mean(), 2)
 
     # Criar o gráfico de linha
-    media.plot(marker='o', linestyle='-', label='Encargos Médios por Filho')
+    media.plot(marker='o', linestyle='-', label='Encargos Médicos por Filho')
 
     # Adicionar rótulos aos eixos e título
     axs.set_title(titulo, fontsize=12, fontweight='bold')
